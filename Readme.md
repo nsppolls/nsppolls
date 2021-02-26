@@ -2,7 +2,19 @@
 
 Ce projet a pour but de compiler les sondages produits à l'occasion des élections régionales et présidentielles en France et de les remettre en contexte. 
 
+1. [À propos des sondages](#a-propos-des-sondages)
+  1. [Pourquoi les notes sont publiées ?](#pourquoi-les-notes-sont-publiees)
+  2. [Élections régionales](#elections-regionales)
+2. [Compilation des sondages](#compilation-des-sondages)
+  1. [Flux JSON disponibles](#flux-json-disponibles)
+
+Retrouvez-nous sur les réseaux sociaux, sur Twitter et Medium.
+
 # À propos des sondages
+
+## Pourquoi les notes sont publiées ?
+
+La publication des sondages d'intentions de vote est encadrée depuis 1977. En 2016 est prévu que la première publication d'un sondage soit accompagnée de mentions obligatoires, et que soit mis en ligne sur le site de la commission une notice précisant notamment la méthode d'interrogation, et le nombre de personnes ne s'étant pas exprimée.
 
 ## Élections régionales
 
@@ -20,14 +32,13 @@ S'ajoute également la faiblesse du corpus. Fin février, six sondages avaient �
 
 Début mars, la grande majorité des sondages publiés dans la presse ont été commandés par des partis politiques, EE-LV et le Parti socialiste en tête. Sept sondages ont été commandés par des médias.
 
-![Graphique](./charts/chart.png)
+<img src="./charts/chart.png" width="500">
 
 ### Que valent les sondages nationaux ?
 
-Il est coûteux de composer un panel de 1000 électeurs dans une région, et la tentation est grande d'extrapoler des résultats à partir d'une population naitonale, représentative. C'est ce que fait Opinion Way, dans [son enquête « RégioTrack »](https://www.opinion-way.com/fr/sondage-d-opinion/regiotrack2021.html) pour _Les Echos_ et Radio Classique. Les questions de ce sondage sont adaptées à la région d'origine de la personne interrogée pour les têtes de listes seulement. 
+Il est coûteux de composer un panel de 1 000 électeurs pour chaque région, et la tentation est grande d'extrapoler des résultats à partir d'une population naitonale, représentative. C'est ce que fait Opinion Way, dans [son enquête « RégioTrack »](https://www.opinion-way.com/fr/sondage-d-opinion/regiotrack2021.html) pour _Les Echos_ et Radio Classique. Les questions de ce sondage sont adaptées à la région d'origine de la personne interrogée pour les têtes de listes seulement. 5 000 personnes sont interrogées.
 
-> « La modélisation calcule, à partir de la structure démographique et politique de chaque électorat, le score potentiel
-de chaque force politique dans les 12 régions métropolitaines hors Corse. Il en déduit la configuration probable du second tour dans chaque région, puis, à l’aide de matrices de reports de voix basées sur les résultats de l’enquête, le résultat le plus probable au second tour ce qui permet d’identifier à ce jour le favori pour remporter la région en juin. »
+> « La modélisation calcule, à partir de la structure démographique et politique de chaque électorat, le score potentiel de chaque force politique dans les 12 régions métropolitaines hors Corse. Il en déduit la configuration probable du second tour dans chaque région, puis, à l’aide de matrices de reports de voix basées sur les résultats de l’enquête, le résultat le plus probable au second tour ce qui permet d’identifier à ce jour le favori pour remporter la région en juin. »
 
 Cette méthodologie repose sur de nombreuses hypothèses, que ce soit pour les alliances, ou le maintien au second tour. En l'état actuel, aucun intervalle de confiance n'est donné par Opinion Way, pas plus qu'une quantification du rapport de force. Ces résultats, surtout pour le second tour, sont donc à prendre avec précaution.
 
