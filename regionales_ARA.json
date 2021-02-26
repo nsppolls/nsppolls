@@ -383,6 +383,79 @@
         ]
       },
       {
+        "id": "ara_hi_09_02",
+        "nom_institut": "Harris Interactive",
+        "debut_enquete": "2021-02-09",
+        "fin_enquete": "2021-02-15",
+        "commanditaire": "EE-LV",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/fevrier/9100-ara-hi-eelv.pdf",
+        "echantillon": 1001,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "sous_echantillon": 820.82,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Fabienne Grébert",
+                    "parti": ["EE-LV"],
+                    "intentions": 10,
+                    "erreur_sup": 12.0524,
+                    "erreur_inf": 7.9476
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.0372,
+                    "erreur_inf": 23.9628
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem",
+                    "parti": ["Parti socialiste"],
+                    "intentions": 10,
+                    "erreur_sup": 12.0524,
+                    "erreur_inf": 7.9476
+                  },
+                  {
+                    "parti": ["« ext. gauche »"],
+                    "intentions": 2,
+                    "erreur_sup": 2.9578,
+                    "erreur_inf": 1.0422
+                  },
+                  {
+                    "tete_liste": "Magali Romaggi et Gabriel Amard",
+                    "parti": ["France insoumise"],
+                    "intentions": 7,
+                    "erreur_sup": 8.7455,
+                    "erreur_inf": 5.2545
+                  },
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": ["LRM"],
+                    "intentions": 16,
+                    "erreur_sup": 18.508,
+                    "erreur_inf": 13.492
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 24,
+                    "erreur_sup": 26.9218,
+                    "erreur_inf": 21.0782
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "ara_ifp_16_11",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-11-16",

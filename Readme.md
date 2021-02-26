@@ -4,6 +4,37 @@ Ce projet a pour but de compiler les sondages produits à l'occasion des électi
 
 # À propos des sondages
 
+## Élections régionales
+
+Les élections régionales devraient avoir lieu en juin 2021 dans 17 territoires. Elles devraient se tenir le même jour que les élections départementales. Début mars 2021, les différentes têtes de listes n'étaient pas certaines, les sondages multiplient les hypothèses, mais la situation n'est pas encore stabilisée.
+
+Si aucune liste n'obtient la majorité absolue au premier tour, les listes qui recueillent plus de 10% des suffrages exprimés peuvent se qualifier pour le second tour. Celles qui recueillent entre 5% et 10% peuvent fusionner avec d'autres listes en vue du second tour. Pour l'assemblée de Corse, le seuil de maintien au second tour est abaissé à 7 %.
+
+### Qu'est-ce qu'on peut faire avec ces sondages ?
+
+Jusqu'au printemps 2021, la variété d'hypothèses rendent compliquées certaines analyses, notamment sur les têtes de liste à gauche, avec la multiplication des possibilités d'alliances ou d'incarnation. On peut noter cependant quelques évolutions personnelles au fil des mois, par exemple pour les présidents sortants, tels Valérie Pécresse ou Laurent Wauquiez.
+
+S'ajoute également la faiblesse du corpus. Fin février, six sondages avaient été publiés pour la région Île-de-France, trois pour la région Nouvelle-Aquitaine, mais seulement deux ou moins dans toutes les autres régions, empêchant toute comparaison. Certaines régions n'ont pas vu de sondage publié officiellement, comme le Centre-Val-de-Loire ou la Corse, ou encore les outremers.
+
+### Qui commande des sondages ?
+
+Début mars, la grande majorité des sondages publiés dans la presse ont été commandés par des partis politiques, EE-LV et le Parti socialiste en tête. Sept sondages ont été commandés par des médias.
+
+<iframe title="Une grande majorité des sondages publiés jusqu'à maintenant a été commandé par des partis politiques" aria-label="chart" id="datawrapper-chart-3vFee" src="https://datawrapper.dwcdn.net/3vFee/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+### Que valent les sondages nationaux ?
+
+Il est coûteux de composer un panel de 1000 électeurs dans une région, et la tentation est grande d'extrapoler des résultats à partir d'une population naitonale, représentative. C'est ce que fait Opinion Way, dans [son enquête « RégioTrack »](https://www.opinion-way.com/fr/sondage-d-opinion/regiotrack2021.html) pour _Les Echos_ et Radio Classique. Les questions de ce sondage sont adaptées à la région d'origine de la personne interrogée pour les têtes de listes seulement. 
+
+> « La modélisation calcule, à partir de la structure démographique et politique de chaque électorat, le score potentiel
+de chaque force politique dans les 12 régions métropolitaines hors Corse. Il en déduit la configuration probable du second tour dans chaque région, puis, à l’aide de matrices de reports de voix basées sur les résultats de l’enquête, le résultat le plus probable au second tour ce qui permet d’identifier à ce jour le favori pour remporter la région en juin. »
+
+Cette méthodologie repose sur de nombreuses hypothèses, que ce soit pour les alliances, ou le maintien au second tour. En l'état actuel, aucun intervalle de confiance n'est donné par Opinion Way, pas plus qu'une quantification du rapport de force. Ces résultats, surtout pour le second tour, sont donc à prendre avec précaution.
+
+## Élection présidentielle
+
+L'élection présidentielle devrait se dérouler au printemps 2022. Les candidat·es ne sont pas encore clairement connu·es, les différents sondages multiplient donc les hypothèses.
 
 # Compilation des sondages
 
@@ -17,31 +48,9 @@ Pour chaque sondage est répertorié le nombre de personne ne donnant aucun avis
 
 * Seuls les sondages ayant été publiés sont compilés ici. Faute d'exhaustivité, il faut donc prendre avec précaution les interprétations sur les commandaitaires. 
 * Le ou les partis des têtes de listes ou des candidat·es ne sont pas toujours précisés dans les sondages compilés. Si un ou plusieurs partis sont précisés, nous les avons renseignés tels que. Si rien n'est précisé, nous avons indiqué le parti de rattachement de la tête de liste ou des candidat·es. En revanche, quand aucune tête de liste n'est précisée, la case reste vide, et seul le parti (ou positionnement politique) est indiqué.
-* Le calcul des marges d'erreurs, qui restent artificielles dans le cas de sondages avec la méthode par quota sont effectués sur les sous-échantillons des personnes ayant donné une intention de vote (soit les certain·es d'aller voter, soit les inscrit·es sur les listes, en fonction de ce qui est indiqué dans la colonne _population_).
+* Le calcul de l'intervalle de confiance, qui reste artificiel dans le cas de sondages avec la méthode par quota, est effectué sur les sous-échantillons des personnes ayant donné une intention de vote (soit les certain·es d'aller voter, soit les inscrit·es sur les listes, en fonction de ce qui est indiqué dans la colonne *population*).
 
-## Élections régionales
-
-Les élections régionales devraient avoir lieu en juin 2021 dans 17 territoires. Elles devraient se tenir le même jour que les élections départementales. Début mars 2021, les différentes têtes de listes n'étaient pas certaines, les sondages multiplient les hypothèses, mais la situation n'est pas encore stabilisée.
-
-### Qu'est-ce qu'on peut faire avec ces sondages ?
-
-Jusqu'au printemps 2021, la variété d'hypothèses rendent compliquées certaines analyses, notamment sur les têtes de liste à gauche, avec la multiplication des possibilités d'alliances ou d'incarnation. On peut noter cependant quelques évolutions personnelles au fil des mois, par exemple pour les présidents sortants, tels Valérie Pécresse ou Laurent Wauquiez.
-
-S'ajoute également la faiblesse du corpus. Fin février, six sondages avaient été publiés pour la région Île-de-France, trois pour la région Nouvelle-Aquitaine, mais seulement deux ou moins dans toutes les autres régions, empêchant toute comparaison. Certaines régions n'ont pas vu de sondage publié officiellement, comme le Centre-Val-de-Loire ou la Corse, ou encore les outremers.
-
-### Qui commande des sondages ?
-
-Début mars, la grande majorité des sondages publiés dans la presse ont été commandés par des partis politiques, EE-LV et le Parti socialiste en tête. Sept sondages ont été commandés par des médias.
-
-### Que valent les sondages nationaux ?
-
-Il est coûteux de composer un panel de 1000 électeurs dans une région, et la tentation est grande d'extrapoler des résultats à partir d'une population naitonale, représentative. C'est ce que fait Opinion Way, dans [son enquête « RégioTrack »](https://www.opinion-way.com/fr/sondage-d-opinion/regiotrack2021.html) pour _Les Echos_ et Radio Classique. 
-
-## Élection présidentielle
-
-L'élection présidentielle devrait se dérouler au printemps 2022. Les candidat·es ne sont pas encore clairement connu·es, les différents sondages multiplient donc les hypothèses.
-
-### Flux JSON disponibles
+## Flux JSON disponibles
 
 Des flux JSON proposant l'ensemble des données compilées sont disponibles sous licence MIT ci-dessous. Si vous utilisez les chiffres, veuillez s'il vous plaît les créditer, et faire un lien vers NSPPolls.
 
@@ -50,16 +59,16 @@ L'architecture est plutôt simple et se décline par région (dans le cas des é
 Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de sondage sur le site de la Commission des sondages, ou si on en obtient par d'autres moyens.
 
 * [Élections régionales – toutes les régions](./regionales.json)
-** [Île-de-France](./regionales_IDF.json)
-** [Provence-Alpes-Côte-d'Azur](./regionales_PACA.json)
-** [Auvergne-Rhône-Alpes](./regionales_ARA.json)
-** [Normandie](./regionales_N.json)
-** [Nouvelle-Aquitaine](./regionales_NA.json)
-** [Hauts-de-France](./regionales_HDF.json)
-** [Occitanie](./regionales_OCC.json)
-** [Pays de la Loire](./regionales_PDL.json)
-** [Bretagne](./regionales_B.json)
-** [Grand Est](./regionales_GE.json)
+  * [Île-de-France](./regionales_IDF.json)
+  * [Provence-Alpes-Côte-d'Azur](./regionales_PACA.json)
+  * [Auvergne-Rhône-Alpes](./regionales_ARA.json)
+  * [Normandie](./regionales_N.json)
+  * [Nouvelle-Aquitaine](./regionales_NA.json)
+  * [Hauts-de-France](./regionales_HDF.json)
+  * [Occitanie](./regionales_OCC.json)
+  * [Pays de la Loire](./regionales_PDL.json)
+  * [Bretagne](./regionales_B.json)
+  * [Grand Est](./regionales_GE.json)
 * [Élection présidentielle](./presidentielle.json)
 
 
