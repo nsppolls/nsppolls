@@ -1,0 +1,325 @@
+[
+  {
+    "region": "Nouvelle-Aquitaine",
+    "sondages": [
+      {
+        "id": "na_ow_14_10",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2020-10-14",
+        "fin_enquete": "2020-10-19",
+        "commanditaire": "Parti socialiste",
+        "lien": "https://www.youscribe.com/BookReader/Index/3186280/?documentId=4026449",
+        "echantillon": 1032,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "PCF et Génération·s avec le PS",
+                "sous_echantillon": 774,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Edwige Diaz",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 23,
+                    "erreur_sup": 25.9648,
+                    "erreur_inf": 20.0352
+                  },
+                  {
+                    "tete_liste": "Alain Rousset",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"],
+                      ["Parti communiste"],
+                      ["Génération·s"]
+                    ],
+                    "intentions": 25,
+                    "erreur_sup": 28.0506,
+                    "erreur_inf": 21.9494
+                  },
+                  {
+                    "tete_liste": "Geneviève Darrieussecq",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 21.7638,
+                    "erreur_inf": 16.2362
+                  },
+                  {
+                    "tete_liste": "Philippe Poutou",
+                    "parti": ["NPA"],
+                    "intentions": 3,
+                    "erreur_sup": 4.2018,
+                    "erreur_inf": 1.7982
+                  },
+                  {
+                    "tete_liste": "Nicolas Thierry",
+                    "parti": [
+                      ["France insoumise"],
+                      ["EE-LV"]
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.5156,
+                    "erreur_inf": 12.4844
+                  },
+                  {
+                    "tete_liste": "Nicolas Florian",
+                    "parti": ["Les Républicains"],
+                    "intentions": 15,
+                    "erreur_sup": 17.5156,
+                    "erreur_inf": 12.4844
+                  }
+                ]
+              },
+              {
+                "hypothese": "PCF avec Génération·s et EE-LV",
+                "sous_echantillon": 774,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Nicolas Thierry",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Génération·s"],
+                      ["France insoumise"],
+                      ["EE-LV"]
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.6464,
+                    "erreur_inf": 14.3536
+                  },
+                  {
+                    "tete_liste": "Edwige Diaz",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 23,
+                    "erreur_sup": 25.9648,
+                    "erreur_inf": 20.0352
+                  },
+                  {
+                    "tete_liste": "Philippe Poutou",
+                    "parti": ["NPA"],
+                    "intentions": 4,
+                    "erreur_sup": 5.3805,
+                    "erreur_inf": 2.6195
+                  },
+                  {
+                    "tete_liste": "Nicolas Florian",
+                    "parti": ["Les Républicains"],
+                    "intentions": 15,
+                    "erreur_sup": 17.5156,
+                    "erreur_inf": 12.4844
+                  },
+                  {
+                    "tete_liste": "Alain Rousset",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"]
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 24.9184,
+                    "erreur_inf": 19.0816
+                  },
+                  {
+                    "tete_liste": "Geneviève Darrieussecq",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 21.7638,
+                    "erreur_inf": 16.2362
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "na_hi_11_09",
+        "nom_institut": "Harris Interactive",
+        "debut_enquete": "2020-09-11",
+        "fin_enquete": "2020-09-18",
+        "commanditaire": "EE-LV",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9082-nouvelle-aquitaine-hi-eelv.pdf",
+        "echantillon": 1055,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "sous_echantillon": 822.9,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Christophe Miqueu",
+                    "parti": ["France insoumise"],
+                    "intentions": 10,
+                    "erreur_sup": 12.0498,
+                    "erreur_inf": 7.9502
+                  },
+                  {
+                    "tete_liste": "Geneviève Darrieussecq",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 24.8304,
+                    "erreur_inf": 19.1696
+                  },
+                  {
+                    "tete_liste": "Edwige Diaz",
+                    "parti": ["UDI"],
+                    "intentions": 21,
+                    "erreur_sup": 23.783,
+                    "erreur_inf": 18.217
+                  },
+                  {
+                    "tete_liste": "Alain Rousset",
+                    "parti": ["Parti socialiste"],
+                    "intentions": 17,
+                    "erreur_sup": 19.5665,
+                    "erreur_inf": 14.4335
+                  },
+                  {
+                    "tete_liste": "Guillaume Guérin",
+                    "parti": ["Les Républicains"],
+                    "intentions": 11,
+                    "erreur_sup": 13.1378,
+                    "erreur_inf": 8.8622
+                  },
+                  {
+                    "tete_liste": "Nicolas Thierry",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Génération·s"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 21.6804,
+                    "erreur_inf": 16.3196
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "sous_echantillon": 759.6,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Edwige Diaz",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 26,
+                    "erreur_sup": 29.1194,
+                    "erreur_inf": 22.8806
+                  },
+                  {
+                    "tete_liste": "Geneviève Darrieussecq et Guillaume Guérin",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Les Républicains"]
+                    ],
+                    "intentions": 35,
+                    "erreur_sup": 38.392,
+                    "erreur_inf": 31.608
+                  },
+                  {
+                    "tete_liste": "Nicolas Thierry",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Génération·s"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 39,
+                    "erreur_sup": 42.4687,
+                    "erreur_inf": 35.5313
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "na_ow_17_08",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2020-08-17",
+        "fin_enquete": "2020-08-26",
+        "commanditaire": "La République en Marche",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2020/octobre/9080-nouvelle-aquitaine-ow-so.pdf",
+        "echantillon": 998,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "sous_echantillon": 818.36,
+                "tetes_liste": [
+                  {
+                    "parti": ["France insoumise"],
+                    "intentions": 6,
+                    "erreur_sup": 7.6271,
+                    "erreur_inf": 4.3729
+                  },
+                  {
+                    "parti": ["Les Républicains"],
+                    "intentions": 17,
+                    "erreur_sup": 19.5736,
+                    "erreur_inf": 14.4264
+                  },
+                  {
+                    "parti": ["EE-LV"],
+                    "intentions": 13,
+                    "erreur_sup": 15.3042,
+                    "erreur_inf": 10.6958
+                  },
+                  {
+                    "parti": ["« ext. gauche »"],
+                    "intentions": 2,
+                    "erreur_sup": 2.9592,
+                    "erreur_inf": 1.0408
+                  },
+                  {
+                    "parti": ["Parti socialiste"],
+                    "intentions": 19,
+                    "erreur_sup": 21.6878,
+                    "erreur_inf": 16.3122
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.1688,
+                    "erreur_inf": 1.8312
+                  },
+                  {
+                    "parti": ["Rassemblement national"],
+                    "intentions": 18,
+                    "erreur_sup": 20.6322,
+                    "erreur_inf": 15.3678
+                  },
+                  {
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 21.6878,
+                    "erreur_inf": 16.3122
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

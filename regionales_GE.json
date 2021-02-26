@@ -1,0 +1,255 @@
+[
+  {
+    "region": "Grand-Est",
+    "sondages": [
+      {
+        "id": "ge_ifp_04_02",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-02-04",
+        "fin_enquete": "2021-02-09",
+        "commanditaire": "Les Républicains",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/fevrier/9098-grand-est-ifop-lr.pdf",
+        "echantillon": 874,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Division DLF-Patriotes",
+                "sous_echantillon": 561.108,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Florian Phillipot",
+                    "parti": ["Les Patriotes"],
+                    "intentions": 4,
+                    "erreur_sup": 5.6214,
+                    "erreur_inf": 2.3786
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": ["EE-LV"],
+                    "intentions": 10,
+                    "erreur_sup": 12.4823,
+                    "erreur_inf": 7.5177
+                  },
+                  {
+                    "tete_liste": "Bérangère Abba",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.4823,
+                    "erreur_inf": 7.5177
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.4115,
+                    "erreur_inf": 1.5885
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"],
+                      ["Les Centristes"]
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.8268,
+                    "erreur_inf": 27.1732
+                  },
+                  {
+                    "tete_liste": "Virginie Joron",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 23,
+                    "erreur_sup": 26.4821,
+                    "erreur_inf": 19.5179
+                  },
+                  {
+                    "tete_liste": "André Reichardt",
+                    "parti": {},
+                    "intentions": 1.5,
+                    "erreur_sup": 2.5058,
+                    "erreur_inf": 0.4942
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"],
+                      ["France insoumise"],
+                      ["Génération·s"]
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 19.0334,
+                    "erreur_inf": 12.9666
+                  }
+                ]
+              },
+              {
+                "hypothese": "Union DLF-Patriotes",
+                "sous_echantillon": 559.36,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Florian Phillipot",
+                    "parti": [
+                      ["Debout la France"],
+                      ["Les Patriotes"]
+                    ],
+                    "intentions": 6,
+                    "erreur_sup": 7.9681,
+                    "erreur_inf": 4.0319
+                  },
+                  {
+                    "tete_liste": "André Reichardt",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.8246,
+                    "erreur_inf": 0.1754
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"],
+                      ["France insoumise"],
+                      ["Génération·s"]
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 19.0382,
+                    "erreur_inf": 12.9618
+                  },
+                  {
+                    "tete_liste": "Bérangère Abba",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.593,
+                    "erreur_inf": 8.407
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": ["EE-LV"],
+                    "intentions": 10,
+                    "erreur_sup": 12.4862,
+                    "erreur_inf": 7.5138
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"],
+                      ["Les Centristes"]
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 35.8658,
+                    "erreur_inf": 28.1342
+                  },
+                  {
+                    "tete_liste": "Virginie Joron",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 22,
+                    "erreur_sup": 25.433,
+                    "erreur_inf": 18.567
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Triangulaire",
+                "sous_echantillon": 540.132,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Parti socialiste"],
+                      ["France insoumise"],
+                      ["EE-LV"]
+                    ],
+                    "intentions": 26,
+                    "erreur_sup": 29.6992,
+                    "erreur_inf": 22.3008
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["Les Centristes"],
+                      ["UDI"]
+                    ],
+                    "intentions": 45,
+                    "erreur_sup": 49.1956,
+                    "erreur_inf": 40.8044
+                  },
+                  {
+                    "tete_liste": "Virginie Joron",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 29,
+                    "erreur_sup": 32.8268,
+                    "erreur_inf": 25.1732
+                  }
+                ]
+              },
+              {
+                "hypothese": "Quadrangulaire",
+                "sous_echantillon": 542.754,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["Les Centristes"],
+                      ["UDI"]
+                    ],
+                    "intentions": 35,
+                    "erreur_sup": 39.0128,
+                    "erreur_inf": 30.9872
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"],
+                      ["France insoumise"],
+                      ["Génération·s"],
+                      ["EE-LV"]
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 27.5931,
+                    "erreur_inf": 20.4069
+                  },
+                  {
+                    "tete_liste": "Bérangère Abba",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.8293,
+                    "erreur_inf": 10.1707
+                  },
+                  {
+                    "tete_liste": "Virginie Joron",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 28,
+                    "erreur_sup": 31.7775,
+                    "erreur_inf": 24.2225
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

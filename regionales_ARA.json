@@ -1,0 +1,610 @@
+[
+  {
+    "region": "Auvergne-Rhône-Alpes",
+    "sondages": [
+      {
+        "id": "ara_ow_26_06",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2020-06-26",
+        "fin_enquete": "2020-07-01",
+        "commanditaire": "La Tribune",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2020/juillet/9072-ara-ow-la-tribune.pdf",
+        "echantillon": 1036,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse LRM-UDI",
+                "sous_echantillon": 787.36,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Gerbert Rambaud",
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.1916,
+                    "erreur_inf": 1.8084
+                  },
+                  {
+                    "tete_liste": "Christophe Boudot",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 16,
+                    "erreur_sup": 18.5608,
+                    "erreur_inf": 13.4392
+                  },
+                  {
+                    "tete_liste": "Elliot Aubin",
+                    "parti": ["France insoumise"],
+                    "intentions": 6,
+                    "erreur_sup": 7.6589,
+                    "erreur_inf": 4.3411
+                  },
+                  {
+                    "tete_liste": "Chantal Gomez",
+                    "parti": ["Lutte ouvrière"],
+                    "intentions": 1,
+                    "erreur_sup": 1.695,
+                    "erreur_inf": 0.305
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Centristes"],
+                      ["Les Républicains"]
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 33.201,
+                    "erreur_inf": 26.799
+                  },
+                  {
+                    "tete_liste": "Olivier Véran",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["UDI"],
+                      ["Agir"]
+                    ],
+                    "intentions": 18,
+                    "erreur_sup": 20.6836,
+                    "erreur_inf": 15.3164
+                  },
+                  {
+                    "tete_liste": "Jean-Charles Kohlas",
+                    "parti": ["EE-LV"],
+                    "intentions": 8,
+                    "erreur_sup": 9.895,
+                    "erreur_inf": 6.105
+                  },
+                  {
+                    "tete_liste": "Jean-François Debat",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.6238,
+                    "erreur_inf": 14.3762
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse sans UDI",
+                "sous_echantillon": 787.36,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Olivier Véran",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
+                    ],
+                    "intentions": 18,
+                    "erreur_sup": 20.6836,
+                    "erreur_inf": 15.3164
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Centristes"],
+                      ["Les Républicains"]
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 33.201,
+                    "erreur_inf": 26.799
+                  },
+                  {
+                    "tete_liste": "Chantal Gomez",
+                    "parti": ["Lutte ouvrière"],
+                    "intentions": 1,
+                    "erreur_sup": 1.695,
+                    "erreur_inf": 0.305
+                  },
+                  {
+                    "tete_liste": "Jean-François Debat",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.5608,
+                    "erreur_inf": 13.4392
+                  },
+                  {
+                    "tete_liste": "Christophe Boudot",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 16,
+                    "erreur_sup": 18.5608,
+                    "erreur_inf": 13.4392
+                  },
+                  {
+                    "tete_liste": "Gerbert Rambaud",
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.1916,
+                    "erreur_inf": 1.8084
+                  },
+                  {
+                    "tete_liste": "Elliot Aubin",
+                    "parti": ["France insoumise"],
+                    "intentions": 6,
+                    "erreur_sup": 7.6589,
+                    "erreur_inf": 4.3411
+                  },
+                  {
+                    "tete_liste": "Jean-Charles Kohlas",
+                    "parti": ["EE-LV"],
+                    "intentions": 9,
+                    "erreur_sup": 10.999,
+                    "erreur_inf": 7.001
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse LR-UDI",
+                "sous_echantillon": 787.36,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Chantal Gomez",
+                    "parti": ["Lutte ouvrière"],
+                    "intentions": 1,
+                    "erreur_sup": 1.695,
+                    "erreur_inf": 0.305
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Centristes"],
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.2305,
+                    "erreur_inf": 27.7695
+                  },
+                  {
+                    "tete_liste": "Jean-Charles Kohlas",
+                    "parti": ["EE-LV"],
+                    "intentions": 9,
+                    "erreur_sup": 10.999,
+                    "erreur_inf": 7.001
+                  },
+                  {
+                    "tete_liste": "Gerbert Rambaud",
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.1916,
+                    "erreur_inf": 1.8084
+                  },
+                  {
+                    "tete_liste": "Christophe Boudot",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 16,
+                    "erreur_sup": 18.5608,
+                    "erreur_inf": 13.4392
+                  },
+                  {
+                    "tete_liste": "Olivier Véran",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.6238,
+                    "erreur_inf": 14.3762
+                  },
+                  {
+                    "tete_liste": "Jean-François Debat",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.5608,
+                    "erreur_inf": 13.4392
+                  },
+                  {
+                    "tete_liste": "Elliot Aubin",
+                    "parti": ["France insoumise"],
+                    "intentions": 6,
+                    "erreur_sup": 7.6589,
+                    "erreur_inf": 4.3411
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse LR-UDI",
+                "sous_echantillon": 756.28,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean-Charles Kohlas",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Parti socialiste"],
+                      ["France insoumise"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 28,
+                    "erreur_sup": 31.2001,
+                    "erreur_inf": 24.7999
+                  },
+                  {
+                    "tete_liste": "Olivier Véran",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"],
+                      ["UDI"]
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 22.8509,
+                    "erreur_inf": 17.1491
+                  },
+                  {
+                    "tete_liste": "Christophe Boudot",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 18,
+                    "erreur_sup": 20.7382,
+                    "erreur_inf": 15.2618
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["Les Centristes"]
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 37.3762,
+                    "erreur_inf": 30.6238
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse LRM-UDI",
+                "sous_echantillon": 766.64,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Christophe Boudot",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 18,
+                    "erreur_sup": 20.7196,
+                    "erreur_inf": 15.2804
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["Les Centristes"]
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 36.3285,
+                    "erreur_inf": 29.6715
+                  },
+                  {
+                    "tete_liste": "Jean-Charles Kohlas",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Parti socialiste"],
+                      ["France insoumise"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 28,
+                    "erreur_sup": 31.1784,
+                    "erreur_inf": 24.8216
+                  },
+                  {
+                    "tete_liste": "Olivier Véran",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"],
+                      ["UDI"]
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 23.8833,
+                    "erreur_inf": 18.1167
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse sans UDI",
+                "sous_echantillon": 756.28,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["Les Centristes"]
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 37.3762,
+                    "erreur_inf": 30.6238
+                  },
+                  {
+                    "tete_liste": "Olivier Véran",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 22.8509,
+                    "erreur_inf": 17.1491
+                  },
+                  {
+                    "tete_liste": "Christophe Boudot",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 18,
+                    "erreur_sup": 20.7382,
+                    "erreur_inf": 15.2618
+                  },
+                  {
+                    "tete_liste": "Jean-Charles Kohlas",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Parti socialiste"],
+                      ["France insoumise"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 28,
+                    "erreur_sup": 31.2001,
+                    "erreur_inf": 24.7999
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ara_ifp_16_11",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2020-11-16",
+        "fin_enquete": "2020-11-23",
+        "commanditaire": "Lyon Capitale et Sud Radio",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9086-ara-ifop-lyon-capitale.pdf",
+        "echantillon": 897,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse Debat",
+                "sous_echantillon": 635.076,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 20,
+                    "erreur_sup": 23.111,
+                    "erreur_inf": 16.889
+                  },
+                  {
+                    "tete_liste": "Gerbert Rambaud",
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.3268,
+                    "erreur_inf": 1.6732
+                  },
+                  {
+                    "parti": ["France insoumise"],
+                    "intentions": 7,
+                    "erreur_sup": 8.9844,
+                    "erreur_inf": 5.0156
+                  },
+                  {
+                    "tete_liste": "Fabienne Grébert",
+                    "parti": ["EE-LV"],
+                    "intentions": 13,
+                    "erreur_sup": 15.6156,
+                    "erreur_inf": 10.3844
+                  },
+                  {
+                    "tete_liste": "Célia de Lavergne",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 16.6987,
+                    "erreur_inf": 11.3013
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.5971,
+                    "erreur_inf": 27.4029
+                  },
+                  {
+                    "tete_liste": "Jean-François Debat",
+                    "parti": ["Parti socialiste"],
+                    "intentions": 10,
+                    "erreur_sup": 12.3333,
+                    "erreur_inf": 7.6667
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse NVB",
+                "sous_echantillon": 612.651,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Fabienne Grébert",
+                    "parti": ["EE-LV"],
+                    "intentions": 12,
+                    "erreur_sup": 14.5732,
+                    "erreur_inf": 9.4268
+                  },
+                  {
+                    "tete_liste": "Gerbert Rambaud",
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.3508,
+                    "erreur_inf": 1.6492
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 20,
+                    "erreur_sup": 23.1674,
+                    "erreur_inf": 16.8326
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem",
+                    "parti": ["Parti socialiste"],
+                    "intentions": 12,
+                    "erreur_sup": 14.5732,
+                    "erreur_inf": 9.4268
+                  },
+                  {
+                    "tete_liste": "Célia de Lavergne",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.6631,
+                    "erreur_inf": 10.3369
+                  },
+                  {
+                    "parti": ["France insoumise"],
+                    "intentions": 7,
+                    "erreur_sup": 9.0204,
+                    "erreur_inf": 4.9796
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.6623,
+                    "erreur_inf": 27.3377
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 601.887,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Célia de Lavergne",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.8527,
+                    "erreur_inf": 12.1473
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 23,
+                    "erreur_sup": 26.3621,
+                    "erreur_inf": 19.6379
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 39.8348,
+                    "erreur_inf": 32.1652
+                  },
+                  {
+                    "tete_liste": "Fabienne Grébert",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Parti socialiste"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 26,
+                    "erreur_sup": 29.5043,
+                    "erreur_inf": 22.4957
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 587.535,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Fabienne Grébert",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Parti socialiste"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 35.772,
+                    "erreur_inf": 28.228
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 25,
+                    "erreur_sup": 28.5014,
+                    "erreur_inf": 21.4986
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 43,
+                    "erreur_sup": 47.0032,
+                    "erreur_inf": 38.9968
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

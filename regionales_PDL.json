@@ -1,0 +1,137 @@
+[
+  {
+    "region": "Pays-de-la-Loire",
+    "sondages": [
+      {
+        "id": "pdl_ow_14_01",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-01-14",
+        "fin_enquete": "2021-01-18",
+        "commanditaire": "EE-LV",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/janvier/9093-pdloire-opinion-way.pdf",
+        "echantillon": 1009,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Union de la gauche",
+                "sous_echantillon": 686.12,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Christelle Morançais",
+                    "parti": ["Les Républicains"],
+                    "intentions": 24,
+                    "erreur_sup": 27.1957,
+                    "erreur_inf": 20.8043
+                  },
+                  {
+                    "tete_liste": "Hervé Juvin",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 19,
+                    "erreur_sup": 21.9355,
+                    "erreur_inf": 16.0645
+                  },
+                  {
+                    "tete_liste": "Matthieu Orphelin",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Génération écologie"],
+                      ["Génération·s"],
+                      ["Parti socialiste"],
+                      ["France insoumise"]
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 32.3953,
+                    "erreur_inf": 25.6047
+                  },
+                  {
+                    "tete_liste": "François de Rugy",
+                    "parti": [
+                      ["LRM"],
+                      ["Agir"],
+                      ["Modem"]
+                    ],
+                    "intentions": 25,
+                    "erreur_sup": 28.2401,
+                    "erreur_inf": 21.7599
+                  },
+                  {
+                    "tete_liste": "Cécile de Bayle de Jessé",
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.2764,
+                    "erreur_inf": 1.7236
+                  }
+                ]
+              },
+              {
+                "hypothese": "Offre complète",
+                "sous_echantillon": 716.39,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Matthias Tavel",
+                    "parti": ["France insoumise"],
+                    "intentions": 6,
+                    "erreur_sup": 7.7391,
+                    "erreur_inf": 4.2609
+                  },
+                  {
+                    "tete_liste": "François de Rugy",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 27.1275,
+                    "erreur_inf": 20.8725
+                  },
+                  {
+                    "tete_liste": "Christelle Morançais",
+                    "parti": ["Les Républicains"],
+                    "intentions": 24,
+                    "erreur_sup": 27.1275,
+                    "erreur_inf": 20.8725
+                  },
+                  {
+                    "tete_liste": "Hervé Juvin",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 16,
+                    "erreur_sup": 18.6846,
+                    "erreur_inf": 13.3154
+                  },
+                  {
+                    "tete_liste": "Matthieu Orphelin",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Génération·s"],
+                      ["Génération écologie"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.4627,
+                    "erreur_inf": 10.5373
+                  },
+                  {
+                    "tete_liste": "Cécile de Bayle de Jessé",
+                    "parti": ["Debout la France"],
+                    "intentions": 2,
+                    "erreur_sup": 3.0252,
+                    "erreur_inf": 0.9748
+                  },
+                  {
+                    "tete_liste": "Guillaume Garot",
+                    "parti": ["Parti socialiste"],
+                    "intentions": 15,
+                    "erreur_sup": 17.6148,
+                    "erreur_inf": 12.3852
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
