@@ -21,36 +21,45 @@ Pour chaque sondage est répertorié le nombre de personne ne donnant aucun avis
 
 ## Élections régionales
 
-Les élections régionales devraient avoir lieu en juin 2021 dans 17 territoires. Elles devraient se tenir le même jour que les élections départementales.
+Les élections régionales devraient avoir lieu en juin 2021 dans 17 territoires. Elles devraient se tenir le même jour que les élections départementales. Début mars 2021, les différentes têtes de listes n'étaient pas certaines, les sondages multiplient les hypothèses, mais la situation n'est pas encore stabilisée.
 
-### [Flux JSON avec toutes les régions](./regionales.json)
+### Qu'est-ce qu'on peut faire avec ces sondages ?
 
-### Flux JSON par région
+Jusqu'au printemps 2021, la variété d'hypothèses rendent compliquées certaines analyses, notamment sur les têtes de liste à gauche, avec la multiplication des possibilités d'alliances ou d'incarnation. On peut noter cependant quelques évolutions personnelles au fil des mois, par exemple pour les présidents sortants, tels Valérie Pécresse ou Laurent Wauquiez.
 
-#### [Île-de-France](./regionales_IDF.json)
+S'ajoute également la faiblesse du corpus. Fin février, six sondages avaient été publiés pour la région Île-de-France, trois pour la région Nouvelle-Aquitaine, mais seulement deux ou moins dans toutes les autres régions, empêchant toute comparaison. Certaines régions n'ont pas vu de sondage publié officiellement, comme le Centre-Val-de-Loire ou la Corse, ou encore les outremers.
 
-#### [Provence-Alpes-Côte-d'Azur](./regionales_PACA.json)
+### Qui commande des sondages ?
 
-#### [Auvergne-Rhône-Alpes](./regionales_ARA.json)
+Début mars, la grande majorité des sondages publiés dans la presse ont été commandés par des partis politiques, EE-LV et le Parti socialiste en tête. Sept sondages ont été commandés par des médias.
 
-#### [Normandie](./regionales_N.json)
+### Que valent les sondages nationaux ?
 
-#### [Nouvelle-Aquitaine](./regionales_NA.json)
-
-#### [Hauts-de-France](./regionales_HDF.json)
-
-#### [Occitanie](./regionales_OCC.json)
-
-#### [Pays de la Loire](./regionales_PDL.json)
-
-#### [Bretagne](./regionales_B.json)
-
-#### [Grand Est](./regionales_GE.json)
+Il est coûteux de composer un panel de 1000 électeurs dans une région, et la tentation est grande d'extrapoler des résultats à partir d'une population naitonale, représentative. C'est ce que fait Opinion Way, dans [son enquête « RégioTrack »](https://www.opinion-way.com/fr/sondage-d-opinion/regiotrack2021.html) pour _Les Echos_ et Radio Classique. 
 
 ## Élection présidentielle
 
-L'élection présidentielle devrait se dérouler au printemps 2022. 
+L'élection présidentielle devrait se dérouler au printemps 2022. Les candidat·es ne sont pas encore clairement connu·es, les différents sondages multiplient donc les hypothèses.
 
-### [Flux JSON](./presidentielle.json)
+### Flux JSON disponibles
+
+Des flux JSON proposant l'ensemble des données compilées sont disponibles sous licence MIT ci-dessous. Si vous utilisez les chiffres, veuillez s'il vous plaît les créditer, et faire un lien vers NSPPolls.
+
+L'architecture est plutôt simple et se décline par région (dans le cas des élections régionales), puis par sondage, par tour, par hypothèse et par candidat.
+
+Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de sondage sur le site de la Commission des sondages, ou si on en obtient par d'autres moyens.
+
+* [Élections régionales – toutes les régions](./regionales.json)
+** [Île-de-France](./regionales_IDF.json)
+** [Provence-Alpes-Côte-d'Azur](./regionales_PACA.json)
+** [Auvergne-Rhône-Alpes](./regionales_ARA.json)
+** [Normandie](./regionales_N.json)
+** [Nouvelle-Aquitaine](./regionales_NA.json)
+** [Hauts-de-France](./regionales_HDF.json)
+** [Occitanie](./regionales_OCC.json)
+** [Pays de la Loire](./regionales_PDL.json)
+** [Bretagne](./regionales_B.json)
+** [Grand Est](./regionales_GE.json)
+* [Élection présidentielle](./presidentielle.json)
 
 
