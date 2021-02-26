@@ -20,8 +20,7 @@ S'ajoute également la faiblesse du corpus. Fin février, six sondages avaient �
 
 Début mars, la grande majorité des sondages publiés dans la presse ont été commandés par des partis politiques, EE-LV et le Parti socialiste en tête. Sept sondages ont été commandés par des médias.
 
-<iframe title="Une grande majorité des sondages publiés jusqu'à maintenant a été commandé par des partis politiques" aria-label="chart" id="datawrapper-chart-3vFee" src="https://datawrapper.dwcdn.net/3vFee/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+![Graphique](./charts/chart.png)
 
 ### Que valent les sondages nationaux ?
 
