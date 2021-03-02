@@ -8,7 +8,7 @@ Ce projet a pour but de compiler les sondages produits à l'occasion des électi
 2. [Compilation des sondages](#compilation-des-sondages)
   1. [Flux JSON disponibles](#flux-json-disponibles)
 
-Retrouvez-nous sur les réseaux sociaux, sur Twitter et Medium.
+Retrouvez-nous sur les réseaux sociaux, sur [Twitter](https://twitter.com/nsppolls) et [Medium](https://medium.com/nsppolls).
 
 # À propos des sondages
 
@@ -28,19 +28,13 @@ Jusqu'au printemps 2021, la variété d'hypothèses rendent compliquées certain
 
 S'ajoute également la faiblesse du corpus. Fin février, six sondages avaient été publiés pour la région Île-de-France, trois pour la région Nouvelle-Aquitaine, mais seulement deux ou moins dans toutes les autres régions, empêchant toute comparaison. Certaines régions n'ont pas vu de sondage publié officiellement, comme le Centre-Val-de-Loire ou la Corse, ou encore les outremers.
 
-### Qui commande des sondages ?
-
-Début mars, la grande majorité des sondages publiés dans la presse ont été commandés par des partis politiques, EE-LV et le Parti socialiste en tête. Sept sondages ont été commandés par des médias.
-
-<img src="./charts/chart.png" width="500">
-
-### Que valent les sondages nationaux ?
+<!--### Que valent les sondages nationaux ?
 
 Il est coûteux de composer un panel de 1 000 électeurs pour chaque région, et la tentation est grande d'extrapoler des résultats à partir d'une population naitonale, représentative. C'est ce que fait Opinion Way, dans [son enquête « RégioTrack »](https://www.opinion-way.com/fr/sondage-d-opinion/regiotrack2021.html) pour _Les Echos_ et Radio Classique. Les questions de ce sondage sont adaptées à la région d'origine de la personne interrogée pour les têtes de listes seulement. 5 000 personnes sont interrogées.
 
 > « La modélisation calcule, à partir de la structure démographique et politique de chaque électorat, le score potentiel de chaque force politique dans les 12 régions métropolitaines hors Corse. Il en déduit la configuration probable du second tour dans chaque région, puis, à l’aide de matrices de reports de voix basées sur les résultats de l’enquête, le résultat le plus probable au second tour ce qui permet d’identifier à ce jour le favori pour remporter la région en juin. »
 
-Cette méthodologie repose sur de nombreuses hypothèses, que ce soit pour les alliances, ou le maintien au second tour. En l'état actuel, aucun intervalle de confiance n'est donné par Opinion Way, pas plus qu'une quantification du rapport de force. Ces résultats, surtout pour le second tour, sont donc à prendre avec précaution.
+Cette méthodologie repose sur de nombreuses hypothèses, que ce soit pour les alliances, ou le maintien au second tour. En l'état actuel, aucun intervalle de confiance n'est donné par Opinion Way, pas plus qu'une quantification du rapport de force. Ces résultats, surtout pour le second tour, sont donc à prendre avec précaution.-->
 
 ## Élection présidentielle
 
