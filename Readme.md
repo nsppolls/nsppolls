@@ -14,7 +14,7 @@ Retrouvez-nous sur les réseaux sociaux, sur [Twitter](https://twitter.com/nsppo
 
 ## Pourquoi les notes sont publiées ?
 
-La publication des sondages d'intentions de vote est encadrée depuis 1977. En 2016 est prévu que la première publication d'un sondage soit accompagnée de mentions obligatoires, et que soit mis en ligne sur le site de la commission une notice précisant notamment la méthode d'interrogation, et le nombre de personnes ne s'étant pas exprimée.
+La publication des sondages d'intentions de vote est encadrée depuis 1977. En 2016 est prévu que la première publication d'un sondage soit accompagnée de mentions obligatoires, et que soit mis en ligne [sur le site de la commission des sondages](http://www.commission-des-sondages.fr/notices/) une notice précisant, notamment, la méthode d'interrogation et le nombre de personnes ne s'étant pas exprimées.
 
 ## Élections régionales
 
@@ -44,7 +44,7 @@ L'élection présidentielle devrait se dérouler au printemps 2022. Les candidat
 
 ## Chiffres collectés
 
-Sont rassemblés ici les sondages ayant traits aux élections présidentielle et régionales demandant des *intentions de vote*, soit les sondages répondant à la question « Si le premier tour avait lieu dimanche, pour qui voteriez-vous », ou approchant. Ne sont pas compilés les souhaits de victoire, les chances de l'emporter ou les prédictions. 
+Sont rassemblés ici les sondages ayant traits aux élections présidentielle et régionales demandant des *intentions de vote*, soit les sondages répondant à la question *« Si le premier tour avait lieu dimanche, pour qui voteriez-vous »*, ou approchant. Ne sont pas compilés les souhaits de victoire, les chances de l'emporter ou les prédictions. 
 
 Pour chaque sondage est répertorié le nombre de personne ne donnant aucun avis, ou déclarant vouloir voter blanc ou nul. 
 
@@ -75,4 +75,6 @@ Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de son
   * [Grand Est](./regionales_GE.json)
 * [Élection présidentielle](./presidentielle.json)
 
+# Crédits
 
+NSPPolls est proposé notamment par [Florent Buisson](https://twitter.com/FlBuisson), journaliste à *la République du Centre* et [Alexandre Léchenet](http://twitter.com/alphoenix), data-journaliste à *la Gazette des communes*.
