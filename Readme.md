@@ -10,6 +10,8 @@ Ce projet a pour but de compiler les sondages produits à l'occasion des électi
 
 Retrouvez-nous sur les réseaux sociaux, sur [Twitter](https://twitter.com/nsppolls) et [Medium](https://medium.com/nsppolls).
 
+Pour des questions ou des demandes : [contact@nsppolls.fr](mailto:contact@nsppolls.fr)
+
 # À propos des sondages
 
 ## Pourquoi les notes sont publiées ?
@@ -78,3 +80,5 @@ Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de son
 # Crédits
 
 NSPPolls est proposé notamment par [Florent Buisson](https://twitter.com/FlBuisson), journaliste à *la République du Centre* et [Alexandre Léchenet](http://twitter.com/alphoenix), data-journaliste à *la Gazette des communes*.
+
+Pour des questions ou des demandes : [contact@nsppolls.fr](mailto:contact@nsppolls.fr)
