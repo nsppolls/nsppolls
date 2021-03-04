@@ -79,6 +79,4 @@ Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de son
 
 # Crédits
 
-NSPPolls est proposé notamment par [Florent Buisson](https://twitter.com/FlBuisson), journaliste à *la République du Centre* et [Alexandre Léchenet](http://twitter.com/alphoenix), data-journaliste à *la Gazette des communes*.
-
-Pour des questions ou des demandes : [contact@nsppolls.fr](mailto:contact@nsppolls.fr)
+NSPPolls est proposé notamment par [Alexandre Léchenet](http://twitter.com/alphoenix). Pour des questions ou des demandes : [contact@nsppolls.fr](mailto:contact@nsppolls.fr)
