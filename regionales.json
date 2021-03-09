@@ -681,761 +681,181 @@
     ]
   },
   {
-    "region": "Occitanie",
+    "region": "Île-de-France",
     "sondages": [
       {
-        "id": "occ_ifp_16_12",
+        "id": "idf_ifp_23_02",
         "nom_institut": "Ifop",
-        "debut_enquete": "2020-12-16",
-        "fin_enquete": "2020-12-22",
-        "commanditaire": "Sud Radio",
-        "lien": "https://www.ifop.com/wp-content/uploads/2021/01/117796-Résultats-12.01.2021.pdf",
-        "echantillon": 905,
+        "debut_enquete": "2021-02-23",
+        "fin_enquete": "2021-02-26",
+        "commanditaire": "Libres",
+        "lien": "https://www.lejdd.fr/Politique/sondage-en-ile-de-france-au-premier-tour-valerie-pecresse-distance-largement-ses-challengers-4028756",
+        "echantillon": 1001,
         "population": "Inscrits sur les listes électorales",
         "tours": [
-          {
-            "tour": "Premier tour",
-            "hypotheses": [
-              {
-                "sous_echantillon": 905,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Carole Delga",
-                    "parti": [
-                      ["Parti socialiste"],
-                      ["Parti communiste"],
-                      ["Parti radical de gauche"]
-                    ],
-                    "intentions": 25,
-                    "erreur_sup": 27.8212,
-                    "erreur_inf": 22.1788
-                  },
-                  {
-                    "tete_liste": "Jean-Paul Garraud",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 16,
-                    "erreur_sup": 18.3885,
-                    "erreur_inf": 13.6115
-                  },
-                  {
-                    "tete_liste": "Vincent Terrail-Novès",
-                    "parti": [
-                      ["LRM"],
-                      ["Modem"]
-                    ],
-                    "intentions": 12,
-                    "erreur_sup": 14.1172,
-                    "erreur_inf": 9.8828
-                  },
-                  {
-                    "tete_liste": "Robert Ménard",
-                    "parti": {},
-                    "intentions": 14,
-                    "erreur_sup": 16.2607,
-                    "erreur_inf": 11.7393
-                  },
-                  {
-                    "parti": ["Debout la France"],
-                    "intentions": 3,
-                    "erreur_sup": 4.1114,
-                    "erreur_inf": 1.8886
-                  },
-                  {
-                    "tete_liste": "Arnaud Viala",
-                    "parti": [
-                      ["Les Républicains"],
-                      ["UDI"]
-                    ],
-                    "intentions": 11,
-                    "erreur_sup": 13.0386,
-                    "erreur_inf": 8.9614
-                  },
-                  {
-                    "tete_liste": "Antoine Maurice",
-                    "parti": ["EE-LV"],
-                    "intentions": 10,
-                    "erreur_sup": 11.9546,
-                    "erreur_inf": 8.0454
-                  },
-                  {
-                    "tete_liste": "Manuel Bompard",
-                    "parti": ["France insoumise"],
-                    "intentions": 8,
-                    "erreur_sup": 9.7675,
-                    "erreur_inf": 6.2325
-                  },
-                  {
-                    "parti": ["Lutte ouvrière"],
-                    "erreur_sup": 0,
-                    "erreur_inf": 0
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "occ_ifp_04_09",
-        "nom_institut": "Ifop",
-        "debut_enquete": "2020-09-04",
-        "fin_enquete": "2020-09-09",
-        "commanditaire": "La Tribune et Europe 1",
-        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2020/septembre/9077-occ-ifop-la-tribune.pdf",
-        "echantillon": 907,
-        "population": "Inscrits sur les listes électorales",
-        "tours": [
-          {
-            "tour": "Deuxième tour",
-            "hypotheses": [
-              {
-                "hypothese": "Hypothèse sans alliance",
-                "sous_echantillon": 576.852,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Aurélien Pradié",
-                    "parti": ["Les Républicains"],
-                    "intentions": 27,
-                    "erreur_sup": 30.623,
-                    "erreur_inf": 23.377
-                  },
-                  {
-                    "tete_liste": "Carole Delga",
-                    "parti": [
-                      ["Parti socialiste"],
-                      ["Parti radical de gauche"],
-                      ["Parti communiste"]
-                    ],
-                    "intentions": 41,
-                    "erreur_sup": 45.0137,
-                    "erreur_inf": 36.9863
-                  },
-                  {
-                    "tete_liste": "Julien Sanchez",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 32,
-                    "erreur_sup": 35.8067,
-                    "erreur_inf": 28.1933
-                  }
-                ]
-              },
-              {
-                "hypothese": "Alliance LRM-LR",
-                "sous_echantillon": 581.387,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Arnaud Viala",
-                    "parti": [
-                      ["Les Républicains"],
-                      ["LRM"]
-                    ],
-                    "intentions": 24,
-                    "erreur_sup": 27.4716,
-                    "erreur_inf": 20.5284
-                  },
-                  {
-                    "tete_liste": "Carole Delga",
-                    "parti": [
-                      ["Parti socialiste"],
-                      ["Parti radical de gauche"],
-                      ["Parti communiste"]
-                    ],
-                    "intentions": 43,
-                    "erreur_sup": 47.0243,
-                    "erreur_inf": 38.9757
-                  },
-                  {
-                    "tete_liste": "Julien Sanchez",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 33,
-                    "erreur_sup": 36.8222,
-                    "erreur_inf": 29.1778
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "tour": "Premier tour",
-            "hypotheses": [
-              {
-                "hypothese": "Offre éclatée",
-                "sous_echantillon": 606.783,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Julien Denormandie",
-                    "parti": ["LRM"],
-                    "intentions": 11,
-                    "erreur_sup": 13.4896,
-                    "erreur_inf": 8.5104
-                  },
-                  {
-                    "tete_liste": "Manuel Bompard",
-                    "parti": ["France insoumise"],
-                    "intentions": 9,
-                    "erreur_sup": 11.2771,
-                    "erreur_inf": 6.7229
-                  },
-                  {
-                    "tete_liste": "Carole Delga",
-                    "parti": [
-                      ["Parti socialiste"],
-                      ["Parti radical de gauche"],
-                      ["Parti communiste"]
-                    ],
-                    "intentions": 22,
-                    "erreur_sup": 25.2961,
-                    "erreur_inf": 18.7039
-                  },
-                  {
-                    "tete_liste": "Aurélien Pradié",
-                    "parti": ["Les Républicains"],
-                    "intentions": 25,
-                    "erreur_sup": 28.4454,
-                    "erreur_inf": 21.5546
-                  },
-                  {
-                    "tete_liste": "Julien Sanchez",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 14,
-                    "erreur_sup": 16.7609,
-                    "erreur_inf": 11.2391
-                  },
-                  {
-                    "parti": ["Lutte ouvrière"],
-                    "intentions": 1,
-                    "erreur_sup": 1.7917,
-                    "erreur_inf": 0.2083
-                  },
-                  {
-                    "parti": ["Debout la France"],
-                    "intentions": 4,
-                    "erreur_sup": 5.5592,
-                    "erreur_inf": 2.4408
-                  },
-                  {
-                    "tete_liste": "Guillaume Cros",
-                    "parti": ["EE-LV"],
-                    "intentions": 12,
-                    "erreur_sup": 14.5857,
-                    "erreur_inf": 9.4143
-                  }
-                ]
-              },
-              {
-                "hypothese": "Alliance LR-LRM",
-                "sous_echantillon": 616.76,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Manuel Bompard",
-                    "parti": ["France insoumise"],
-                    "intentions": 9.5,
-                    "erreur_sup": 11.8141,
-                    "erreur_inf": 7.1859
-                  },
-                  {
-                    "tete_liste": "Julien Sanchez",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 26,
-                    "erreur_sup": 29.4618,
-                    "erreur_inf": 22.5382
-                  },
-                  {
-                    "tete_liste": "Carole Delga",
-                    "parti": [
-                      ["Parti socialiste"],
-                      ["Parti radical de gauche"],
-                      ["Parti communiste"]
-                    ],
-                    "intentions": 23,
-                    "erreur_sup": 26.3213,
-                    "erreur_inf": 19.6787
-                  },
-                  {
-                    "parti": ["Lutte ouvrière"],
-                    "intentions": 1.5,
-                    "erreur_sup": 2.4593,
-                    "erreur_inf": 0.5407
-                  },
-                  {
-                    "parti": ["Debout la France"],
-                    "intentions": 5,
-                    "erreur_sup": 6.7201,
-                    "erreur_inf": 3.2799
-                  },
-                  {
-                    "tete_liste": "Guillaume Cros",
-                    "parti": ["EE-LV"],
-                    "intentions": 12,
-                    "erreur_sup": 14.5647,
-                    "erreur_inf": 9.4353
-                  },
-                  {
-                    "tete_liste": "Arnaud Viala",
-                    "parti": [
-                      ["LRM"],
-                      ["Les Républicains"]
-                    ],
-                    "intentions": 19,
-                    "erreur_sup": 22.0961,
-                    "erreur_inf": 15.9039
-                  }
-                ]
-              },
-              {
-                "hypothese": "Alliance PS-EELV",
-                "sous_echantillon": 597.713,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Carole Delga",
-                    "parti": [
-                      ["Parti socialiste"],
-                      ["EE-LV"],
-                      ["Parti radical de gauche"],
-                      ["Parti communiste"]
-                    ],
-                    "intentions": 30,
-                    "erreur_sup": 33.6738,
-                    "erreur_inf": 26.3262
-                  },
-                  {
-                    "tete_liste": "Aurélien Pradié",
-                    "parti": ["Les Républicains"],
-                    "intentions": 14,
-                    "erreur_sup": 16.7818,
-                    "erreur_inf": 11.2182
-                  },
-                  {
-                    "tete_liste": "Julien Sanchez",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 26,
-                    "erreur_sup": 29.5165,
-                    "erreur_inf": 22.4835
-                  },
-                  {
-                    "tete_liste": "Julien Denormandie",
-                    "parti": ["LRM"],
-                    "intentions": 13,
-                    "erreur_sup": 15.6961,
-                    "erreur_inf": 10.3039
-                  },
-                  {
-                    "parti": ["Lutte ouvrière"],
-                    "intentions": 1,
-                    "erreur_sup": 1.7977,
-                    "erreur_inf": 0.2023
-                  },
-                  {
-                    "tete_liste": "Manuel Bompard",
-                    "parti": ["France insoumise"],
-                    "intentions": 9,
-                    "erreur_sup": 11.2943,
-                    "erreur_inf": 6.7057
-                  },
-                  {
-                    "parti": ["Debout la France"],
-                    "intentions": 4,
-                    "erreur_sup": 5.571,
-                    "erreur_inf": 2.429
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "region": "Provence-Alpes-Côte d'Azur",
-    "sondages": [
-      {
-        "id": "paca_ifp_25_08",
-        "nom_institut": "Ifop",
-        "debut_enquete": "2020-08-25",
-        "fin_enquete": "2020-08-31",
-        "commanditaire": "Cap Avenir",
-        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2020/septembre/9076-paca-ifop-nice-matin.pdf",
-        "echantillon": 890,
-        "population": "Inscrits sur les listes électorales",
-        "tours": [
-          {
-            "tour": "Premier tour",
-            "hypotheses": [
-              {
-                "hypothese": "Hypothèse LR",
-                "sous_echantillon": 603.42,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "David Rachline",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 29,
-                    "erreur_sup": 32.6205,
-                    "erreur_inf": 25.3795
-                  },
-                  {
-                    "tete_liste": "Renaud Muselier",
-                    "parti": [
-                      ["Les Républicains"],
-                      ["Modem"],
-                      ["UDI"]
-                    ],
-                    "intentions": 28,
-                    "erreur_sup": 31.5825,
-                    "erreur_inf": 24.4175
-                  },
-                  {
-                    "tete_liste": "Jean-Marc Governatori",
-                    "parti": ["Alliance écologiste indépendante"],
-                    "intentions": 2,
-                    "erreur_sup": 3.1171,
-                    "erreur_inf": 0.8829
-                  },
-                  {
-                    "tete_liste": "Sophie Camard",
-                    "parti": [
-                      ["Parti communiste"],
-                      ["Parti socialiste"],
-                      ["France insoumise"]
-                    ],
-                    "intentions": 14,
-                    "erreur_sup": 16.7686,
-                    "erreur_inf": 11.2314
-                  },
-                  {
-                    "parti": ["« ext. gauche »"],
-                    "intentions": 1,
-                    "erreur_sup": 1.7939,
-                    "erreur_inf": 0.2061
-                  },
-                  {
-                    "tete_liste": "Michèle Rivasi",
-                    "parti": ["EE-LV"],
-                    "intentions": 12,
-                    "erreur_sup": 14.5929,
-                    "erreur_inf": 9.4071
-                  },
-                  {
-                    "tete_liste": "Christophe Castaner",
-                    "parti": ["LRM"],
-                    "intentions": 12,
-                    "erreur_sup": 14.5929,
-                    "erreur_inf": 9.4071
-                  }
-                ]
-              },
-              {
-                "hypothese": "Hypothèse LR-LRM",
-                "sous_echantillon": 590.96,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Michèle Rivasi",
-                    "parti": ["EE-LV"],
-                    "intentions": 14,
-                    "erreur_sup": 16.7976,
-                    "erreur_inf": 11.2024
-                  },
-                  {
-                    "tete_liste": "David Rachline",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 31,
-                    "erreur_sup": 34.7289,
-                    "erreur_inf": 27.2711
-                  },
-                  {
-                    "tete_liste": "Sophie Camard",
-                    "parti": [
-                      ["Parti communiste"],
-                      ["Parti socialiste"],
-                      ["France insoumise"]
-                    ],
-                    "intentions": 14,
-                    "erreur_sup": 16.7976,
-                    "erreur_inf": 11.2024
-                  },
-                  {
-                    "tete_liste": "Jean-Marc Governatori",
-                    "parti": ["Alliance écologiste indépendante"],
-                    "intentions": 3,
-                    "erreur_sup": 4.3754,
-                    "erreur_inf": 1.6246
-                  },
-                  {
-                    "tete_liste": "Renaud Muselier",
-                    "parti": [
-                      ["Les Républicains"],
-                      ["Modem"],
-                      ["UDI"],
-                      ["LRM"]
-                    ],
-                    "intentions": 33,
-                    "erreur_sup": 36.7912,
-                    "erreur_inf": 29.2088
-                  },
-                  {
-                    "parti": ["« ext. gauche »"],
-                    "intentions": 1,
-                    "erreur_sup": 1.8022,
-                    "erreur_inf": 0.1978
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "paca_ifp_03_12",
-        "nom_institut": "Ifop",
-        "debut_enquete": "2020-12-03",
-        "fin_enquete": "2020-12-09",
-        "commanditaire": "La Tribune et Europe 1",
-        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/janvier/9090-paca-ifop-la-tribune.pdf",
-        "echantillon": 905,
-        "population": "Inscrits sur les listes électorales",
-        "tours": [
-          {
-            "tour": "Premier tour",
-            "hypotheses": [
-              {
-                "hypothese": "Offre éclatée",
-                "sous_echantillon": 603.635,
-                "tetes_liste": [
-                  {
-                    "parti": ["« ext. gauche »"],
-                    "intentions": 1,
-                    "erreur_sup": 1.7938,
-                    "erreur_inf": 0.2062
-                  },
-                  {
-                    "tete_liste": " Benoît Kandel",
-                    "parti": ["Debout la France"],
-                    "intentions": 3,
-                    "erreur_sup": 4.3609,
-                    "erreur_inf": 1.6391
-                  },
-                  {
-                    "tete_liste": "Marina Mesure et Luc Leandri",
-                    "parti": ["France insoumise"],
-                    "intentions": 7,
-                    "erreur_sup": 9.0354,
-                    "erreur_inf": 4.9646
-                  },
-                  {
-                    "tete_liste": "Olivia Fortin",
-                    "parti": [
-                      ["Parti socialiste"],
-                      ["Parti communiste"]
-                    ],
-                    "intentions": 7,
-                    "erreur_sup": 9.0354,
-                    "erreur_inf": 4.9646
-                  },
-                  {
-                    "tete_liste": " Olivier Dubuquoy ",
-                    "parti": ["EE-LV"],
-                    "intentions": 9,
-                    "erreur_sup": 11.283,
-                    "erreur_inf": 6.717
-                  },
-                  {
-                    "tete_liste": "Jean-Marc Governatori",
-                    "parti": ["Alliance écologiste indépendante"],
-                    "intentions": 3,
-                    "erreur_sup": 4.3609,
-                    "erreur_inf": 1.6391
-                  },
-                  {
-                    "tete_liste": "Renaud Muselier",
-                    "parti": [
-                      ["Les Républicains"],
-                      ["UDI"],
-                      ["Modem"]
-                    ],
-                    "intentions": 26,
-                    "erreur_sup": 29.4992,
-                    "erreur_inf": 22.5008
-                  },
-                  {
-                    "tete_liste": "Frédérique Vidal",
-                    "parti": ["LRM"],
-                    "intentions": 13,
-                    "erreur_sup": 15.6829,
-                    "erreur_inf": 10.3171
-                  },
-                  {
-                    "tete_liste": "Thierry Mariani",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 30,
-                    "erreur_sup": 33.6558,
-                    "erreur_inf": 26.3442
-                  }
-                ]
-              },
-              {
-                "hypothese": "Union de la gauche et union des écolos",
-                "sous_echantillon": 617.21,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Frédérique Vidal",
-                    "parti": ["LRM"],
-                    "intentions": 13,
-                    "erreur_sup": 15.6532,
-                    "erreur_inf": 10.3468
-                  },
-                  {
-                    "tete_liste": "Olivia Fortin et Marina Mesure",
-                    "parti": [
-                      ["France insoumise"],
-                      ["Parti communiste"],
-                      ["Parti radical de gauche"],
-                      ["Parti socialiste"]
-                    ],
-                    "intentions": 13,
-                    "erreur_sup": 15.6532,
-                    "erreur_inf": 10.3468
-                  },
-                  {
-                    "tete_liste": "Renaud Muselier",
-                    "parti": [
-                      ["Les Républicains"],
-                      ["UDI"],
-                      ["Modem"]
-                    ],
-                    "intentions": 27,
-                    "erreur_sup": 30.5025,
-                    "erreur_inf": 23.4975
-                  },
-                  {
-                    "tete_liste": " Olivier Dubuquoy et JeanMarc Governatori",
-                    "parti": [
-                      ["Alliance écologiste indépendante"],
-                      ["EE-LV"]
-                    ],
-                    "intentions": 11,
-                    "erreur_sup": 13.4685,
-                    "erreur_inf": 8.5315
-                  },
-                  {
-                    "parti": ["« ext. gauche »"],
-                    "intentions": 1,
-                    "erreur_sup": 1.785,
-                    "erreur_inf": 0.215
-                  },
-                  {
-                    "tete_liste": " Benoît Kandel",
-                    "parti": ["Debout la France"],
-                    "intentions": 3,
-                    "erreur_sup": 4.3458,
-                    "erreur_inf": 1.6542
-                  },
-                  {
-                    "tete_liste": "Thierry Mariani",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 31,
-                    "erreur_sup": 34.6488,
-                    "erreur_inf": 27.3512
-                  }
-                ]
-              }
-            ]
-          },
           {
             "tour": "Deuxième tour",
             "hypotheses": [
               {
                 "hypothese": "Hypothèse quadrangulaire",
-                "sous_echantillon": 600.015,
+                "sous_echantillon": 1001,
                 "tetes_liste": [
                   {
-                    "tete_liste": "Olivier Dubuquoy et Jean-Marc Governatori",
-                    "parti": [
-                      ["EE-LV"],
-                      ["Alliance écologiste indépendante"]
-                    ],
-                    "intentions": 14,
-                    "erreur_sup": 16.7764,
-                    "erreur_inf": 11.2236
-                  },
-                  {
-                    "tete_liste": "Renaud Muselier",
+                    "tete_liste": "Valérie Pécresse",
                     "parti": [
                       ["Les Républicains"],
-                      ["Modem"],
-                      ["UDI"],
-                      ["LRM"]
+                      ["UDI"]
                     ],
                     "intentions": 37,
-                    "erreur_sup": 40.8632,
-                    "erreur_inf": 33.1368
+                    "erreur_sup": 39.991,
+                    "erreur_inf": 34.009
                   },
                   {
-                    "tete_liste": "Thierry Mariani",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 34,
-                    "erreur_sup": 37.7904,
-                    "erreur_inf": 30.2096
-                  },
-                  {
-                    "tete_liste": "Olivia Fortin et Marina Mesure",
+                    "tete_liste": "Audrey Pulvar",
                     "parti": [
-                      ["France insoumise"],
                       ["Parti socialiste"],
+                      ["Parti communiste"],
                       ["Parti radical de gauche"],
-                      ["Parti communiste"]
+                      ["France insoumise"],
+                      ["EE-LV"]
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 33.8651,
+                    "erreur_inf": 28.1349
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
                     ],
                     "intentions": 15,
-                    "erreur_sup": 17.8571,
-                    "erreur_inf": 12.1429
+                    "erreur_sup": 17.212,
+                    "erreur_inf": 12.788
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 17,
+                    "erreur_sup": 19.327,
+                    "erreur_inf": 14.673
                   }
                 ]
               },
               {
                 "hypothese": "Hypothèse triangulaire",
-                "sous_echantillon": 591.87,
+                "sous_echantillon": 1001,
                 "tetes_liste": [
                   {
-                    "tete_liste": "Thierry Mariani",
-                    "parti": ["Rassemblement national"],
-                    "intentions": 37,
-                    "erreur_sup": 40.8897,
-                    "erreur_inf": 33.1103
-                  },
-                  {
-                    "tete_liste": "Renaud Muselier",
+                    "tete_liste": "Valérie Pécresse",
                     "parti": [
                       ["Les Républicains"],
-                      ["Modem"],
-                      ["LRM"],
                       ["UDI"]
                     ],
-                    "intentions": 40,
-                    "erreur_sup": 43.9468,
-                    "erreur_inf": 36.0532
+                    "intentions": 34,
+                    "erreur_sup": 36.9346,
+                    "erreur_inf": 31.0654
                   },
                   {
-                    "tete_liste": "Olivier Fortin et Olivier Dubuquoy",
+                    "tete_liste": "Audrey Pulvar",
                     "parti": [
-                      ["France insoumise"],
                       ["Parti socialiste"],
+                      ["Parti communiste"],
+                      ["Parti radical de gauche"],
                       ["EE-LV"],
-                      ["Parti communiste"]
+                      ["Génération·s"],
+                      ["France insoumise"]
                     ],
-                    "intentions": 23,
-                    "erreur_sup": 26.3904,
-                    "erreur_inf": 19.6096
+                    "intentions": 47,
+                    "erreur_sup": 50.0919,
+                    "erreur_inf": 43.9081
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 19,
+                    "erreur_sup": 21.4303,
+                    "erreur_inf": 16.5697
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "sous_echantillon": 1001,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Génération·s"]
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 12.9383,
+                    "erreur_inf": 9.0617
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 4,
+                    "erreur_sup": 5.214,
+                    "erreur_inf": 2.786
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"],
+                      ["Parti radical de gauche"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.0834,
+                    "erreur_inf": 10.9166
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 15,
+                    "erreur_sup": 17.212,
+                    "erreur_inf": 12.788
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": ["France insoumise"],
+                    "intentions": 10,
+                    "erreur_sup": 11.8585,
+                    "erreur_inf": 8.1415
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.0834,
+                    "erreur_inf": 10.9166
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 35.913,
+                    "erreur_inf": 30.087
                   }
                 ]
               }
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "region": "Île-de-France",
-    "sondages": [
+      },
       {
         "id": "idf_ifp_14_10",
         "nom_institut": "Ifop",
@@ -2508,6 +1928,759 @@
                     "intentions": 28,
                     "erreur_sup": 32.9096,
                     "erreur_inf": 23.0904
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "region": "Occitanie",
+    "sondages": [
+      {
+        "id": "occ_ifp_16_12",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2020-12-16",
+        "fin_enquete": "2020-12-22",
+        "commanditaire": "Sud Radio",
+        "lien": "https://www.ifop.com/wp-content/uploads/2021/01/117796-Résultats-12.01.2021.pdf",
+        "echantillon": 905,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "sous_echantillon": 905,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"],
+                      ["Parti radical de gauche"]
+                    ],
+                    "intentions": 25,
+                    "erreur_sup": 27.8212,
+                    "erreur_inf": 22.1788
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 16,
+                    "erreur_sup": 18.3885,
+                    "erreur_inf": 13.6115
+                  },
+                  {
+                    "tete_liste": "Vincent Terrail-Novès",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 12,
+                    "erreur_sup": 14.1172,
+                    "erreur_inf": 9.8828
+                  },
+                  {
+                    "tete_liste": "Robert Ménard",
+                    "parti": {},
+                    "intentions": 14,
+                    "erreur_sup": 16.2607,
+                    "erreur_inf": 11.7393
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.1114,
+                    "erreur_inf": 1.8886
+                  },
+                  {
+                    "tete_liste": "Arnaud Viala",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.0386,
+                    "erreur_inf": 8.9614
+                  },
+                  {
+                    "tete_liste": "Antoine Maurice",
+                    "parti": ["EE-LV"],
+                    "intentions": 10,
+                    "erreur_sup": 11.9546,
+                    "erreur_inf": 8.0454
+                  },
+                  {
+                    "tete_liste": "Manuel Bompard",
+                    "parti": ["France insoumise"],
+                    "intentions": 8,
+                    "erreur_sup": 9.7675,
+                    "erreur_inf": 6.2325
+                  },
+                  {
+                    "parti": ["Lutte ouvrière"],
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "occ_ifp_04_09",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2020-09-04",
+        "fin_enquete": "2020-09-09",
+        "commanditaire": "La Tribune et Europe 1",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2020/septembre/9077-occ-ifop-la-tribune.pdf",
+        "echantillon": 907,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse sans alliance",
+                "sous_echantillon": 576.852,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": ["Les Républicains"],
+                    "intentions": 27,
+                    "erreur_sup": 30.623,
+                    "erreur_inf": 23.377
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 41,
+                    "erreur_sup": 45.0137,
+                    "erreur_inf": 36.9863
+                  },
+                  {
+                    "tete_liste": "Julien Sanchez",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 32,
+                    "erreur_sup": 35.8067,
+                    "erreur_inf": 28.1933
+                  }
+                ]
+              },
+              {
+                "hypothese": "Alliance LRM-LR",
+                "sous_echantillon": 581.387,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Arnaud Viala",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["LRM"]
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 27.4716,
+                    "erreur_inf": 20.5284
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 43,
+                    "erreur_sup": 47.0243,
+                    "erreur_inf": 38.9757
+                  },
+                  {
+                    "tete_liste": "Julien Sanchez",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 33,
+                    "erreur_sup": 36.8222,
+                    "erreur_inf": 29.1778
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Offre éclatée",
+                "sous_echantillon": 606.783,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Denormandie",
+                    "parti": ["LRM"],
+                    "intentions": 11,
+                    "erreur_sup": 13.4896,
+                    "erreur_inf": 8.5104
+                  },
+                  {
+                    "tete_liste": "Manuel Bompard",
+                    "parti": ["France insoumise"],
+                    "intentions": 9,
+                    "erreur_sup": 11.2771,
+                    "erreur_inf": 6.7229
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 25.2961,
+                    "erreur_inf": 18.7039
+                  },
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": ["Les Républicains"],
+                    "intentions": 25,
+                    "erreur_sup": 28.4454,
+                    "erreur_inf": 21.5546
+                  },
+                  {
+                    "tete_liste": "Julien Sanchez",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 14,
+                    "erreur_sup": 16.7609,
+                    "erreur_inf": 11.2391
+                  },
+                  {
+                    "parti": ["Lutte ouvrière"],
+                    "intentions": 1,
+                    "erreur_sup": 1.7917,
+                    "erreur_inf": 0.2083
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 4,
+                    "erreur_sup": 5.5592,
+                    "erreur_inf": 2.4408
+                  },
+                  {
+                    "tete_liste": "Guillaume Cros",
+                    "parti": ["EE-LV"],
+                    "intentions": 12,
+                    "erreur_sup": 14.5857,
+                    "erreur_inf": 9.4143
+                  }
+                ]
+              },
+              {
+                "hypothese": "Alliance LR-LRM",
+                "sous_echantillon": 616.76,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Manuel Bompard",
+                    "parti": ["France insoumise"],
+                    "intentions": 9.5,
+                    "erreur_sup": 11.8141,
+                    "erreur_inf": 7.1859
+                  },
+                  {
+                    "tete_liste": "Julien Sanchez",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 26,
+                    "erreur_sup": 29.4618,
+                    "erreur_inf": 22.5382
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 23,
+                    "erreur_sup": 26.3213,
+                    "erreur_inf": 19.6787
+                  },
+                  {
+                    "parti": ["Lutte ouvrière"],
+                    "intentions": 1.5,
+                    "erreur_sup": 2.4593,
+                    "erreur_inf": 0.5407
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 5,
+                    "erreur_sup": 6.7201,
+                    "erreur_inf": 3.2799
+                  },
+                  {
+                    "tete_liste": "Guillaume Cros",
+                    "parti": ["EE-LV"],
+                    "intentions": 12,
+                    "erreur_sup": 14.5647,
+                    "erreur_inf": 9.4353
+                  },
+                  {
+                    "tete_liste": "Arnaud Viala",
+                    "parti": [
+                      ["LRM"],
+                      ["Les Républicains"]
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 22.0961,
+                    "erreur_inf": 15.9039
+                  }
+                ]
+              },
+              {
+                "hypothese": "Alliance PS-EELV",
+                "sous_echantillon": 597.713,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["EE-LV"],
+                      ["Parti radical de gauche"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 33.6738,
+                    "erreur_inf": 26.3262
+                  },
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": ["Les Républicains"],
+                    "intentions": 14,
+                    "erreur_sup": 16.7818,
+                    "erreur_inf": 11.2182
+                  },
+                  {
+                    "tete_liste": "Julien Sanchez",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 26,
+                    "erreur_sup": 29.5165,
+                    "erreur_inf": 22.4835
+                  },
+                  {
+                    "tete_liste": "Julien Denormandie",
+                    "parti": ["LRM"],
+                    "intentions": 13,
+                    "erreur_sup": 15.6961,
+                    "erreur_inf": 10.3039
+                  },
+                  {
+                    "parti": ["Lutte ouvrière"],
+                    "intentions": 1,
+                    "erreur_sup": 1.7977,
+                    "erreur_inf": 0.2023
+                  },
+                  {
+                    "tete_liste": "Manuel Bompard",
+                    "parti": ["France insoumise"],
+                    "intentions": 9,
+                    "erreur_sup": 11.2943,
+                    "erreur_inf": 6.7057
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 4,
+                    "erreur_sup": 5.571,
+                    "erreur_inf": 2.429
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "region": "Provence-Alpes-Côte d'Azur",
+    "sondages": [
+      {
+        "id": "paca_ifp_25_08",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2020-08-25",
+        "fin_enquete": "2020-08-31",
+        "commanditaire": "Cap Avenir",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2020/septembre/9076-paca-ifop-nice-matin.pdf",
+        "echantillon": 890,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse LR",
+                "sous_echantillon": 603.42,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "David Rachline",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 29,
+                    "erreur_sup": 32.6205,
+                    "erreur_inf": 25.3795
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["Modem"],
+                      ["UDI"]
+                    ],
+                    "intentions": 28,
+                    "erreur_sup": 31.5825,
+                    "erreur_inf": 24.4175
+                  },
+                  {
+                    "tete_liste": "Jean-Marc Governatori",
+                    "parti": ["Alliance écologiste indépendante"],
+                    "intentions": 2,
+                    "erreur_sup": 3.1171,
+                    "erreur_inf": 0.8829
+                  },
+                  {
+                    "tete_liste": "Sophie Camard",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Parti socialiste"],
+                      ["France insoumise"]
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 16.7686,
+                    "erreur_inf": 11.2314
+                  },
+                  {
+                    "parti": ["« ext. gauche »"],
+                    "intentions": 1,
+                    "erreur_sup": 1.7939,
+                    "erreur_inf": 0.2061
+                  },
+                  {
+                    "tete_liste": "Michèle Rivasi",
+                    "parti": ["EE-LV"],
+                    "intentions": 12,
+                    "erreur_sup": 14.5929,
+                    "erreur_inf": 9.4071
+                  },
+                  {
+                    "tete_liste": "Christophe Castaner",
+                    "parti": ["LRM"],
+                    "intentions": 12,
+                    "erreur_sup": 14.5929,
+                    "erreur_inf": 9.4071
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse LR-LRM",
+                "sous_echantillon": 590.96,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Michèle Rivasi",
+                    "parti": ["EE-LV"],
+                    "intentions": 14,
+                    "erreur_sup": 16.7976,
+                    "erreur_inf": 11.2024
+                  },
+                  {
+                    "tete_liste": "David Rachline",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 31,
+                    "erreur_sup": 34.7289,
+                    "erreur_inf": 27.2711
+                  },
+                  {
+                    "tete_liste": "Sophie Camard",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Parti socialiste"],
+                      ["France insoumise"]
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 16.7976,
+                    "erreur_inf": 11.2024
+                  },
+                  {
+                    "tete_liste": "Jean-Marc Governatori",
+                    "parti": ["Alliance écologiste indépendante"],
+                    "intentions": 3,
+                    "erreur_sup": 4.3754,
+                    "erreur_inf": 1.6246
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["Modem"],
+                      ["UDI"],
+                      ["LRM"]
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 36.7912,
+                    "erreur_inf": 29.2088
+                  },
+                  {
+                    "parti": ["« ext. gauche »"],
+                    "intentions": 1,
+                    "erreur_sup": 1.8022,
+                    "erreur_inf": 0.1978
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "paca_ifp_03_12",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2020-12-03",
+        "fin_enquete": "2020-12-09",
+        "commanditaire": "La Tribune et Europe 1",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/janvier/9090-paca-ifop-la-tribune.pdf",
+        "echantillon": 905,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Offre éclatée",
+                "sous_echantillon": 603.635,
+                "tetes_liste": [
+                  {
+                    "parti": ["« ext. gauche »"],
+                    "intentions": 1,
+                    "erreur_sup": 1.7938,
+                    "erreur_inf": 0.2062
+                  },
+                  {
+                    "tete_liste": " Benoît Kandel",
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.3609,
+                    "erreur_inf": 1.6391
+                  },
+                  {
+                    "tete_liste": "Marina Mesure et Luc Leandri",
+                    "parti": ["France insoumise"],
+                    "intentions": 7,
+                    "erreur_sup": 9.0354,
+                    "erreur_inf": 4.9646
+                  },
+                  {
+                    "tete_liste": "Olivia Fortin",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 7,
+                    "erreur_sup": 9.0354,
+                    "erreur_inf": 4.9646
+                  },
+                  {
+                    "tete_liste": " Olivier Dubuquoy ",
+                    "parti": ["EE-LV"],
+                    "intentions": 9,
+                    "erreur_sup": 11.283,
+                    "erreur_inf": 6.717
+                  },
+                  {
+                    "tete_liste": "Jean-Marc Governatori",
+                    "parti": ["Alliance écologiste indépendante"],
+                    "intentions": 3,
+                    "erreur_sup": 4.3609,
+                    "erreur_inf": 1.6391
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"],
+                      ["Modem"]
+                    ],
+                    "intentions": 26,
+                    "erreur_sup": 29.4992,
+                    "erreur_inf": 22.5008
+                  },
+                  {
+                    "tete_liste": "Frédérique Vidal",
+                    "parti": ["LRM"],
+                    "intentions": 13,
+                    "erreur_sup": 15.6829,
+                    "erreur_inf": 10.3171
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 30,
+                    "erreur_sup": 33.6558,
+                    "erreur_inf": 26.3442
+                  }
+                ]
+              },
+              {
+                "hypothese": "Union de la gauche et union des écolos",
+                "sous_echantillon": 617.21,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Frédérique Vidal",
+                    "parti": ["LRM"],
+                    "intentions": 13,
+                    "erreur_sup": 15.6532,
+                    "erreur_inf": 10.3468
+                  },
+                  {
+                    "tete_liste": "Olivia Fortin et Marina Mesure",
+                    "parti": [
+                      ["France insoumise"],
+                      ["Parti communiste"],
+                      ["Parti radical de gauche"],
+                      ["Parti socialiste"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.6532,
+                    "erreur_inf": 10.3468
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"],
+                      ["Modem"]
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.5025,
+                    "erreur_inf": 23.4975
+                  },
+                  {
+                    "tete_liste": " Olivier Dubuquoy et JeanMarc Governatori",
+                    "parti": [
+                      ["Alliance écologiste indépendante"],
+                      ["EE-LV"]
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.4685,
+                    "erreur_inf": 8.5315
+                  },
+                  {
+                    "parti": ["« ext. gauche »"],
+                    "intentions": 1,
+                    "erreur_sup": 1.785,
+                    "erreur_inf": 0.215
+                  },
+                  {
+                    "tete_liste": " Benoît Kandel",
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.3458,
+                    "erreur_inf": 1.6542
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 31,
+                    "erreur_sup": 34.6488,
+                    "erreur_inf": 27.3512
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 600.015,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Olivier Dubuquoy et Jean-Marc Governatori",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Alliance écologiste indépendante"]
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 16.7764,
+                    "erreur_inf": 11.2236
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["Modem"],
+                      ["UDI"],
+                      ["LRM"]
+                    ],
+                    "intentions": 37,
+                    "erreur_sup": 40.8632,
+                    "erreur_inf": 33.1368
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 34,
+                    "erreur_sup": 37.7904,
+                    "erreur_inf": 30.2096
+                  },
+                  {
+                    "tete_liste": "Olivia Fortin et Marina Mesure",
+                    "parti": [
+                      ["France insoumise"],
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.8571,
+                    "erreur_inf": 12.1429
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 591.87,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 37,
+                    "erreur_sup": 40.8897,
+                    "erreur_inf": 33.1103
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["Modem"],
+                      ["LRM"],
+                      ["UDI"]
+                    ],
+                    "intentions": 40,
+                    "erreur_sup": 43.9468,
+                    "erreur_inf": 36.0532
+                  },
+                  {
+                    "tete_liste": "Olivier Fortin et Olivier Dubuquoy",
+                    "parti": [
+                      ["France insoumise"],
+                      ["Parti socialiste"],
+                      ["EE-LV"],
+                      ["Parti communiste"]
+                    ],
+                    "intentions": 23,
+                    "erreur_sup": 26.3904,
+                    "erreur_inf": 19.6096
                   }
                 ]
               }

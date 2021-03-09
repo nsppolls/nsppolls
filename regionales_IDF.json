@@ -3,6 +3,179 @@
     "region": "Île-de-France",
     "sondages": [
       {
+        "id": "idf_ifp_23_02",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-02-23",
+        "fin_enquete": "2021-02-26",
+        "commanditaire": "Libres",
+        "lien": "https://www.lejdd.fr/Politique/sondage-en-ile-de-france-au-premier-tour-valerie-pecresse-distance-largement-ses-challengers-4028756",
+        "echantillon": 1001,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 1001,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 37,
+                    "erreur_sup": 39.991,
+                    "erreur_inf": 34.009
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"],
+                      ["Parti radical de gauche"],
+                      ["France insoumise"],
+                      ["EE-LV"]
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 33.8651,
+                    "erreur_inf": 28.1349
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.212,
+                    "erreur_inf": 12.788
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 17,
+                    "erreur_sup": 19.327,
+                    "erreur_inf": 14.673
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 1001,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 36.9346,
+                    "erreur_inf": 31.0654
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"],
+                      ["Parti radical de gauche"],
+                      ["EE-LV"],
+                      ["Génération·s"],
+                      ["France insoumise"]
+                    ],
+                    "intentions": 47,
+                    "erreur_sup": 50.0919,
+                    "erreur_inf": 43.9081
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 19,
+                    "erreur_sup": 21.4303,
+                    "erreur_inf": 16.5697
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "sous_echantillon": 1001,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      ["EE-LV"],
+                      ["Génération·s"]
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 12.9383,
+                    "erreur_inf": 9.0617
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 4,
+                    "erreur_sup": 5.214,
+                    "erreur_inf": 2.786
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      ["Parti socialiste"],
+                      ["Parti communiste"],
+                      ["Parti radical de gauche"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.0834,
+                    "erreur_inf": 10.9166
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 15,
+                    "erreur_sup": 17.212,
+                    "erreur_inf": 12.788
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": ["France insoumise"],
+                    "intentions": 10,
+                    "erreur_sup": 11.8585,
+                    "erreur_inf": 8.1415
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"],
+                      ["Agir"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.0834,
+                    "erreur_inf": 10.9166
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 35.913,
+                    "erreur_inf": 30.087
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "idf_ifp_14_10",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-10-14",
