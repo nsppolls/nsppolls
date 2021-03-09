@@ -2300,6 +2300,388 @@
             ]
           }
         ]
+      },
+      {
+        "id": "occ_ifp_23_02",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-02-23",
+        "fin_enquete": "2021-03-01",
+        "commanditaire": "Les Républicains",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mars/9104-occitanie-ifop-lr.pdf",
+        "echantillon": 1013,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse Rivenq",
+                "sous_echantillon": 687.827,
+                "tetes_liste": [
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 3,
+                    "erreur_sup": 4.2749,
+                    "erreur_inf": 1.7251
+                  },
+                  {
+                    "parti": ["« ext. gauche »"],
+                    "intentions": 1,
+                    "erreur_sup": 1.7436,
+                    "erreur_inf": 0.2564
+                  },
+                  {
+                    "tete_liste": "Antoine Maurice",
+                    "parti": ["EE-LV"],
+                    "intentions": 9,
+                    "erreur_sup": 11.1387,
+                    "erreur_inf": 6.8613
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 17,
+                    "erreur_sup": 19.8072,
+                    "erreur_inf": 14.1928
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"]
+                    ],
+                    "intentions": 28,
+                    "erreur_sup": 31.3555,
+                    "erreur_inf": 24.6445
+                  },
+                  {
+                    "tete_liste": "Christophe Rivenq",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.242,
+                    "erreur_inf": 7.758
+                  },
+                  {
+                    "tete_liste": "Myriam Martin et Antoine Bompard",
+                    "parti": ["France insoumise"],
+                    "intentions": 7,
+                    "erreur_sup": 8.9068,
+                    "erreur_inf": 5.0932
+                  },
+                  {
+                    "tete_liste": "Robert Ménard",
+                    "parti": {},
+                    "intentions": 15,
+                    "erreur_sup": 17.6685,
+                    "erreur_inf": 12.3315
+                  },
+                  {
+                    "tete_liste": "Vincent Terrail-Novès",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 9,
+                    "erreur_sup": 11.1387,
+                    "erreur_inf": 6.8613
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse Pradié",
+                "sous_echantillon": 693.905,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Robert Ménard",
+                    "parti": {},
+                    "intentions": 14,
+                    "erreur_sup": 16.5818,
+                    "erreur_inf": 11.4182
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 16,
+                    "erreur_sup": 18.7278,
+                    "erreur_inf": 13.2722
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"]
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.3033,
+                    "erreur_inf": 23.6967
+                  },
+                  {
+                    "tete_liste": "Vincent Terrail-Novès",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 9,
+                    "erreur_sup": 11.1294,
+                    "erreur_inf": 6.8706
+                  },
+                  {
+                    "tete_liste": "Myriam Martin et Antoine Bompard",
+                    "parti": ["France insoumise"],
+                    "intentions": 7,
+                    "erreur_sup": 8.8984,
+                    "erreur_inf": 5.1016
+                  },
+                  {
+                    "parti": ["« ext. gauche »"],
+                    "intentions": 1,
+                    "erreur_sup": 1.7403,
+                    "erreur_inf": 0.2597
+                  },
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 12,
+                    "erreur_sup": 14.4179,
+                    "erreur_inf": 9.5821
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 4,
+                    "erreur_sup": 5.458,
+                    "erreur_inf": 2.542
+                  },
+                  {
+                    "tete_liste": "Antoine Maurice",
+                    "parti": ["EE-LV"],
+                    "intentions": 9,
+                    "erreur_sup": 11.1294,
+                    "erreur_inf": 6.8706
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse Pradié sans Ménard",
+                "sous_echantillon": 697.957,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.495,
+                    "erreur_inf": 10.505
+                  },
+                  {
+                    "parti": ["« ext. gauche »"],
+                    "intentions": 1,
+                    "erreur_sup": 1.7382,
+                    "erreur_inf": 0.2618
+                  },
+                  {
+                    "tete_liste": "Myriam Martin et Antoine Bompard",
+                    "parti": ["France insoumise"],
+                    "intentions": 7,
+                    "erreur_sup": 8.8929,
+                    "erreur_inf": 5.1071
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"]
+                    ],
+                    "intentions": 28,
+                    "erreur_sup": 31.3311,
+                    "erreur_inf": 24.6689
+                  },
+                  {
+                    "tete_liste": "Vincent Terrail-Novès",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.2257,
+                    "erreur_inf": 7.7743
+                  },
+                  {
+                    "parti": ["Debout la France"],
+                    "intentions": 5,
+                    "erreur_sup": 6.6169,
+                    "erreur_inf": 3.3831
+                  },
+                  {
+                    "tete_liste": "Antoine Maurice",
+                    "parti": ["EE-LV"],
+                    "intentions": 9,
+                    "erreur_sup": 11.1232,
+                    "erreur_inf": 6.8768
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 26,
+                    "erreur_sup": 29.2542,
+                    "erreur_inf": 22.7458
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse pentagulaire",
+                "sous_echantillon": 670.606,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"]
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 36.5589,
+                    "erreur_inf": 29.4411
+                  },
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.8431,
+                    "erreur_inf": 14.1569
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 26,
+                    "erreur_sup": 29.3199,
+                    "erreur_inf": 22.6801
+                  },
+                  {
+                    "tete_liste": "Vincent Terrail-Novès",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.3682,
+                    "erreur_inf": 8.6318
+                  },
+                  {
+                    "tete_liste": "Antoine Maurice",
+                    "parti": [
+                      ["EE-LV"],
+                      ["France insoumise"]
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.5454,
+                    "erreur_inf": 10.4546
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 652.372,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.8825,
+                    "erreur_inf": 14.1175
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 29,
+                    "erreur_sup": 32.4821,
+                    "erreur_inf": 25.5179
+                  },
+                  {
+                    "tete_liste": "Vincent Terrail-Novès",
+                    "parti": [
+                      ["LRM"],
+                      ["Modem"]
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.401,
+                    "erreur_inf": 8.599
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"],
+                      ["EE-LV"],
+                      ["France insoumise"]
+                    ],
+                    "intentions": 43,
+                    "erreur_sup": 46.7991,
+                    "erreur_inf": 39.2009
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 636.164,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": [
+                      ["Les Républicains"],
+                      ["UDI"]
+                    ],
+                    "intentions": 23,
+                    "erreur_sup": 26.2702,
+                    "erreur_inf": 19.7298
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      ["Parti communiste"],
+                      ["Parti socialiste"],
+                      ["Parti radical de gauche"],
+                      ["EE-LV"],
+                      ["France insoumise"]
+                    ],
+                    "intentions": 48,
+                    "erreur_sup": 51.8823,
+                    "erreur_inf": 44.1177
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": ["Rassemblement national"],
+                    "intentions": 29,
+                    "erreur_sup": 32.5261,
+                    "erreur_inf": 25.4739
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
