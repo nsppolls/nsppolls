@@ -962,7 +962,7 @@
     "id": "ips_27_01",
     "nom_institut": "Ipsos",
     "debut_enquete": "2021-01-27",
-    "fin_enquete": "2021-02-20",
+    "fin_enquete": "2021-01-28",
     "commanditaire": "L'Obs / France Info",
     "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/fevrier/9095-pres-ipsos-l-obs.pdf",
     "echantillon": 750,
@@ -2120,84 +2120,91 @@
         "hypotheses": [
           {
             "hypothese": "Hypothèse Xavier Bertrand",
-            "sous_echantillon": 846,
+            "sous_echantillon": 710.64,
             "candidats": [
               {
                 "candidat": "Fabien Roussel",
                 "parti": ["Parti communiste"],
                 "intentions": 1,
-                "erreur_sup": 1.6705,
-                "erreur_inf": 0.3295
+                "erreur_sup": 1.7316,
+                "erreur_inf": 0.2684
               },
               {
                 "candidat": "François Asselineau",
                 "parti": ["UPR"],
                 "intentions": 1,
-                "erreur_sup": 1.6705,
-                "erreur_inf": 0.3295
+                "erreur_sup": 1.7316,
+                "erreur_inf": 0.2684
               },
               {
                 "candidat": "Nicolas Dupont-Aignan",
                 "parti": ["Debout la France"],
                 "intentions": 6,
-                "erreur_sup": 7.6003,
-                "erreur_inf": 4.3997
+                "erreur_sup": 7.7461,
+                "erreur_inf": 4.2539
               },
               {
                 "candidat": "Philippe Poutou",
                 "parti": ["NPA"],
                 "intentions": 1,
-                "erreur_sup": 1.6705,
-                "erreur_inf": 0.3295
+                "erreur_sup": 1.7316,
+                "erreur_inf": 0.2684
               },
               {
                 "candidat": "Marine Le Pen",
                 "parti": ["Rassemblement national"],
                 "intentions": 25,
-                "erreur_sup": 27.9179,
-                "erreur_inf": 22.0821
+                "erreur_sup": 28.1837,
+                "erreur_inf": 21.8163
               },
               {
                 "candidat": "Jean-Christophe Lagarde",
                 "parti": ["UDI"],
                 "intentions": 1,
-                "erreur_sup": 1.6705,
-                "erreur_inf": 0.3295
+                "erreur_sup": 1.7316,
+                "erreur_inf": 0.2684
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 1,
+                "erreur_sup": 1.7316,
+                "erreur_inf": 0.2684
               },
               {
                 "candidat": "Yannick Jadot",
                 "parti": ["EE-LV"],
                 "intentions": 7,
-                "erreur_sup": 8.7193,
-                "erreur_inf": 5.2807
+                "erreur_sup": 8.876,
+                "erreur_inf": 5.124
               },
               {
                 "candidat": "Xavier Bertrand",
                 "parti": ["Les Républicains"],
                 "intentions": 15,
-                "erreur_sup": 17.4062,
-                "erreur_inf": 12.5938
+                "erreur_sup": 17.6253,
+                "erreur_inf": 12.3747
               },
               {
                 "candidat": "Anne Hidalgo",
                 "parti": ["Parti socialiste"],
                 "intentions": 6,
-                "erreur_sup": 7.6003,
-                "erreur_inf": 4.3997
+                "erreur_sup": 7.7461,
+                "erreur_inf": 4.2539
               },
               {
                 "candidat": "Emmanuel Macron",
                 "parti": ["LRM"],
                 "intentions": 25,
-                "erreur_sup": 27.9179,
-                "erreur_inf": 22.0821
+                "erreur_sup": 28.1837,
+                "erreur_inf": 21.8163
               },
               {
                 "candidat": "Jean-Luc Mélenchon",
                 "parti": ["France insoumise"],
                 "intentions": 11,
-                "erreur_sup": 13.1084,
-                "erreur_inf": 8.8916
+                "erreur_sup": 13.3005,
+                "erreur_inf": 8.6995
               }
             ]
           },
@@ -2218,6 +2225,20 @@
                 "intentions": 12,
                 "erreur_sup": 14.4182,
                 "erreur_inf": 9.5818
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 1,
+                "erreur_sup": 1.7404,
+                "erreur_inf": 0.2596
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": ["UDI"],
+                "intentions": 1,
+                "erreur_sup": 1.7404,
+                "erreur_inf": 0.2596
               },
               {
                 "candidat": "Nathalie Arthaud",
@@ -2274,39 +2295,6 @@
                 "intentions": 1,
                 "erreur_sup": 1.7404,
                 "erreur_inf": 0.2596
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Valérie Pécresse",
-            "sous_echantillon": 846,
-            "candidats": [
-              {
-                "candidat": "Fabien Roussel",
-                "parti": ["Parti communiste"],
-                "intentions": 1,
-                "erreur_sup": 1.6705,
-                "erreur_inf": 0.3295
-              },
-              {
-                "candidat": "Jean-Christophe Lagarde",
-                "parti": ["UDI"],
-                "intentions": 1,
-                "erreur_sup": 1.6705,
-                "erreur_inf": 0.3295
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Xavier Bertrand",
-            "sous_echantillon": 710.64,
-            "candidats": [
-              {
-                "candidat": "Nathalie Arthaud",
-                "parti": ["Lutte ouvrière"],
-                "intentions": 1,
-                "erreur_sup": 1.7316,
-                "erreur_inf": 0.2684
               }
             ]
           }
@@ -2572,6 +2560,75 @@
                 "intentions": 45,
                 "erreur_sup": 48.8851,
                 "erreur_inf": 41.1149
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ifp_23_02",
+    "nom_institut": "Ifop",
+    "debut_enquete": "2021-02-23",
+    "fin_enquete": "2021-02-24",
+    "commanditaire": "Club de la presse",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mars/9103-p-ifop-club-de-la-presse.pdf",
+    "echantillon": 902,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "hypotheses": [
+          {
+            "sous_echantillon": 515.042,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 31,
+                "erreur_sup": 34.9943,
+                "erreur_inf": 27.0057
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 8,
+                "erreur_sup": 10.343,
+                "erreur_inf": 5.657
+              },
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": ["Les Républicains"],
+                "intentions": 21,
+                "erreur_sup": 24.5177,
+                "erreur_inf": 17.4823
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": {},
+                "intentions": 17,
+                "erreur_sup": 20.2441,
+                "erreur_inf": 13.7559
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 9,
+                "erreur_sup": 11.4716,
+                "erreur_inf": 6.5284
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 12,
+                "erreur_sup": 14.8065,
+                "erreur_inf": 9.1935
+              },
+              {
+                "parti": ["« ext. gauche »"],
+                "intentions": 2,
+                "erreur_sup": 3.2091,
+                "erreur_inf": 0.7909
               }
             ]
           }
