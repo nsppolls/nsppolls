@@ -16,34 +16,39 @@
             "tour": "Premier tour",
             "hypotheses": [
               {
+                "hypothese": null,
                 "sous_echantillon": 802.64,
                 "tetes_liste": [
                   {
-                    "parti": ["Debout la France"],
+                    "tete_liste": null,
+                    "parti": "Debout la France",
                     "intentions": 3,
                     "erreur_sup": 4.1802,
                     "erreur_inf": 1.8198
                   },
                   {
-                    "parti": ["UDI"],
+                    "tete_liste": null,
+                    "parti": "UDI",
                     "intentions": 2,
                     "erreur_sup": 2.9686,
                     "erreur_inf": 1.0314
                   },
                   {
+                    "tete_liste": null,
                     "parti": [
-                      ["EE-LV"],
-                      ["Génération·s"]
+                      "EE-LV",
+                      "Génération·s"
                     ],
                     "intentions": 11,
                     "erreur_sup": 13.1646,
                     "erreur_inf": 8.8354
                   },
                   {
+                    "tete_liste": null,
                     "parti": [
-                      ["Parti communiste"],
-                      ["Parti socialiste"],
-                      ["Parti radical de gauche"]
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "Parti radical de gauche"
                     ],
                     "intentions": 12,
                     "erreur_sup": 14.2482,
@@ -52,28 +57,31 @@
                   {
                     "tete_liste": "Hervé Morin",
                     "parti": [
-                      ["Les Centristes"],
-                      ["Les Républicains"],
-                      ["Modem"]
+                      "Les Centristes",
+                      "Les Républicains",
+                      "Modem"
                     ],
                     "intentions": 22,
                     "erreur_sup": 24.8659,
                     "erreur_inf": 19.1341
                   },
                   {
-                    "parti": ["LRM"],
+                    "tete_liste": null,
+                    "parti": "LRM",
                     "intentions": 15,
                     "erreur_sup": 17.4703,
                     "erreur_inf": 12.5297
                   },
                   {
-                    "parti": ["France insoumise"],
+                    "tete_liste": null,
+                    "parti": "France insoumise",
                     "intentions": 6,
                     "erreur_sup": 7.643,
                     "erreur_inf": 4.357
                   },
                   {
-                    "parti": ["Rassemblement national"],
+                    "tete_liste": null,
+                    "parti": "Rassemblement national",
                     "intentions": 25,
                     "erreur_sup": 27.9957,
                     "erreur_inf": 22.0043
@@ -86,27 +94,31 @@
             "tour": "Deuxième tour",
             "hypotheses": [
               {
+                "hypothese": null,
                 "sous_echantillon": 762,
                 "tetes_liste": [
                   {
-                    "parti": ["Rassemblement national"],
+                    "tete_liste": null,
+                    "parti": "Rassemblement national",
                     "intentions": 27,
                     "erreur_sup": 30.1523,
                     "erreur_inf": 23.8477
                   },
                   {
-                    "parti": ["LRM"],
+                    "tete_liste": null,
+                    "parti": "LRM",
                     "intentions": 18,
                     "erreur_sup": 20.7279,
                     "erreur_inf": 15.2721
                   },
                   {
+                    "tete_liste": null,
                     "parti": [
-                      ["Parti communiste"],
-                      ["Parti radical de gauche"],
-                      ["Parti socialiste"],
-                      ["EE-LV"],
-                      ["Génération·s"]
+                      "Parti communiste",
+                      "Parti radical de gauche",
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s"
                     ],
                     "intentions": 26,
                     "erreur_sup": 29.1144,
@@ -115,9 +127,9 @@
                   {
                     "tete_liste": "Hervé Morin",
                     "parti": [
-                      ["Les Centristes"],
-                      ["Les Républicains"],
-                      ["Modem"]
+                      "Les Centristes",
+                      "Les Républicains",
+                      "Modem"
                     ],
                     "intentions": 29,
                     "erreur_sup": 32.2219,
@@ -148,14 +160,14 @@
                 "tetes_liste": [
                   {
                     "tete_liste": "Nathalie Goulet",
-                    "parti": ["UDI"],
+                    "parti": "UDI",
                     "intentions": 2,
                     "erreur_sup": 3.1377,
                     "erreur_inf": 0.8623
                   },
                   {
                     "tete_liste": "Claude Taleb",
-                    "parti": ["EE-LV"],
+                    "parti": "EE-LV",
                     "intentions": 13,
                     "erreur_sup": 15.7328,
                     "erreur_inf": 10.2672
@@ -163,8 +175,8 @@
                   {
                     "tete_liste": "Céline Brulin",
                     "parti": [
-                      ["France insoumise"],
-                      ["Parti communiste"]
+                      "France insoumise",
+                      "Parti communiste"
                     ],
                     "intentions": 7,
                     "erreur_sup": 9.0734,
@@ -172,14 +184,14 @@
                   },
                   {
                     "tete_liste": "Pascal Le Manach",
-                    "parti": ["Lutte ouvrière"],
+                    "parti": "Lutte ouvrière",
                     "intentions": 1,
                     "erreur_sup": 1.8085,
                     "erreur_inf": 0.1915
                   },
                   {
                     "tete_liste": "Estelle Grelier",
-                    "parti": ["Parti socialiste"],
+                    "parti": "Parti socialiste",
                     "intentions": 8,
                     "erreur_sup": 10.2046,
                     "erreur_inf": 5.7954
@@ -187,8 +199,8 @@
                   {
                     "tete_liste": "Hervé Morin",
                     "parti": [
-                      ["Les Centristes"],
-                      ["Les Républicains"]
+                      "Les Centristes",
+                      "Les Républicains"
                     ],
                     "intentions": 31,
                     "erreur_sup": 34.7583,
@@ -196,21 +208,21 @@
                   },
                   {
                     "tete_liste": "Stéphane Travert",
-                    "parti": ["LRM"],
+                    "parti": "LRM",
                     "intentions": 12,
                     "erreur_sup": 14.6407,
                     "erreur_inf": 9.3593
                   },
                   {
                     "tete_liste": "Nicolas Bay",
-                    "parti": ["Rassemblement national"],
+                    "parti": "Rassemblement national",
                     "intentions": 21,
                     "erreur_sup": 24.3098,
                     "erreur_inf": 17.6902
                   },
                   {
                     "tete_liste": "Véronique Delicourt",
-                    "parti": ["Debout la France"],
+                    "parti": "Debout la France",
                     "intentions": 3,
                     "erreur_sup": 4.3862,
                     "erreur_inf": 1.6138
@@ -223,28 +235,28 @@
                 "tetes_liste": [
                   {
                     "tete_liste": "Claude Taleb",
-                    "parti": ["EE-LV"],
+                    "parti": "EE-LV",
                     "intentions": 11,
                     "erreur_sup": 13.521,
                     "erreur_inf": 8.479
                   },
                   {
                     "tete_liste": "Nicolas Bay",
-                    "parti": ["Rassemblement national"],
+                    "parti": "Rassemblement national",
                     "intentions": 21,
                     "erreur_sup": 24.2818,
                     "erreur_inf": 17.7182
                   },
                   {
                     "tete_liste": "Nathalie Goulet",
-                    "parti": ["UDI"],
+                    "parti": "UDI",
                     "intentions": 2,
                     "erreur_sup": 3.128,
                     "erreur_inf": 0.872
                   },
                   {
                     "tete_liste": "Stéphane Travert",
-                    "parti": ["LRM"],
+                    "parti": "LRM",
                     "intentions": 11,
                     "erreur_sup": 13.521,
                     "erreur_inf": 8.479
@@ -252,8 +264,8 @@
                   {
                     "tete_liste": "Hervé Morin",
                     "parti": [
-                      ["Les Centristes"],
-                      ["Les Républicains"]
+                      "Les Centristes",
+                      "Les Républicains"
                     ],
                     "intentions": 30,
                     "erreur_sup": 33.6923,
@@ -262,8 +274,8 @@
                   {
                     "tete_liste": "Céline Brulin",
                     "parti": [
-                      ["France insoumise"],
-                      ["Parti communiste"]
+                      "France insoumise",
+                      "Parti communiste"
                     ],
                     "intentions": 7,
                     "erreur_sup": 9.0558,
@@ -271,21 +283,21 @@
                   },
                   {
                     "tete_liste": "Pascal Le Manach",
-                    "parti": ["Lutte ouvrière"],
+                    "parti": "Lutte ouvrière",
                     "intentions": 1,
                     "erreur_sup": 1.8017,
                     "erreur_inf": 0.1983
                   },
                   {
                     "tete_liste": "Bernard Cazeneuve",
-                    "parti": ["Parti socialiste"],
+                    "parti": "Parti socialiste",
                     "intentions": 12,
                     "erreur_sup": 14.6183,
                     "erreur_inf": 9.3817
                   },
                   {
                     "tete_liste": "Véronique Delicourt",
-                    "parti": ["Debout la France"],
+                    "parti": "Debout la France",
                     "intentions": 3,
                     "erreur_sup": 4.3745,
                     "erreur_inf": 1.6255

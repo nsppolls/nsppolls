@@ -21,14 +21,14 @@
                 "tetes_liste": [
                   {
                     "tete_liste": "Christelle Morançais",
-                    "parti": ["Les Républicains"],
+                    "parti": "Les Républicains",
                     "intentions": 24,
                     "erreur_sup": 27.1957,
                     "erreur_inf": 20.8043
                   },
                   {
                     "tete_liste": "Hervé Juvin",
-                    "parti": ["Rassemblement national"],
+                    "parti": "Rassemblement national",
                     "intentions": 19,
                     "erreur_sup": 21.9355,
                     "erreur_inf": 16.0645
@@ -36,11 +36,11 @@
                   {
                     "tete_liste": "Matthieu Orphelin",
                     "parti": [
-                      ["EE-LV"],
-                      ["Génération écologie"],
-                      ["Génération·s"],
-                      ["Parti socialiste"],
-                      ["France insoumise"]
+                      "EE-LV",
+                      "Génération écologie",
+                      "Génération·s",
+                      "Parti socialiste",
+                      "France insoumise"
                     ],
                     "intentions": 29,
                     "erreur_sup": 32.3953,
@@ -49,9 +49,9 @@
                   {
                     "tete_liste": "François de Rugy",
                     "parti": [
-                      ["LRM"],
-                      ["Agir"],
-                      ["Modem"]
+                      "LRM",
+                      "Agir",
+                      "Modem"
                     ],
                     "intentions": 25,
                     "erreur_sup": 28.2401,
@@ -59,7 +59,7 @@
                   },
                   {
                     "tete_liste": "Cécile de Bayle de Jessé",
-                    "parti": ["Debout la France"],
+                    "parti": "Debout la France",
                     "intentions": 3,
                     "erreur_sup": 4.2764,
                     "erreur_inf": 1.7236
@@ -72,7 +72,7 @@
                 "tetes_liste": [
                   {
                     "tete_liste": "Matthias Tavel",
-                    "parti": ["France insoumise"],
+                    "parti": "France insoumise",
                     "intentions": 6,
                     "erreur_sup": 7.7391,
                     "erreur_inf": 4.2609
@@ -80,8 +80,8 @@
                   {
                     "tete_liste": "François de Rugy",
                     "parti": [
-                      ["LRM"],
-                      ["Modem"]
+                      "LRM",
+                      "Modem"
                     ],
                     "intentions": 24,
                     "erreur_sup": 27.1275,
@@ -89,14 +89,14 @@
                   },
                   {
                     "tete_liste": "Christelle Morançais",
-                    "parti": ["Les Républicains"],
+                    "parti": "Les Républicains",
                     "intentions": 24,
                     "erreur_sup": 27.1275,
                     "erreur_inf": 20.8725
                   },
                   {
                     "tete_liste": "Hervé Juvin",
-                    "parti": ["Rassemblement national"],
+                    "parti": "Rassemblement national",
                     "intentions": 16,
                     "erreur_sup": 18.6846,
                     "erreur_inf": 13.3154
@@ -104,9 +104,9 @@
                   {
                     "tete_liste": "Matthieu Orphelin",
                     "parti": [
-                      ["EE-LV"],
-                      ["Génération·s"],
-                      ["Génération écologie"]
+                      "EE-LV",
+                      "Génération·s",
+                      "Génération écologie"
                     ],
                     "intentions": 13,
                     "erreur_sup": 15.4627,
@@ -114,14 +114,14 @@
                   },
                   {
                     "tete_liste": "Cécile de Bayle de Jessé",
-                    "parti": ["Debout la France"],
+                    "parti": "Debout la France",
                     "intentions": 2,
                     "erreur_sup": 3.0252,
                     "erreur_inf": 0.9748
                   },
                   {
                     "tete_liste": "Guillaume Garot",
-                    "parti": ["Parti socialiste"],
+                    "parti": "Parti socialiste",
                     "intentions": 15,
                     "erreur_sup": 17.6148,
                     "erreur_inf": 12.3852

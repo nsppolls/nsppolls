@@ -21,14 +21,14 @@
                 "tetes_liste": [
                   {
                     "tete_liste": "Florian Phillipot",
-                    "parti": ["Les Patriotes"],
+                    "parti": "Les Patriotes",
                     "intentions": 4,
                     "erreur_sup": 5.6214,
                     "erreur_inf": 2.3786
                   },
                   {
                     "tete_liste": "Eliane Romani",
-                    "parti": ["EE-LV"],
+                    "parti": "EE-LV",
                     "intentions": 10,
                     "erreur_sup": 12.4823,
                     "erreur_inf": 7.5177
@@ -36,15 +36,16 @@
                   {
                     "tete_liste": "Bérangère Abba",
                     "parti": [
-                      ["LRM"],
-                      ["Modem"]
+                      "LRM",
+                      "Modem"
                     ],
                     "intentions": 10,
                     "erreur_sup": 12.4823,
                     "erreur_inf": 7.5177
                   },
                   {
-                    "parti": ["Debout la France"],
+                    "tete_liste": null,
+                    "parti": "Debout la France",
                     "intentions": 3,
                     "erreur_sup": 4.4115,
                     "erreur_inf": 1.5885
@@ -52,9 +53,9 @@
                   {
                     "tete_liste": "Jean Rottner",
                     "parti": [
-                      ["Les Républicains"],
-                      ["UDI"],
-                      ["Les Centristes"]
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
                     ],
                     "intentions": 31,
                     "erreur_sup": 34.8268,
@@ -62,7 +63,7 @@
                   },
                   {
                     "tete_liste": "Virginie Joron",
-                    "parti": ["Rassemblement national"],
+                    "parti": "Rassemblement national",
                     "intentions": 23,
                     "erreur_sup": 26.4821,
                     "erreur_inf": 19.5179
@@ -77,10 +78,10 @@
                   {
                     "tete_liste": "Aurélie Filippetti",
                     "parti": [
-                      ["Parti socialiste"],
-                      ["Parti communiste"],
-                      ["France insoumise"],
-                      ["Génération·s"]
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
                     ],
                     "intentions": 16,
                     "erreur_sup": 19.0334,
@@ -95,8 +96,8 @@
                   {
                     "tete_liste": "Florian Phillipot",
                     "parti": [
-                      ["Debout la France"],
-                      ["Les Patriotes"]
+                      "Debout la France",
+                      "Les Patriotes"
                     ],
                     "intentions": 6,
                     "erreur_sup": 7.9681,
@@ -112,10 +113,10 @@
                   {
                     "tete_liste": "Aurélie Filippetti",
                     "parti": [
-                      ["Parti socialiste"],
-                      ["Parti communiste"],
-                      ["France insoumise"],
-                      ["Génération·s"]
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
                     ],
                     "intentions": 16,
                     "erreur_sup": 19.0382,
@@ -124,8 +125,8 @@
                   {
                     "tete_liste": "Bérangère Abba",
                     "parti": [
-                      ["LRM"],
-                      ["Modem"]
+                      "LRM",
+                      "Modem"
                     ],
                     "intentions": 11,
                     "erreur_sup": 13.593,
@@ -133,7 +134,7 @@
                   },
                   {
                     "tete_liste": "Eliane Romani",
-                    "parti": ["EE-LV"],
+                    "parti": "EE-LV",
                     "intentions": 10,
                     "erreur_sup": 12.4862,
                     "erreur_inf": 7.5138
@@ -141,9 +142,9 @@
                   {
                     "tete_liste": "Jean Rottner",
                     "parti": [
-                      ["Les Républicains"],
-                      ["UDI"],
-                      ["Les Centristes"]
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
                     ],
                     "intentions": 32,
                     "erreur_sup": 35.8658,
@@ -151,7 +152,7 @@
                   },
                   {
                     "tete_liste": "Virginie Joron",
-                    "parti": ["Rassemblement national"],
+                    "parti": "Rassemblement national",
                     "intentions": 22,
                     "erreur_sup": 25.433,
                     "erreur_inf": 18.567
@@ -170,10 +171,10 @@
                   {
                     "tete_liste": "Aurélie Filippetti",
                     "parti": [
-                      ["Parti communiste"],
-                      ["Parti socialiste"],
-                      ["France insoumise"],
-                      ["EE-LV"]
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "France insoumise",
+                      "EE-LV"
                     ],
                     "intentions": 26,
                     "erreur_sup": 29.6992,
@@ -182,9 +183,9 @@
                   {
                     "tete_liste": "Jean Rottner",
                     "parti": [
-                      ["Les Républicains"],
-                      ["Les Centristes"],
-                      ["UDI"]
+                      "Les Républicains",
+                      "Les Centristes",
+                      "UDI"
                     ],
                     "intentions": 45,
                     "erreur_sup": 49.1956,
@@ -192,7 +193,7 @@
                   },
                   {
                     "tete_liste": "Virginie Joron",
-                    "parti": ["Rassemblement national"],
+                    "parti": "Rassemblement national",
                     "intentions": 29,
                     "erreur_sup": 32.8268,
                     "erreur_inf": 25.1732
@@ -206,9 +207,9 @@
                   {
                     "tete_liste": "Jean Rottner",
                     "parti": [
-                      ["Les Républicains"],
-                      ["Les Centristes"],
-                      ["UDI"]
+                      "Les Républicains",
+                      "Les Centristes",
+                      "UDI"
                     ],
                     "intentions": 35,
                     "erreur_sup": 39.0128,
@@ -217,11 +218,11 @@
                   {
                     "tete_liste": "Aurélie Filippetti",
                     "parti": [
-                      ["Parti socialiste"],
-                      ["Parti communiste"],
-                      ["France insoumise"],
-                      ["Génération·s"],
-                      ["EE-LV"]
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s",
+                      "EE-LV"
                     ],
                     "intentions": 24,
                     "erreur_sup": 27.5931,
@@ -230,8 +231,8 @@
                   {
                     "tete_liste": "Bérangère Abba",
                     "parti": [
-                      ["LRM"],
-                      ["Modem"]
+                      "LRM",
+                      "Modem"
                     ],
                     "intentions": 13,
                     "erreur_sup": 15.8293,
@@ -239,7 +240,7 @@
                   },
                   {
                     "tete_liste": "Virginie Joron",
-                    "parti": ["Rassemblement national"],
+                    "parti": "Rassemblement national",
                     "intentions": 28,
                     "erreur_sup": 31.7775,
                     "erreur_inf": 24.2225
