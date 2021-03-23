@@ -2878,6 +2878,153 @@
         ]
       },
       {
+        "id": "paca_ow_25_02",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-02-25",
+        "fin_enquete": "2021-03-01",
+        "commanditaire": "La République en Marche",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-lrem-intentions-de-vote-pour-les-elections-regionales-2021-en-paca-mars-2021/viewdocument/2542.html?Itemid=0",
+        "echantillon": 1003,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Alliance LR-LRM",
+                "sous_echantillon": 762.28,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 31,
+                    "erreur_sup": 34.2833,
+                    "erreur_inf": 27.7167
+                  },
+                  {
+                    "tete_liste": "Benoît Kandel",
+                    "parti": "Debout la France",
+                    "intentions": 6,
+                    "erreur_sup": 7.6859,
+                    "erreur_inf": 4.3141
+                  },
+                  {
+                    "tete_liste": " Olivia Fortin",
+                    "parti": "Parti socialiste",
+                    "intentions": 8,
+                    "erreur_sup": 9.9259,
+                    "erreur_inf": 6.0741
+                  },
+                  {
+                    "tete_liste": "Marina Mesure et Luc Léandri",
+                    "parti": "France insoumise",
+                    "intentions": 9,
+                    "erreur_sup": 11.0316,
+                    "erreur_inf": 6.9684
+                  },
+                  {
+                    "tete_liste": "Olivier Dubuquoy",
+                    "parti": "EE-LV",
+                    "intentions": 11,
+                    "erreur_sup": 13.2212,
+                    "erreur_inf": 8.7788
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier et Sophie Cluzel",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "LRM",
+                      "Agir",
+                      "Modem"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 33.2532,
+                    "erreur_inf": 26.7468
+                  },
+                  {
+                    "tete_liste": null,
+                    "parti": "« ext. gauche »",
+                    "intentions": 1,
+                    "erreur_sup": 1.7063,
+                    "erreur_inf": 0.2937
+                  }
+                ]
+              },
+              {
+                "hypothese": "Sophie Cluzel tête de liste LRM",
+                "sous_echantillon": 782.34,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Marina Mesure et Luc Léandri",
+                    "parti": "France insoumise",
+                    "intentions": 7,
+                    "erreur_sup": 8.7879,
+                    "erreur_inf": 5.2121
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 29,
+                    "erreur_sup": 32.1797,
+                    "erreur_inf": 25.8203
+                  },
+                  {
+                    "tete_liste": null,
+                    "parti": "« ext. gauche »",
+                    "intentions": 1,
+                    "erreur_sup": 1.6972,
+                    "erreur_inf": 0.3028
+                  },
+                  {
+                    "tete_liste": "Benoît Kandel",
+                    "parti": "Debout la France",
+                    "intentions": 4,
+                    "erreur_sup": 5.3732,
+                    "erreur_inf": 2.6268
+                  },
+                  {
+                    "tete_liste": "Sophie Cluzel",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.569,
+                    "erreur_inf": 13.431
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 23,
+                    "erreur_sup": 25.949,
+                    "erreur_inf": 20.051
+                  },
+                  {
+                    "tete_liste": " Olivia Fortin",
+                    "parti": "Parti socialiste",
+                    "intentions": 8,
+                    "erreur_sup": 9.9011,
+                    "erreur_inf": 6.0989
+                  },
+                  {
+                    "tete_liste": "Olivier Dubuquoy",
+                    "parti": "EE-LV",
+                    "intentions": 9,
+                    "erreur_sup": 11.0054,
+                    "erreur_inf": 6.9946
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "paca_ifp_03_12",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-12-03",
