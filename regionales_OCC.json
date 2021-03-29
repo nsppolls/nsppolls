@@ -88,7 +88,7 @@
                   {
                     "tete_liste": null,
                     "parti": "Lutte ouvrière",
-                    "intentions": null,
+                    "intentions": 0,
                     "erreur_sup": 0,
                     "erreur_inf": 0
                   }
