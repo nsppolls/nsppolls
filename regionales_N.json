@@ -307,6 +307,213 @@
             ]
           }
         ]
+      },
+      {
+        "id": "n_ifp_04_03",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-03-04",
+        "fin_enquete": "2021-03-09",
+        "commanditaire": "Fédération du PCF en Seine-Maritime",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mars/9110-normandie-ifop-paris-normandie.pdf",
+        "echantillon": 909,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse « gauche divisée »",
+                "sous_echantillon": 549.036,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Nathalie Goulet",
+                    "parti": "UDI",
+                    "intentions": 2,
+                    "erreur_sup": 3.1711,
+                    "erreur_inf": 0.8289
+                  },
+                  {
+                    "tete_liste": "Pascal Le Manach",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": "Parti socialiste",
+                    "intentions": 8,
+                    "erreur_sup": 10.2693,
+                    "erreur_inf": 5.7307
+                  },
+                  {
+                    "tete_liste": "Laëtitia Sanchez",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 9,
+                    "erreur_sup": 11.3939,
+                    "erreur_inf": 6.6061
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Centristes",
+                      "Les Républicains",
+                      "Modem"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.8687,
+                    "erreur_inf": 27.1313
+                  },
+                  {
+                    "tete_liste": "Marie Le Vern",
+                    "parti": {},
+                    "intentions": 2,
+                    "erreur_sup": 3.1711,
+                    "erreur_inf": 0.8289
+                  },
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 16.9025,
+                    "erreur_inf": 11.0975
+                  },
+                  {
+                    "tete_liste": "Laurent Bonaterre",
+                    "parti": "LRM",
+                    "intentions": 9,
+                    "erreur_sup": 11.3939,
+                    "erreur_inf": 6.6061
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 24,
+                    "erreur_sup": 27.5725,
+                    "erreur_inf": 20.4275
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse « gauche unie »",
+                "sous_echantillon": 562.671,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Nathalie Goulet",
+                    "parti": "UDI",
+                    "intentions": 3,
+                    "erreur_sup": 4.4095,
+                    "erreur_inf": 1.5905
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 25,
+                    "erreur_sup": 28.5779,
+                    "erreur_inf": 21.4221
+                  },
+                  {
+                    "tete_liste": "Pascal Le Manach",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 0.5,
+                    "erreur_sup": 1.0828,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Centristes",
+                      "Les Républicains",
+                      "Modem"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 35.8544,
+                    "erreur_inf": 28.1456
+                  },
+                  {
+                    "tete_liste": "Laurent Bonaterre",
+                    "parti": "LRM",
+                    "intentions": 12,
+                    "erreur_sup": 14.6851,
+                    "erreur_inf": 9.3149
+                  },
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste",
+                      "EE-LV",
+                      "Parti socialiste"
+                    ],
+                    "intentions": 25,
+                    "erreur_sup": 28.5779,
+                    "erreur_inf": 21.4221
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse « gauche divisée »",
+                "sous_echantillon": 909,
+                "tetes_liste": [
+                  {
+                    "tete_liste": null,
+                    "parti": {},
+                    "intentions": null,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 569.943,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste",
+                      "EE-LV",
+                      "Parti socialiste"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 33.7623,
+                    "erreur_inf": 26.2377
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Centristes",
+                      "Les Républicains",
+                      "Modem"
+                    ],
+                    "intentions": 43,
+                    "erreur_sup": 47.0645,
+                    "erreur_inf": 38.9355
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 27,
+                    "erreur_sup": 30.6449,
+                    "erreur_inf": 23.3551
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
