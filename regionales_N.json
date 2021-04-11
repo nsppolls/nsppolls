@@ -456,19 +456,6 @@
                     "erreur_inf": 21.4221
                   }
                 ]
-              },
-              {
-                "hypothese": "Hypothèse « gauche divisée »",
-                "sous_echantillon": 909,
-                "tetes_liste": [
-                  {
-                    "tete_liste": null,
-                    "parti": {},
-                    "intentions": null,
-                    "erreur_sup": 0,
-                    "erreur_inf": 0
-                  }
-                ]
               }
             ]
           },

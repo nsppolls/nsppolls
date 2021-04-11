@@ -470,6 +470,186 @@
         ]
       },
       {
+        "id": "idf_ips_05_04",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-04-05",
+        "fin_enquete": "2021-04-07",
+        "commanditaire": "Le Parisien et franceinfo",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9112-idf-ipsos-le-parisien.pdf",
+        "echantillon": 500,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 465,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 19,
+                    "erreur_sup": 22.5657,
+                    "erreur_inf": 15.4343
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 16.0568,
+                    "erreur_inf": 9.9432
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar ou Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 36.2399,
+                    "erreur_inf": 27.7601
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 40.3629,
+                    "erreur_inf": 31.6371
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 455,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Audrey Pulvar ou Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 40.4105,
+                    "erreur_inf": 31.5895
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 19,
+                    "erreur_sup": 22.6047,
+                    "erreur_inf": 15.3953
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 45,
+                    "erreur_sup": 49.5713,
+                    "erreur_inf": 40.4287
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 465,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.8439,
+                    "erreur_inf": 8.1561
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 17,
+                    "erreur_sup": 20.4142,
+                    "erreur_inf": 13.5858
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 38.3057,
+                    "erreur_inf": 29.6943
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.8439,
+                    "erreur_inf": 8.1561
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": "Parti socialiste",
+                    "intentions": 12,
+                    "erreur_sup": 14.9537,
+                    "erreur_inf": 9.0463
+                  },
+                  {
+                    "tete_liste": "Nathalie Arthaud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.2725,
+                    "erreur_inf": 0.7275
+                  },
+                  {
+                    "tete_liste": "Alexis Villepelet",
+                    "parti": "Debout la France",
+                    "intentions": 2,
+                    "erreur_sup": 3.2725,
+                    "erreur_inf": 0.7275
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.8439,
+                    "erreur_inf": 8.1561
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "idf_ow_19_01",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-01-19",

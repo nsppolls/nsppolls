@@ -2115,6 +2115,1074 @@
     ]
   },
   {
+    "id": "ifp_02_04",
+    "nom_institut": "Ifop",
+    "debut_enquete": "2021-04-02",
+    "fin_enquete": "2021-04-08",
+    "commanditaire": "Journal du Dimanche / Sud Radio",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9113-p-ifop-jddpdf.pdf",
+    "echantillon": 1730,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": "Hypothèse Bertrand",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 25,
+                "erreur_sup": 27.0405,
+                "erreur_inf": 22.9595
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 11,
+                "erreur_sup": 12.4744,
+                "erreur_inf": 9.5256
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": "EE-LV",
+                "intentions": 6,
+                "erreur_sup": 7.1191,
+                "erreur_inf": 4.8809
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 24,
+                "erreur_sup": 26.0125,
+                "erreur_inf": 21.9875
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": "Parti socialiste",
+                "intentions": 7,
+                "erreur_sup": 8.2023,
+                "erreur_inf": 5.7977
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 5,
+                "erreur_sup": 6.027,
+                "erreur_inf": 3.973
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": "Parti communiste",
+                "intentions": 2.5,
+                "erreur_sup": 3.2357,
+                "erreur_inf": 1.7643
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": "Les Républicains",
+                "intentions": 16,
+                "erreur_sup": 17.7276,
+                "erreur_inf": 14.2724
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Jadot-Pécresse",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 28,
+                "erreur_sup": 30.1158,
+                "erreur_inf": 25.8842
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": [
+                  "Parti socialiste",
+                  "EE-LV"
+                ],
+                "intentions": 9,
+                "erreur_sup": 10.3486,
+                "erreur_inf": 7.6514
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 13,
+                "erreur_sup": 14.5848,
+                "erreur_inf": 11.4152
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 5,
+                "erreur_sup": 6.027,
+                "erreur_inf": 3.973
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": "Les Républicains",
+                "intentions": 13,
+                "erreur_sup": 14.5848,
+                "erreur_inf": 11.4152
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 27,
+                "erreur_sup": 29.0921,
+                "erreur_inf": 24.9079
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Hidalgo-Bertrand",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": [
+                  "Parti socialiste",
+                  "EE-LV"
+                ],
+                "intentions": 10,
+                "erreur_sup": 11.4137,
+                "erreur_inf": 8.5863
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": "Les Républicains",
+                "intentions": 20,
+                "erreur_sup": 21.8849,
+                "erreur_inf": 18.1151
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 4,
+                "erreur_sup": 4.9234,
+                "erreur_inf": 3.0766
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 25,
+                "erreur_sup": 27.0405,
+                "erreur_inf": 22.9595
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 12,
+                "erreur_sup": 13.5313,
+                "erreur_inf": 10.4687
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 25,
+                "erreur_sup": 27.0405,
+                "erreur_inf": 22.9595
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Wauquiez",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 27,
+                "erreur_sup": 29.0921,
+                "erreur_inf": 24.9079
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": "Parti communiste",
+                "intentions": 2.5,
+                "erreur_sup": 3.2357,
+                "erreur_inf": 1.7643
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 5.5,
+                "erreur_sup": 6.5743,
+                "erreur_inf": 4.4257
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 27,
+                "erreur_sup": 29.0921,
+                "erreur_inf": 24.9079
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": "Parti socialiste",
+                "intentions": 8,
+                "erreur_sup": 9.2784,
+                "erreur_inf": 6.7216
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": "EE-LV",
+                "intentions": 7,
+                "erreur_sup": 8.2023,
+                "erreur_inf": 5.7977
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 10,
+                "erreur_sup": 11.4137,
+                "erreur_inf": 8.5863
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Laurent Wauquiez",
+                "parti": "Les Républicains",
+                "intentions": 7,
+                "erreur_sup": 8.2023,
+                "erreur_inf": 5.7977
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Pécresse",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 11,
+                "erreur_sup": 12.4744,
+                "erreur_inf": 9.5256
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": "EE-LV",
+                "intentions": 7,
+                "erreur_sup": 8.2023,
+                "erreur_inf": 5.7977
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": "Les Républicains",
+                "intentions": 11,
+                "erreur_sup": 12.4744,
+                "erreur_inf": 9.5256
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": "Parti communiste",
+                "intentions": 3,
+                "erreur_sup": 3.8039,
+                "erreur_inf": 2.1961
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": "Parti socialiste",
+                "intentions": 7,
+                "erreur_sup": 8.2023,
+                "erreur_inf": 5.7977
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 25,
+                "erreur_sup": 27.0405,
+                "erreur_inf": 22.9595
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 5,
+                "erreur_sup": 6.027,
+                "erreur_inf": 3.973
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 26,
+                "erreur_sup": 28.067,
+                "erreur_inf": 23.933
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Hidalgo-Pécresse",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": [
+                  "Parti socialiste",
+                  "EE-LV"
+                ],
+                "intentions": 10,
+                "erreur_sup": 11.4137,
+                "erreur_inf": 8.5863
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 5,
+                "erreur_sup": 6.027,
+                "erreur_inf": 3.973
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 27,
+                "erreur_sup": 29.0921,
+                "erreur_inf": 24.9079
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 13,
+                "erreur_sup": 14.5848,
+                "erreur_inf": 11.4152
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": "Les Républicains",
+                "intentions": 12,
+                "erreur_sup": 13.5313,
+                "erreur_inf": 10.4687
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 27,
+                "erreur_sup": 29.0921,
+                "erreur_inf": 24.9079
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 2,
+                "erreur_sup": 2.6597,
+                "erreur_inf": 1.3403
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Retailleau",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": "EE-LV",
+                "intentions": 7,
+                "erreur_sup": 8.2023,
+                "erreur_inf": 5.7977
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 11,
+                "erreur_sup": 12.4744,
+                "erreur_inf": 9.5256
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 3,
+                "erreur_sup": 3.8039,
+                "erreur_inf": 2.1961
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": "Parti communiste",
+                "intentions": 3,
+                "erreur_sup": 3.8039,
+                "erreur_inf": 2.1961
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": "Parti socialiste",
+                "intentions": 7,
+                "erreur_sup": 8.2023,
+                "erreur_inf": 5.7977
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 6,
+                "erreur_sup": 7.1191,
+                "erreur_inf": 4.8809
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 27,
+                "erreur_sup": 29.0921,
+                "erreur_inf": 24.9079
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 26,
+                "erreur_sup": 28.067,
+                "erreur_inf": 23.933
+              },
+              {
+                "candidat": "Bruno Retailleau",
+                "parti": "Les Républicains",
+                "intentions": 6,
+                "erreur_sup": 7.1191,
+                "erreur_inf": 4.8809
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Jadot-Bertrand",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 26,
+                "erreur_sup": 28.067,
+                "erreur_inf": 23.933
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 25,
+                "erreur_sup": 27.0405,
+                "erreur_inf": 22.9595
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 4,
+                "erreur_sup": 4.9234,
+                "erreur_inf": 3.0766
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": [
+                  "Parti socialiste",
+                  "EE-LV"
+                ],
+                "intentions": 9,
+                "erreur_sup": 10.3486,
+                "erreur_inf": 7.6514
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 13.5,
+                "erreur_sup": 15.1103,
+                "erreur_inf": 11.8897
+              },
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": "Les Républicains",
+                "intentions": 19,
+                "erreur_sup": 20.8486,
+                "erreur_inf": 17.1514
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Montebourg-Jadot",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": "Les Républicains",
+                "intentions": 18,
+                "erreur_sup": 19.8104,
+                "erreur_inf": 16.1896
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 25,
+                "erreur_sup": 27.0405,
+                "erreur_inf": 22.9595
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 12,
+                "erreur_sup": 13.5313,
+                "erreur_inf": 10.4687
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": "EE-LV",
+                "intentions": 7,
+                "erreur_sup": 8.2023,
+                "erreur_inf": 5.7977
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": "Parti communiste",
+                "intentions": 2,
+                "erreur_sup": 2.6597,
+                "erreur_inf": 1.3403
+              },
+              {
+                "candidat": "Arnaud Montebourg",
+                "parti": "Parti socialiste",
+                "intentions": 5,
+                "erreur_sup": 6.027,
+                "erreur_inf": 3.973
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1,
+                "erreur_sup": 1.4689,
+                "erreur_inf": 0.5311
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 4,
+                "erreur_sup": 4.9234,
+                "erreur_inf": 3.0766
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 23,
+                "erreur_sup": 24.9831,
+                "erreur_inf": 21.0169
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Hidalgo-Piolle",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Eric Piolle",
+                "parti": "EE-LV",
+                "intentions": 2,
+                "erreur_sup": 2.6597,
+                "erreur_inf": 1.3403
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 24,
+                "erreur_sup": 26.0125,
+                "erreur_inf": 21.9875
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 11,
+                "erreur_sup": 12.4744,
+                "erreur_inf": 9.5256
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 25,
+                "erreur_sup": 27.0405,
+                "erreur_inf": 22.9595
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": "Parti communiste",
+                "intentions": 2,
+                "erreur_sup": 2.6597,
+                "erreur_inf": 1.3403
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 0.5,
+                "erreur_sup": 0.8324,
+                "erreur_inf": 0.1676
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 4,
+                "erreur_sup": 4.9234,
+                "erreur_inf": 3.0766
+              },
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": "Les Républicains",
+                "intentions": 18,
+                "erreur_sup": 19.8104,
+                "erreur_inf": 16.1896
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1.5,
+                "erreur_sup": 2.0728,
+                "erreur_inf": 0.9272
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": "Parti socialiste",
+                "intentions": 10,
+                "erreur_sup": 11.4137,
+                "erreur_inf": 8.5863
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": "Hypothèse Jadot",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Yannick Jadot",
+                "parti": "EE-LV",
+                "intentions": 47,
+                "erreur_sup": 49.3519,
+                "erreur_inf": 44.6481
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 53,
+                "erreur_sup": 55.3519,
+                "erreur_inf": 50.6481
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Bertrand",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": "Les Républicains",
+                "intentions": 59,
+                "erreur_sup": 61.3177,
+                "erreur_inf": 56.6823
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 41,
+                "erreur_sup": 43.3177,
+                "erreur_inf": 38.6823
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 46,
+                "erreur_sup": 48.3486,
+                "erreur_inf": 43.6514
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 54,
+                "erreur_sup": 56.3486,
+                "erreur_inf": 51.6514
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Mélenchon",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 60,
+                "erreur_sup": 62.3085,
+                "erreur_inf": 57.6915
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 40,
+                "erreur_sup": 42.3085,
+                "erreur_inf": 37.6915
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Pécresse",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 45,
+                "erreur_sup": 47.3443,
+                "erreur_inf": 42.6557
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": "Les Républicains",
+                "intentions": 55,
+                "erreur_sup": 57.3443,
+                "erreur_inf": 52.6557
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Hidalgo",
+            "sous_echantillon": 1730,
+            "candidats": [
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": "Parti socialiste",
+                "intentions": 50,
+                "erreur_sup": 52.3562,
+                "erreur_inf": 47.6438
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 50,
+                "erreur_sup": 52.3562,
+                "erreur_inf": 47.6438
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "hi_02_03",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-03-02",
