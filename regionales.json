@@ -681,6 +681,146 @@
             ]
           }
         ]
+      },
+      {
+        "id": "ara_ow_17_03",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-03-17",
+        "fin_enquete": "2021-03-22",
+        "commanditaire": "La Droite Sociale",
+        "lien": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/laurent-wauquiez-serait-reelu-president-d-auvergne-rhone-alpes-en-juin-selon-un-sondage-opinionway_13933838/",
+        "echantillon": 1095,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 810.3,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 22,
+                    "erreur_sup": 24.8523,
+                    "erreur_inf": 19.1477
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "EE-LV"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.0569,
+                    "erreur_inf": 23.9431
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes",
+                      "UDI"
+                    ],
+                    "intentions": 35,
+                    "erreur_sup": 38.2842,
+                    "erreur_inf": 31.7158
+                  },
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.5243,
+                    "erreur_inf": 13.4757
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 876,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Cécile Cukierman",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 7,
+                    "erreur_sup": 8.6896,
+                    "erreur_inf": 5.3104
+                  },
+                  {
+                    "tete_liste": null,
+                    "parti": "Debout la France",
+                    "intentions": 3,
+                    "erreur_sup": 4.1297,
+                    "erreur_inf": 1.8703
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem",
+                    "parti": "Parti socialiste",
+                    "intentions": 12,
+                    "erreur_sup": 14.152,
+                    "erreur_inf": 9.848
+                  },
+                  {
+                    "tete_liste": "Fabienne Grebert",
+                    "parti": "EE-LV",
+                    "intentions": 13,
+                    "erreur_sup": 15.2271,
+                    "erreur_inf": 10.7729
+                  },
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.2271,
+                    "erreur_inf": 10.7729
+                  },
+                  {
+                    "tete_liste": null,
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 2.9271,
+                    "erreur_inf": 1.0729
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 19,
+                    "erreur_sup": 21.5979,
+                    "erreur_inf": 16.4021
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 32.0049,
+                    "erreur_inf": 25.9951
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
