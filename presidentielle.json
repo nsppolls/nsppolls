@@ -19,9 +19,9 @@
               {
                 "candidat": "Marine Le Pen",
                 "parti": "Rassemblement national",
-                "intentions": 0.5,
-                "erreur_sup": 0.8571,
-                "erreur_inf": 0.1429
+                "intentions": 28,
+                "erreur_sup": 30.273,
+                "erreur_inf": 25.727
               },
               {
                 "candidat": "Nicolas Dupont-Aignan",
@@ -89,9 +89,9 @@
               {
                 "candidat": "Jean-Frédéric Poisson",
                 "parti": "PCD",
-                "intentions": 28,
-                "erreur_sup": 30.273,
-                "erreur_inf": 25.727
+                "intentions": 0.5,
+                "erreur_sup": 0.8571,
+                "erreur_inf": 0.1429
               },
               {
                 "candidat": "Valérie Pécresse",
