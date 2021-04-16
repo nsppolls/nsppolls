@@ -3,6 +3,287 @@
     "region": "Île-de-France",
     "sondages": [
       {
+        "id": "idf_hi_30_03",
+        "nom_institut": "Harris Interactive",
+        "debut_enquete": "2021-03-30",
+        "fin_enquete": "2021-04-06",
+        "commanditaire": "EE-LV",
+        "lien": null,
+        "echantillon": 999,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Union de la gauche derrière EELV",
+                "sous_echantillon": 999,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": "Les Républicains",
+                    "intentions": 33,
+                    "erreur_sup": 35.9159,
+                    "erreur_inf": 30.0841
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 21.4327,
+                    "erreur_inf": 16.5673
+                  },
+                  {
+                    "tete_liste": "Alexis Villepelet",
+                    "parti": "Debout la France",
+                    "intentions": 2,
+                    "erreur_sup": 2.8682,
+                    "erreur_inf": 1.1318
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "EE-LV",
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 28,
+                    "erreur_sup": 30.7843,
+                    "erreur_inf": 25.2157
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 14,
+                    "erreur_sup": 16.1517,
+                    "erreur_inf": 11.8483
+                  },
+                  {
+                    "tete_liste": "Nathalie Arthaud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 4,
+                    "erreur_sup": 5.2152,
+                    "erreur_inf": 2.7848
+                  }
+                ]
+              },
+              {
+                "hypothese": "Offre éclatée",
+                "sous_echantillon": 999,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 12.9403,
+                    "erreur_inf": 9.0597
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": "EE-LV",
+                    "intentions": 13,
+                    "erreur_sup": 15.0855,
+                    "erreur_inf": 10.9145
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "Parti socialiste",
+                      "Place publique",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.0855,
+                    "erreur_inf": 10.9145
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": "Les Républicains",
+                    "intentions": 28,
+                    "erreur_sup": 30.7843,
+                    "erreur_inf": 25.2157
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.3294,
+                    "erreur_inf": 14.6706
+                  },
+                  {
+                    "tete_liste": "Alexis Villepelet",
+                    "parti": "Debout la France",
+                    "intentions": 2,
+                    "erreur_sup": 2.8682,
+                    "erreur_inf": 1.1318
+                  },
+                  {
+                    "tete_liste": "Nathalie Arthaud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 2.8682,
+                    "erreur_inf": 1.1318
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 14,
+                    "erreur_sup": 16.1517,
+                    "erreur_inf": 11.8483
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Alliance derrière le PS",
+                "sous_echantillon": 999,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti socialiste",
+                      "Parti communiste"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 34.8927,
+                    "erreur_inf": 29.1073
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": "Les Républicains",
+                    "intentions": 33,
+                    "erreur_sup": 35.9159,
+                    "erreur_inf": 30.0841
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 15,
+                    "erreur_sup": 17.2143,
+                    "erreur_inf": 12.7857
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 22.4805,
+                    "erreur_inf": 17.5195
+                  }
+                ]
+              },
+              {
+                "hypothese": "Alliance derrière LFI",
+                "sous_echantillon": 999,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 17,
+                    "erreur_sup": 19.3294,
+                    "erreur_inf": 14.6706
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti socialiste",
+                      "Parti communiste"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 34.8927,
+                    "erreur_inf": 29.1073
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": "Les Républicains",
+                    "intentions": 32,
+                    "erreur_sup": 34.8927,
+                    "erreur_inf": 29.1073
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 21.4327,
+                    "erreur_inf": 16.5673
+                  }
+                ]
+              },
+              {
+                "hypothese": "Alliance derrière EELV",
+                "sous_echantillon": 999,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti socialiste",
+                      "Parti communiste"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 35.9159,
+                    "erreur_inf": 30.0841
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 15,
+                    "erreur_sup": 17.2143,
+                    "erreur_inf": 12.7857
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": "Les Républicains",
+                    "intentions": 32,
+                    "erreur_sup": 34.8927,
+                    "erreur_inf": 29.1073
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 22.4805,
+                    "erreur_inf": 17.5195
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "idf_ifp_23_02",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-02-23",
