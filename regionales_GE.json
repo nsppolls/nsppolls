@@ -250,6 +250,80 @@
             ]
           }
         ]
+      },
+      {
+        "id": "ge_hi_13_04",
+        "nom_institut": "Harris Interactive",
+        "debut_enquete": "2021-04-13",
+        "fin_enquete": "2021-04-19",
+        "commanditaire": "EE-LV",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9119-grand-est-hi-est-repu.pdf",
+        "echantillon": 1004,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 773.08,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Florian Philippot",
+                    "parti": "Les Patriotes",
+                    "intentions": 4,
+                    "erreur_sup": 5.3814,
+                    "erreur_inf": 2.6186
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "France insoumise",
+                      "Parti radical de gauche",
+                      "Génération·s"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.1148,
+                    "erreur_inf": 7.8852
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.5843,
+                    "erreur_inf": 13.4157
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 28,
+                    "erreur_sup": 31.1651,
+                    "erreur_inf": 24.8349
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 24,
+                    "erreur_sup": 27.0106,
+                    "erreur_inf": 20.9894
+                  },
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": "LRM",
+                    "intentions": 18,
+                    "erreur_sup": 20.7082,
+                    "erreur_inf": 15.2918
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

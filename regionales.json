@@ -5048,6 +5048,127 @@
             ]
           }
         ]
+      },
+      {
+        "id": "n_ow_08_04",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-04-08",
+        "fin_enquete": "2021-04-14",
+        "commanditaire": "Laurent Bonnaterre (maj. présidentielle)",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-situation-en-normandie-a-deux-mois-des-re-gionales-avril-2021/viewdocument/2561.html?Itemid=0",
+        "echantillon": 1002,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 711.42,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 25,
+                    "erreur_sup": 28.182,
+                    "erreur_inf": 21.818
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 33.3675,
+                    "erreur_inf": 26.6325
+                  },
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 22,
+                    "erreur_sup": 25.044,
+                    "erreur_inf": 18.956
+                  },
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 23,
+                    "erreur_sup": 26.0924,
+                    "erreur_inf": 19.9076
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 771.54,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 8,
+                    "erreur_sup": 9.9143,
+                    "erreur_inf": 6.0857
+                  },
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV"
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.6506,
+                    "erreur_inf": 14.3494
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 23,
+                    "erreur_sup": 25.9695,
+                    "erreur_inf": 20.0305
+                  },
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 18,
+                    "erreur_sup": 20.7109,
+                    "erreur_inf": 15.2891
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.1327,
+                    "erreur_inf": 23.8673
+                  },
+                  {
+                    "tete_liste": null,
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 2.9879,
+                    "erreur_inf": 1.0121
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -5431,6 +5552,80 @@
                     "intentions": 28,
                     "erreur_sup": 31.7775,
                     "erreur_inf": 24.2225
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ge_hi_13_04",
+        "nom_institut": "Harris Interactive",
+        "debut_enquete": "2021-04-13",
+        "fin_enquete": "2021-04-19",
+        "commanditaire": "EE-LV",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9119-grand-est-hi-est-repu.pdf",
+        "echantillon": 1004,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 773.08,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Florian Philippot",
+                    "parti": "Les Patriotes",
+                    "intentions": 4,
+                    "erreur_sup": 5.3814,
+                    "erreur_inf": 2.6186
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "France insoumise",
+                      "Parti radical de gauche",
+                      "Génération·s"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.1148,
+                    "erreur_inf": 7.8852
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.5843,
+                    "erreur_inf": 13.4157
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 28,
+                    "erreur_sup": 31.1651,
+                    "erreur_inf": 24.8349
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 24,
+                    "erreur_sup": 27.0106,
+                    "erreur_inf": 20.9894
+                  },
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": "LRM",
+                    "intentions": 18,
+                    "erreur_sup": 20.7082,
+                    "erreur_inf": 15.2918
                   }
                 ]
               }
