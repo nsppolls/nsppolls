@@ -284,6 +284,342 @@
         ]
       },
       {
+        "id": "idf_ips_26_04",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-04-26",
+        "fin_enquete": "2021-04-27",
+        "commanditaire": "France Télés et Radio France",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9126-idf-ipsos-france-tv.pdf",
+        "echantillon": 480,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 441.6,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.9183,
+                    "erreur_inf": 8.0817
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.7981,
+                    "erreur_inf": 7.2019
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": "Parti socialiste",
+                    "intentions": 10,
+                    "erreur_sup": 12.7981,
+                    "erreur_inf": 7.2019
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 36.3508,
+                    "erreur_inf": 27.6492
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 19,
+                    "erreur_sup": 22.659,
+                    "erreur_inf": 15.341
+                  },
+                  {
+                    "tete_liste": "Nathalie Arthaud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.3058,
+                    "erreur_inf": 0.6942
+                  },
+                  {
+                    "tete_liste": "Alexis Villepellet",
+                    "parti": "Debout la France",
+                    "intentions": 3,
+                    "erreur_sup": 4.5911,
+                    "erreur_inf": 1.4089
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 16.1367,
+                    "erreur_inf": 9.8633
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire - Julien Bayou tête de liste",
+                "sous_echantillon": 408,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 45,
+                    "erreur_sup": 49.8274,
+                    "erreur_inf": 40.1726
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 21,
+                    "erreur_sup": 24.9523,
+                    "erreur_inf": 17.0477
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 38.5966,
+                    "erreur_inf": 29.4034
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire - Audrey Pulvar tête de liste",
+                "sous_echantillon": 412.8,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 38.5698,
+                    "erreur_inf": 29.4302
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 45,
+                    "erreur_sup": 49.7993,
+                    "erreur_inf": 40.2007
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 21,
+                    "erreur_sup": 24.9292,
+                    "erreur_inf": 17.0708
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire - Clémentine Autain tête de liste",
+                "sous_echantillon": 417.6,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 21,
+                    "erreur_sup": 24.9066,
+                    "erreur_inf": 17.0934
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 46,
+                    "erreur_sup": 50.7803,
+                    "erreur_inf": 41.2197
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 37.5099,
+                    "erreur_inf": 28.4901
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire - Clémentine Autain tête de liste",
+                "sous_echantillon": 432,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 21,
+                    "erreur_sup": 24.8409,
+                    "erreur_inf": 17.1591
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 35,
+                    "erreur_sup": 39.4978,
+                    "erreur_inf": 30.5022
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 18.3672,
+                    "erreur_inf": 11.6328
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 33.279,
+                    "erreur_inf": 24.721
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire - Julien Bayou tête de liste",
+                "sous_echantillon": 422.4,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 18.4053,
+                    "erreur_inf": 11.5947
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 21,
+                    "erreur_sup": 24.8843,
+                    "erreur_inf": 17.1157
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 33.3274,
+                    "erreur_inf": 24.6726
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 35,
+                    "erreur_sup": 39.5487,
+                    "erreur_inf": 30.4513
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire - Audrey Pulvar tête de liste",
+                "sous_echantillon": 432,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 40.5264,
+                    "erreur_inf": 31.4736
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 17.2721,
+                    "erreur_inf": 10.7279
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 34.3214,
+                    "erreur_inf": 25.6786
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 20,
+                    "erreur_sup": 23.772,
+                    "erreur_inf": 16.228
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "idf_ifp_23_02",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-02-23",

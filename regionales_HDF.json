@@ -240,6 +240,175 @@
             ]
           }
         ]
+      },
+      {
+        "id": "hdf_bva_22_04",
+        "nom_institut": "BVA",
+        "debut_enquete": "2021-04-22",
+        "fin_enquete": "2021-04-29",
+        "commanditaire": "RTL et Orange",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9127-hdf-bva-orange.pdf",
+        "echantillon": 440,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 343.2,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 24.232,
+                    "erreur_inf": 15.768
+                  },
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 36,
+                    "erreur_sup": 41.0784,
+                    "erreur_inf": 30.9216
+                  },
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 44,
+                    "erreur_sup": 49.2517,
+                    "erreur_inf": 38.7483
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 356.4,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 40.9834,
+                    "erreur_inf": 31.0166
+                  },
+                  {
+                    "tete_liste": "Laurent Pietraszewski",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 14.2485,
+                    "erreur_inf": 7.7515
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 23.0729,
+                    "erreur_inf": 14.9271
+                  },
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": [
+                      "Debout la France",
+                      "Rassemblement national"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 38.9181,
+                    "erreur_inf": 29.0819
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 360.8,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 37.852,
+                    "erreur_inf": 28.148
+                  },
+                  {
+                    "tete_liste": "Laurent Pietraszewski",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 12,
+                    "erreur_sup": 15.3532,
+                    "erreur_inf": 8.6468
+                  },
+                  {
+                    "tete_liste": "José Evrard",
+                    "parti": "Debout la France",
+                    "intentions": 2,
+                    "erreur_sup": 3.4446,
+                    "erreur_inf": 0.5554
+                  },
+                  {
+                    "tete_liste": "Eric Pecqueur",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 3,
+                    "erreur_sup": 4.7602,
+                    "erreur_inf": 1.2398
+                  },
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 31,
+                    "erreur_sup": 35.7723,
+                    "erreur_inf": 26.2277
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 20.876,
+                    "erreur_inf": 13.124
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
