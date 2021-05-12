@@ -83,7 +83,7 @@
             "hypotheses": [
               {
                 "hypothese": "Hypothèse quadrangulaire",
-                "sous_echantillon": 455,
+                "sous_echantillon": 414.05,
                 "tetes_liste": [
                   {
                     "tete_liste": "Xavier Bertrand",
@@ -93,15 +93,15 @@
                       "Les Centristes"
                     ],
                     "intentions": 36,
-                    "erreur_sup": 40.4105,
-                    "erreur_inf": 31.5895
+                    "erreur_sup": 40.6235,
+                    "erreur_inf": 31.3765
                   },
                   {
                     "tete_liste": "Sébastien Chenu",
                     "parti": "Rassemblement national",
                     "intentions": 33,
-                    "erreur_sup": 37.3206,
-                    "erreur_inf": 28.6794
+                    "erreur_sup": 37.5292,
+                    "erreur_inf": 28.4708
                   },
                   {
                     "tete_liste": "Karima Delli",
@@ -112,8 +112,8 @@
                       "Parti communiste"
                     ],
                     "intentions": 21,
-                    "erreur_sup": 24.7426,
-                    "erreur_inf": 17.2574
+                    "erreur_sup": 24.9233,
+                    "erreur_inf": 17.0767
                   },
                   {
                     "tete_liste": "Laurent Pietraszewski",
@@ -123,14 +123,14 @@
                       "Agir"
                     ],
                     "intentions": 10,
-                    "erreur_sup": 12.7566,
-                    "erreur_inf": 7.2434
+                    "erreur_sup": 12.8897,
+                    "erreur_inf": 7.1103
                   }
                 ]
               },
               {
                 "hypothese": "Hypothèse triangulaire",
-                "sous_echantillon": 455,
+                "sous_echantillon": 409.5,
                 "tetes_liste": [
                   {
                     "tete_liste": "Xavier Bertrand",
@@ -140,8 +140,8 @@
                       "Les Centristes"
                     ],
                     "intentions": 43,
-                    "erreur_sup": 47.5491,
-                    "erreur_inf": 38.4509
+                    "erreur_sup": 47.7951,
+                    "erreur_inf": 38.2049
                   },
                   {
                     "tete_liste": "Karima Delli",
@@ -152,15 +152,15 @@
                       "Parti communiste"
                     ],
                     "intentions": 23,
-                    "erreur_sup": 26.8669,
-                    "erreur_inf": 19.1331
+                    "erreur_sup": 27.076,
+                    "erreur_inf": 18.924
                   },
                   {
                     "tete_liste": "Sébastien Chenu",
                     "parti": "Rassemblement national",
                     "intentions": 34,
-                    "erreur_sup": 38.3527,
-                    "erreur_inf": 29.6473
+                    "erreur_sup": 38.5882,
+                    "erreur_inf": 29.4118
                   }
                 ]
               }

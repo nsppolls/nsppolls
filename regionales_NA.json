@@ -336,8 +336,8 @@
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-30",
         "fin_enquete": "2021-05-04",
-        "commanditaire": "France Télés et Radio France",
-        "lien": null,
+        "commanditaire": "France 3 et France Bleu",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9130-nouvelle-aquitaine-ipsos-radio-france.pdf",
         "echantillon": 485,
         "population": "Certains d'aller voter",
         "tours": [
@@ -346,14 +346,14 @@
             "hypotheses": [
               {
                 "hypothese": null,
-                "sous_echantillon": 485,
+                "sous_echantillon": 431.65,
                 "tetes_liste": [
                   {
                     "tete_liste": "Nicolas Florian",
                     "parti": "Les Républicains",
                     "intentions": 14,
-                    "erreur_sup": 17.0882,
-                    "erreur_inf": 10.9118
+                    "erreur_sup": 17.2734,
+                    "erreur_inf": 10.7266
                   },
                   {
                     "tete_liste": "Alain Rousset",
@@ -362,8 +362,8 @@
                       "Parti socialiste"
                     ],
                     "intentions": 25,
-                    "erreur_sup": 28.8538,
-                    "erreur_inf": 21.1462
+                    "erreur_sup": 29.085,
+                    "erreur_inf": 20.915
                   },
                   {
                     "tete_liste": "Geneviève Darrieussecq",
@@ -373,22 +373,22 @@
                       "UDI"
                     ],
                     "intentions": 19,
-                    "erreur_sup": 22.4914,
-                    "erreur_inf": 15.5086
+                    "erreur_sup": 22.7009,
+                    "erreur_inf": 15.2991
                   },
                   {
                     "tete_liste": "Guillaume Perchet",
                     "parti": "Lutte ouvrière",
                     "intentions": 1,
-                    "erreur_sup": 1.8855,
-                    "erreur_inf": 0.1145
+                    "erreur_sup": 1.9387,
+                    "erreur_inf": 0.0613
                   },
                   {
                     "tete_liste": "Edwige Diaz",
                     "parti": "Rassemblement national",
                     "intentions": 24,
-                    "erreur_sup": 27.801,
-                    "erreur_inf": 20.199
+                    "erreur_sup": 28.029,
+                    "erreur_inf": 19.971
                   },
                   {
                     "tete_liste": "Clémence Guetté",
@@ -397,8 +397,8 @@
                       "NPA"
                     ],
                     "intentions": 5,
-                    "erreur_sup": 6.9397,
-                    "erreur_inf": 3.0603
+                    "erreur_sup": 7.0561,
+                    "erreur_inf": 2.9439
                   },
                   {
                     "tete_liste": "Nicolas Thierry",
@@ -407,8 +407,8 @@
                       "EE-LV"
                     ],
                     "intentions": 10,
-                    "erreur_sup": 12.67,
-                    "erreur_inf": 7.33
+                    "erreur_sup": 12.8302,
+                    "erreur_inf": 7.1698
                   }
                 ]
               }
@@ -419,7 +419,7 @@
             "hypotheses": [
               {
                 "hypothese": "Hypothèse quadrangulaire",
-                "sous_echantillon": 485,
+                "sous_echantillon": 426.8,
                 "tetes_liste": [
                   {
                     "tete_liste": "Geneviève Darrieussecq",
@@ -429,22 +429,22 @@
                       "UDI"
                     ],
                     "intentions": 21,
-                    "erreur_sup": 24.625,
-                    "erreur_inf": 17.375
+                    "erreur_sup": 24.8643,
+                    "erreur_inf": 17.1357
                   },
                   {
                     "tete_liste": "Edwige Diaz",
                     "parti": "Rassemblement national",
                     "intentions": 26,
-                    "erreur_sup": 29.9038,
-                    "erreur_inf": 22.0962
+                    "erreur_sup": 30.1615,
+                    "erreur_inf": 21.8385
                   },
                   {
                     "tete_liste": "Nicolas Florian",
                     "parti": "Les Républicains",
                     "intentions": 16,
-                    "erreur_sup": 19.2628,
-                    "erreur_inf": 12.7372
+                    "erreur_sup": 19.4781,
+                    "erreur_inf": 12.5219
                   },
                   {
                     "tete_liste": "Alain Rousset",
@@ -454,8 +454,8 @@
                       "EE-LV"
                     ],
                     "intentions": 37,
-                    "erreur_sup": 41.2969,
-                    "erreur_inf": 32.7031
+                    "erreur_sup": 41.5805,
+                    "erreur_inf": 32.4195
                   }
                 ]
               }

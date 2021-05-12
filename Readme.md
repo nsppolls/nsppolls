@@ -73,7 +73,7 @@ Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de son
   * [Hauts-de-France](./regionales_HDF.json)
   * [Occitanie](./regionales_OCC.json)
   * [Pays de la Loire](./regionales_PDL.json)
-  * [Bretagne](./regionales_B.json)
+  * [Bretagne](./regionales_BZH.json)
   * [Grand Est](./regionales_GE.json)
 * [Élection présidentielle](./presidentielle.json)
 
