@@ -438,6 +438,189 @@
         ]
       },
       {
+        "id": "paca_ifp_06_05",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-05-06",
+        "fin_enquete": "2021-05-10",
+        "commanditaire": "Le Figaro et LCI",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9134-paca-ifop-le-figarp.pdf",
+        "echantillon": 954,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse LRM",
+                "sous_echantillon": 673.524,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Marina Mesure",
+                    "parti": "France insoumise",
+                    "intentions": 7,
+                    "erreur_sup": 8.9269,
+                    "erreur_inf": 5.0731
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 36,
+                    "erreur_sup": 39.6251,
+                    "erreur_inf": 32.3749
+                  },
+                  {
+                    "tete_liste": "Sophie Cluzel",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.363,
+                    "erreur_inf": 8.637
+                  },
+                  {
+                    "tete_liste": "Isabelle Bonnet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.7514,
+                    "erreur_inf": 0.2486
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "Les Centristes",
+                      "UDI",
+                      "Les Républicains"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.3529,
+                    "erreur_inf": 23.6471
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.5399,
+                    "erreur_inf": 10.4601
+                  },
+                  {
+                    "tete_liste": "Noël Chuisano",
+                    "parti": "Debout la France",
+                    "intentions": 3,
+                    "erreur_sup": 4.2883,
+                    "erreur_inf": 1.7117
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse LR-LRM",
+                "sous_echantillon": 677.34,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 16.6132,
+                    "erreur_inf": 11.3868
+                  },
+                  {
+                    "tete_liste": "Marina Mesure",
+                    "parti": "France insoumise",
+                    "intentions": 7,
+                    "erreur_sup": 8.9215,
+                    "erreur_inf": 5.0785
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "Les Centristes",
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 37.5675,
+                    "erreur_inf": 30.4325
+                  },
+                  {
+                    "tete_liste": "Isabelle Bonnet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.7493,
+                    "erreur_inf": 0.2507
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 38,
+                    "erreur_sup": 41.6554,
+                    "erreur_inf": 34.3446
+                  },
+                  {
+                    "tete_liste": "Noël Chuisano",
+                    "parti": "Debout la France",
+                    "intentions": 3,
+                    "erreur_sup": 4.2847,
+                    "erreur_inf": 1.7153
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 677.34,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste"
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 23.0124,
+                    "erreur_inf": 16.9876
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "Les Centristes",
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 39,
+                    "erreur_sup": 42.6732,
+                    "erreur_inf": 35.3268
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 41,
+                    "erreur_sup": 44.704,
+                    "erreur_inf": 37.296
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "paca_ifp_06_04",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-04-06",
