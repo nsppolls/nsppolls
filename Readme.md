@@ -75,6 +75,7 @@ Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de son
   * [Pays de la Loire](./regionales_PDL.json)
   * [Bretagne](./regionales_BZH.json)
   * [Grand Est](./regionales_GE.json)
+  * [Centre-Val-de-Loire](./regionales_CLV.json)
 * [Élection présidentielle](./presidentielle.json)
 
 # Crédits

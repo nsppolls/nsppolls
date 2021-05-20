@@ -6887,6 +6887,197 @@
     ]
   },
   {
+    "region": "Centre-Val-de-Loire",
+    "sondages": [
+      {
+        "id": "cvl_ips_12_05",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-05-12",
+        "fin_enquete": "2021-05-15",
+        "commanditaire": "France Bleu",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9135-centre-val-de-loire-ipsos-france-bleu.pdf",
+        "echantillon": 400,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 352,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Charles Fournier",
+                    "parti": [
+                      "EE-LV",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 14.2687,
+                    "erreur_inf": 7.7313
+                  },
+                  {
+                    "tete_liste": "Aleksandar Nikolik",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 32.6906,
+                    "erreur_inf": 23.3094
+                  },
+                  {
+                    "tete_liste": "Marc Fesneau",
+                    "parti": [
+                      "Modem",
+                      "LRM"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 23.0983,
+                    "erreur_inf": 14.9017
+                  },
+                  {
+                    "tete_liste": "Farida Megdoud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.4626,
+                    "erreur_inf": 0.5374
+                  },
+                  {
+                    "tete_liste": "Nicolas Forissier",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 19.8299,
+                    "erreur_inf": 12.1701
+                  },
+                  {
+                    "tete_liste": "François Bonneau",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 25.2551,
+                    "erreur_inf": 16.7449
+                  }
+                ]
+              },
+              {
+                "hypothese": null,
+                "sous_echantillon": 400,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jérémy Clément et Christelle de Crémiers",
+                    "parti": {},
+                    "intentions": 3,
+                    "erreur_sup": 4.6718,
+                    "erreur_inf": 1.3282
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse Fournier",
+                "sous_echantillon": 348,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Charles Fournier",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "EE-LV",
+                      "France insoumise"
+                    ],
+                    "intentions": 28,
+                    "erreur_sup": 32.7175,
+                    "erreur_inf": 23.2825
+                  },
+                  {
+                    "tete_liste": "Aleksandar Nikolik",
+                    "parti": "Rassemblement national",
+                    "intentions": 30,
+                    "erreur_sup": 34.8148,
+                    "erreur_inf": 25.1852
+                  },
+                  {
+                    "tete_liste": "Marc Fesneau",
+                    "parti": [
+                      "Modem",
+                      "LRM"
+                    ],
+                    "intentions": 25,
+                    "erreur_sup": 29.5495,
+                    "erreur_inf": 20.4505
+                  },
+                  {
+                    "tete_liste": "Nicolas Forissier",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 20.9467,
+                    "erreur_inf": 13.0533
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse Bonneau",
+                "sous_echantillon": 344,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "François Bonneau",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "EE-LV",
+                      "France insoumise"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 33.7952,
+                    "erreur_inf": 24.2048
+                  },
+                  {
+                    "tete_liste": "Aleksandar Nikolik",
+                    "parti": "Rassemblement national",
+                    "intentions": 30,
+                    "erreur_sup": 34.8427,
+                    "erreur_inf": 25.1573
+                  },
+                  {
+                    "tete_liste": "Marc Fesneau",
+                    "parti": [
+                      "Modem",
+                      "LRM"
+                    ],
+                    "intentions": 25,
+                    "erreur_sup": 29.5759,
+                    "erreur_inf": 20.4241
+                  },
+                  {
+                    "tete_liste": "Nicolas Forissier",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 19.8742,
+                    "erreur_inf": 12.1258
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "region": "Bretagne",
     "sondages": [
       {
