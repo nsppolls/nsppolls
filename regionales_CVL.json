@@ -48,6 +48,13 @@
                     "erreur_inf": 14.9017
                   },
                   {
+                    "tete_liste": "Jérémy Clément et Christelle de Crémiers",
+                    "parti": {},
+                    "intentions": 3,
+                    "erreur_sup": 4.7821,
+                    "erreur_inf": 1.2179
+                  },
+                  {
                     "tete_liste": "Farida Megdoud",
                     "parti": "Lutte ouvrière",
                     "intentions": 2,
@@ -73,19 +80,6 @@
                     "intentions": 21,
                     "erreur_sup": 25.2551,
                     "erreur_inf": 16.7449
-                  }
-                ]
-              },
-              {
-                "hypothese": null,
-                "sous_echantillon": 400,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Jérémy Clément et Christelle de Crémiers",
-                    "parti": {},
-                    "intentions": 3,
-                    "erreur_sup": 4.6718,
-                    "erreur_inf": 1.3282
                   }
                 ]
               }

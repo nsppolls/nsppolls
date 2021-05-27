@@ -1201,6 +1201,151 @@
             ]
           }
         ]
+      },
+      {
+        "id": "paca_elb_21_05",
+        "nom_institut": "Elabe",
+        "debut_enquete": "2021-05-21",
+        "fin_enquete": "2021-05-26",
+        "commanditaire": "BFM",
+        "lien": "https://elabe.fr/wp-content/uploads/2021/05/20210526_elabe_bfmtv_-elections-regionales-de-2021-en-provence-alpes-cote-dazur.pdf",
+        "echantillon": 582,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 506.34,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean-Marc Governatori",
+                    "parti": "Cap écologie",
+                    "intentions": 6,
+                    "erreur_sup": 8.0686,
+                    "erreur_inf": 3.9314
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 12,
+                    "erreur_sup": 14.8305,
+                    "erreur_inf": 9.1695
+                  },
+                  {
+                    "tete_liste": "Noël Chuisano",
+                    "parti": "Debout la France",
+                    "intentions": 33,
+                    "erreur_sup": 37.0957,
+                    "erreur_inf": 28.9043
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 43,
+                    "erreur_sup": 47.3123,
+                    "erreur_inf": 38.6877
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 2,
+                    "erreur_sup": 3.2194,
+                    "erreur_inf": 0.7806
+                  },
+                  {
+                    "tete_liste": "Isabelle Bonnet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.2194,
+                    "erreur_inf": 0.7806
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 512.16,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 45,
+                    "erreur_sup": 49.3086,
+                    "erreur_inf": 40.6914
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 37,
+                    "erreur_sup": 41.1814,
+                    "erreur_inf": 32.8186
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 18,
+                    "erreur_sup": 21.3273,
+                    "erreur_inf": 14.6727
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse duel",
+                "sous_echantillon": 483.06,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 50,
+                    "erreur_sup": 54.4589,
+                    "erreur_inf": 45.5411
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 50,
+                    "erreur_sup": 54.4589,
+                    "erreur_inf": 45.5411
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
