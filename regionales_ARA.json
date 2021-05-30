@@ -569,6 +569,207 @@
         ]
       },
       {
+        "id": "ara_ifp_17_05",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-05-17",
+        "fin_enquete": "2021-05-21",
+        "commanditaire": "Lyon Capitale et Sud Radio",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9145-aura-ifop-lyon-capitale.pdf",
+        "echantillon": 993,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse duel",
+                "sous_echantillon": 580.905,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 29,
+                    "erreur_sup": 32.69,
+                    "erreur_inf": 25.31
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 71,
+                    "erreur_sup": 74.69,
+                    "erreur_inf": 67.31
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 697.086,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 21,
+                    "erreur_sup": 24.0237,
+                    "erreur_inf": 17.9763
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 38,
+                    "erreur_sup": 41.6033,
+                    "erreur_inf": 34.3967
+                  },
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.6507,
+                    "erreur_inf": 12.3493
+                  },
+                  {
+                    "tete_liste": "Fabienne Grébert et Najat Vallaud-Belkacem",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 26,
+                    "erreur_sup": 29.2562,
+                    "erreur_inf": 22.7438
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 689.142,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.4531,
+                    "erreur_inf": 27.5469
+                  },
+                  {
+                    "tete_liste": "Fabienne Grébert et Najat Vallaud-Belkacem",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 25.0929,
+                    "erreur_inf": 18.9071
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 47,
+                    "erreur_sup": 50.7264,
+                    "erreur_inf": 43.2736
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 689.142,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 16.5907,
+                    "erreur_inf": 11.4093
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.3361,
+                    "erreur_inf": 8.6639
+                  },
+                  {
+                    "tete_liste": "Fabienne Grébet",
+                    "parti": [
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 12,
+                    "erreur_sup": 14.4262,
+                    "erreur_inf": 9.5738
+                  },
+                  {
+                    "tete_liste": "Chantal Gomez",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.7429,
+                    "erreur_inf": 0.2571
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 20,
+                    "erreur_sup": 22.9865,
+                    "erreur_inf": 17.0135
+                  },
+                  {
+                    "tete_liste": "Cécile Cukierman",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 6,
+                    "erreur_sup": 7.7731,
+                    "erreur_inf": 4.2269
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 39.5838,
+                    "erreur_inf": 32.4162
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "ara_hi_09_02",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2021-02-09",
