@@ -6019,6 +6019,151 @@
         ]
       },
       {
+        "id": "paca_ow_31_05",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-05-31",
+        "fin_enquete": "2021-06-03",
+        "commanditaire": "CNews",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-paca-vague-1-4-juin-2021/viewdocument/2595.html?Itemid=0",
+        "echantillon": 1004,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 732.92,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Isabelle Bonnet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.7204,
+                    "erreur_inf": 0.2796
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 42,
+                    "erreur_sup": 45.5733,
+                    "erreur_inf": 38.4267
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.6542,
+                    "erreur_inf": 13.3458
+                  },
+                  {
+                    "tete_liste": "Noël Chuisano",
+                    "parti": "Debout la France",
+                    "intentions": 4,
+                    "erreur_sup": 5.4187,
+                    "erreur_inf": 2.5813
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 35.3772,
+                    "erreur_inf": 28.6228
+                  },
+                  {
+                    "tete_liste": "Jean-Marc Governatori",
+                    "parti": "Cap écologie",
+                    "intentions": 4,
+                    "erreur_sup": 5.4187,
+                    "erreur_inf": 2.5813
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse sans la gauche",
+                "sous_echantillon": 642.56,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 48,
+                    "erreur_sup": 51.863,
+                    "erreur_inf": 44.137
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 52,
+                    "erreur_sup": 55.863,
+                    "erreur_inf": 48.137
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse avec la gauche",
+                "sous_echantillon": 742.96,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 37.4063,
+                    "erreur_inf": 30.5937
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 45,
+                    "erreur_sup": 48.5773,
+                    "erreur_inf": 41.4227
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 23.9288,
+                    "erreur_inf": 18.0712
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "paca_elb_21_05",
         "nom_institut": "Elabe",
         "debut_enquete": "2021-05-21",
@@ -7505,6 +7650,176 @@
                     "intentions": 39,
                     "erreur_sup": 42.4687,
                     "erreur_inf": 35.5313
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "na_ifp_26_05",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-05-26",
+        "fin_enquete": "2021-05-31",
+        "commanditaire": "Europe 1 et La Tribune",
+        "lien": "https://www.ifop.com/wp-content/uploads/2021/06/118207_IV-NA_01.06.2021.pdf",
+        "echantillon": 1000,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 1000,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Nicolas Florian",
+                    "parti": "Les Républicains",
+                    "intentions": 14,
+                    "erreur_sup": 16.1506,
+                    "erreur_inf": 11.8494
+                  },
+                  {
+                    "tete_liste": "Alain Rousset",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste"
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 26.6471,
+                    "erreur_inf": 21.3529
+                  },
+                  {
+                    "tete_liste": "Nicolas Thierry",
+                    "parti": [
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 12.9393,
+                    "erreur_inf": 9.0607
+                  },
+                  {
+                    "tete_liste": "Guillaume Perchet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.6167,
+                    "erreur_inf": 0.3833
+                  },
+                  {
+                    "tete_liste": "Clémence Guetté",
+                    "parti": [
+                      "France insoumise",
+                      "NPA"
+                    ],
+                    "intentions": 5,
+                    "erreur_sup": 6.3508,
+                    "erreur_inf": 3.6492
+                  },
+                  {
+                    "tete_liste": "Edwige Diaz",
+                    "parti": "Rassemblement national",
+                    "intentions": 23,
+                    "erreur_sup": 25.6083,
+                    "erreur_inf": 20.3917
+                  },
+                  {
+                    "tete_liste": "Geneviève Darrieussecq",
+                    "parti": [
+                      "Modem",
+                      "LRM",
+                      "UDI"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 21.4315,
+                    "erreur_inf": 16.5685
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 1000,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Edwige Diaz",
+                    "parti": "Rassemblement national",
+                    "intentions": 24,
+                    "erreur_sup": 26.6471,
+                    "erreur_inf": 21.3529
+                  },
+                  {
+                    "tete_liste": "Nicolas Florian",
+                    "parti": "Les Républicains",
+                    "intentions": 17,
+                    "erreur_sup": 19.3282,
+                    "erreur_inf": 14.6718
+                  },
+                  {
+                    "tete_liste": "Geneviève Darrieussecq",
+                    "parti": [
+                      "Modem",
+                      "LRM",
+                      "UDI"
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 24.5675,
+                    "erreur_inf": 19.4325
+                  },
+                  {
+                    "tete_liste": "Alain Rousset",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 37,
+                    "erreur_sup": 39.9925,
+                    "erreur_inf": 34.0075
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 1000,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Edwige Diaz",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 30.7829,
+                    "erreur_inf": 25.2171
+                  },
+                  {
+                    "tete_liste": "Geneviève Darrieussecq",
+                    "parti": [
+                      "Modem",
+                      "LRM",
+                      "UDI",
+                      "Les Républicains"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 32.8403,
+                    "erreur_inf": 27.1597
+                  },
+                  {
+                    "tete_liste": "Alain Rousset",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 42,
+                    "erreur_sup": 45.0591,
+                    "erreur_inf": 38.9409
                   }
                 ]
               }
