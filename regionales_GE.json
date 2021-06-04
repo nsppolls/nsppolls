@@ -3,6 +3,190 @@
     "region": "Grand-Est",
     "sondages": [
       {
+        "id": "ge_ow_25_05",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-05-25",
+        "fin_enquete": "2021-05-31",
+        "commanditaire": "Unissons nos énergies",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9153-grand-est-ow-unissons-nos-energies.pdf",
+        "echantillon": 2010,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire avec la gauche",
+                "sous_echantillon": 1407,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 45,
+                    "erreur_sup": 47.5995,
+                    "erreur_inf": 42.4005
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 26.2316,
+                    "erreur_inf": 21.7684
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 31,
+                    "erreur_sup": 33.4167,
+                    "erreur_inf": 28.5833
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 1427.1,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 22.0753,
+                    "erreur_inf": 17.9247
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 30,
+                    "erreur_sup": 32.3776,
+                    "erreur_inf": 27.6224
+                  },
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": "LRM",
+                    "intentions": 19,
+                    "erreur_sup": 21.0354,
+                    "erreur_inf": 16.9646
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 31,
+                    "erreur_sup": 33.3996,
+                    "erreur_inf": 28.6004
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire avec LRM",
+                "sous_echantillon": 1246.2,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": "LRM",
+                    "intentions": 24,
+                    "erreur_sup": 26.3712,
+                    "erreur_inf": 21.6288
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 37,
+                    "erreur_sup": 39.6806,
+                    "erreur_inf": 34.3194
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 39,
+                    "erreur_sup": 41.7081,
+                    "erreur_inf": 36.2919
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 1487.4,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 28,
+                    "erreur_sup": 30.2819,
+                    "erreur_inf": 25.7181
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 15.7634,
+                    "erreur_inf": 12.2366
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "France insoumise",
+                      "Parti radical de gauche",
+                      "Génération·s"
+                    ],
+                    "intentions": 7,
+                    "erreur_sup": 8.2967,
+                    "erreur_inf": 5.7033
+                  },
+                  {
+                    "tete_liste": "Louise Fève",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.5057,
+                    "erreur_inf": 0.4943
+                  },
+                  {
+                    "tete_liste": "Florian Philippot",
+                    "parti": "Les Patriotes",
+                    "intentions": 6,
+                    "erreur_sup": 7.2069,
+                    "erreur_inf": 4.7931
+                  },
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": "LRM",
+                    "intentions": 16,
+                    "erreur_sup": 17.8631,
+                    "erreur_inf": 14.1369
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 25,
+                    "erreur_sup": 27.2006,
+                    "erreur_inf": 22.7994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "ge_ifp_04_02",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-02-04",

@@ -2009,7 +2009,7 @@
         "debut_enquete": "2021-05-28",
         "fin_enquete": "2021-05-31",
         "commanditaire": "BFM TV",
-        "lien": "https://elabe.fr/wp-content/uploads/2021/06/ile-de-france.pdf",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9152-idf-elabe-bfmtv.pdf",
         "echantillon": 550,
         "population": "Certains d'aller voter",
         "tours": [
@@ -2465,6 +2465,183 @@
                     "intentions": 9,
                     "erreur_sup": 11.5111,
                     "erreur_inf": 6.4889
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "idf_ips_24_05",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-05-24",
+        "fin_enquete": "2021-05-26",
+        "commanditaire": "Libres !\n",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9149-idf-ipsos-libres.pdf",
+        "echantillon": 451,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 401.39,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 19,
+                    "erreur_sup": 22.8379,
+                    "erreur_inf": 15.1621
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 38.6343,
+                    "erreur_inf": 29.3657
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 47,
+                    "erreur_sup": 51.8827,
+                    "erreur_inf": 42.1173
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 405.9,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 35.4994,
+                    "erreur_inf": 26.5006
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 40.6697,
+                    "erreur_inf": 31.3303
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 18.4738,
+                    "erreur_inf": 11.5262
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 451,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 18,
+                    "erreur_sup": 21.5458,
+                    "erreur_inf": 14.4542
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 414.92,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 14.0107,
+                    "erreur_inf": 7.9893
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 37.5245,
+                    "erreur_inf": 28.4755
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 17,
+                    "erreur_sup": 20.6144,
+                    "erreur_inf": 13.3856
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": "Parti socialiste",
+                    "intentions": 10,
+                    "erreur_sup": 12.8867,
+                    "erreur_inf": 7.1133
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 12,
+                    "erreur_sup": 15.1268,
+                    "erreur_inf": 8.8732
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 12,
+                    "erreur_sup": 15.1268,
+                    "erreur_inf": 8.8732
+                  },
+                  {
+                    "tete_liste": "Nathalie Arthaud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.3471,
+                    "erreur_inf": 0.6529
                   }
                 ]
               }
@@ -3774,7 +3951,7 @@
         "debut_enquete": "2021-05-28",
         "fin_enquete": "2021-06-01",
         "commanditaire": "CNews",
-        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-aura-vague-1-2-juin-2021/viewdocument/2590.html?Itemid=0",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9151-aura-ow-c-news.pdf",
         "echantillon": 1068,
         "population": "Inscrits sur les listes électorales",
         "tours": [
@@ -6024,7 +6201,7 @@
         "debut_enquete": "2021-05-31",
         "fin_enquete": "2021-06-03",
         "commanditaire": "CNews",
-        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-paca-vague-1-4-juin-2021/viewdocument/2595.html?Itemid=0",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9154-paca-ow-c-news.pdf",
         "echantillon": 1004,
         "population": "Inscrits sur les listes électorales",
         "tours": [
@@ -6313,6 +6490,161 @@
   {
     "region": "Hauts-de-France",
     "sondages": [
+      {
+        "id": "hdf_ips_27_05",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-05-27",
+        "fin_enquete": "2021-05-29",
+        "commanditaire": "Radio France & France Télévisions",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9148-hdf-ipsos-france-tv.pdf",
+        "echantillon": 462,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 411.18,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Pietraszewski",
+                    "parti": "LRM",
+                    "intentions": 10,
+                    "erreur_sup": 12.8998,
+                    "erreur_inf": 7.1002
+                  },
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 40.6396,
+                    "erreur_inf": 31.3604
+                  },
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 32,
+                    "erreur_sup": 36.5089,
+                    "erreur_inf": 27.4911
+                  },
+                  {
+                    "tete_liste": "José Evrard",
+                    "parti": "Debout la France",
+                    "intentions": 2,
+                    "erreur_sup": 3.3532,
+                    "erreur_inf": 0.6468
+                  },
+                  {
+                    "tete_liste": "Eric Pecqueur",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.3532,
+                    "erreur_inf": 0.6468
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "France insoumise",
+                      "EE-LV"
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 20.6308,
+                    "erreur_inf": 13.3692
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 406.56,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Pietraszewski",
+                    "parti": "LRM",
+                    "intentions": 11,
+                    "erreur_sup": 14.0415,
+                    "erreur_inf": 7.9585
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "France insoumise",
+                      "EE-LV"
+                    ],
+                    "intentions": 18,
+                    "erreur_sup": 21.7345,
+                    "erreur_inf": 14.2655
+                  },
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 33,
+                    "erreur_sup": 37.5708,
+                    "erreur_inf": 28.4292
+                  },
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 38,
+                    "erreur_sup": 42.7183,
+                    "erreur_inf": 33.2817
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 401.94,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 36,
+                    "erreur_sup": 40.6926,
+                    "erreur_inf": 31.3074
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "France insoumise",
+                      "EE-LV"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 24.982,
+                    "erreur_inf": 17.018
+                  },
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 43,
+                    "erreur_sup": 47.84,
+                    "erreur_inf": 38.16
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
       {
         "id": "hdf_ips_29_04",
         "nom_institut": "Ipsos",
@@ -6680,6 +7012,172 @@
                     "intentions": 30,
                     "erreur_sup": 33.1956,
                     "erreur_inf": 26.8044
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hdf_bva_26_05",
+        "nom_institut": "BVA",
+        "debut_enquete": "2021-05-26",
+        "fin_enquete": "2021-05-31",
+        "commanditaire": "RTL et Orange",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9150-hdf-bva-vdn.pdf",
+        "echantillon": 288,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 207.36,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 42,
+                    "erreur_sup": 48.7179,
+                    "erreur_inf": 35.2821
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 25,
+                    "erreur_sup": 30.8938,
+                    "erreur_inf": 19.1062
+                  },
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 33,
+                    "erreur_sup": 39.4001,
+                    "erreur_inf": 26.5999
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 213.12,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 31,
+                    "erreur_sup": 37.2094,
+                    "erreur_inf": 24.7906
+                  },
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 40.36,
+                    "erreur_inf": 27.64
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 29.734,
+                    "erreur_inf": 18.266
+                  },
+                  {
+                    "tete_liste": "Laurent Pietraszewski",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 15.2008,
+                    "erreur_inf": 6.7992
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 218.88,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Eric Pecqueur",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 3,
+                    "erreur_sup": 5.26,
+                    "erreur_inf": 0.74
+                  },
+                  {
+                    "tete_liste": "Laurent Pietraszewski",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 17.4554,
+                    "erreur_inf": 8.5446
+                  },
+                  {
+                    "tete_liste": "José Evrard",
+                    "parti": "Debout la France",
+                    "intentions": 3,
+                    "erreur_sup": 5.26,
+                    "erreur_inf": 0.74
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 27.488,
+                    "erreur_inf": 16.512
+                  },
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 33.9484,
+                    "erreur_inf": 22.0516
+                  },
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 36.071,
+                    "erreur_inf": 23.929
                   }
                 ]
               }
@@ -8855,6 +9353,518 @@
     ]
   },
   {
+    "region": "Grand-Est",
+    "sondages": [
+      {
+        "id": "ge_ow_25_05",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-05-25",
+        "fin_enquete": "2021-05-31",
+        "commanditaire": "Unissons nos énergies",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9153-grand-est-ow-unissons-nos-energies.pdf",
+        "echantillon": 2010,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire avec la gauche",
+                "sous_echantillon": 1407,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 45,
+                    "erreur_sup": 47.5995,
+                    "erreur_inf": 42.4005
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 26.2316,
+                    "erreur_inf": 21.7684
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 31,
+                    "erreur_sup": 33.4167,
+                    "erreur_inf": 28.5833
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 1427.1,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 22.0753,
+                    "erreur_inf": 17.9247
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 30,
+                    "erreur_sup": 32.3776,
+                    "erreur_inf": 27.6224
+                  },
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": "LRM",
+                    "intentions": 19,
+                    "erreur_sup": 21.0354,
+                    "erreur_inf": 16.9646
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 31,
+                    "erreur_sup": 33.3996,
+                    "erreur_inf": 28.6004
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire avec LRM",
+                "sous_echantillon": 1246.2,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": "LRM",
+                    "intentions": 24,
+                    "erreur_sup": 26.3712,
+                    "erreur_inf": 21.6288
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 37,
+                    "erreur_sup": 39.6806,
+                    "erreur_inf": 34.3194
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 39,
+                    "erreur_sup": 41.7081,
+                    "erreur_inf": 36.2919
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 1487.4,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 28,
+                    "erreur_sup": 30.2819,
+                    "erreur_inf": 25.7181
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 15.7634,
+                    "erreur_inf": 12.2366
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "France insoumise",
+                      "Parti radical de gauche",
+                      "Génération·s"
+                    ],
+                    "intentions": 7,
+                    "erreur_sup": 8.2967,
+                    "erreur_inf": 5.7033
+                  },
+                  {
+                    "tete_liste": "Louise Fève",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.5057,
+                    "erreur_inf": 0.4943
+                  },
+                  {
+                    "tete_liste": "Florian Philippot",
+                    "parti": "Les Patriotes",
+                    "intentions": 6,
+                    "erreur_sup": 7.2069,
+                    "erreur_inf": 4.7931
+                  },
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": "LRM",
+                    "intentions": 16,
+                    "erreur_sup": 17.8631,
+                    "erreur_inf": 14.1369
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 25,
+                    "erreur_sup": 27.2006,
+                    "erreur_inf": 22.7994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ge_ifp_04_02",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-02-04",
+        "fin_enquete": "2021-02-09",
+        "commanditaire": "Les Républicains",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/fevrier/9098-grand-est-ifop-lr.pdf",
+        "echantillon": 874,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": "Division DLF-Patriotes",
+                "sous_echantillon": 561.108,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Florian Phillipot",
+                    "parti": "Les Patriotes",
+                    "intentions": 4,
+                    "erreur_sup": 5.6214,
+                    "erreur_inf": 2.3786
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": "EE-LV",
+                    "intentions": 10,
+                    "erreur_sup": 12.4823,
+                    "erreur_inf": 7.5177
+                  },
+                  {
+                    "tete_liste": "Bérangère Abba",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.4823,
+                    "erreur_inf": 7.5177
+                  },
+                  {
+                    "tete_liste": null,
+                    "parti": "Debout la France",
+                    "intentions": 3,
+                    "erreur_sup": 4.4115,
+                    "erreur_inf": 1.5885
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.8268,
+                    "erreur_inf": 27.1732
+                  },
+                  {
+                    "tete_liste": "Virginie Joron",
+                    "parti": "Rassemblement national",
+                    "intentions": 23,
+                    "erreur_sup": 26.4821,
+                    "erreur_inf": 19.5179
+                  },
+                  {
+                    "tete_liste": "André Reichardt",
+                    "parti": {},
+                    "intentions": 1.5,
+                    "erreur_sup": 2.5058,
+                    "erreur_inf": 0.4942
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 19.0334,
+                    "erreur_inf": 12.9666
+                  }
+                ]
+              },
+              {
+                "hypothese": "Union DLF-Patriotes",
+                "sous_echantillon": 559.36,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Florian Phillipot",
+                    "parti": [
+                      "Debout la France",
+                      "Les Patriotes"
+                    ],
+                    "intentions": 6,
+                    "erreur_sup": 7.9681,
+                    "erreur_inf": 4.0319
+                  },
+                  {
+                    "tete_liste": "André Reichardt",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.8246,
+                    "erreur_inf": 0.1754
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 19.0382,
+                    "erreur_inf": 12.9618
+                  },
+                  {
+                    "tete_liste": "Bérangère Abba",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.593,
+                    "erreur_inf": 8.407
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": "EE-LV",
+                    "intentions": 10,
+                    "erreur_sup": 12.4862,
+                    "erreur_inf": 7.5138
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 35.8658,
+                    "erreur_inf": 28.1342
+                  },
+                  {
+                    "tete_liste": "Virginie Joron",
+                    "parti": "Rassemblement national",
+                    "intentions": 22,
+                    "erreur_sup": 25.433,
+                    "erreur_inf": 18.567
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Triangulaire",
+                "sous_echantillon": 540.132,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "France insoumise",
+                      "EE-LV"
+                    ],
+                    "intentions": 26,
+                    "erreur_sup": 29.6992,
+                    "erreur_inf": 22.3008
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes",
+                      "UDI"
+                    ],
+                    "intentions": 45,
+                    "erreur_sup": 49.1956,
+                    "erreur_inf": 40.8044
+                  },
+                  {
+                    "tete_liste": "Virginie Joron",
+                    "parti": "Rassemblement national",
+                    "intentions": 29,
+                    "erreur_sup": 32.8268,
+                    "erreur_inf": 25.1732
+                  }
+                ]
+              },
+              {
+                "hypothese": "Quadrangulaire",
+                "sous_echantillon": 542.754,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes",
+                      "UDI"
+                    ],
+                    "intentions": 35,
+                    "erreur_sup": 39.0128,
+                    "erreur_inf": 30.9872
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 27.5931,
+                    "erreur_inf": 20.4069
+                  },
+                  {
+                    "tete_liste": "Bérangère Abba",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.8293,
+                    "erreur_inf": 10.1707
+                  },
+                  {
+                    "tete_liste": "Virginie Joron",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 31.7775,
+                    "erreur_inf": 24.2225
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ge_hi_13_04",
+        "nom_institut": "Harris Interactive",
+        "debut_enquete": "2021-04-13",
+        "fin_enquete": "2021-04-19",
+        "commanditaire": "EE-LV",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9119-grand-est-hi-est-repu.pdf",
+        "echantillon": 1004,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 773.08,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Florian Philippot",
+                    "parti": "Les Patriotes",
+                    "intentions": 4,
+                    "erreur_sup": 5.3814,
+                    "erreur_inf": 2.6186
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "France insoumise",
+                      "Parti radical de gauche",
+                      "Génération·s"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.1148,
+                    "erreur_inf": 7.8852
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.5843,
+                    "erreur_inf": 13.4157
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 28,
+                    "erreur_sup": 31.1651,
+                    "erreur_inf": 24.8349
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 24,
+                    "erreur_sup": 27.0106,
+                    "erreur_inf": 20.9894
+                  },
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": "LRM",
+                    "intentions": 18,
+                    "erreur_sup": 20.7082,
+                    "erreur_inf": 15.2918
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "region": "Bretagne",
     "sondages": [
       {
@@ -9238,334 +10248,6 @@
                     "intentions": 15,
                     "erreur_sup": 17.6148,
                     "erreur_inf": 12.3852
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "region": "Grand-Est",
-    "sondages": [
-      {
-        "id": "ge_ifp_04_02",
-        "nom_institut": "Ifop",
-        "debut_enquete": "2021-02-04",
-        "fin_enquete": "2021-02-09",
-        "commanditaire": "Les Républicains",
-        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/fevrier/9098-grand-est-ifop-lr.pdf",
-        "echantillon": 874,
-        "population": "Inscrits sur les listes électorales",
-        "tours": [
-          {
-            "tour": "Premier tour",
-            "hypotheses": [
-              {
-                "hypothese": "Division DLF-Patriotes",
-                "sous_echantillon": 561.108,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Florian Phillipot",
-                    "parti": "Les Patriotes",
-                    "intentions": 4,
-                    "erreur_sup": 5.6214,
-                    "erreur_inf": 2.3786
-                  },
-                  {
-                    "tete_liste": "Eliane Romani",
-                    "parti": "EE-LV",
-                    "intentions": 10,
-                    "erreur_sup": 12.4823,
-                    "erreur_inf": 7.5177
-                  },
-                  {
-                    "tete_liste": "Bérangère Abba",
-                    "parti": [
-                      "LRM",
-                      "Modem"
-                    ],
-                    "intentions": 10,
-                    "erreur_sup": 12.4823,
-                    "erreur_inf": 7.5177
-                  },
-                  {
-                    "tete_liste": null,
-                    "parti": "Debout la France",
-                    "intentions": 3,
-                    "erreur_sup": 4.4115,
-                    "erreur_inf": 1.5885
-                  },
-                  {
-                    "tete_liste": "Jean Rottner",
-                    "parti": [
-                      "Les Républicains",
-                      "UDI",
-                      "Les Centristes"
-                    ],
-                    "intentions": 31,
-                    "erreur_sup": 34.8268,
-                    "erreur_inf": 27.1732
-                  },
-                  {
-                    "tete_liste": "Virginie Joron",
-                    "parti": "Rassemblement national",
-                    "intentions": 23,
-                    "erreur_sup": 26.4821,
-                    "erreur_inf": 19.5179
-                  },
-                  {
-                    "tete_liste": "André Reichardt",
-                    "parti": {},
-                    "intentions": 1.5,
-                    "erreur_sup": 2.5058,
-                    "erreur_inf": 0.4942
-                  },
-                  {
-                    "tete_liste": "Aurélie Filippetti",
-                    "parti": [
-                      "Parti socialiste",
-                      "Parti communiste",
-                      "France insoumise",
-                      "Génération·s"
-                    ],
-                    "intentions": 16,
-                    "erreur_sup": 19.0334,
-                    "erreur_inf": 12.9666
-                  }
-                ]
-              },
-              {
-                "hypothese": "Union DLF-Patriotes",
-                "sous_echantillon": 559.36,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Florian Phillipot",
-                    "parti": [
-                      "Debout la France",
-                      "Les Patriotes"
-                    ],
-                    "intentions": 6,
-                    "erreur_sup": 7.9681,
-                    "erreur_inf": 4.0319
-                  },
-                  {
-                    "tete_liste": "André Reichardt",
-                    "parti": {},
-                    "intentions": 1,
-                    "erreur_sup": 1.8246,
-                    "erreur_inf": 0.1754
-                  },
-                  {
-                    "tete_liste": "Aurélie Filippetti",
-                    "parti": [
-                      "Parti socialiste",
-                      "Parti communiste",
-                      "France insoumise",
-                      "Génération·s"
-                    ],
-                    "intentions": 16,
-                    "erreur_sup": 19.0382,
-                    "erreur_inf": 12.9618
-                  },
-                  {
-                    "tete_liste": "Bérangère Abba",
-                    "parti": [
-                      "LRM",
-                      "Modem"
-                    ],
-                    "intentions": 11,
-                    "erreur_sup": 13.593,
-                    "erreur_inf": 8.407
-                  },
-                  {
-                    "tete_liste": "Eliane Romani",
-                    "parti": "EE-LV",
-                    "intentions": 10,
-                    "erreur_sup": 12.4862,
-                    "erreur_inf": 7.5138
-                  },
-                  {
-                    "tete_liste": "Jean Rottner",
-                    "parti": [
-                      "Les Républicains",
-                      "UDI",
-                      "Les Centristes"
-                    ],
-                    "intentions": 32,
-                    "erreur_sup": 35.8658,
-                    "erreur_inf": 28.1342
-                  },
-                  {
-                    "tete_liste": "Virginie Joron",
-                    "parti": "Rassemblement national",
-                    "intentions": 22,
-                    "erreur_sup": 25.433,
-                    "erreur_inf": 18.567
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "tour": "Deuxième tour",
-            "hypotheses": [
-              {
-                "hypothese": "Triangulaire",
-                "sous_echantillon": 540.132,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Aurélie Filippetti",
-                    "parti": [
-                      "Parti communiste",
-                      "Parti socialiste",
-                      "France insoumise",
-                      "EE-LV"
-                    ],
-                    "intentions": 26,
-                    "erreur_sup": 29.6992,
-                    "erreur_inf": 22.3008
-                  },
-                  {
-                    "tete_liste": "Jean Rottner",
-                    "parti": [
-                      "Les Républicains",
-                      "Les Centristes",
-                      "UDI"
-                    ],
-                    "intentions": 45,
-                    "erreur_sup": 49.1956,
-                    "erreur_inf": 40.8044
-                  },
-                  {
-                    "tete_liste": "Virginie Joron",
-                    "parti": "Rassemblement national",
-                    "intentions": 29,
-                    "erreur_sup": 32.8268,
-                    "erreur_inf": 25.1732
-                  }
-                ]
-              },
-              {
-                "hypothese": "Quadrangulaire",
-                "sous_echantillon": 542.754,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Jean Rottner",
-                    "parti": [
-                      "Les Républicains",
-                      "Les Centristes",
-                      "UDI"
-                    ],
-                    "intentions": 35,
-                    "erreur_sup": 39.0128,
-                    "erreur_inf": 30.9872
-                  },
-                  {
-                    "tete_liste": "Aurélie Filippetti",
-                    "parti": [
-                      "Parti socialiste",
-                      "Parti communiste",
-                      "France insoumise",
-                      "Génération·s",
-                      "EE-LV"
-                    ],
-                    "intentions": 24,
-                    "erreur_sup": 27.5931,
-                    "erreur_inf": 20.4069
-                  },
-                  {
-                    "tete_liste": "Bérangère Abba",
-                    "parti": [
-                      "LRM",
-                      "Modem"
-                    ],
-                    "intentions": 13,
-                    "erreur_sup": 15.8293,
-                    "erreur_inf": 10.1707
-                  },
-                  {
-                    "tete_liste": "Virginie Joron",
-                    "parti": "Rassemblement national",
-                    "intentions": 28,
-                    "erreur_sup": 31.7775,
-                    "erreur_inf": 24.2225
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "ge_hi_13_04",
-        "nom_institut": "Harris Interactive",
-        "debut_enquete": "2021-04-13",
-        "fin_enquete": "2021-04-19",
-        "commanditaire": "EE-LV",
-        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9119-grand-est-hi-est-repu.pdf",
-        "echantillon": 1004,
-        "population": "Inscrits sur les listes électorales",
-        "tours": [
-          {
-            "tour": "Premier tour",
-            "hypotheses": [
-              {
-                "hypothese": null,
-                "sous_echantillon": 773.08,
-                "tetes_liste": [
-                  {
-                    "tete_liste": "Florian Philippot",
-                    "parti": "Les Patriotes",
-                    "intentions": 4,
-                    "erreur_sup": 5.3814,
-                    "erreur_inf": 2.6186
-                  },
-                  {
-                    "tete_liste": "Aurélie Filippetti",
-                    "parti": [
-                      "France insoumise",
-                      "Parti radical de gauche",
-                      "Génération·s"
-                    ],
-                    "intentions": 10,
-                    "erreur_sup": 12.1148,
-                    "erreur_inf": 7.8852
-                  },
-                  {
-                    "tete_liste": "Eliane Romani",
-                    "parti": [
-                      "EE-LV",
-                      "Parti socialiste",
-                      "Parti communiste",
-                      "Génération écologie"
-                    ],
-                    "intentions": 16,
-                    "erreur_sup": 18.5843,
-                    "erreur_inf": 13.4157
-                  },
-                  {
-                    "tete_liste": "Jean Rottner",
-                    "parti": "Les Républicains",
-                    "intentions": 28,
-                    "erreur_sup": 31.1651,
-                    "erreur_inf": 24.8349
-                  },
-                  {
-                    "tete_liste": "Laurent Jacobelli",
-                    "parti": "Rassemblement national",
-                    "intentions": 24,
-                    "erreur_sup": 27.0106,
-                    "erreur_inf": 20.9894
-                  },
-                  {
-                    "tete_liste": "Brigitte Klinkert",
-                    "parti": "LRM",
-                    "intentions": 18,
-                    "erreur_sup": 20.7082,
-                    "erreur_inf": 15.2918
                   }
                 ]
               }
