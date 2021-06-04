@@ -3,7 +3,7 @@
     "region": "Normandie",
     "sondages": [
       {
-        "id": "n_ow_14_10",
+        "id": "20201014_n_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-10-14",
         "fin_enquete": "2020-10-19",
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "id": "n_ifp_21_08",
+        "id": "20200821_n_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-08-21",
         "fin_enquete": "2020-08-27",
@@ -309,7 +309,7 @@
         ]
       },
       {
-        "id": "n_ifp_04_03",
+        "id": "20210304_n_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-03-04",
         "fin_enquete": "2021-03-09",
@@ -503,7 +503,7 @@
         ]
       },
       {
-        "id": "n_ow_08_04",
+        "id": "20210408_n_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-04-08",
         "fin_enquete": "2021-04-14",

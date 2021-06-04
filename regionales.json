@@ -3,7 +3,7 @@
     "region": "Île-de-France",
     "sondages": [
       {
-        "id": "idf_hi_30_03",
+        "id": "20210330_idf_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2021-03-30",
         "fin_enquete": "2021-04-06",
@@ -284,7 +284,7 @@
         ]
       },
       {
-        "id": "idf_ips_26_04",
+        "id": "20210426_idf_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-26",
         "fin_enquete": "2021-04-27",
@@ -620,7 +620,7 @@
         ]
       },
       {
-        "id": "idf_ifp_23_02",
+        "id": "20210223_idf_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-02-23",
         "fin_enquete": "2021-02-26",
@@ -795,7 +795,7 @@
         ]
       },
       {
-        "id": "idf_ow_27_05",
+        "id": "20210527_idf_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-05-27",
         "fin_enquete": "2021-05-30",
@@ -932,7 +932,7 @@
         ]
       },
       {
-        "id": "idf_ifp_14_10",
+        "id": "20201014_idf_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-10-14",
         "fin_enquete": "2020-10-19",
@@ -1071,7 +1071,7 @@
         ]
       },
       {
-        "id": "idf_ifp_28_08",
+        "id": "20200828_idf_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-08-28",
         "fin_enquete": "2020-09-02",
@@ -1224,7 +1224,7 @@
         ]
       },
       {
-        "id": "idf_ips_05_04",
+        "id": "20210405_idf_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-05",
         "fin_enquete": "2021-04-07",
@@ -1404,7 +1404,7 @@
         ]
       },
       {
-        "id": "idf_ow_19_01",
+        "id": "20210119_idf_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-01-19",
         "fin_enquete": "2021-01-21",
@@ -1786,7 +1786,7 @@
         ]
       },
       {
-        "id": "idf_ifp_04_07",
+        "id": "20200704_idf_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-07-04",
         "fin_enquete": "2020-07-10",
@@ -2004,7 +2004,7 @@
         ]
       },
       {
-        "id": "idf_elb_28_05",
+        "id": "20210528_idf_elb",
         "nom_institut": "Elabe",
         "debut_enquete": "2021-05-28",
         "fin_enquete": "2021-05-31",
@@ -2238,7 +2238,7 @@
         ]
       },
       {
-        "id": "idf_hi_16_12",
+        "id": "20201216_idf_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2020-12-16",
         "fin_enquete": "2020-12-22",
@@ -2323,7 +2323,7 @@
         ]
       },
       {
-        "id": "idf_bva_18_03",
+        "id": "20210318_idf_bva",
         "nom_institut": "BVA",
         "debut_enquete": "2021-03-18",
         "fin_enquete": "2021-03-25",
@@ -2473,7 +2473,7 @@
         ]
       },
       {
-        "id": "idf_ips_24_05",
+        "id": "20210524_idf_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-05-24",
         "fin_enquete": "2021-05-26",
@@ -2650,7 +2650,7 @@
         ]
       },
       {
-        "id": "idf_ifp_11_05",
+        "id": "20210511_idf_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-05-11",
         "fin_enquete": "2021-05-18",
@@ -2742,7 +2742,7 @@
         ]
       },
       {
-        "id": "idf_ips_09_10",
+        "id": "20201009_idf_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2020-10-09",
         "fin_enquete": "2020-10-12",
@@ -2879,7 +2879,7 @@
     "region": "Auvergne-Rhône-Alpes",
     "sondages": [
       {
-        "id": "ara_ow_26_06",
+        "id": "20200626_ara_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-06-26",
         "fin_enquete": "2020-07-01",
@@ -3259,7 +3259,7 @@
         ]
       },
       {
-        "id": "ara_ips_27_04",
+        "id": "20210427_ara_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-27",
         "fin_enquete": "2021-04-29",
@@ -3445,7 +3445,7 @@
         ]
       },
       {
-        "id": "ara_ifp_17_05",
+        "id": "20210517_ara_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-05-17",
         "fin_enquete": "2021-05-21",
@@ -3646,7 +3646,7 @@
         ]
       },
       {
-        "id": "ara_hi_09_02",
+        "id": "20210209_ara_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2021-02-09",
         "fin_enquete": "2021-02-15",
@@ -3721,7 +3721,7 @@
         ]
       },
       {
-        "id": "ara_ifp_16_11",
+        "id": "20201116_ara_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-11-16",
         "fin_enquete": "2020-11-23",
@@ -3946,7 +3946,7 @@
         ]
       },
       {
-        "id": "ara_ow_28_05",
+        "id": "20210528_ara_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-05-28",
         "fin_enquete": "2021-06-01",
@@ -4087,7 +4087,7 @@
         ]
       },
       {
-        "id": "ara_ow_17_03",
+        "id": "20210317_ara_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-03-17",
         "fin_enquete": "2021-03-22",
@@ -4232,7 +4232,7 @@
     "region": "Occitanie",
     "sondages": [
       {
-        "id": "occ_ifp_16_12",
+        "id": "20201216_occ_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-12-16",
         "fin_enquete": "2020-12-22",
@@ -4328,7 +4328,7 @@
         ]
       },
       {
-        "id": "occ_ifp_04_09",
+        "id": "20200904_occ_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-09-04",
         "fin_enquete": "2020-09-09",
@@ -4603,7 +4603,7 @@
         ]
       },
       {
-        "id": "occ_ifp_23_02",
+        "id": "20210223_occ_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-02-23",
         "fin_enquete": "2021-03-01",
@@ -4996,7 +4996,7 @@
     "region": "Provence-Alpes-Côte d'Azur",
     "sondages": [
       {
-        "id": "paca_ifp_25_08",
+        "id": "20200825_paca_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-08-25",
         "fin_enquete": "2020-08-31",
@@ -5133,7 +5133,7 @@
         ]
       },
       {
-        "id": "paca_ips_08_05",
+        "id": "20210508_paca_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-05-08",
         "fin_enquete": "2021-05-10",
@@ -5431,7 +5431,7 @@
         ]
       },
       {
-        "id": "paca_ifp_06_05",
+        "id": "20210506_paca_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-05-06",
         "fin_enquete": "2021-05-10",
@@ -5614,7 +5614,7 @@
         ]
       },
       {
-        "id": "paca_ifp_06_04",
+        "id": "20210406_paca_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-04-06",
         "fin_enquete": "2021-04-09",
@@ -5800,7 +5800,7 @@
         ]
       },
       {
-        "id": "paca_ow_25_02",
+        "id": "20210225_paca_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-02-25",
         "fin_enquete": "2021-03-01",
@@ -5947,7 +5947,7 @@
         ]
       },
       {
-        "id": "paca_ifp_03_12",
+        "id": "20201203_paca_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-12-03",
         "fin_enquete": "2020-12-09",
@@ -6196,7 +6196,7 @@
         ]
       },
       {
-        "id": "paca_ow_31_05",
+        "id": "20210531_paca_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-05-31",
         "fin_enquete": "2021-06-03",
@@ -6341,7 +6341,7 @@
         ]
       },
       {
-        "id": "paca_elb_21_05",
+        "id": "20210521_paca_elb",
         "nom_institut": "Elabe",
         "debut_enquete": "2021-05-21",
         "fin_enquete": "2021-05-26",
@@ -6379,9 +6379,9 @@
                   {
                     "tete_liste": "Noël Chuisano",
                     "parti": "Debout la France",
-                    "intentions": 33,
-                    "erreur_sup": 37.0957,
-                    "erreur_inf": 28.9043
+                    "intentions": 2,
+                    "erreur_sup": 3.2194,
+                    "erreur_inf": 0.7806
                   },
                   {
                     "tete_liste": "Thierry Mariani",
@@ -6399,9 +6399,9 @@
                       "Modem",
                       "Agir"
                     ],
-                    "intentions": 2,
-                    "erreur_sup": 3.2194,
-                    "erreur_inf": 0.7806
+                    "intentions": 33,
+                    "erreur_sup": 37.0957,
+                    "erreur_inf": 28.9043
                   },
                   {
                     "tete_liste": "Isabelle Bonnet",
@@ -6491,7 +6491,7 @@
     "region": "Hauts-de-France",
     "sondages": [
       {
-        "id": "hdf_ips_27_05",
+        "id": "20210527_hdf_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-05-27",
         "fin_enquete": "2021-05-29",
@@ -6646,7 +6646,7 @@
         ]
       },
       {
-        "id": "hdf_ips_29_04",
+        "id": "20210429_hdf_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-29",
         "fin_enquete": "2021-05-03",
@@ -6812,7 +6812,7 @@
         ]
       },
       {
-        "id": "hdf_hi_20_05",
+        "id": "20210520_hdf_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2021-05-20",
         "fin_enquete": "2021-05-24",
@@ -7020,7 +7020,7 @@
         ]
       },
       {
-        "id": "hdf_bva_26_05",
+        "id": "20210526_hdf_bva",
         "nom_institut": "BVA",
         "debut_enquete": "2021-05-26",
         "fin_enquete": "2021-05-31",
@@ -7186,7 +7186,7 @@
         ]
       },
       {
-        "id": "hdf_ifp_17_05",
+        "id": "20210517_hdf_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-05-17",
         "fin_enquete": "2021-05-20",
@@ -7341,7 +7341,7 @@
         ]
       },
       {
-        "id": "hdf_ow_26_05",
+        "id": "20210526_hdf_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-05-26",
         "fin_enquete": "2021-05-29",
@@ -7496,7 +7496,7 @@
         ]
       },
       {
-        "id": "hdf_ifp_13_11",
+        "id": "20201113_hdf_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-11-13",
         "fin_enquete": "2020-11-18",
@@ -7735,7 +7735,7 @@
         ]
       },
       {
-        "id": "hdf_bva_22_04",
+        "id": "20210422_hdf_bva",
         "nom_institut": "BVA",
         "debut_enquete": "2021-04-22",
         "fin_enquete": "2021-04-29",
@@ -7909,7 +7909,7 @@
     "region": "Nouvelle-Aquitaine",
     "sondages": [
       {
-        "id": "na_ow_14_10",
+        "id": "20201014_na_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-10-14",
         "fin_enquete": "2020-10-19",
@@ -8044,7 +8044,7 @@
         ]
       },
       {
-        "id": "na_hi_11_09",
+        "id": "20200911_na_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2020-09-11",
         "fin_enquete": "2020-09-18",
@@ -8156,7 +8156,7 @@
         ]
       },
       {
-        "id": "na_ifp_26_05",
+        "id": "20210526_na_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-05-26",
         "fin_enquete": "2021-05-31",
@@ -8326,7 +8326,7 @@
         ]
       },
       {
-        "id": "na_ow_17_08",
+        "id": "20200817_na_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-08-17",
         "fin_enquete": "2020-08-26",
@@ -8408,7 +8408,7 @@
         ]
       },
       {
-        "id": "na_ips_30_04",
+        "id": "20210430_na_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-30",
         "fin_enquete": "2021-05-04",
@@ -8545,7 +8545,7 @@
     "region": "Normandie",
     "sondages": [
       {
-        "id": "n_ow_14_10",
+        "id": "20201014_n_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-10-14",
         "fin_enquete": "2020-10-19",
@@ -8684,7 +8684,7 @@
         ]
       },
       {
-        "id": "n_ifp_21_08",
+        "id": "20200821_n_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-08-21",
         "fin_enquete": "2020-08-27",
@@ -8851,7 +8851,7 @@
         ]
       },
       {
-        "id": "n_ifp_04_03",
+        "id": "20210304_n_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-03-04",
         "fin_enquete": "2021-03-09",
@@ -9045,7 +9045,7 @@
         ]
       },
       {
-        "id": "n_ow_08_04",
+        "id": "20210408_n_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-04-08",
         "fin_enquete": "2021-04-14",
@@ -9171,7 +9171,7 @@
     "region": "Centre-Val-de-Loire",
     "sondages": [
       {
-        "id": "cvl_ips_12_05",
+        "id": "20210512_cvl_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-05-12",
         "fin_enquete": "2021-05-15",
@@ -9356,7 +9356,7 @@
     "region": "Grand-Est",
     "sondages": [
       {
-        "id": "ge_ow_25_05",
+        "id": "20210525_ge_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-05-25",
         "fin_enquete": "2021-05-31",
@@ -9540,7 +9540,7 @@
         ]
       },
       {
-        "id": "ge_ifp_04_02",
+        "id": "20210204_ge_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-02-04",
         "fin_enquete": "2021-02-09",
@@ -9789,7 +9789,7 @@
         ]
       },
       {
-        "id": "ge_hi_13_04",
+        "id": "20210413_ge_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2021-04-13",
         "fin_enquete": "2021-04-19",
@@ -9868,7 +9868,7 @@
     "region": "Bretagne",
     "sondages": [
       {
-        "id": " bzh_ox_21_04",
+        "id": "20210421_ bzh_ox",
         "nom_institut": "Odoxa",
         "debut_enquete": "2021-04-21",
         "fin_enquete": "2021-04-25",
@@ -10126,7 +10126,7 @@
     "region": "Pays-de-la-Loire",
     "sondages": [
       {
-        "id": "pdl_ow_14_01",
+        "id": "20210114_pdl_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-01-14",
         "fin_enquete": "2021-01-18",

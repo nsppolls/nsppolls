@@ -3,7 +3,7 @@
     "region": "Auvergne-Rhône-Alpes",
     "sondages": [
       {
-        "id": "ara_ow_26_06",
+        "id": "20200626_ara_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-06-26",
         "fin_enquete": "2020-07-01",
@@ -383,7 +383,7 @@
         ]
       },
       {
-        "id": "ara_ips_27_04",
+        "id": "20210427_ara_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-27",
         "fin_enquete": "2021-04-29",
@@ -569,7 +569,7 @@
         ]
       },
       {
-        "id": "ara_ifp_17_05",
+        "id": "20210517_ara_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-05-17",
         "fin_enquete": "2021-05-21",
@@ -770,7 +770,7 @@
         ]
       },
       {
-        "id": "ara_hi_09_02",
+        "id": "20210209_ara_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2021-02-09",
         "fin_enquete": "2021-02-15",
@@ -845,7 +845,7 @@
         ]
       },
       {
-        "id": "ara_ifp_16_11",
+        "id": "20201116_ara_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-11-16",
         "fin_enquete": "2020-11-23",
@@ -1070,7 +1070,7 @@
         ]
       },
       {
-        "id": "ara_ow_28_05",
+        "id": "20210528_ara_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-05-28",
         "fin_enquete": "2021-06-01",
@@ -1211,7 +1211,7 @@
         ]
       },
       {
-        "id": "ara_ow_17_03",
+        "id": "20210317_ara_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-03-17",
         "fin_enquete": "2021-03-22",

@@ -3,7 +3,7 @@
     "region": "Nouvelle-Aquitaine",
     "sondages": [
       {
-        "id": "na_ow_14_10",
+        "id": "20201014_na_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-10-14",
         "fin_enquete": "2020-10-19",
@@ -138,7 +138,7 @@
         ]
       },
       {
-        "id": "na_hi_11_09",
+        "id": "20200911_na_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2020-09-11",
         "fin_enquete": "2020-09-18",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "id": "na_ifp_26_05",
+        "id": "20210526_na_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-05-26",
         "fin_enquete": "2021-05-31",
@@ -420,7 +420,7 @@
         ]
       },
       {
-        "id": "na_ow_17_08",
+        "id": "20200817_na_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-08-17",
         "fin_enquete": "2020-08-26",
@@ -502,7 +502,7 @@
         ]
       },
       {
-        "id": "na_ips_30_04",
+        "id": "20210430_na_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-30",
         "fin_enquete": "2021-05-04",

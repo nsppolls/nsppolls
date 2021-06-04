@@ -3,7 +3,7 @@
     "region": "Occitanie",
     "sondages": [
       {
-        "id": "occ_ifp_16_12",
+        "id": "20201216_occ_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-12-16",
         "fin_enquete": "2020-12-22",
@@ -99,7 +99,7 @@
         ]
       },
       {
-        "id": "occ_ifp_04_09",
+        "id": "20200904_occ_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-09-04",
         "fin_enquete": "2020-09-09",
@@ -374,7 +374,7 @@
         ]
       },
       {
-        "id": "occ_ifp_23_02",
+        "id": "20210223_occ_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-02-23",
         "fin_enquete": "2021-03-01",

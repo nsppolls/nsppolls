@@ -3,7 +3,7 @@
     "region": "Grand-Est",
     "sondages": [
       {
-        "id": "ge_ow_25_05",
+        "id": "20210525_ge_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-05-25",
         "fin_enquete": "2021-05-31",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "id": "ge_ifp_04_02",
+        "id": "20210204_ge_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-02-04",
         "fin_enquete": "2021-02-09",
@@ -436,7 +436,7 @@
         ]
       },
       {
-        "id": "ge_hi_13_04",
+        "id": "20210413_ge_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2021-04-13",
         "fin_enquete": "2021-04-19",
