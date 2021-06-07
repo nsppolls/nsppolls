@@ -1349,6 +1349,184 @@
             ]
           }
         ]
+      },
+      {
+        "id": "20210531_ara_ifp",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-05-31",
+        "fin_enquete": "2021-06-04",
+        "commanditaire": "LCI et Le Figaro",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9157-aura-ifop-le-figaro.pdf",
+        "echantillon": 992,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 688.448,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 47,
+                    "erreur_sup": 50.7283,
+                    "erreur_inf": 43.2717
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem et Fabienne Grébert",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise",
+                      "Parti radical de gauche",
+                      "Parti socialiste",
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 33.4232,
+                    "erreur_inf": 26.5768
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 23,
+                    "erreur_sup": 26.1436,
+                    "erreur_inf": 19.8564
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 694.4,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 22,
+                    "erreur_sup": 25.0811,
+                    "erreur_inf": 18.9189
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 37,
+                    "erreur_sup": 40.5911,
+                    "erreur_inf": 33.4089
+                  },
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.6559,
+                    "erreur_inf": 12.3441
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem et Fabienne Grébert",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise",
+                      "Parti radical de gauche",
+                      "Parti socialiste",
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 26,
+                    "erreur_sup": 29.2625,
+                    "erreur_inf": 22.7375
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 708.288,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Chantal Gomez",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1.5,
+                    "erreur_sup": 2.3952,
+                    "erreur_inf": 0.6048
+                  },
+                  {
+                    "tete_liste": "Fabienne Grébet",
+                    "parti": [
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.3043,
+                    "erreur_inf": 8.6957
+                  },
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.4768,
+                    "erreur_inf": 10.5232
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 35,
+                    "erreur_sup": 38.5127,
+                    "erreur_inf": 31.4873
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.3043,
+                    "erreur_inf": 8.6957
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 22,
+                    "erreur_sup": 25.0508,
+                    "erreur_inf": 18.9492
+                  },
+                  {
+                    "tete_liste": "Cécile Cukierman",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 6,
+                    "erreur_sup": 7.749,
+                    "erreur_inf": 4.251
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
