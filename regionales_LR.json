@@ -1,0 +1,107 @@
+[
+  {
+    "region": "La Réunion",
+    "sondages": [
+      {
+        "id": "20210529_lr_sgs",
+        "nom_institut": "Sagis",
+        "debut_enquete": "2021-05-29",
+        "fin_enquete": "2021-06-04",
+        "commanditaire": "Réunion la 1ère / France Télévisions",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9162-la-reunion-sagis-france-television.pdf",
+        "echantillon": 336,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 288.96,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Vanessa Miranville",
+                    "parti": {},
+                    "intentions": 8.5,
+                    "erreur_sup": 11.7156,
+                    "erreur_inf": 5.2844
+                  },
+                  {
+                    "tete_liste": "Corinne De Flore",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 1.3133,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Jean-Pierre Marchaud",
+                    "parti": "EE-LV",
+                    "intentions": 2,
+                    "erreur_sup": 3.6142,
+                    "erreur_inf": 0.3858
+                  },
+                  {
+                    "tete_liste": "Huguette Bello",
+                    "parti": {},
+                    "intentions": 22.5,
+                    "erreur_sup": 27.3148,
+                    "erreur_inf": 17.6852
+                  },
+                  {
+                    "tete_liste": "Philippe Cadet",
+                    "parti": {},
+                    "intentions": 2,
+                    "erreur_sup": 3.6142,
+                    "erreur_inf": 0.3858
+                  },
+                  {
+                    "tete_liste": "Olivier Hoarau",
+                    "parti": {},
+                    "intentions": 7,
+                    "erreur_sup": 9.9419,
+                    "erreur_inf": 4.0581
+                  },
+                  {
+                    "tete_liste": "Joseph Rivière",
+                    "parti": "Rassemblement national",
+                    "intentions": 1.5,
+                    "erreur_sup": 2.9015,
+                    "erreur_inf": 0.0985
+                  },
+                  {
+                    "tete_liste": "Jean-Yves Payet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 0.5,
+                    "erreur_sup": 1.3133,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Didier Robert",
+                    "parti": {},
+                    "intentions": 24,
+                    "erreur_sup": 28.9244,
+                    "erreur_inf": 19.0756
+                  },
+                  {
+                    "tete_liste": "Ericka Bareigts",
+                    "parti": {},
+                    "intentions": 23.5,
+                    "erreur_sup": 28.3888,
+                    "erreur_inf": 18.6112
+                  },
+                  {
+                    "tete_liste": "Patrick Lebreton",
+                    "parti": {},
+                    "intentions": 8,
+                    "erreur_sup": 11.1281,
+                    "erreur_inf": 4.8719
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
