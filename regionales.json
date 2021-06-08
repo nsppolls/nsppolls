@@ -3,6 +3,143 @@
     "region": "Île-de-France",
     "sondages": [
       {
+        "id": "20210603_idf_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-03",
+        "fin_enquete": "2021-06-06",
+        "commanditaire": "CNews",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-ile-de-france-vague-2-8-juin-2021/viewdocument/2598.html?Itemid=0",
+        "echantillon": 1046,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 763.58,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 18,
+                    "erreur_sup": 20.725,
+                    "erreur_inf": 15.275
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 16,
+                    "erreur_sup": 18.6003,
+                    "erreur_inf": 13.3997
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 38,
+                    "erreur_sup": 41.4428,
+                    "erreur_inf": 34.5572
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique",
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 28,
+                    "erreur_sup": 31.1847,
+                    "erreur_inf": 24.8153
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 794.96,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": "EE-LV",
+                    "intentions": 12,
+                    "erreur_sup": 14.259,
+                    "erreur_inf": 9.741
+                  },
+                  {
+                    "tete_liste": "Nathalie Arthaud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.6917,
+                    "erreur_inf": 0.3083
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 17,
+                    "erreur_sup": 19.6112,
+                    "erreur_inf": 14.3888
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.5485,
+                    "erreur_inf": 13.4515
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 36.2687,
+                    "erreur_inf": 29.7313
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.0855,
+                    "erreur_inf": 7.9145
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.1751,
+                    "erreur_inf": 8.8249
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210330_idf_hi",
         "nom_institut": "Harris Interactive",
         "debut_enquete": "2021-03-30",
@@ -9875,7 +10012,7 @@
     ]
   },
   {
-    "region": "Centre-Val-de-Loire",
+    "region": "Centre-Val de Loire",
     "sondages": [
       {
         "id": "20210512_cvl_ips",
@@ -10060,7 +10197,7 @@
     ]
   },
   {
-    "region": "Grand-Est",
+    "region": "Grand Est",
     "sondages": [
       {
         "id": "20210525_ge_ow",
@@ -10830,7 +10967,7 @@
     ]
   },
   {
-    "region": "Pays-de-la-Loire",
+    "region": "Pays de la Loire",
     "sondages": [
       {
         "id": "20210114_pdl_ow",
