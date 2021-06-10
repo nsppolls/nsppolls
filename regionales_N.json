@@ -622,6 +622,251 @@
             ]
           }
         ]
+      },
+      {
+        "id": "20210531_n_elb",
+        "nom_institut": "Elabe",
+        "debut_enquete": "2021-05-31",
+        "fin_enquete": "2021-06-05",
+        "commanditaire": "Le Courrier Cauchois, La Manche Libre et Tendance Ouest",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9174-normandie-elabe-le-courrier-cauchois.pdf",
+        "echantillon": 553,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire – Jumel tête de liste",
+                "sous_echantillon": 492.17,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.9223,
+                    "erreur_inf": 23.0777
+                  },
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 15,
+                    "erreur_sup": 18.1547,
+                    "erreur_inf": 11.8453
+                  },
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.9223,
+                    "erreur_inf": 23.0777
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 31,
+                    "erreur_sup": 35.0861,
+                    "erreur_inf": 26.9139
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire – Boulanger tête de liste",
+                "sous_echantillon": 492.17,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.9223,
+                    "erreur_inf": 23.0777
+                  },
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 15,
+                    "erreur_sup": 18.1547,
+                    "erreur_inf": 11.8453
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 31,
+                    "erreur_sup": 35.0861,
+                    "erreur_inf": 26.9139
+                  },
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.9223,
+                    "erreur_inf": 23.0777
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire – Jumel tête de liste",
+                "sous_echantillon": 481.11,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 35.1328,
+                    "erreur_inf": 26.8672
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 41,
+                    "erreur_sup": 45.3949,
+                    "erreur_inf": 36.6051
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 32.0122,
+                    "erreur_inf": 23.9878
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire – Boulanger tête de liste",
+                "sous_echantillon": 486.64,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 34.0716,
+                    "erreur_inf": 25.9284
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 42,
+                    "erreur_sup": 46.3852,
+                    "erreur_inf": 37.6148
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 31.9893,
+                    "erreur_inf": 24.0107
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 475.58,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 27,
+                    "erreur_sup": 30.9901,
+                    "erreur_inf": 23.0099
+                  },
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 13,
+                    "erreur_sup": 16.0226,
+                    "erreur_inf": 9.9774
+                  },
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.6963,
+                    "erreur_inf": 7.3037
+                  },
+                  {
+                    "tete_liste": "Stéphanie Kerbarh",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.8943,
+                    "erreur_inf": 0.1057
+                  },
+                  {
+                    "tete_liste": "Pascal Le Manach",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.2583,
+                    "erreur_inf": 0.7417
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 35.1567,
+                    "erreur_inf": 26.8433
+                  },
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 19.2949,
+                    "erreur_inf": 12.7051
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

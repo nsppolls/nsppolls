@@ -1,6 +1,6 @@
 [
   {
-    "id": "elb_12_04",
+    "id": "20210412_elb",
     "nom_institut": "Elabe",
     "debut_enquete": "2021-04-12",
     "fin_enquete": "2021-04-14",
@@ -250,7 +250,257 @@
     ]
   },
   {
-    "id": "ifp_25_09",
+    "id": "20210604_hi",
+    "nom_institut": "Harris Interactive",
+    "debut_enquete": "2021-06-04",
+    "fin_enquete": "2021-06-07",
+    "commanditaire": "Challenges",
+    "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2021/06/Rapport-Harris-Vague-5-Intentions-de-vote-Presidentielle-2022-7-juin-2021-Challenges.pdf",
+    "echantillon": 1006,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": "Hypothèse X. Bertrand",
+            "sous_echantillon": 1006,
+            "candidats": [
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": "EE-LV",
+                "intentions": 6,
+                "erreur_sup": 7.4676,
+                "erreur_inf": 4.5324
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": "Parti communiste",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "François Asselineau",
+                "parti": "UPR",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": "Les Républicains",
+                "intentions": 14,
+                "erreur_sup": 16.1442,
+                "erreur_inf": 11.8558
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 11,
+                "erreur_sup": 12.9335,
+                "erreur_inf": 9.0665
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 28,
+                "erreur_sup": 30.7746,
+                "erreur_inf": 25.2254
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": "Parti socialiste",
+                "intentions": 7,
+                "erreur_sup": 8.5767,
+                "erreur_inf": 5.4233
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 3,
+                "erreur_sup": 4.0542,
+                "erreur_inf": 1.9458
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0.5,
+                "erreur_sup": 0.9359,
+                "erreur_inf": 0.0641
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 25,
+                "erreur_sup": 27.6758,
+                "erreur_inf": 22.3242
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse F. Baroin",
+            "sous_echantillon": 1006,
+            "candidats": [
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 28,
+                "erreur_sup": 30.7746,
+                "erreur_inf": 25.2254
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": "EE-LV",
+                "intentions": 6,
+                "erreur_sup": 7.4676,
+                "erreur_inf": 4.5324
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "François Baroin",
+                "parti": "Les Républicains",
+                "intentions": 10,
+                "erreur_sup": 11.8539,
+                "erreur_inf": 8.1461
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 3,
+                "erreur_sup": 4.0542,
+                "erreur_inf": 1.9458
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 28,
+                "erreur_sup": 30.7746,
+                "erreur_inf": 25.2254
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": "Parti socialiste",
+                "intentions": 7,
+                "erreur_sup": 8.5767,
+                "erreur_inf": 5.4233
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 11,
+                "erreur_sup": 12.9335,
+                "erreur_inf": 9.0665
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": "Parti communiste",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "François Asselineau",
+                "parti": "UPR",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1,
+                "erreur_sup": 1.6149,
+                "erreur_inf": 0.3851
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1006,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 47,
+                "erreur_sup": 50.0842,
+                "erreur_inf": 43.9158
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 53,
+                "erreur_sup": 56.0842,
+                "erreur_inf": 49.9158
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20200925_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2020-09-25",
     "fin_enquete": "2020-09-28",
@@ -1209,7 +1459,7 @@
     ]
   },
   {
-    "id": "hi_14_05",
+    "id": "20210514_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-05-14",
     "fin_enquete": "2021-05-17",
@@ -1459,7 +1709,7 @@
     ]
   },
   {
-    "id": "ips_27_01",
+    "id": "20210127_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2021-01-27",
     "fin_enquete": "2021-01-28",
@@ -1934,7 +2184,7 @@
     ]
   },
   {
-    "id": "elb_30_06",
+    "id": "20200630_elb",
     "nom_institut": "Elabe",
     "debut_enquete": "2020-06-30",
     "fin_enquete": "2020-07-01",
@@ -2266,7 +2516,7 @@
     ]
   },
   {
-    "id": "hi_19_01",
+    "id": "20210119_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-01-19",
     "fin_enquete": "2021-01-20",
@@ -2615,7 +2865,7 @@
     ]
   },
   {
-    "id": "ifp_18_05",
+    "id": "20210518_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2021-05-18",
     "fin_enquete": "2021-05-20",
@@ -3185,7 +3435,7 @@
     ]
   },
   {
-    "id": "ifp_02_04",
+    "id": "20210402_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2021-04-02",
     "fin_enquete": "2021-04-08",
@@ -4253,7 +4503,7 @@
     ]
   },
   {
-    "id": "ips_09_04",
+    "id": "20210409_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2021-04-09",
     "fin_enquete": "2021-04-15",
@@ -4557,7 +4807,7 @@
     ]
   },
   {
-    "id": "hi_28_05",
+    "id": "20210528_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-05-28",
     "fin_enquete": "2021-05-31",
@@ -4807,7 +5057,7 @@
     ]
   },
   {
-    "id": "hi_02_03",
+    "id": "20210302_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-03-02",
     "fin_enquete": "2021-03-04",
@@ -5029,7 +5279,7 @@
     ]
   },
   {
-    "id": "hi_21_05",
+    "id": "20210521_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-05-21",
     "fin_enquete": "2021-05-24",
@@ -5279,7 +5529,7 @@
     ]
   },
   {
-    "id": "hi_16_04",
+    "id": "20210416_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-04-16",
     "fin_enquete": "2021-04-19",
@@ -5529,7 +5779,7 @@
     ]
   },
   {
-    "id": "ifp_05_03",
+    "id": "20210305_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2021-03-05",
     "fin_enquete": "2021-03-11",
@@ -5701,7 +5951,7 @@
     ]
   },
   {
-    "id": "ifp_18_06",
+    "id": "20200618_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2020-06-18",
     "fin_enquete": "2020-06-19",
@@ -5943,7 +6193,7 @@
     ]
   },
   {
-    "id": "rws_14_04",
+    "id": "20210414_rws",
     "nom_institut": "Redfield & Wilton Strategies",
     "debut_enquete": "2021-04-14",
     "fin_enquete": "2021-04-15",
@@ -6057,7 +6307,7 @@
     ]
   },
   {
-    "id": "ifp_23_02",
+    "id": "20210223_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2021-02-23",
     "fin_enquete": "2021-02-24",
