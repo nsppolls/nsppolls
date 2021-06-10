@@ -1,0 +1,144 @@
+[
+  {
+    "region": "Bourgogne-Franche-Comté",
+    "sondages": [
+      {
+        "id": "20210603_bfc_ips",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-06-03",
+        "fin_enquete": "2021-06-07",
+        "commanditaire": "France 3",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9167-bfc-ipsos-france-tv.pdf",
+        "echantillon": 389,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 330.65,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Denis Thuriot",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 18,
+                    "erreur_sup": 22.1411,
+                    "erreur_inf": 13.8589
+                  },
+                  {
+                    "tete_liste": "Marie-Guite Dufay",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "EE-LV"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 37.0281,
+                    "erreur_inf": 26.9719
+                  },
+                  {
+                    "tete_liste": "Gilles Platret",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes",
+                      "Debout la France"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 25.3903,
+                    "erreur_inf": 16.6097
+                  },
+                  {
+                    "tete_liste": "Julien Odoul",
+                    "parti": "Rassemblement national",
+                    "intentions": 29,
+                    "erreur_sup": 33.891,
+                    "erreur_inf": 24.109
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 334.54,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Odoul",
+                    "parti": "Rassemblement national",
+                    "intentions": 8,
+                    "erreur_sup": 10.9072,
+                    "erreur_inf": 5.0928
+                  },
+                  {
+                    "tete_liste": "Denis Thuriot",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 19.9285,
+                    "erreur_inf": 12.0715
+                  },
+                  {
+                    "tete_liste": "Bastien Faudot",
+                    "parti": [
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 4,
+                    "erreur_sup": 6.0999,
+                    "erreur_inf": 1.9001
+                  },
+                  {
+                    "tete_liste": "Claire Rocher",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.5002,
+                    "erreur_inf": 0.4998
+                  },
+                  {
+                    "tete_liste": "Stéphanie Modde",
+                    "parti": "EE-LV",
+                    "intentions": 8,
+                    "erreur_sup": 10.9072,
+                    "erreur_inf": 5.0928
+                  },
+                  {
+                    "tete_liste": "Marie-Guite Dufay",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 25.3647,
+                    "erreur_inf": 16.6353
+                  },
+                  {
+                    "tete_liste": "Gilles Platret",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes",
+                      "Debout la France"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 25.3647,
+                    "erreur_inf": 16.6353
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

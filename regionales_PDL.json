@@ -3,6 +3,190 @@
     "region": "Pays de la Loire",
     "sondages": [
       {
+        "id": "20210603_pdl_ips",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-06-03",
+        "fin_enquete": "2021-06-07",
+        "commanditaire": "France 3",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9171-pdll-ipsos-france-tv.pdf",
+        "echantillon": 394,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse Union de la gauche menée par M. Orphelin",
+                "sous_echantillon": 338.84,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Christelle Morançais",
+                    "parti": "Les Républicains",
+                    "intentions": 25,
+                    "erreur_sup": 29.6106,
+                    "erreur_inf": 20.3894
+                  },
+                  {
+                    "tete_liste": "François de Rugy",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 26.4108,
+                    "erreur_inf": 17.5892
+                  },
+                  {
+                    "tete_liste": "Guillaume Garot",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s",
+                      "Génération écologie",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 36.9669,
+                    "erreur_inf": 27.0331
+                  },
+                  {
+                    "tete_liste": "Hervé Juvin",
+                    "parti": "Rassemblement national",
+                    "intentions": 21,
+                    "erreur_sup": 25.3369,
+                    "erreur_inf": 16.6631
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse Union de la gauche menée par G. Garot",
+                "sous_echantillon": 342.78,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Matthieu Orphelin",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s",
+                      "Génération écologie",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 36.9383,
+                    "erreur_inf": 27.0617
+                  },
+                  {
+                    "tete_liste": "François de Rugy",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 26.3854,
+                    "erreur_inf": 17.6146
+                  },
+                  {
+                    "tete_liste": "Hervé Juvin",
+                    "parti": "Rassemblement national",
+                    "intentions": 21,
+                    "erreur_sup": 25.3119,
+                    "erreur_inf": 16.6881
+                  },
+                  {
+                    "tete_liste": "Christelle Morançais",
+                    "parti": "Les Républicains",
+                    "intentions": 25,
+                    "erreur_sup": 29.584,
+                    "erreur_inf": 20.416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 342.78,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Matthieu Orphelin",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s",
+                      "Génération écologie"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 23.1531,
+                    "erreur_inf": 14.8469
+                  },
+                  {
+                    "tete_liste": "François de Rugy",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 23.1531,
+                    "erreur_inf": 14.8469
+                  },
+                  {
+                    "tete_liste": "Hervé Juvin",
+                    "parti": "Rassemblement national",
+                    "intentions": 17,
+                    "erreur_sup": 20.9766,
+                    "erreur_inf": 13.0234
+                  },
+                  {
+                    "tete_liste": "Eddy Le Beller",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.4821,
+                    "erreur_inf": 0.5179
+                  },
+                  {
+                    "tete_liste": "Cécile de Bayle de Jessé",
+                    "parti": "Debout la France",
+                    "intentions": 4,
+                    "erreur_sup": 6.0745,
+                    "erreur_inf": 1.9255
+                  },
+                  {
+                    "tete_liste": "Christelle Morançais",
+                    "parti": "Les Républicains",
+                    "intentions": 25,
+                    "erreur_sup": 29.584,
+                    "erreur_inf": 20.416
+                  },
+                  {
+                    "tete_liste": "Linda Rigaudeau",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 1.2467,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Guillaume Garot",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche",
+                      "Cap écologie"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 17.6733,
+                    "erreur_inf": 10.3267
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210114_pdl_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-01-14",

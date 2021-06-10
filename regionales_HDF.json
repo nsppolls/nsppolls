@@ -127,14 +127,14 @@
               },
               {
                 "hypothese": "Hypothèse triangulaire",
-                "sous_echantillon": 967,
+                "sous_echantillon": 646.923,
                 "tetes_liste": [
                   {
                     "tete_liste": "Sébastien Chenu",
                     "parti": "Rassemblement national",
                     "intentions": 35,
-                    "erreur_sup": 38.0063,
-                    "erreur_inf": 31.9937
+                    "erreur_sup": 38.6755,
+                    "erreur_inf": 31.3245
                   },
                   {
                     "tete_liste": "Karima Delli",
@@ -145,8 +145,8 @@
                       "EE-LV"
                     ],
                     "intentions": 22,
-                    "erreur_sup": 24.611,
-                    "erreur_inf": 19.389
+                    "erreur_sup": 25.1922,
+                    "erreur_inf": 18.8078
                   },
                   {
                     "tete_liste": "Xavier Bertrand",
@@ -155,8 +155,8 @@
                       "UDI"
                     ],
                     "intentions": 43,
-                    "erreur_sup": 46.1204,
-                    "erreur_inf": 39.8796
+                    "erreur_sup": 46.8151,
+                    "erreur_inf": 39.1849
                   }
                 ]
               }

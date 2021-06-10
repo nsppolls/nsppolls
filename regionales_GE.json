@@ -187,6 +187,154 @@
         ]
       },
       {
+        "id": "20210603_ge_ips",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-06-03",
+        "fin_enquete": "2021-06-07",
+        "commanditaire": "France 3",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9170-grand-est-ipsos-france-tv.pdf",
+        "echantillon": 408,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 354.96,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 32,
+                    "erreur_sup": 36.8528,
+                    "erreur_inf": 27.1472
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 29,
+                    "erreur_sup": 33.7206,
+                    "erreur_inf": 24.2794
+                  },
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 23.0812,
+                    "erreur_inf": 14.9188
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie",
+                      "France insoumise",
+                      "Génération·s",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 24.1613,
+                    "erreur_inf": 15.8387
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 363.12,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Louise Fève",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.44,
+                    "erreur_inf": 0.56
+                  },
+                  {
+                    "tete_liste": "Laurent Jacobelli",
+                    "parti": "Rassemblement national",
+                    "intentions": 25,
+                    "erreur_sup": 29.4538,
+                    "erreur_inf": 20.5462
+                  },
+                  {
+                    "tete_liste": "Adil Tyane",
+                    "parti": "Union des démocrates musulmans français",
+                    "intentions": 1,
+                    "erreur_sup": 2.0234,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Jean Rottner",
+                    "parti": "Les Républicains",
+                    "intentions": 27,
+                    "erreur_sup": 31.5664,
+                    "erreur_inf": 22.4336
+                  },
+                  {
+                    "tete_liste": "Brigitte Klinkert",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 17.569,
+                    "erreur_inf": 10.431
+                  },
+                  {
+                    "tete_liste": "Eliane Romani",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération écologie"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 17.569,
+                    "erreur_inf": 10.431
+                  },
+                  {
+                    "tete_liste": "Aurélie Filippetti",
+                    "parti": [
+                      "France insoumise",
+                      "Parti radical de gauche",
+                      "Génération·s"
+                    ],
+                    "intentions": 5,
+                    "erreur_sup": 7.2417,
+                    "erreur_inf": 2.7583
+                  },
+                  {
+                    "tete_liste": "Martin Meyer",
+                    "parti": {},
+                    "intentions": 4,
+                    "erreur_sup": 6.0156,
+                    "erreur_inf": 1.9844
+                  },
+                  {
+                    "tete_liste": "Florian Philippot",
+                    "parti": "Les Patriotes",
+                    "intentions": 8,
+                    "erreur_sup": 10.7904,
+                    "erreur_inf": 5.2096
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210204_ge_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-02-04",

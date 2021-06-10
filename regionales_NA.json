@@ -3,6 +3,144 @@
     "region": "Nouvelle-Aquitaine",
     "sondages": [
       {
+        "id": "20210603_na_ips",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-06-03",
+        "fin_enquete": "2021-06-07",
+        "commanditaire": "France 3",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9168-nouvelle-a-ipsos-france-tv.pdf",
+        "echantillon": 393,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 337.98,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Geneviève Darrieussecq",
+                    "parti": [
+                      "Modem",
+                      "LRM",
+                      "UDI"
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 21.0047,
+                    "erreur_inf": 12.9953
+                  },
+                  {
+                    "tete_liste": "Nicolas Thierry",
+                    "parti": [
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 9,
+                    "erreur_sup": 12.0511,
+                    "erreur_inf": 5.9489
+                  },
+                  {
+                    "tete_liste": "Eddie Puyjalon",
+                    "parti": {},
+                    "intentions": 4,
+                    "erreur_sup": 6.0892,
+                    "erreur_inf": 1.9108
+                  },
+                  {
+                    "tete_liste": "Alain Rousset",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste"
+                    ],
+                    "intentions": 25,
+                    "erreur_sup": 29.6165,
+                    "erreur_inf": 20.3835
+                  },
+                  {
+                    "tete_liste": "Clémence Guetté",
+                    "parti": [
+                      "France insoumise",
+                      "NPA"
+                    ],
+                    "intentions": 4,
+                    "erreur_sup": 6.0892,
+                    "erreur_inf": 1.9108
+                  },
+                  {
+                    "tete_liste": "Nicolas Florian",
+                    "parti": "Les Républicains",
+                    "intentions": 12,
+                    "erreur_sup": 15.4645,
+                    "erreur_inf": 8.5355
+                  },
+                  {
+                    "tete_liste": "Guillaume Perchet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.4926,
+                    "erreur_inf": 0.5074
+                  },
+                  {
+                    "tete_liste": "Edwige Diaz",
+                    "parti": "Rassemblement national",
+                    "intentions": 27,
+                    "erreur_sup": 31.7332,
+                    "erreur_inf": 22.2668
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 334.05,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Geneviève Darrieussecq",
+                    "parti": [
+                      "Modem",
+                      "LRM",
+                      "UDI"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 25.3679,
+                    "erreur_inf": 16.6321
+                  },
+                  {
+                    "tete_liste": "Nicolas Florian",
+                    "parti": "Les Républicains",
+                    "intentions": 15,
+                    "erreur_sup": 18.8292,
+                    "erreur_inf": 11.1708
+                  },
+                  {
+                    "tete_liste": "Alain Rousset",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste"
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 41.1474,
+                    "erreur_inf": 30.8526
+                  },
+                  {
+                    "tete_liste": "Edwige Diaz",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 32.815,
+                    "erreur_inf": 23.185
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20201014_na_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-10-14",

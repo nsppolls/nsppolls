@@ -624,6 +624,136 @@
         ]
       },
       {
+        "id": "20210603_n_ips",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-06-03",
+        "fin_enquete": "2021-06-07",
+        "commanditaire": "France 3",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9169-normandie-ipsos-france-tv.pdf",
+        "echantillon": 434,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 394.94,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 26,
+                    "erreur_sup": 30.3261,
+                    "erreur_inf": 21.6739
+                  },
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 13,
+                    "erreur_sup": 16.3168,
+                    "erreur_inf": 9.6832
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 36.6007,
+                    "erreur_inf": 27.3993
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 29,
+                    "erreur_sup": 33.4753,
+                    "erreur_inf": 24.5247
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 403.62,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.9268,
+                    "erreur_inf": 7.0732
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 36.5509,
+                    "erreur_inf": 27.4491
+                  },
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 19.5766,
+                    "erreur_inf": 12.4234
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 32.3804,
+                    "erreur_inf": 23.6196
+                  },
+                  {
+                    "tete_liste": "Stéphanie Kerbarh",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.9707,
+                    "erreur_inf": 0.0293
+                  },
+                  {
+                    "tete_liste": "Pascal Le Manach",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.3658,
+                    "erreur_inf": 0.6342
+                  },
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 11,
+                    "erreur_sup": 14.0525,
+                    "erreur_inf": 7.9475
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210531_n_elb",
         "nom_institut": "Elabe",
         "debut_enquete": "2021-05-31",

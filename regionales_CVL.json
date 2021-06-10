@@ -181,6 +181,180 @@
             ]
           }
         ]
+      },
+      {
+        "id": "20210603_cvl_ips",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-06-03",
+        "fin_enquete": "2021-06-07",
+        "commanditaire": "France 3",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9166-centre-vdl-ipsos-france-tv.pdf",
+        "echantillon": 409,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 351.74,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Aleksandar Nikolik",
+                    "parti": "Rassemblement national",
+                    "intentions": 33,
+                    "erreur_sup": 37.914,
+                    "erreur_inf": 28.086
+                  },
+                  {
+                    "tete_liste": "François Bonneau",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 38.9506,
+                    "erreur_inf": 29.0494
+                  },
+                  {
+                    "tete_liste": "Marc Fesneau",
+                    "parti": [
+                      "Modem",
+                      "LRM",
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 37.914,
+                    "erreur_inf": 28.086
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 355.83,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "François Bonneau",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "EE-LV",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 34.7615,
+                    "erreur_inf": 25.2385
+                  },
+                  {
+                    "tete_liste": "Marc Fesneau",
+                    "parti": [
+                      "Modem",
+                      "LRM"
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 26.3042,
+                    "erreur_inf": 17.6958
+                  },
+                  {
+                    "tete_liste": "Aleksandar Nikolik",
+                    "parti": "Rassemblement national",
+                    "intentions": 30,
+                    "erreur_sup": 34.7615,
+                    "erreur_inf": 25.2385
+                  },
+                  {
+                    "tete_liste": "Nicolas Forissier",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 18,
+                    "erreur_sup": 21.9919,
+                    "erreur_inf": 14.0081
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 355.83,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Farida Megdoud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.4547,
+                    "erreur_inf": 0.5453
+                  },
+                  {
+                    "tete_liste": "Marc Fesneau",
+                    "parti": [
+                      "Modem",
+                      "LRM"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 23.0762,
+                    "erreur_inf": 14.9238
+                  },
+                  {
+                    "tete_liste": "Aleksandar Nikolik",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 32.6653,
+                    "erreur_inf": 23.3347
+                  },
+                  {
+                    "tete_liste": "Charles Fournier",
+                    "parti": [
+                      "EE-LV",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 9,
+                    "erreur_sup": 11.9736,
+                    "erreur_inf": 6.0264
+                  },
+                  {
+                    "tete_liste": "Nicolas Forissier",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 18,
+                    "erreur_sup": 21.9919,
+                    "erreur_inf": 14.0081
+                  },
+                  {
+                    "tete_liste": "Jérémy Clément et Christelle de Crémiers",
+                    "parti": {},
+                    "intentions": 3,
+                    "erreur_sup": 4.7725,
+                    "erreur_inf": 1.2275
+                  },
+                  {
+                    "tete_liste": "François Bonneau",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 25.2321,
+                    "erreur_inf": 16.7679
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

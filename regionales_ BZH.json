@@ -254,6 +254,273 @@
             ]
           }
         ]
+      },
+      {
+        "id": "20210603_ bzh_ips",
+        "nom_institut": "Ipsos",
+        "debut_enquete": "2021-06-03",
+        "fin_enquete": "2021-06-07",
+        "commanditaire": "France 3",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9172-bretagne-ipsos-france-tv.pdf",
+        "echantillon": 384,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 326.4,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Gilles Pennelle",
+                    "parti": "Rassemblement national",
+                    "intentions": 20,
+                    "erreur_sup": 24.3395,
+                    "erreur_inf": 15.6605
+                  },
+                  {
+                    "tete_liste": "Yves Chauvel",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 1.2652,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Pierre-Yves Cadalen",
+                    "parti": "France insoumise",
+                    "intentions": 5,
+                    "erreur_sup": 7.3644,
+                    "erreur_inf": 2.6356
+                  },
+                  {
+                    "tete_liste": "Joannic Martin",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 1.2652,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Christophe Daviet",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 1.2652,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Valérie Hamon",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.5188,
+                    "erreur_inf": 0.4812
+                  },
+                  {
+                    "tete_liste": "Claire Desmares-Poirrier",
+                    "parti": [
+                      "EE-LV",
+                      "Génération écologie"
+                    ],
+                    "intentions": 12,
+                    "erreur_sup": 15.5254,
+                    "erreur_inf": 8.4746
+                  },
+                  {
+                    "tete_liste": "Thierry Burlot",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir",
+                      "UDI"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 23.256,
+                    "erreur_inf": 14.744
+                  },
+                  {
+                    "tete_liste": "Loïg Chesnais-Girard",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 23.256,
+                    "erreur_inf": 14.744
+                  },
+                  {
+                    "tete_liste": "Daniel Cueff",
+                    "parti": {},
+                    "intentions": 4,
+                    "erreur_sup": 6.1259,
+                    "erreur_inf": 1.8741
+                  },
+                  {
+                    "tete_liste": "Kamel Elahiar",
+                    "parti": "Union des démocrates musulmans français",
+                    "intentions": 0.5,
+                    "erreur_sup": 1.2652,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "David Cabas",
+                    "parti": "Debout la France",
+                    "intentions": 3,
+                    "erreur_sup": 4.8507,
+                    "erreur_inf": 1.1493
+                  },
+                  {
+                    "tete_liste": "Isabelle Le Callennec",
+                    "parti": "Les Républicains",
+                    "intentions": 14,
+                    "erreur_sup": 17.7644,
+                    "erreur_inf": 10.2356
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire – Union LRM / PS",
+                "sous_echantillon": 314.88,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Loïg Chesnais-Girard",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche",
+                      "EE-LV",
+                      "LRM",
+                      "UDI",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 34.012,
+                    "erreur_inf": 23.988
+                  },
+                  {
+                    "tete_liste": "Isabelle Le Callennec",
+                    "parti": "Les Républicains",
+                    "intentions": 24,
+                    "erreur_sup": 28.7173,
+                    "erreur_inf": 19.2827
+                  },
+                  {
+                    "tete_liste": "Claire Desmares-Poirrier",
+                    "parti": [
+                      "EE-LV",
+                      "Génération écologie"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 25.4989,
+                    "erreur_inf": 16.5011
+                  },
+                  {
+                    "tete_liste": "Gilles Pennelle",
+                    "parti": "Rassemblement national",
+                    "intentions": 26,
+                    "erreur_sup": 30.8449,
+                    "erreur_inf": 21.1551
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire – Union PS / LRM",
+                "sous_echantillon": 311.04,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Claire Desmares-Poirrier",
+                    "parti": [
+                      "EE-LV",
+                      "Génération écologie"
+                    ],
+                    "intentions": 26,
+                    "erreur_sup": 30.8747,
+                    "erreur_inf": 21.1253
+                  },
+                  {
+                    "tete_liste": "Isabelle Le Callennec",
+                    "parti": "Les Républicains",
+                    "intentions": 22,
+                    "erreur_sup": 26.6037,
+                    "erreur_inf": 17.3963
+                  },
+                  {
+                    "tete_liste": "Thierry Burlot",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche",
+                      "EE-LV",
+                      "LRM",
+                      "UDI",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 26,
+                    "erreur_sup": 30.8747,
+                    "erreur_inf": 21.1253
+                  },
+                  {
+                    "tete_liste": "Gilles Pennelle",
+                    "parti": "Rassemblement national",
+                    "intentions": 26,
+                    "erreur_sup": 30.8747,
+                    "erreur_inf": 21.1253
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire – Union de la gauche",
+                "sous_echantillon": 326.4,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Burlot",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir",
+                      "UDI"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 25.4188,
+                    "erreur_inf": 16.5812
+                  },
+                  {
+                    "tete_liste": "Isabelle Le Callennec",
+                    "parti": "Les Républicains",
+                    "intentions": 16,
+                    "erreur_sup": 19.9772,
+                    "erreur_inf": 12.0228
+                  },
+                  {
+                    "tete_liste": "Loïg Chesnais-Girard",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche",
+                      "EE-LV"
+                    ],
+                    "intentions": 39,
+                    "erreur_sup": 44.2915,
+                    "erreur_inf": 33.7085
+                  },
+                  {
+                    "tete_liste": "Gilles Pennelle",
+                    "parti": "Rassemblement national",
+                    "intentions": 24,
+                    "erreur_sup": 28.6333,
+                    "erreur_inf": 19.3667
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
