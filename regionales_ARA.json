@@ -1737,7 +1737,7 @@
         "commanditaire": "CNews",
         "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9175-aura-ow-c-news.pdf",
         "echantillon": 1019,
-        "population": "Inscrits sur les listes",
+        "population": "Inscrits sur les listes électorales",
         "tours": [
           {
             "tour": "Premier tour",

@@ -139,7 +139,7 @@
                 ]
               },
               {
-                "hypothese": "Hypothèse duo",
+                "hypothese": "Hypothèse duel",
                 "sous_echantillon": 322.38,
                 "tetes_liste": [
                   {
@@ -1506,6 +1506,172 @@
                     "intentions": 23,
                     "erreur_sup": 26.3904,
                     "erreur_inf": 19.6096
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20210607_paca_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-07",
+        "fin_enquete": "2021-06-10",
+        "commanditaire": "CNews",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-paca-vague-2-11-juin-2021/viewdocument/2603.html?Itemid=0",
+        "echantillon": 1067,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 821.59,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Isabelle Bonnet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.6804,
+                    "erreur_inf": 0.3196
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 43,
+                    "erreur_sup": 46.3853,
+                    "erreur_inf": 39.6147
+                  },
+                  {
+                    "tete_liste": "Valérie Laupies",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.6804,
+                    "erreur_inf": 0.3196
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 32,
+                    "erreur_sup": 35.1898,
+                    "erreur_inf": 28.8102
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.5686,
+                    "erreur_inf": 14.4314
+                  },
+                  {
+                    "tete_liste": "Mikael Vicenzi",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 0.9823,
+                    "erreur_inf": 0.0177
+                  },
+                  {
+                    "tete_liste": "Jean-Marc Governatori",
+                    "parti": "Cap écologie",
+                    "intentions": 3,
+                    "erreur_sup": 4.1665,
+                    "erreur_inf": 1.8335
+                  },
+                  {
+                    "tete_liste": "Noël Chuisano",
+                    "parti": "Debout la France",
+                    "intentions": 2,
+                    "erreur_sup": 2.9573,
+                    "erreur_inf": 1.0427
+                  },
+                  {
+                    "tete_liste": "Hervé Guerrera",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.6804,
+                    "erreur_inf": 0.3196
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 800.25,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 23.8221,
+                    "erreur_inf": 18.1779
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 46,
+                    "erreur_sup": 49.4532,
+                    "erreur_inf": 42.5468
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 36.2579,
+                    "erreur_inf": 29.7421
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse duel",
+                "sous_echantillon": 704.22,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 52,
+                    "erreur_sup": 55.69,
+                    "erreur_inf": 48.31
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 48,
+                    "erreur_sup": 51.69,
+                    "erreur_inf": 44.31
                   }
                 ]
               }
