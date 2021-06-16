@@ -3,6 +3,204 @@
     "region": "Occitanie",
     "sondages": [
       {
+        "id": "20210607_occ_ifp",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-06-07",
+        "fin_enquete": "2021-06-11",
+        "commanditaire": "La Dépêche et Sud Radio",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9178-occ-ifop-la-depeche.pdf",
+        "echantillon": 998,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 702.592,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Myriam Martin",
+                    "parti": [
+                      "NPA",
+                      "France insoumise"
+                    ],
+                    "intentions": 4.5,
+                    "erreur_sup": 6.0329,
+                    "erreur_inf": 2.9671
+                  },
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 12,
+                    "erreur_sup": 14.4029,
+                    "erreur_inf": 9.5971
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 32.3553,
+                    "erreur_inf": 25.6447
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": "Rassemblement national",
+                    "intentions": 31,
+                    "erreur_sup": 34.4199,
+                    "erreur_inf": 27.5801
+                  },
+                  {
+                    "tete_liste": "Malena Adrada",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.7357,
+                    "erreur_inf": 0.2643
+                  },
+                  {
+                    "tete_liste": "Antoine Maurice",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s",
+                      "Génération écologie",
+                      "Cap écologie"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.2183,
+                    "erreur_inf": 7.7817
+                  },
+                  {
+                    "tete_liste": "Vincent Terrail-Novès",
+                    "parti": [
+                      "LRM",
+                      "Agir",
+                      "Modem"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.3136,
+                    "erreur_inf": 8.6864
+                  },
+                  {
+                    "tete_liste": "Jean-Luc Davezac",
+                    "parti": {},
+                    "intentions": 1.5,
+                    "erreur_sup": 2.3988,
+                    "erreur_inf": 0.6012
+                  },
+                  {
+                    "tete_liste": "Anthony Le Boursicaud",
+                    "parti": {},
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 677.642,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche",
+                      "EE-LV",
+                      "Génération·s",
+                      "France insoumise"
+                    ],
+                    "intentions": 44,
+                    "erreur_sup": 47.7375,
+                    "erreur_inf": 40.2625
+                  },
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 25.119,
+                    "erreur_inf": 18.881
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": "Rassemblement national",
+                    "intentions": 34,
+                    "erreur_sup": 37.5667,
+                    "erreur_inf": 30.4333
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire",
+                "sous_echantillon": 684.628,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Vincent Terrail-Novès",
+                    "parti": [
+                      "LRM",
+                      "Agir",
+                      "Modem"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 16.5992,
+                    "erreur_inf": 11.4008
+                  },
+                  {
+                    "tete_liste": "Carole Delga",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Parti radical de gauche",
+                      "EE-LV",
+                      "Génération·s",
+                      "France insoumise"
+                    ],
+                    "intentions": 40,
+                    "erreur_sup": 43.6697,
+                    "erreur_inf": 36.3303
+                  },
+                  {
+                    "tete_liste": "Jean-Paul Garraud",
+                    "parti": "Rassemblement national",
+                    "intentions": 32,
+                    "erreur_sup": 35.4943,
+                    "erreur_inf": 28.5057
+                  },
+                  {
+                    "tete_liste": "Aurélien Pradié",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI",
+                      "Les Centristes"
+                    ],
+                    "intentions": 14,
+                    "erreur_sup": 16.5992,
+                    "erreur_inf": 11.4008
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20201216_occ_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-12-16",

@@ -1308,6 +1308,172 @@
         ]
       },
       {
+        "id": "20210613_idf_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-13",
+        "fin_enquete": "2021-06-14",
+        "commanditaire": "CNews",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9179-idf-ow-c-news.pdf",
+        "echantillon": 1092,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 840.84,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Lionel Brot",
+                    "parti": {},
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 37.2019,
+                    "erreur_inf": 30.7981
+                  },
+                  {
+                    "tete_liste": "Eric Berlingen",
+                    "parti": {},
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.0278,
+                    "erreur_inf": 7.9722
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.0278,
+                    "erreur_inf": 7.9722
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": "EE-LV",
+                    "intentions": 13,
+                    "erreur_sup": 15.2732,
+                    "erreur_inf": 10.7268
+                  },
+                  {
+                    "tete_liste": "Nathalie Arthaud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.6725,
+                    "erreur_inf": 0.3275
+                  },
+                  {
+                    "tete_liste": "Fabiola Conti",
+                    "parti": {},
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Victor Pailhac",
+                    "parti": {},
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.4135,
+                    "erreur_inf": 12.5865
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 17,
+                    "erreur_sup": 19.539,
+                    "erreur_inf": 14.461
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 808.08,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 39,
+                    "erreur_sup": 42.363,
+                    "erreur_inf": 35.637
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.59,
+                    "erreur_inf": 14.41
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique",
+                      "EE-LV",
+                      "Génération·s",
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.0611,
+                    "erreur_inf": 23.9389
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 17,
+                    "erreur_sup": 19.59,
+                    "erreur_inf": 14.41
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210527_idf_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-05-27",

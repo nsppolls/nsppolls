@@ -3,6 +3,134 @@
     "region": "Normandie",
     "sondages": [
       {
+        "id": "20210610_n_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-10",
+        "fin_enquete": "2021-06-13",
+        "commanditaire": "LRM / Laurent Bonaterre",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-lrem-la-situation-en-normandie-a-une-semaine-des-e-lections-re-gionales-juin-2021/viewdocument/2608.html?Itemid=0",
+        "echantillon": 1024,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 1024,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 26.6159,
+                    "erreur_inf": 21.3841
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 33.8328,
+                    "erreur_inf": 28.1672
+                  },
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 17,
+                    "erreur_sup": 19.3008,
+                    "erreur_inf": 14.6992
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 30.7501,
+                    "erreur_inf": 25.2499
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 1024,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 15,
+                    "erreur_sup": 17.1871,
+                    "erreur_inf": 12.8129
+                  },
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 8,
+                    "erreur_sup": 9.6617,
+                    "erreur_inf": 6.3383
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 32.8068,
+                    "erreur_inf": 27.1932
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 28,
+                    "erreur_sup": 30.7501,
+                    "erreur_inf": 25.2499
+                  },
+                  {
+                    "tete_liste": "Stéphanie Kerbarh",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.6094,
+                    "erreur_inf": 0.3906
+                  },
+                  {
+                    "tete_liste": "Pascal Le Manach",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 2.8575,
+                    "erreur_inf": 1.1425
+                  },
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.2455,
+                    "erreur_inf": 13.7545
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20201014_n_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2020-10-14",

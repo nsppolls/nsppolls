@@ -169,6 +169,165 @@
         ]
       },
       {
+        "id": "20210610_paca_ifp",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-06-10",
+        "fin_enquete": "2021-06-14",
+        "commanditaire": "LCI et Le Figaro",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9180-paca-ifop-le-figaro.pdf",
+        "echantillon": 960,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse duel",
+                "sous_echantillon": 637.44,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 51,
+                    "erreur_sup": 54.8808,
+                    "erreur_inf": 47.1192
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 49,
+                    "erreur_sup": 52.8808,
+                    "erreur_inf": 45.1192
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 699.84,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 36,
+                    "erreur_sup": 39.5563,
+                    "erreur_inf": 32.4437
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 20,
+                    "erreur_sup": 22.9636,
+                    "erreur_inf": 17.0364
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 44,
+                    "erreur_sup": 47.6777,
+                    "erreur_inf": 40.3223
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 690.24,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Isabelle Bonnet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.7423,
+                    "erreur_inf": 0.2577
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 37.534,
+                    "erreur_inf": 30.466
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 41,
+                    "erreur_sup": 44.6692,
+                    "erreur_inf": 37.3308
+                  },
+                  {
+                    "tete_liste": "Noël Chuisano",
+                    "parti": "Debout la France",
+                    "intentions": 3,
+                    "erreur_sup": 4.2726,
+                    "erreur_inf": 1.7274
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 17,
+                    "erreur_sup": 19.8023,
+                    "erreur_inf": 14.1977
+                  },
+                  {
+                    "tete_liste": "Valérie Laupies",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 1.0262,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Jean-Marc Governatori",
+                    "parti": "Cap écologie",
+                    "intentions": 3,
+                    "erreur_sup": 4.2726,
+                    "erreur_inf": 1.7274
+                  },
+                  {
+                    "tete_liste": "Hervé Guerrera",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 1.0262,
+                    "erreur_inf": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20200825_paca_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-08-25",

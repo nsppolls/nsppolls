@@ -1070,6 +1070,209 @@
         ]
       },
       {
+        "id": "20210611_ara_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-11",
+        "fin_enquete": "2021-06-13",
+        "commanditaire": "CNews",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-aura-vague-3-14-juin-2021/viewdocument/2605.html?Itemid=0",
+        "echantillon": 1000,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Union de la gauche – Grébert tête de liste",
+                "sous_echantillon": 770,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 22,
+                    "erreur_sup": 24.926,
+                    "erreur_inf": 19.074
+                  },
+                  {
+                    "tete_liste": "Fabienne Grébert",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Parti communiste",
+                      "France insoumise",
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 22,
+                    "erreur_sup": 24.926,
+                    "erreur_inf": 19.074
+                  },
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.5895,
+                    "erreur_inf": 13.4105
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 40,
+                    "erreur_sup": 43.4603,
+                    "erreur_inf": 36.5397
+                  }
+                ]
+              },
+              {
+                "hypothese": "Union de la gauche – Vallaud-Belkacem tête de liste",
+                "sous_echantillon": 780,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 39,
+                    "erreur_sup": 42.423,
+                    "erreur_inf": 35.577
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 22,
+                    "erreur_sup": 24.9071,
+                    "erreur_inf": 19.0929
+                  },
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.5728,
+                    "erreur_inf": 13.4272
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Parti communiste",
+                      "France insoumise",
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 23,
+                    "erreur_sup": 25.9534,
+                    "erreur_inf": 20.0466
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 800,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Fabienne Grébert",
+                    "parti": [
+                      "Génération·s",
+                      "EE-LV"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.1682,
+                    "erreur_inf": 8.8318
+                  },
+                  {
+                    "tete_liste": "Bruno Bonnell",
+                    "parti": [
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.4744,
+                    "erreur_inf": 12.5256
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 35,
+                    "erreur_sup": 38.3052,
+                    "erreur_inf": 31.6948
+                  },
+                  {
+                    "tete_liste": "Cécile Cukierman",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 6,
+                    "erreur_sup": 7.6457,
+                    "erreur_inf": 4.3543
+                  },
+                  {
+                    "tete_liste": "Najat Vallaud-Belkacem",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 10,
+                    "erreur_sup": 12.0789,
+                    "erreur_inf": 7.9211
+                  },
+                  {
+                    "tete_liste": "Shella Gill",
+                    "parti": {},
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Chantal Gomez",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.6895,
+                    "erreur_inf": 0.3105
+                  },
+                  {
+                    "tete_liste": "Farid Omeir",
+                    "parti": "Union des démocrates musulmans français",
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 22,
+                    "erreur_sup": 24.8706,
+                    "erreur_inf": 19.1294
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210528_ara_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-05-28",
