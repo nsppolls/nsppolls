@@ -1459,6 +1459,127 @@
     ]
   },
   {
+    "id": "20210608_ifp",
+    "nom_institut": "Ifop",
+    "debut_enquete": "2021-06-08",
+    "fin_enquete": "2021-06-09",
+    "commanditaire": "Le Point",
+    "lien": "https://www.ifop.com/wp-content/uploads/2021/06/118251-Rapport.pdf",
+    "echantillon": 901,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 901,
+            "candidats": [
+              {
+                "candidat": "Fabien Roussel",
+                "parti": "Parti communiste",
+                "intentions": 2,
+                "erreur_sup": 2.9142,
+                "erreur_inf": 1.0858
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": "Parti socialiste",
+                "intentions": 5,
+                "erreur_sup": 6.4231,
+                "erreur_inf": 3.5769
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": "Debout la France",
+                "intentions": 3.5,
+                "erreur_sup": 4.7,
+                "erreur_inf": 2.3
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": "France insoumise",
+                "intentions": 9,
+                "erreur_sup": 10.8687,
+                "erreur_inf": 7.1313
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": "LRM",
+                "intentions": 26,
+                "erreur_sup": 28.8642,
+                "erreur_inf": 23.1358
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": "EE-LV",
+                "intentions": 5.5,
+                "erreur_sup": 6.9886,
+                "erreur_inf": 4.0114
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": "Rassemblement national",
+                "intentions": 28,
+                "erreur_sup": 30.9318,
+                "erreur_inf": 25.0682
+              },
+              {
+                "candidat": "Jean-Christophe Lagarde",
+                "parti": "UDI",
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Jean-Frédéric Poisson",
+                "parti": "PCD",
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": {},
+                "intentions": 0.5,
+                "erreur_sup": 0.9606,
+                "erreur_inf": 0.0394
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": {},
+                "intentions": 5.5,
+                "erreur_sup": 6.9886,
+                "erreur_inf": 4.0114
+              },
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": "Les Républicains",
+                "intentions": 13.5,
+                "erreur_sup": 15.7314,
+                "erreur_inf": 11.2686
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": "Lutte ouvrière",
+                "intentions": 0.5,
+                "erreur_sup": 0.9606,
+                "erreur_inf": 0.0394
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": "NPA",
+                "intentions": 1,
+                "erreur_sup": 1.6497,
+                "erreur_inf": 0.3503
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20210514_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-05-14",
