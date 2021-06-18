@@ -1611,6 +1611,254 @@
         ]
       },
       {
+        "id": "20210607_idf_ifp",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-06-07",
+        "fin_enquete": "2021-06-11",
+        "commanditaire": "LCI et le Figaro",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9182-idf-ifop-le-figaro.pdf",
+        "echantillon": 982,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire – Union de la gauche derrière Pulvar ",
+                "sous_echantillon": 676.598,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 19,
+                    "erreur_sup": 21.956,
+                    "erreur_inf": 16.044
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 37,
+                    "erreur_sup": 40.638,
+                    "erreur_inf": 33.362
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.6906,
+                    "erreur_inf": 12.3094
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 32.4192,
+                    "erreur_inf": 25.5808
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire – Union de la gauche derrière Autain",
+                "sous_echantillon": 680.526,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 20,
+                    "erreur_sup": 23.0053,
+                    "erreur_inf": 16.9947
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 38,
+                    "erreur_sup": 41.6469,
+                    "erreur_inf": 34.3531
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.3356,
+                    "erreur_inf": 23.6644
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.6828,
+                    "erreur_inf": 12.3172
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire – Union de la gauche derrière Bayou ",
+                "sous_echantillon": 678.562,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.3404,
+                    "erreur_inf": 23.6596
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 20,
+                    "erreur_sup": 23.0097,
+                    "erreur_inf": 16.9903
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 38,
+                    "erreur_sup": 41.6522,
+                    "erreur_inf": 34.3478
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.6867,
+                    "erreur_inf": 12.3133
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 696.238,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.4981,
+                    "erreur_inf": 10.5019
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 37.5188,
+                    "erreur_inf": 30.4812
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": "EE-LV",
+                    "intentions": 10,
+                    "erreur_sup": 12.2284,
+                    "erreur_inf": 7.7716
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 17,
+                    "erreur_sup": 19.7902,
+                    "erreur_inf": 14.2098
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.3242,
+                    "erreur_inf": 8.6758
+                  },
+                  {
+                    "tete_liste": "Victor Pailhac",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.7391,
+                    "erreur_inf": 0.2609
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.3242,
+                    "erreur_inf": 8.6758
+                  },
+                  {
+                    "tete_liste": "Nathalie Arthaud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.0399,
+                    "erreur_inf": 0.9601
+                  },
+                  {
+                    "tete_liste": "Fabiola Conti",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.7391,
+                    "erreur_inf": 0.2609
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20201014_idf_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-10-14",
@@ -7818,6 +8066,178 @@
         ]
       },
       {
+        "id": "20210615_paca_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-15",
+        "fin_enquete": "2021-06-17",
+        "commanditaire": "CNews",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-paca-vague-3-18-juin-2021/viewdocument/2613.html?Itemid=0",
+        "echantillon": 1050,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 829.5,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean-Marc Governatori",
+                    "parti": "Cap écologie",
+                    "intentions": 3,
+                    "erreur_sup": 4.1609,
+                    "erreur_inf": 1.8391
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 36.1999,
+                    "erreur_inf": 29.8001
+                  },
+                  {
+                    "tete_liste": "Hervé Guerrera",
+                    "parti": {},
+                    "intentions": 2,
+                    "erreur_sup": 2.9527,
+                    "erreur_inf": 1.0473
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.4949,
+                    "erreur_inf": 13.5051
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 43,
+                    "erreur_sup": 46.3691,
+                    "erreur_inf": 39.6309
+                  },
+                  {
+                    "tete_liste": "Isabelle Bonnet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.6771,
+                    "erreur_inf": 0.3229
+                  },
+                  {
+                    "tete_liste": "Noël Chuisano",
+                    "parti": "Debout la France",
+                    "intentions": 2,
+                    "erreur_sup": 2.9527,
+                    "erreur_inf": 1.0473
+                  },
+                  {
+                    "tete_liste": "Valérie Laupies",
+                    "parti": {},
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  }
+                ]
+              },
+              {
+                "hypothese": null,
+                "sous_echantillon": 1050,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Mikael Vicenzi",
+                    "parti": {},
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse duel",
+                "sous_echantillon": 808.5,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 37.2653,
+                    "erreur_inf": 30.7347
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 47,
+                    "erreur_sup": 50.4404,
+                    "erreur_inf": 43.5596
+                  },
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 21.7042,
+                    "erreur_inf": 16.2958
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 714,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 47,
+                    "erreur_sup": 50.661,
+                    "erreur_inf": 43.339
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 53,
+                    "erreur_sup": 56.661,
+                    "erreur_inf": 49.339
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210506_paca_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2021-05-06",
@@ -7993,6 +8413,172 @@
                     "intentions": 41,
                     "erreur_sup": 44.704,
                     "erreur_inf": 37.296
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20210609_paca_bva",
+        "nom_institut": "BVA",
+        "debut_enquete": "2021-06-09",
+        "fin_enquete": "2021-06-14",
+        "commanditaire": "RTL et Orange",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9181-paca-bva-orange.pdf",
+        "echantillon": 992,
+        "population": "Certains d'aller voter",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 843.2,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 16,
+                    "erreur_sup": 18.4745,
+                    "erreur_inf": 13.5255
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 36.1738,
+                    "erreur_inf": 29.8262
+                  },
+                  {
+                    "tete_liste": "Jean-Marc Governatori",
+                    "parti": "Cap écologie",
+                    "intentions": 3,
+                    "erreur_sup": 4.1514,
+                    "erreur_inf": 1.8486
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 42,
+                    "erreur_sup": 45.3314,
+                    "erreur_inf": 38.6686
+                  },
+                  {
+                    "tete_liste": "Mikael Vicenzi",
+                    "parti": {},
+                    "intentions": 0,
+                    "erreur_sup": 0,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Valérie Laupies",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.6716,
+                    "erreur_inf": 0.3284
+                  },
+                  {
+                    "tete_liste": "Noël Chuisano",
+                    "parti": "Debout la France",
+                    "intentions": 3.5,
+                    "erreur_sup": 4.7405,
+                    "erreur_inf": 2.2595
+                  },
+                  {
+                    "tete_liste": "Isabelle Bonnet",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 1,
+                    "erreur_sup": 1.6716,
+                    "erreur_inf": 0.3284
+                  },
+                  {
+                    "tete_liste": "Hervé Guerrera",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 0.9761,
+                    "erreur_inf": 0.0239
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse triangulaire",
+                "sous_echantillon": 833.28,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jean-Laurent Felizia",
+                    "parti": [
+                      "EE-LV",
+                      "Parti socialiste",
+                      "Parti communiste",
+                      "Génération·s"
+                    ],
+                    "intentions": 18,
+                    "erreur_sup": 20.6086,
+                    "erreur_inf": 15.3914
+                  },
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 46,
+                    "erreur_sup": 49.384,
+                    "erreur_inf": 42.616
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 38,
+                    "erreur_sup": 41.2957,
+                    "erreur_inf": 34.7043
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse duel",
+                "sous_echantillon": 753.92,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 52,
+                    "erreur_sup": 55.5663,
+                    "erreur_inf": 48.4337
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": [
+                      "UDI",
+                      "Les Républicains",
+                      "LRM",
+                      "Modem",
+                      "Agir"
+                    ],
+                    "intentions": 48,
+                    "erreur_sup": 51.5663,
+                    "erreur_inf": 44.4337
                   }
                 ]
               }
@@ -10378,7 +10964,7 @@
         "debut_enquete": "2021-06-14",
         "fin_enquete": "2021-06-15",
         "commanditaire": "CNews",
-        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-dans-les-hauts-de-france-vague-3-16-juin-2021/viewdocument/2610.html?Itemid=0",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9184-hdf-ow-la-tribune.pdf",
         "echantillon": 1004,
         "population": "Inscrits sur les listes électorales",
         "tours": [

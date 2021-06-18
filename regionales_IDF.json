@@ -1611,6 +1611,254 @@
         ]
       },
       {
+        "id": "20210607_idf_ifp",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-06-07",
+        "fin_enquete": "2021-06-11",
+        "commanditaire": "LCI et le Figaro",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9182-idf-ifop-le-figaro.pdf",
+        "echantillon": 982,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quadrangulaire – Union de la gauche derrière Pulvar ",
+                "sous_echantillon": 676.598,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 19,
+                    "erreur_sup": 21.956,
+                    "erreur_inf": 16.044
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 37,
+                    "erreur_sup": 40.638,
+                    "erreur_inf": 33.362
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.6906,
+                    "erreur_inf": 12.3094
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 32.4192,
+                    "erreur_inf": 25.5808
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire – Union de la gauche derrière Autain",
+                "sous_echantillon": 680.526,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 20,
+                    "erreur_sup": 23.0053,
+                    "erreur_inf": 16.9947
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 38,
+                    "erreur_sup": 41.6469,
+                    "erreur_inf": 34.3531
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.3356,
+                    "erreur_inf": 23.6644
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.6828,
+                    "erreur_inf": 12.3172
+                  }
+                ]
+              },
+              {
+                "hypothese": "Hypothèse quadrangulaire – Union de la gauche derrière Bayou ",
+                "sous_echantillon": 678.562,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique",
+                      "EE-LV",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Génération·s"
+                    ],
+                    "intentions": 27,
+                    "erreur_sup": 30.3404,
+                    "erreur_inf": 23.6596
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 20,
+                    "erreur_sup": 23.0097,
+                    "erreur_inf": 16.9903
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 38,
+                    "erreur_sup": 41.6522,
+                    "erreur_inf": 34.3478
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 15,
+                    "erreur_sup": 17.6867,
+                    "erreur_inf": 12.3133
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 696.238,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": [
+                      "LRM",
+                      "Modem"
+                    ],
+                    "intentions": 13,
+                    "erreur_sup": 15.4981,
+                    "erreur_inf": 10.5019
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 34,
+                    "erreur_sup": 37.5188,
+                    "erreur_inf": 30.4812
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": "EE-LV",
+                    "intentions": 10,
+                    "erreur_sup": 12.2284,
+                    "erreur_inf": 7.7716
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 17,
+                    "erreur_sup": 19.7902,
+                    "erreur_inf": 14.2098
+                  },
+                  {
+                    "tete_liste": "Clémentine Autain",
+                    "parti": [
+                      "France insoumise",
+                      "Parti communiste"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.3242,
+                    "erreur_inf": 8.6758
+                  },
+                  {
+                    "tete_liste": "Victor Pailhac",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.7391,
+                    "erreur_inf": 0.2609
+                  },
+                  {
+                    "tete_liste": "Audrey Pulvar",
+                    "parti": [
+                      "Parti socialiste",
+                      "Parti radical de gauche",
+                      "Place publique"
+                    ],
+                    "intentions": 11,
+                    "erreur_sup": 13.3242,
+                    "erreur_inf": 8.6758
+                  },
+                  {
+                    "tete_liste": "Nathalie Arthaud",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2,
+                    "erreur_sup": 3.0399,
+                    "erreur_inf": 0.9601
+                  },
+                  {
+                    "tete_liste": "Fabiola Conti",
+                    "parti": {},
+                    "intentions": 1,
+                    "erreur_sup": 1.7391,
+                    "erreur_inf": 0.2609
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20201014_idf_ifp",
         "nom_institut": "Ifop",
         "debut_enquete": "2020-10-14",
