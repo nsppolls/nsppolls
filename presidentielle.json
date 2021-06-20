@@ -1464,7 +1464,7 @@
     "debut_enquete": "2021-06-08",
     "fin_enquete": "2021-06-09",
     "commanditaire": "Le Point",
-    "lien": "https://www.ifop.com/wp-content/uploads/2021/06/118251-Rapport.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9190-presidentielles-ifop-le-point.pdf",
     "echantillon": 901,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -1473,56 +1473,56 @@
         "hypotheses": [
           {
             "hypothese": null,
-            "sous_echantillon": 901,
+            "sous_echantillon": 626.195,
             "candidats": [
               {
                 "candidat": "Fabien Roussel",
                 "parti": "Parti communiste",
                 "intentions": 2,
-                "erreur_sup": 2.9142,
-                "erreur_inf": 1.0858
+                "erreur_sup": 3.0966,
+                "erreur_inf": 0.9034
               },
               {
                 "candidat": "Anne Hidalgo",
                 "parti": "Parti socialiste",
                 "intentions": 5,
-                "erreur_sup": 6.4231,
-                "erreur_inf": 3.5769
+                "erreur_sup": 6.7071,
+                "erreur_inf": 3.2929
               },
               {
                 "candidat": "Nicolas Dupont-Aignan",
                 "parti": "Debout la France",
                 "intentions": 3.5,
-                "erreur_sup": 4.7,
-                "erreur_inf": 2.3
+                "erreur_sup": 4.9395,
+                "erreur_inf": 2.0605
               },
               {
                 "candidat": "Jean-Luc Mélenchon",
                 "parti": "France insoumise",
                 "intentions": 9,
-                "erreur_sup": 10.8687,
-                "erreur_inf": 7.1313
+                "erreur_sup": 11.2415,
+                "erreur_inf": 6.7585
               },
               {
                 "candidat": "Emmanuel Macron",
                 "parti": "LRM",
                 "intentions": 26,
-                "erreur_sup": 28.8642,
-                "erreur_inf": 23.1358
+                "erreur_sup": 29.4356,
+                "erreur_inf": 22.5644
               },
               {
                 "candidat": "Yannick Jadot",
                 "parti": "EE-LV",
                 "intentions": 5.5,
-                "erreur_sup": 6.9886,
-                "erreur_inf": 4.0114
+                "erreur_sup": 7.2857,
+                "erreur_inf": 3.7143
               },
               {
                 "candidat": "Marine Le Pen",
                 "parti": "Rassemblement national",
                 "intentions": 28,
-                "erreur_sup": 30.9318,
-                "erreur_inf": 25.0682
+                "erreur_sup": 31.5168,
+                "erreur_inf": 24.4832
               },
               {
                 "candidat": "Jean-Christophe Lagarde",
@@ -1542,36 +1542,36 @@
                 "candidat": "Jean Lassalle",
                 "parti": {},
                 "intentions": 0.5,
-                "erreur_sup": 0.9606,
-                "erreur_inf": 0.0394
+                "erreur_sup": 1.0525,
+                "erreur_inf": -0.0525
               },
               {
                 "candidat": "Eric Zemmour",
                 "parti": {},
                 "intentions": 5.5,
-                "erreur_sup": 6.9886,
-                "erreur_inf": 4.0114
+                "erreur_sup": 7.2857,
+                "erreur_inf": 3.7143
               },
               {
                 "candidat": "Xavier Bertrand",
                 "parti": "Les Républicains",
                 "intentions": 13.5,
-                "erreur_sup": 15.7314,
-                "erreur_inf": 11.2686
+                "erreur_sup": 16.1766,
+                "erreur_inf": 10.8234
               },
               {
                 "candidat": "Nathalie Arthaud",
                 "parti": "Lutte ouvrière",
                 "intentions": 0.5,
-                "erreur_sup": 0.9606,
-                "erreur_inf": 0.0394
+                "erreur_sup": 1.0525,
+                "erreur_inf": -0.0525
               },
               {
                 "candidat": "Philippe Poutou",
                 "parti": "NPA",
                 "intentions": 1,
-                "erreur_sup": 1.6497,
-                "erreur_inf": 0.3503
+                "erreur_sup": 1.7793,
+                "erreur_inf": 0.2207
               }
             ]
           }

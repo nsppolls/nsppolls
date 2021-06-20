@@ -752,6 +752,136 @@
         ]
       },
       {
+        "id": "20210611_n_ifp",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-06-11",
+        "fin_enquete": "2021-06-16",
+        "commanditaire": "Mélanie Boulanger",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9189-normandie-ifop-boulanger.pdf",
+        "echantillon": 903,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Premier tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 605.913,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 12,
+                    "erreur_sup": 14.5875,
+                    "erreur_inf": 9.4125
+                  },
+                  {
+                    "tete_liste": "Sébastien Jumel",
+                    "parti": [
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 7,
+                    "erreur_sup": 9.0316,
+                    "erreur_inf": 4.9684
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 29,
+                    "erreur_sup": 32.6131,
+                    "erreur_inf": 25.3869
+                  },
+                  {
+                    "tete_liste": "Pascal Le Manach",
+                    "parti": "Lutte ouvrière",
+                    "intentions": 2.5,
+                    "erreur_sup": 3.7431,
+                    "erreur_inf": 1.2569
+                  },
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s"
+                    ],
+                    "intentions": 19,
+                    "erreur_sup": 22.1237,
+                    "erreur_inf": 15.8763
+                  },
+                  {
+                    "tete_liste": "Stéphanie Kerbarh",
+                    "parti": {},
+                    "intentions": 0.5,
+                    "erreur_sup": 1.0616,
+                    "erreur_inf": 0
+                  },
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 30,
+                    "erreur_sup": 33.6489,
+                    "erreur_inf": 26.3511
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": "Hypothèse quandrangulaire",
+                "sous_echantillon": 595.98,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Hervé Morin",
+                    "parti": [
+                      "Les Républicains",
+                      "Les Centristes"
+                    ],
+                    "intentions": 33,
+                    "erreur_sup": 36.7752,
+                    "erreur_inf": 29.2248
+                  },
+                  {
+                    "tete_liste": "Laurent Bonnaterre",
+                    "parti": "LRM",
+                    "intentions": 13,
+                    "erreur_sup": 15.7,
+                    "erreur_inf": 10.3
+                  },
+                  {
+                    "tete_liste": "Mélanie Boulanger",
+                    "parti": [
+                      "Parti socialiste",
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti communiste",
+                      "France insoumise"
+                    ],
+                    "intentions": 24,
+                    "erreur_sup": 27.4289,
+                    "erreur_inf": 20.5711
+                  },
+                  {
+                    "tete_liste": "Nicolas Bay",
+                    "parti": "Rassemblement national",
+                    "intentions": 30,
+                    "erreur_sup": 33.6792,
+                    "erreur_inf": 26.3208
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210603_n_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-06-03",
