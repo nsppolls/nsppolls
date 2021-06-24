@@ -2151,6 +2151,66 @@
         ]
       },
       {
+        "id": "20210622_idf_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-22",
+        "fin_enquete": "2021-06-23",
+        "commanditaire": "CNews",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-ile-de-france-2nd-tour-24-juin-2021/viewdocument/2619.html?Itemid=0",
+        "echantillon": 1056,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 781.44,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 13,
+                    "erreur_sup": 15.358,
+                    "erreur_inf": 10.642
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": "LRM",
+                    "intentions": 13,
+                    "erreur_sup": 15.358,
+                    "erreur_inf": 10.642
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Parti socialiste"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.2428,
+                    "erreur_inf": 27.7572
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 43,
+                    "erreur_sup": 46.4712,
+                    "erreur_inf": 39.5288
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210405_idf_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-05",
@@ -7284,6 +7344,58 @@
             ]
           }
         ]
+      },
+      {
+        "id": "20210622_ara_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-22",
+        "fin_enquete": "2021-06-23",
+        "commanditaire": "CNews",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-aura-2nd-tour-24-juin-2021/viewdocument/2620.html?Itemid=0",
+        "echantillon": 1019,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 743.87,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Fabienne Grébert",
+                    "parti": [
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 32.2609,
+                    "erreur_inf": 25.7391
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 58,
+                    "erreur_sup": 61.5469,
+                    "erreur_inf": 54.4531
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 13,
+                    "erreur_sup": 15.4168,
+                    "erreur_inf": 10.5832
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -8557,7 +8669,7 @@
         "fin_enquete": "2021-06-14",
         "commanditaire": "RTL et Orange",
         "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9181-paca-bva-orange.pdf",
-        "echantillon": 992,
+        "echantillon": 392,
         "population": "Certains d'aller voter",
         "tours": [
           {
@@ -8565,7 +8677,7 @@
             "hypotheses": [
               {
                 "hypothese": null,
-                "sous_echantillon": 843.2,
+                "sous_echantillon": 333.2,
                 "tetes_liste": [
                   {
                     "tete_liste": "Jean-Laurent Felizia",
@@ -8576,8 +8688,8 @@
                       "Génération·s"
                     ],
                     "intentions": 16,
-                    "erreur_sup": 18.4745,
-                    "erreur_inf": 13.5255
+                    "erreur_sup": 19.9364,
+                    "erreur_inf": 12.0636
                   },
                   {
                     "tete_liste": "Renaud Muselier",
@@ -8589,22 +8701,22 @@
                       "Agir"
                     ],
                     "intentions": 33,
-                    "erreur_sup": 36.1738,
-                    "erreur_inf": 29.8262
+                    "erreur_sup": 38.0489,
+                    "erreur_inf": 27.9511
                   },
                   {
                     "tete_liste": "Jean-Marc Governatori",
                     "parti": "Cap écologie",
                     "intentions": 3,
-                    "erreur_sup": 4.1514,
-                    "erreur_inf": 1.8486
+                    "erreur_sup": 4.8317,
+                    "erreur_inf": 1.1683
                   },
                   {
                     "tete_liste": "Thierry Mariani",
                     "parti": "Rassemblement national",
                     "intentions": 42,
-                    "erreur_sup": 45.3314,
-                    "erreur_inf": 38.6686
+                    "erreur_sup": 47.2996,
+                    "erreur_inf": 36.7004
                   },
                   {
                     "tete_liste": "Mikael Vicenzi",
@@ -8617,29 +8729,29 @@
                     "tete_liste": "Valérie Laupies",
                     "parti": {},
                     "intentions": 1,
-                    "erreur_sup": 1.6716,
-                    "erreur_inf": 0.3284
+                    "erreur_sup": 2.0684,
+                    "erreur_inf": 0
                   },
                   {
                     "tete_liste": "Noël Chuisano",
                     "parti": "Debout la France",
                     "intentions": 3.5,
-                    "erreur_sup": 4.7405,
-                    "erreur_inf": 2.2595
+                    "erreur_sup": 5.4733,
+                    "erreur_inf": 1.5267
                   },
                   {
                     "tete_liste": "Isabelle Bonnet",
                     "parti": "Lutte ouvrière",
                     "intentions": 1,
-                    "erreur_sup": 1.6716,
-                    "erreur_inf": 0.3284
+                    "erreur_sup": 2.0684,
+                    "erreur_inf": 0
                   },
                   {
                     "tete_liste": "Hervé Guerrera",
                     "parti": {},
                     "intentions": 0.5,
-                    "erreur_sup": 0.9761,
-                    "erreur_inf": 0.0239
+                    "erreur_sup": 1.2574,
+                    "erreur_inf": 0
                   }
                 ]
               }
@@ -8650,7 +8762,7 @@
             "hypotheses": [
               {
                 "hypothese": "Hypothèse triangulaire",
-                "sous_echantillon": 833.28,
+                "sous_echantillon": 329.28,
                 "tetes_liste": [
                   {
                     "tete_liste": "Jean-Laurent Felizia",
@@ -8661,15 +8773,15 @@
                       "Génération·s"
                     ],
                     "intentions": 18,
-                    "erreur_sup": 20.6086,
-                    "erreur_inf": 15.3914
+                    "erreur_sup": 22.1497,
+                    "erreur_inf": 13.8503
                   },
                   {
                     "tete_liste": "Thierry Mariani",
                     "parti": "Rassemblement national",
                     "intentions": 46,
-                    "erreur_sup": 49.384,
-                    "erreur_inf": 42.616
+                    "erreur_sup": 51.3833,
+                    "erreur_inf": 40.6167
                   },
                   {
                     "tete_liste": "Renaud Muselier",
@@ -8681,21 +8793,21 @@
                       "Agir"
                     ],
                     "intentions": 38,
-                    "erreur_sup": 41.2957,
-                    "erreur_inf": 34.7043
+                    "erreur_sup": 43.2428,
+                    "erreur_inf": 32.7572
                   }
                 ]
               },
               {
                 "hypothese": "Hypothèse duel",
-                "sous_echantillon": 753.92,
+                "sous_echantillon": 297.92,
                 "tetes_liste": [
                   {
                     "tete_liste": "Thierry Mariani",
                     "parti": "Rassemblement national",
                     "intentions": 52,
-                    "erreur_sup": 55.5663,
-                    "erreur_inf": 48.4337
+                    "erreur_sup": 57.6732,
+                    "erreur_inf": 46.3268
                   },
                   {
                     "tete_liste": "Renaud Muselier",
@@ -8707,8 +8819,8 @@
                       "Agir"
                     ],
                     "intentions": 48,
-                    "erreur_sup": 51.5663,
-                    "erreur_inf": 44.4337
+                    "erreur_sup": 53.6732,
+                    "erreur_inf": 42.3268
                   }
                 ]
               }

@@ -2085,6 +2085,58 @@
             ]
           }
         ]
+      },
+      {
+        "id": "20210622_ara_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-22",
+        "fin_enquete": "2021-06-23",
+        "commanditaire": "CNews",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-aura-2nd-tour-24-juin-2021/viewdocument/2620.html?Itemid=0",
+        "echantillon": 1019,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 743.87,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Fabienne Grébert",
+                    "parti": [
+                      "EE-LV",
+                      "France insoumise",
+                      "Parti communiste",
+                      "Parti radical de gauche"
+                    ],
+                    "intentions": 29,
+                    "erreur_sup": 32.2609,
+                    "erreur_inf": 25.7391
+                  },
+                  {
+                    "tete_liste": "Laurent Wauquiez",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 58,
+                    "erreur_sup": 61.5469,
+                    "erreur_inf": 54.4531
+                  },
+                  {
+                    "tete_liste": "Andréa Kotarac",
+                    "parti": "Rassemblement national",
+                    "intentions": 13,
+                    "erreur_sup": 15.4168,
+                    "erreur_inf": 10.5832
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

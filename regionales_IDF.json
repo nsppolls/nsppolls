@@ -2151,6 +2151,66 @@
         ]
       },
       {
+        "id": "20210622_idf_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-22",
+        "fin_enquete": "2021-06-23",
+        "commanditaire": "CNews",
+        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-ile-de-france-2nd-tour-24-juin-2021/viewdocument/2619.html?Itemid=0",
+        "echantillon": 1056,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 781.44,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 13,
+                    "erreur_sup": 15.358,
+                    "erreur_inf": 10.642
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": "LRM",
+                    "intentions": 13,
+                    "erreur_sup": 15.358,
+                    "erreur_inf": 10.642
+                  },
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Parti socialiste"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.2428,
+                    "erreur_inf": 27.7572
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 43,
+                    "erreur_sup": 46.4712,
+                    "erreur_inf": 39.5288
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210405_idf_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-04-05",
