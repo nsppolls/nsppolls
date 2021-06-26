@@ -1254,7 +1254,7 @@
                     "erreur_inf": 0.0299
                   },
                   {
-                    "tete_liste": "Éric Berlingen",
+                    "tete_liste": "Eric Berlingen",
                     "parti": "Union des démocrates musulmans français",
                     "intentions": 0.5,
                     "erreur_sup": 1.1877,
@@ -2156,7 +2156,7 @@
         "debut_enquete": "2021-06-22",
         "fin_enquete": "2021-06-23",
         "commanditaire": "CNews",
-        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-ile-de-france-2nd-tour-24-juin-2021/viewdocument/2619.html?Itemid=0",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9191-idf-ow-cnews.pdf",
         "echantillon": 1056,
         "population": "Inscrits sur les listes électorales",
         "tours": [
@@ -3354,6 +3354,66 @@
                     "intentions": 1,
                     "erreur_sup": 1.9073,
                     "erreur_inf": 0.0927
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20210622_idf_ifp",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-06-22",
+        "fin_enquete": "2021-06-24",
+        "commanditaire": "Le Journal du Dimanche et Sud Radio",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9195-idf-ifop-le-figaro.pdf",
+        "echantillon": 939,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 697.677,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Julien Bayou",
+                    "parti": [
+                      "EE-LV",
+                      "Génération·s",
+                      "Parti communiste",
+                      "France insoumise",
+                      "Parti socialiste"
+                    ],
+                    "intentions": 31,
+                    "erreur_sup": 34.4319,
+                    "erreur_inf": 27.5681
+                  },
+                  {
+                    "tete_liste": "Jordan Bardella",
+                    "parti": "Rassemblement national",
+                    "intentions": 13,
+                    "erreur_sup": 15.4955,
+                    "erreur_inf": 10.5045
+                  },
+                  {
+                    "tete_liste": "Valérie Pécresse",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 44,
+                    "erreur_sup": 47.6834,
+                    "erreur_inf": 40.3166
+                  },
+                  {
+                    "tete_liste": "Laurent Saint-Martin",
+                    "parti": "LRM",
+                    "intentions": 12,
+                    "erreur_sup": 14.4114,
+                    "erreur_inf": 9.5886
                   }
                 ]
               }
@@ -7351,7 +7411,7 @@
         "debut_enquete": "2021-06-22",
         "fin_enquete": "2021-06-23",
         "commanditaire": "CNews",
-        "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-les-intentions-de-vote-pour-l-election-regionale-en-aura-2nd-tour-24-juin-2021/viewdocument/2620.html?Itemid=0",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9192-ara-ow-cnews.pdf",
         "echantillon": 1019,
         "population": "Inscrits sur les listes électorales",
         "tours": [
@@ -8010,6 +8070,43 @@
         ]
       },
       {
+        "id": "20210621_paca_ifp",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-06-21",
+        "fin_enquete": "2021-06-23",
+        "commanditaire": "LCI et le Figaro",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9194-paca-ifop-le-figaro.pdf",
+        "echantillon": 919,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 618.487,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 49,
+                    "erreur_sup": 52.9398,
+                    "erreur_inf": 45.0602
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": "Les Républicains",
+                    "intentions": 51,
+                    "erreur_sup": 54.9398,
+                    "erreur_inf": 47.0602
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210508_paca_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-05-08",
@@ -8390,13 +8487,7 @@
                     "intentions": 0,
                     "erreur_sup": 0,
                     "erreur_inf": 0
-                  }
-                ]
-              },
-              {
-                "hypothese": null,
-                "sous_echantillon": 1050,
-                "tetes_liste": [
+                  },
                   {
                     "tete_liste": "Mikael Vicenzi",
                     "parti": {},
@@ -9865,6 +9956,43 @@
             ]
           }
         ]
+      },
+      {
+        "id": "20210622_paca_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-22",
+        "fin_enquete": "2021-06-24",
+        "commanditaire": "CNews",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9193-paca-ow-cnews.pdf",
+        "echantillon": 967,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 667.23,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 50,
+                    "erreur_sup": 53.7939,
+                    "erreur_inf": 46.2061
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": "Les Républicains",
+                    "intentions": 50,
+                    "erreur_sup": 53.7939,
+                    "erreur_inf": 46.2061
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -11193,6 +11321,58 @@
                     "intentions": 2,
                     "erreur_sup": 3.1066,
                     "erreur_inf": 0.8934
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20210622_hdf_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-22",
+        "fin_enquete": "2021-06-24",
+        "commanditaire": "CNews",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9196-hdf-ow-c-news.pdf",
+        "echantillon": 1035,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 807.3,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 53,
+                    "erreur_sup": 56.4429,
+                    "erreur_inf": 49.5571
+                  },
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 26,
+                    "erreur_sup": 29.0258,
+                    "erreur_inf": 22.9742
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "France insoumise",
+                      "EE-LV"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 23.8097,
+                    "erreur_inf": 18.1903
                   }
                 ]
               }

@@ -1332,6 +1332,58 @@
         ]
       },
       {
+        "id": "20210622_hdf_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-22",
+        "fin_enquete": "2021-06-24",
+        "commanditaire": "CNews",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9196-hdf-ow-c-news.pdf",
+        "echantillon": 1035,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 807.3,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Xavier Bertrand",
+                    "parti": [
+                      "Les Républicains",
+                      "UDI"
+                    ],
+                    "intentions": 53,
+                    "erreur_sup": 56.4429,
+                    "erreur_inf": 49.5571
+                  },
+                  {
+                    "tete_liste": "Sébastien Chenu",
+                    "parti": "Rassemblement national",
+                    "intentions": 26,
+                    "erreur_sup": 29.0258,
+                    "erreur_inf": 22.9742
+                  },
+                  {
+                    "tete_liste": "Karima Delli",
+                    "parti": [
+                      "Parti communiste",
+                      "Parti socialiste",
+                      "France insoumise",
+                      "EE-LV"
+                    ],
+                    "intentions": 21,
+                    "erreur_sup": 23.8097,
+                    "erreur_inf": 18.1903
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210614_hdf_ow",
         "nom_institut": "Opinion Way",
         "debut_enquete": "2021-06-14",

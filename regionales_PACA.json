@@ -610,6 +610,43 @@
         ]
       },
       {
+        "id": "20210621_paca_ifp",
+        "nom_institut": "Ifop",
+        "debut_enquete": "2021-06-21",
+        "fin_enquete": "2021-06-23",
+        "commanditaire": "LCI et le Figaro",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9194-paca-ifop-le-figaro.pdf",
+        "echantillon": 919,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 618.487,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 49,
+                    "erreur_sup": 52.9398,
+                    "erreur_inf": 45.0602
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": "Les Républicains",
+                    "intentions": 51,
+                    "erreur_sup": 54.9398,
+                    "erreur_inf": 47.0602
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "20210508_paca_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-05-08",
@@ -990,13 +1027,7 @@
                     "intentions": 0,
                     "erreur_sup": 0,
                     "erreur_inf": 0
-                  }
-                ]
-              },
-              {
-                "hypothese": null,
-                "sous_echantillon": 1050,
-                "tetes_liste": [
+                  },
                   {
                     "tete_liste": "Mikael Vicenzi",
                     "parti": {},
@@ -2459,6 +2490,43 @@
                     "intentions": 50,
                     "erreur_sup": 54.4589,
                     "erreur_inf": 45.5411
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20210622_paca_ow",
+        "nom_institut": "Opinion Way",
+        "debut_enquete": "2021-06-22",
+        "fin_enquete": "2021-06-24",
+        "commanditaire": "CNews",
+        "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9193-paca-ow-cnews.pdf",
+        "echantillon": 967,
+        "population": "Inscrits sur les listes électorales",
+        "tours": [
+          {
+            "tour": "Deuxième tour",
+            "hypotheses": [
+              {
+                "hypothese": null,
+                "sous_echantillon": 667.23,
+                "tetes_liste": [
+                  {
+                    "tete_liste": "Thierry Mariani",
+                    "parti": "Rassemblement national",
+                    "intentions": 50,
+                    "erreur_sup": 53.7939,
+                    "erreur_inf": 46.2061
+                  },
+                  {
+                    "tete_liste": "Renaud Muselier",
+                    "parti": "Les Républicains",
+                    "intentions": 50,
+                    "erreur_sup": 53.7939,
+                    "erreur_inf": 46.2061
                   }
                 ]
               }
