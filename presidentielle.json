@@ -2819,16 +2819,16 @@
               {
                 "candidat": "Marine Le Pen",
                 "parti": ["Rassemblement national"],
-                "intentions": 27,
-                "erreur_sup": 30.7188,
-                "erreur_inf": 23.2812
+                "intentions": 44,
+                "erreur_sup": 48.158,
+                "erreur_inf": 39.842
               },
               {
                 "candidat": "Emmanuel Macron",
                 "parti": ["LRM"],
-                "intentions": 41,
-                "erreur_sup": 45.1199,
-                "erreur_inf": 36.8801
+                "intentions": 56,
+                "erreur_sup": 60.158,
+                "erreur_inf": 51.842
               }
             ]
           }
