@@ -8172,9 +8172,9 @@
               {
                 "candidat": "Jean Lassalle",
                 "parti": [""],
-                "intentions": 15,
-                "erreur_sup": 16.6769,
-                "erreur_inf": 13.3231
+                "intentions": 1.5,
+                "erreur_sup": 2.4705,
+                "erreur_inf": 0.5295
               },
               {
                 "candidat": "Philippe Poutou",
