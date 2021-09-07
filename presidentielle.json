@@ -4133,7 +4133,7 @@
     "debut_enquete": "2021-08-31",
     "fin_enquete": "2021-09-02",
     "commanditaire": "LCI / Le Figaro",
-    "lien": null,
+    "lien": "https://www.ifop.com/wp-content/uploads/2021/09/118400-Rapport.pdf",
     "echantillon": 1334,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -4348,9 +4348,9 @@
               {
                 "candidat": "Fabien Roussel",
                 "parti": ["Parti communiste"],
-                "intentions": 9.5,
-                "erreur_sup": 11.0735,
-                "erreur_inf": 7.9265
+                "intentions": 2,
+                "erreur_sup": 2.7513,
+                "erreur_inf": 1.2487
               },
               {
                 "candidat": "Xavier Bertrand",
@@ -4376,9 +4376,9 @@
               {
                 "candidat": "Jean-Luc Mélenchon",
                 "parti": ["France insoumise"],
-                "intentions": 2,
-                "erreur_sup": 2.7513,
-                "erreur_inf": 1.2487
+                "intentions": 9.5,
+                "erreur_sup": 11.0735,
+                "erreur_inf": 7.9265
               },
               {
                 "candidat": "Philippe Poutou",
