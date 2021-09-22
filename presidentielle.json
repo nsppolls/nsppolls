@@ -650,21 +650,15 @@
         "hypotheses": [
           {
             "hypothese": null,
-            "sous_echantillon": 1022,
+            "sous_echantillon": 684.74,
             "candidats": [
               {
                 "candidat": "Marine Le Pen",
                 "parti": ["Rassemblement national"],
                 "intentions": 45,
-                "erreur_sup": 48.0501,
-                "erreur_inf": 41.9499
-              }
-            ]
-          },
-          {
-            "hypothese": null,
-            "sous_echantillon": 684.74,
-            "candidats": [
+                "erreur_sup": 48.7263,
+                "erreur_inf": 41.2737
+              },
               {
                 "candidat": "Emmanuel Macron",
                 "parti": ["LRM"],
