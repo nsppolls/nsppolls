@@ -608,26 +608,6 @@
                 "erreur_inf": 5.3033
               },
               {
-                "candidat": "Yannick Jadot",
-                "parti": ["EE-LV"],
-                "intentions": 6,
-                "erreur_sup": 7.5793,
-                "erreur_inf": 4.4207
-              },
-              {
-                "candidat": "Xavier Bertrand",
-                "parti": ["Les Républicains"],
-                "intentions": 14,
-                "erreur_sup": 16.3075,
-                "erreur_inf": 11.6925
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Jadot / Bertrand",
-            "sous_echantillon": 1022,
-            "candidats": [
-              {
                 "candidat": "Jean-Frédéric Poisson",
                 "parti": ["PCD"],
                 "intentions": 0,
@@ -635,11 +615,25 @@
                 "erreur_inf": 0
               },
               {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 6,
+                "erreur_sup": 7.5793,
+                "erreur_inf": 4.4207
+              },
+              {
                 "candidat": "Arnaud Montebourg",
                 "parti": [""],
                 "intentions": 2,
-                "erreur_sup": 2.8583,
-                "erreur_inf": 1.1417
+                "erreur_sup": 2.931,
+                "erreur_inf": 1.069
+              },
+              {
+                "candidat": "Xavier Bertrand",
+                "parti": ["Les Républicains"],
+                "intentions": 14,
+                "erreur_sup": 16.3075,
+                "erreur_inf": 11.6925
               }
             ]
           }
