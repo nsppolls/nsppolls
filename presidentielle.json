@@ -11605,9 +11605,9 @@
               {
                 "candidat": "Marine Le Pen",
                 "parti": ["Rassemblement national"],
-                "intentions": 49,
-                "erreur_sup": 53.1148,
-                "erreur_inf": 44.8852
+                "intentions": 42,
+                "erreur_sup": 46.0626,
+                "erreur_inf": 37.9374
               }
             ]
           }
