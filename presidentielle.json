@@ -1530,9 +1530,9 @@
               {
                 "candidat": "Marine Le Pen",
                 "parti": ["Rassemblement national"],
-                "intentions": 10,
-                "erreur_sup": 12.087,
-                "erreur_inf": 7.913
+                "intentions": 20,
+                "erreur_sup": 22.7827,
+                "erreur_inf": 17.2173
               },
               {
                 "candidat": "Anne Hidalgo",
@@ -1544,9 +1544,9 @@
               {
                 "candidat": "Eric Zemmour",
                 "parti": [""],
-                "intentions": 20,
-                "erreur_sup": 22.7827,
-                "erreur_inf": 17.2173
+                "intentions": 10,
+                "erreur_sup": 12.087,
+                "erreur_inf": 7.913
               },
               {
                 "candidat": "Yannick Jadot",
