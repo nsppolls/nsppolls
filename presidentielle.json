@@ -13021,16 +13021,16 @@
               {
                 "candidat": "Marine Le Pen",
                 "parti": ["Rassemblement national"],
-                "intentions": 58,
-                "erreur_sup": 61.3132,
-                "erreur_inf": 54.6868
+                "intentions": 42,
+                "erreur_sup": 45.3132,
+                "erreur_inf": 38.6868
               },
               {
                 "candidat": "Valérie Pécresse",
                 "parti": ["Les Républicains"],
-                "intentions": 42,
-                "erreur_sup": 45.3132,
-                "erreur_inf": 38.6868
+                "intentions": 58,
+                "erreur_sup": 61.3132,
+                "erreur_inf": 54.6868
               }
             ]
           },
