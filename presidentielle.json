@@ -270,7 +270,7 @@
                 "erreur_inf": 0.2638
               },
               {
-                "candidat": "Xavier Bertrand",
+                "candidat": "Michel Barnier",
                 "parti": ["Les Républicains"],
                 "intentions": 8,
                 "erreur_sup": 8.9083,
@@ -346,7 +346,7 @@
                 "erreur_inf": 0.264
               },
               {
-                "candidat": "Xavier Bertrand",
+                "candidat": "Valérie Pécresse",
                 "parti": ["Les Républicains"],
                 "intentions": 10,
                 "erreur_sup": 11.0038,
@@ -7175,7 +7175,7 @@
                 "erreur_inf": 0
               },
               {
-                "candidat": "Michel Barnier",
+                "candidat": "Valérie Pécresse",
                 "parti": ["Les Républicains"],
                 "intentions": 11,
                 "erreur_sup": 13.1019,
@@ -7501,7 +7501,7 @@
                 "erreur_inf": 23.0715
               },
               {
-                "candidat": "Michel Barnier",
+                "candidat": "Xavier Bertrand",
                 "parti": ["Les Républicains"],
                 "intentions": 15,
                 "erreur_sup": 17.384,
