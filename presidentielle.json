@@ -5,7 +5,7 @@
     "debut_enquete": "2021-10-18",
     "fin_enquete": "2021-10-20",
     "commanditaire": "Les Echos, CNews et Radio Classique",
-    "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-les-echos-cnews-radio-classique-presitrack-vague-2-octobre-2021/viewdocument/2695.html?Itemid=0",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9227-p-ow-presi-track-v-2-les-echos.pdf",
     "echantillon": 1035,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -919,7 +919,7 @@
     "debut_enquete": "2021-10-07",
     "fin_enquete": "2021-10-13",
     "commanditaire": "Le Monde / Cevipof / Fondation Jean Jaurès",
-    "lien": null,
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9226-p-ipsos-cevipof-lm-v2.pdf",
     "echantillon": 9574,
     "population": "Certains d'aller voter",
     "tours": [
