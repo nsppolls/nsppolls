@@ -1,6 +1,9 @@
 # NSPPolls
 
-Ce projet a pour but de compiler les sondages produits à l'occasion des élections régionales et présidentielles en France et de les remettre en contexte. 
+➡️ [Le flux JSON des sondages pour l'élection présidentielle](./presidentielle.json)
+➡️ [Suivez-nous sur Twitter](http://twitter.com/nsppolls)
+
+Ce projet a pour but de compiler les sondages produits à l'occasion des élections régionales et présidentielle en France et de les remettre en contexte. 
 
 1. [À propos des sondages](#a-propos-des-sondages)
   1. [Pourquoi les notes sont publiées ?](#pourquoi-les-notes-sont-publiees)
@@ -8,7 +11,7 @@ Ce projet a pour but de compiler les sondages produits à l'occasion des électi
 2. [Compilation des sondages](#compilation-des-sondages)
   1. [Flux JSON disponibles](#flux-json-disponibles)
 
-Retrouvez-nous sur les réseaux sociaux, sur [Twitter](https://twitter.com/nsppolls) et [Medium](https://medium.com/nsppolls).
+Retrouvez-nous sur les réseaux sociaux, sur [Twitter](https://twitter.com/nsppolls), où nous postons notre veille et des infos sur les mises à jour du fichier, et [Medium](https://medium.com/nsppolls), pour des articles non réguliers.
 
 Pour des questions ou des demandes : [contact@nsppolls.fr](mailto:contact@nsppolls.fr)
 
@@ -18,7 +21,7 @@ Pour des questions ou des demandes : [contact@nsppolls.fr](mailto:contact@nsppol
 
 La publication des sondages d'intentions de vote est encadrée depuis 1977. En 2016 est prévu que la première publication d'un sondage soit accompagnée de mentions obligatoires, et que soit mis en ligne [sur le site de la commission des sondages](http://www.commission-des-sondages.fr/notices/) une notice précisant, notamment, la méthode d'interrogation et le nombre de personnes ne s'étant pas exprimées.
 
-## Élections régionales
+<!--## Élections régionales
 
 Les élections régionales devraient avoir lieu en juin 2021 dans 17 territoires. Elles devraient se tenir le même jour que les élections départementales. Début mars 2021, les différentes têtes de listes n'étaient pas certaines, les sondages multiplient les hypothèses, mais la situation n'est pas encore stabilisée.
 
@@ -30,7 +33,7 @@ Jusqu'au printemps 2021, la variété d'hypothèses rendent compliquées certain
 
 S'ajoute également la faiblesse du corpus. Fin février, six sondages avaient été publiés pour la région Île-de-France, trois pour la région Nouvelle-Aquitaine, mais seulement deux ou moins dans toutes les autres régions, empêchant toute comparaison. Certaines régions n'ont pas vu de sondage publié officiellement, comme le Centre-Val-de-Loire ou la Corse, ou encore les outremers.
 
-<!--### Que valent les sondages nationaux ?
+### Que valent les sondages nationaux ?
 
 Il est coûteux de composer un panel de 1 000 électeurs pour chaque région, et la tentation est grande d'extrapoler des résultats à partir d'une population naitonale, représentative. C'est ce que fait Opinion Way, dans [son enquête « RégioTrack »](https://www.opinion-way.com/fr/sondage-d-opinion/regiotrack2021.html) pour _Les Echos_ et Radio Classique. Les questions de ce sondage sont adaptées à la région d'origine de la personne interrogée pour les têtes de listes seulement. 5 000 personnes sont interrogées.
 
@@ -40,13 +43,13 @@ Cette méthodologie repose sur de nombreuses hypothèses, que ce soit pour les a
 
 ## Élection présidentielle
 
-L'élection présidentielle devrait se dérouler au printemps 2022. Les candidat·es ne sont pas encore clairement connu·es, les différents sondages multiplient donc les hypothèses.
+L'élection présidentielle devrait se dérouler au printemps 2022. Les candidat·es ne sont pas encore tous·tes connu·es, les différents sondages multiplient donc les hypothèses.
 
 # Compilation des sondages
 
 ## Chiffres collectés
 
-Sont rassemblés ici les sondages ayant traits aux élections présidentielle et régionales demandant des *intentions de vote*, soit les sondages répondant à la question *« Si le premier tour avait lieu dimanche, pour qui voteriez-vous »*, ou approchant. Ne sont pas compilés les souhaits de victoire, les chances de l'emporter ou les prédictions. 
+Sont rassemblés ici les sondages ayant traits aux élections présidentielle et régionales demandant des *intentions de vote*, soit les sondages répondant à la question *« Si le premier tour avait lieu dimanche, pour qui voteriez-vous ? »*, ou approchant. Ne sont pas compilés les souhaits de victoire, les chances de l'emporter ou les prédictions. 
 
 Pour chaque sondage est répertorié le nombre de personne ne donnant aucun avis, ou déclarant vouloir voter blanc ou nul. 
 
