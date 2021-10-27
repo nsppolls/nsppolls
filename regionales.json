@@ -15571,7 +15571,7 @@
     "region": "Bretagne",
     "sondages": [
       {
-        "id": "20210421_ bzh_ox",
+        "id": "20210421_bzh_ox",
         "nom_institut": "Odoxa",
         "debut_enquete": "2021-04-21",
         "fin_enquete": "2021-04-25",
@@ -15824,7 +15824,7 @@
         ]
       },
       {
-        "id": "20210603_ bzh_ips",
+        "id": "20210603_bzh_ips",
         "nom_institut": "Ipsos",
         "debut_enquete": "2021-06-03",
         "fin_enquete": "2021-06-07",
