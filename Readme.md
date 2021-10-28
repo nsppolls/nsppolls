@@ -1,6 +1,6 @@
 # NSPPolls
 
-➡️ [Le flux JSON des sondages pour l'élection présidentielle](./presidentielle.json)
+➡️ [Le flux JSON des sondages pour l'élection présidentielle](https://raw.githubusercontent.com/RouxRC/nsppolls/master/presidentielle.json)
 
 ➡️ [Suivez-nous sur Twitter](http://twitter.com/nsppolls)
 
@@ -68,20 +68,20 @@ L'architecture est plutôt simple et se décline par région (dans le cas des é
 
 Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de sondage sur le site de la Commission des sondages, ou si on en obtient par d'autres moyens.
 
-* [Élections régionales – toutes les régions](./regionales.json)
-  * [Île-de-France](./regionales_IDF.json)
-  * [Provence-Alpes-Côte-d'Azur](./regionales_PACA.json)
-  * [Auvergne-Rhône-Alpes](./regionales_ARA.json)
-  * [Normandie](./regionales_N.json)
-  * [Nouvelle-Aquitaine](./regionales_NA.json)
-  * [Hauts-de-France](./regionales_HDF.json)
-  * [Occitanie](./regionales_OCC.json)
-  * [Pays de la Loire](./regionales_PDL.json)
-  * [Bretagne](./regionales_BZH.json)
-  * [Grand Est](./regionales_GE.json)
-  * [Centre-Val de Loire](./regionales_CLV.json)
-  * [Bretagne-Franche-Comté](./regionales_BFC.json)
-* [Élection présidentielle](./presidentielle.json)
+* [Élections régionales – toutes les régions](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales.json)
+  * [Île-de-France](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_IDF.json)
+  * [Provence-Alpes-Côte-d'Azur](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_PACA.json)
+  * [Auvergne-Rhône-Alpes](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_ARA.json)
+  * [Normandie](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_N.json)
+  * [Nouvelle-Aquitaine](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_NA.json)
+  * [Hauts-de-France](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_HDF.json)
+  * [Occitanie](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_OCC.json)
+  * [Pays de la Loire](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_PDL.json)
+  * [Bretagne](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_BZH.json)
+  * [Grand Est](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_GE.json)
+  * [Centre-Val de Loire](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_CLV.json)
+  * [Bretagne-Franche-Comté](https://raw.githubusercontent.com/RouxRC/nsppolls/master/regionales_BFC.json)
+* [Élection présidentielle](https://raw.githubusercontent.com/RouxRC/nsppolls/master/presidentielle.json)
 
 # Crédits
 
