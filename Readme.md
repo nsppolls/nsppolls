@@ -1,16 +1,16 @@
 # NSPPolls
 
-➡️ [Le flux JSON des sondages pour l'élection présidentielle](./presidentielle.json)
+➡️ [Le flux JSON des sondages pour l'élection présidentielle](https://raw.githubusercontent.com/nsppolls/nsppolls/master/presidentielle.json)
 
 ➡️ [Suivez-nous sur Twitter](http://twitter.com/nsppolls)
 
 Ce projet a pour but de compiler les sondages produits à l'occasion des élections régionales et présidentielle en France et de les remettre en contexte. 
 
 1. [À propos des sondages](#a-propos-des-sondages)
-  1. [Pourquoi les notes sont publiées ?](#pourquoi-les-notes-sont-publiees)
-  2. [Élections régionales](#elections-regionales)
+  - [Pourquoi les notes sont publiées ?](#pourquoi-les-notes-sont-publiées)
+  - [Élections présidentielle](#élection-présidentielle)
 2. [Compilation des sondages](#compilation-des-sondages)
-  1. [Flux JSON disponibles](#flux-json-disponibles)
+  - [Flux JSON disponibles](#flux-json-disponibles)
 
 Retrouvez-nous sur les réseaux sociaux, sur [Twitter](https://twitter.com/nsppolls), où nous postons notre veille et des infos sur les mises à jour du fichier, et [Medium](https://medium.com/nsppolls), pour des articles non réguliers.
 
@@ -48,7 +48,7 @@ L'élection présidentielle devrait se dérouler au printemps 2022. Les candidat
 
 # Compilation des sondages
 
-## Chiffres collectés
+## Indicateurs collectés
 
 Sont rassemblés ici les sondages ayant traits aux élections présidentielle et régionales demandant des *intentions de vote*, soit les sondages répondant à la question *« Si le premier tour avait lieu dimanche, pour qui voteriez-vous ? »*, ou approchant. Ne sont pas compilés les souhaits de victoire, les chances de l'emporter ou les prédictions. 
 
@@ -68,20 +68,24 @@ L'architecture est plutôt simple et se décline par région (dans le cas des é
 
 Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de sondage sur le site de la Commission des sondages, ou si on en obtient par d'autres moyens.
 
-* [Élections régionales – toutes les régions](./regionales.json)
-  * [Île-de-France](./regionales_IDF.json)
-  * [Provence-Alpes-Côte-d'Azur](./regionales_PACA.json)
-  * [Auvergne-Rhône-Alpes](./regionales_ARA.json)
-  * [Normandie](./regionales_N.json)
-  * [Nouvelle-Aquitaine](./regionales_NA.json)
-  * [Hauts-de-France](./regionales_HDF.json)
-  * [Occitanie](./regionales_OCC.json)
-  * [Pays de la Loire](./regionales_PDL.json)
-  * [Bretagne](./regionales_BZH.json)
-  * [Grand Est](./regionales_GE.json)
-  * [Centre-Val de Loire](./regionales_CLV.json)
-  * [Bretagne-Franche-Comté](./regionales_BFC.json)
-* [Élection présidentielle](./presidentielle.json)
+* [Élections régionales – toutes les régions](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales.json)
+  * [Île-de-France](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_IDF.json)
+  * [Provence-Alpes-Côte-d'Azur](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_PACA.json)
+  * [Auvergne-Rhône-Alpes](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_ARA.json)
+  * [Normandie](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_N.json)
+  * [Nouvelle-Aquitaine](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_NA.json)
+  * [Hauts-de-France](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_HDF.json)
+  * [Occitanie](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_OCC.json)
+  * [Pays de la Loire](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_PDL.json)
+  * [Bretagne](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_BZH.json)
+  * [Grand Est](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_GE.json)
+  * [Centre-Val de Loire](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_CLV.json)
+  * [Bretagne-Franche-Comté](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_BFC.json)
+* [Élection présidentielle](https://raw.githubusercontent.com/nsppolls/nsppolls/master/presidentielle.json)
+
+## Reprises
+
+Les chiffres relatifs à l'élection présidentielle sont repris par plusieurs médias, dont [Le Figaro](https://www.lefigaro.fr/fig-data/sondages-programmes-candidats-discours-dates-deplacements-scrutin-20210906/), [Contexte](contexte.com/article/pouvoirs/agregateur-de-sondages-de-la-presidentielle-2022_128913.html), [The Guardian](https://www.theguardian.com/world/ng-interactive/2021/oct/25/french-election-polls-who-is-leading-the-race-to-be-the-next-president-of-france), [Le Télégramme](https://www.letelegramme.fr/elections/sondages/sondages-election-presidentielle-2022.php). Ils sont également repris sur d'autres sites comme [Datapolitics](https://datapolitics.fr/agregateur-sondages-presidentielle2022/) ou [datatracking.io](https://datatracking.io). 
 
 # Crédits
 
