@@ -4501,7 +4501,7 @@
         "nom_institut": "Ifop",
         "debut_enquete": "2021-03-04",
         "fin_enquete": "2021-03-09",
-        "commanditaire": "Fédération du PCF en Seine-Maritime",
+        "commanditaire": "Fédération du PCF de Seine-Maritime",
         "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/mars/9110-normandie-ifop-paris-normandie.pdf",
         "echantillon": 909,
         "population": "Inscrits sur les listes électorales",
@@ -8937,7 +8937,7 @@
                 "sous_echantillon": 615.122,
                 "tetes_liste": [
                   {
-                    "tete_liste": "Olivia Fortin",
+                    "tete_liste": " Olivia Fortin",
                     "parti": [
                       "Parti socialiste",
                       "Parti communiste"
@@ -9022,7 +9022,7 @@
                     "erreur_inf": 0.216
                   },
                   {
-                    "tete_liste": "Olivia Fortin",
+                    "tete_liste": " Olivia Fortin",
                     "parti": [
                       "Parti socialiste",
                       "Parti communiste"
@@ -9277,7 +9277,7 @@
                     "erreur_inf": 0.2062
                   },
                   {
-                    "tete_liste": " Benoît Kandel",
+                    "tete_liste": "Benoît Kandel",
                     "parti": "Debout la France",
                     "intentions": 3,
                     "erreur_sup": 4.3609,
@@ -9291,7 +9291,7 @@
                     "erreur_inf": 4.9646
                   },
                   {
-                    "tete_liste": "Olivia Fortin",
+                    "tete_liste": " Olivia Fortin",
                     "parti": [
                       "Parti socialiste",
                       "Parti communiste"
@@ -9301,7 +9301,7 @@
                     "erreur_inf": 4.9646
                   },
                   {
-                    "tete_liste": " Olivier Dubuquoy ",
+                    "tete_liste": "Olivier Dubuquoy",
                     "parti": "EE-LV",
                     "intentions": 9,
                     "erreur_sup": 11.283,
@@ -9376,7 +9376,7 @@
                     "erreur_inf": 23.4975
                   },
                   {
-                    "tete_liste": " Olivier Dubuquoy et JeanMarc Governatori",
+                    "tete_liste": "Olivier Dubuquoy et Jean-Marc Governatori",
                     "parti": [
                       "Alliance écologiste indépendante",
                       "EE-LV"
@@ -9393,7 +9393,7 @@
                     "erreur_inf": 0.215
                   },
                   {
-                    "tete_liste": " Benoît Kandel",
+                    "tete_liste": "Benoît Kandel",
                     "parti": "Debout la France",
                     "intentions": 3,
                     "erreur_sup": 4.3458,
