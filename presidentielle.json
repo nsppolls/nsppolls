@@ -20301,7 +20301,7 @@
     "nom_institut": "Elabe",
     "debut_enquete": "2021-10-25",
     "fin_enquete": "2021-10-27",
-    "commanditaire": "BFM, L'Express, SFR",
+    "commanditaire": "BFM TV, L'Express, SFR",
     "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9230-p-elabe-bfm-l-express.pdf",
     "echantillon": 948,
     "population": "Certains d'aller voter",
@@ -23682,7 +23682,7 @@
             "sous_echantillon": 2067,
             "candidats": [
               {
-                "candidat": "Valérie Pécresse",
+                "candidat": "Michel Barnier",
                 "parti": ["Les Républicains"],
                 "intentions": 9,
                 "erreur_sup": 10.2338,
