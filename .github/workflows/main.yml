@@ -1,0 +1,33 @@
+---
+name: main
+
+on:
+  push:
+    branches: ["master"]
+  pull_request:
+    branches: ["master"]
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🍽️ Get working copy
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1     
+      - name: 🐍 Set up Python 3.8                               
+        uses: actions/setup-python@v2                               
+        with:                                 
+          python-version: '3.8'              
+      - name: 💿 Install Requirements                            
+        run: pip install pandas numpy pathlib
+      - name: 🍳 Execute our script
+        run: python flatten.py    
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: NspPolls
+          author_email: hello@nsppolls.fr
+          message: 'Generate presidentielle.csv'
+          add: 'presidentielle.csv'
