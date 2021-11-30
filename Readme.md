@@ -98,7 +98,9 @@ Les chiffres relatifs à l'élection présidentielle sont repris par plusieurs m
 
 # Bonus
 
-Suivez les investitures aux élections législatives grâce à la compilation réalisée par NSPPolls ! [Un fichier CSV]() reprend les candidatures annoncées, dans chaque circonscription. Pour l'instant, seul LR a fait ses premières annonces.
+Suivez les investitures aux élections législatives grâce à la compilation réalisée par NSPPolls ! [Un fichier CSV](https://github.com/nsppolls/nsppolls/blob/master/donnees/candidatures_legislatives.csv) reprend les candidatures annoncées, dans chaque circonscription. 
+
+Pour l'instant, seul le parti Les Réplublicains a fait ses premières annonces. Le fichier sera amélioré au fil des annonces et du temps. Les élections législatives sont prévues pour le mois de juin 2022.
 
 # Crédits
 
