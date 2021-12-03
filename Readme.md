@@ -83,7 +83,7 @@ Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de son
   * [Bretagne](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_BZH.json)
   * [Grand Est](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_GE.json)
   * [Centre-Val de Loire](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_CLV.json)
-  * [Bretagne-Franche-Comté](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_BFC.json)
+  * [Bourgogne-Franche-Comté](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_BFC.json)
 * [Élection présidentielle](https://raw.githubusercontent.com/nsppolls/nsppolls/master/presidentielle.json)
 
 ## Flux CSV
