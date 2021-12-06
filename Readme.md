@@ -2,6 +2,8 @@
 
 ➡️ [Le flux JSON des sondages pour l'élection présidentielle](https://raw.githubusercontent.com/nsppolls/nsppolls/master/presidentielle.json)
 
+➡️ [Le fichier CSV des sondages pour l'élection présidentielle](https://raw.githubusercontent.com/nsppolls/nsppolls/master/presidentielle.csv)
+
 ➡️ [Suivez-nous sur Twitter](http://twitter.com/nsppolls)
 
 Ce projet a pour but de compiler les sondages produits à l'occasion des élections régionales et présidentielle en France et de les remettre en contexte. 
@@ -11,6 +13,7 @@ Ce projet a pour but de compiler les sondages produits à l'occasion des électi
   - [Élections présidentielle](#élection-présidentielle)
 2. [Compilation des sondages](#compilation-des-sondages)
   - [Flux JSON disponibles](#flux-json-disponibles)
+3. [Bonus](#bonus)
 
 Retrouvez-nous sur les réseaux sociaux, sur [Twitter](https://twitter.com/nsppolls), où nous postons notre veille et des infos sur les mises à jour du fichier, et [Medium](https://medium.com/nsppolls), pour des articles non réguliers.
 
@@ -80,12 +83,24 @@ Les fichiers seront remis à jour dans la foulée de l'ajout d'une notice de son
   * [Bretagne](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_BZH.json)
   * [Grand Est](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_GE.json)
   * [Centre-Val de Loire](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_CLV.json)
-  * [Bretagne-Franche-Comté](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_BFC.json)
+  * [Bourgogne-Franche-Comté](https://raw.githubusercontent.com/nsppolls/nsppolls/master/regionales_BFC.json)
 * [Élection présidentielle](https://raw.githubusercontent.com/nsppolls/nsppolls/master/presidentielle.json)
+
+## Flux CSV
+
+Un flux CSV est généré automatiquement à partir du fichier JSON, grâce à un script de Nicolas Mondon. Il reprend toutes les infos du JSON en affichant une ligne par intention de vote, détaillant le sondage, l'hypothèse, le candidat, etc.
+
+* [Élection présidentielle (csv)](https://raw.githubusercontent.com/nsppolls/nsppolls/master/presidentielle.csv)
 
 ## Reprises
 
 Les chiffres relatifs à l'élection présidentielle sont repris par plusieurs médias, dont [Le Figaro](https://www.lefigaro.fr/fig-data/sondages-programmes-candidats-discours-dates-deplacements-scrutin-20210906/), [Contexte](contexte.com/article/pouvoirs/agregateur-de-sondages-de-la-presidentielle-2022_128913.html), [The Guardian](https://www.theguardian.com/world/ng-interactive/2021/oct/25/french-election-polls-who-is-leading-the-race-to-be-the-next-president-of-france), [Le Télégramme](https://www.letelegramme.fr/elections/sondages/sondages-election-presidentielle-2022.php). Ils sont également repris sur d'autres sites comme [Datapolitics](https://datapolitics.fr/agregateur-sondages-presidentielle2022/) ou [datatracking.io](https://datatracking.io). 
+
+# Bonus
+
+Suivez les investitures aux élections législatives grâce à la compilation réalisée par NSPPolls ! [Un fichier CSV](https://github.com/nsppolls/nsppolls/blob/master/donnees/candidatures_legislatives.csv) reprend les candidatures annoncées, dans chaque circonscription. 
+
+Pour l'instant, seul le parti Les Réplublicains a fait ses premières annonces. Le fichier sera amélioré au fil des annonces et du temps. Les élections législatives sont prévues pour le mois de juin 2022.
 
 # Crédits
 
