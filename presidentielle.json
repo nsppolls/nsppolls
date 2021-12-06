@@ -17294,6 +17294,199 @@
     ]
   },
   {
+    "id": "20211203_hi",
+    "nom_institut": "Harris Interactive",
+    "debut_enquete": "2021-12-03",
+    "fin_enquete": "2021-12-06",
+    "commanditaire": "Challenges",
+    "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2021/12/GJTDKD-021R.pdf",
+    "echantillon": 2129,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2129,
+            "candidats": [
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": [""],
+                "intentions": 1,
+                "erreur_sup": 1.4227,
+                "erreur_inf": 0.5773
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": [""],
+                "intentions": 7,
+                "erreur_sup": 8.0838,
+                "erreur_inf": 5.9162
+              },
+              {
+                "candidat": "François Asselineau",
+                "parti": [""],
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": [""],
+                "intentions": 5,
+                "erreur_sup": 5.9258,
+                "erreur_inf": 4.0742
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": [""],
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": [""],
+                "intentions": 14,
+                "erreur_sup": 15.4739,
+                "erreur_inf": 12.5261
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": [""],
+                "intentions": 1,
+                "erreur_sup": 1.4227,
+                "erreur_inf": 0.5773
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": [""],
+                "intentions": 18,
+                "erreur_sup": 19.632,
+                "erreur_inf": 16.368
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": [""],
+                "intentions": 23,
+                "erreur_sup": 24.7876,
+                "erreur_inf": 21.2124
+              },
+              {
+                "candidat": "Florian Philippot",
+                "parti": [""],
+                "intentions": 1,
+                "erreur_sup": 1.4227,
+                "erreur_inf": 0.5773
+              },
+              {
+                "candidat": "Arnaud Montebourg",
+                "parti": [""],
+                "intentions": 1,
+                "erreur_sup": 1.4227,
+                "erreur_inf": 0.5773
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": [""],
+                "intentions": 2,
+                "erreur_sup": 2.5947,
+                "erreur_inf": 1.4053
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": [""],
+                "intentions": 14,
+                "erreur_sup": 15.4739,
+                "erreur_inf": 12.5261
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": [""],
+                "intentions": 2,
+                "erreur_sup": 2.5947,
+                "erreur_inf": 1.4053
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": [""],
+                "intentions": 11,
+                "erreur_sup": 12.3291,
+                "erreur_inf": 9.6709
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": "Hypothèse Macron / Le Pen",
+            "sous_echantillon": 2129,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 55,
+                "erreur_sup": 57.1133,
+                "erreur_inf": 52.8867
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 45,
+                "erreur_sup": 47.1133,
+                "erreur_inf": 42.8867
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Pécresse",
+            "sous_echantillon": 2129,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 53,
+                "erreur_sup": 55.1201,
+                "erreur_inf": 50.8799
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 47,
+                "erreur_sup": 49.1201,
+                "erreur_inf": 44.8799
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Zemmour",
+            "sous_echantillon": 2129,
+            "candidats": [
+              {
+                "candidat": "Eric Zemmour",
+                "parti": [""],
+                "intentions": 38,
+                "erreur_sup": 40.0618,
+                "erreur_inf": 35.9382
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 62,
+                "erreur_sup": 64.0618,
+                "erreur_inf": 59.9382
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20210628_elb",
     "nom_institut": "Elabe",
     "debut_enquete": "2021-06-28",
