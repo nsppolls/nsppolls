@@ -17396,7 +17396,7 @@
               },
               {
                 "candidat": "Eric Zemmour",
-                "parti": [""],
+                "parti": ["Reconquête"],
                 "intentions": 14,
                 "erreur_sup": 15.4739,
                 "erreur_inf": 12.5261
@@ -17468,7 +17468,7 @@
             "candidats": [
               {
                 "candidat": "Eric Zemmour",
-                "parti": [""],
+                "parti": ["Reconquête"],
                 "intentions": 38,
                 "erreur_sup": 40.0618,
                 "erreur_inf": 35.9382
@@ -27870,7 +27870,7 @@
               },
               {
                 "candidat": "Eric Zemmour",
-                "parti": [""],
+                "parti": ["Reconquête"],
                 "intentions": 13,
                 "erreur_sup": 14.8,
                 "erreur_inf": 11.2
@@ -27902,14 +27902,14 @@
             "candidats": [
               {
                 "candidat": "Emmanuel Macron",
-                "parti": [""],
+                "parti": ["LRM"],
                 "intentions": 63,
                 "erreur_sup": 65.5841,
                 "erreur_inf": 60.4159
               },
               {
                 "candidat": "Eric Zemmour",
-                "parti": [""],
+                "parti": ["Reconquête"],
                 "intentions": 37,
                 "erreur_sup": 39.5841,
                 "erreur_inf": 34.4159
