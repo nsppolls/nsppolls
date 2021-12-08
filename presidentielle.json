@@ -19128,6 +19128,120 @@
     ]
   },
   {
+    "id": "20211206_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2021-12-06",
+    "fin_enquete": "2021-12-08",
+    "commanditaire": "Le Parisien, franceinfo",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9256-p-ipsos-le-parisien-8-12.pdf",
+    "echantillon": 746,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 701.24,
+            "candidats": [
+              {
+                "candidat": "Eric Zemmour",
+                "parti": [""],
+                "intentions": 14,
+                "erreur_sup": 16.5682,
+                "erreur_inf": 11.4318
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 1.0221,
+                "erreur_inf": -0.0221
+              },
+              {
+                "candidat": "Arnaud Montebourg",
+                "parti": [""],
+                "intentions": 2.5,
+                "erreur_sup": 3.6556,
+                "erreur_inf": 1.3444
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 1.5,
+                "erreur_sup": 2.3997,
+                "erreur_inf": 0.6003
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 8,
+                "erreur_sup": 10.008,
+                "erreur_inf": 5.992
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 2,
+                "erreur_sup": 3.0362,
+                "erreur_inf": 0.9638
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 16,
+                "erreur_sup": 18.7135,
+                "erreur_inf": 13.2865
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 5,
+                "erreur_sup": 6.6131,
+                "erreur_inf": 3.3869
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 1,
+                "erreur_sup": 1.7364,
+                "erreur_inf": 0.2636
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 7,
+                "erreur_sup": 8.8885,
+                "erreur_inf": 5.1115
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1.5,
+                "erreur_sup": 2.3997,
+                "erreur_inf": 0.6003
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 16,
+                "erreur_sup": 18.7135,
+                "erreur_inf": 13.2865
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 25,
+                "erreur_sup": 28.205,
+                "erreur_inf": 21.795
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20210929_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2021-09-29",
