@@ -22551,6 +22551,134 @@
     ]
   },
   {
+    "id": "20211204_clu",
+    "nom_institut": "Cluster17",
+    "debut_enquete": "2021-12-04",
+    "fin_enquete": "2021-12-08",
+    "commanditaire": null,
+    "lien": "https://twitter.com/Cluster_17/status/1469199451281526786/photo/1",
+    "echantillon": 1487,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1055.77,
+            "candidats": [
+              {
+                "candidat": "Eric Zemmour",
+                "parti": [""],
+                "intentions": 15,
+                "erreur_sup": 17.1539,
+                "erreur_inf": 12.8461
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 16,
+                "erreur_sup": 18.2114,
+                "erreur_inf": 13.7886
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.6002,
+                "erreur_inf": 0.3998
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 5,
+                "erreur_sup": 6.3147,
+                "erreur_inf": 3.6853
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": [""],
+                "intentions": 1,
+                "erreur_sup": 1.6002,
+                "erreur_inf": 0.3998
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 16,
+                "erreur_sup": 18.2114,
+                "erreur_inf": 13.7886
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 2,
+                "erreur_sup": 2.8445,
+                "erreur_inf": 1.1555
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 13,
+                "erreur_sup": 15.0286,
+                "erreur_inf": 10.9714
+              },
+              {
+                "candidat": "François Asselineau",
+                "parti": ["UPR"],
+                "intentions": 0.5,
+                "erreur_sup": 0.9255,
+                "erreur_inf": 0.0745
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 3,
+                "erreur_sup": 4.029,
+                "erreur_inf": 1.971
+              },
+              {
+                "candidat": "Arnaud Montebourg",
+                "parti": [""],
+                "intentions": 1,
+                "erreur_sup": 1.6002,
+                "erreur_inf": 0.3998
+              },
+              {
+                "candidat": "Florian Philippot",
+                "parti": ["Les Patriotes"],
+                "intentions": 1,
+                "erreur_sup": 1.6002,
+                "erreur_inf": 0.3998
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.8445,
+                "erreur_inf": 1.1555
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.9255,
+                "erreur_inf": 0.0745
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 23,
+                "erreur_sup": 25.5385,
+                "erreur_inf": 20.4615
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20210929_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2021-09-29",
