@@ -1,29 +1,4 @@
 ﻿id,prenom,nom,sexe,sortante,circonscription,parti,lien
-46,Alexandre,Nanchi,homme,,01-02,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-47,Véronique,Baude,femme,,01-03,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-48,Aurane,Reihanian,homme,,01-04,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-13,Kevin,Para,homme,,05-01,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
-14,Carole,Chauvet,femme,,05-02,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
-75,Stéphanie,Fraenkel,femme,,10-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-49,Alice,Clergeau,femme,,16-01,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-50,Jean-Hubert,Lelièvre,homme,,16-02,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-51,David,Labiche,homme,,17-01,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-52,Bertrand,Giraud,homme,,17-02,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-53,Françoise,de Roffignac,femme,,17-03,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-76,David,Dallois,homme,,18-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-77,Adrien,Baert,homme,,18-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-78,Alix,Penloup,femme,,18-03,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-79,Christophe,Alory,homme,,27-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-80,Francine,Maragliano,femme,,27-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-81,Thomas,Elexhauser,homme,,27-03,"Les Centristes,LR",https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-82,Marie-Dominique,Perchet,femme,,27-04,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-83,David,Daverton,homme,,27-05,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-84,Véronique,Gardeur-Bancel,femme,,30-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-85,Frédéric,Touzelier,homme,,30-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-86,Blandine,Arnaud,femme,,30-03,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-87,Max,Roustan,homme,,30-04,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-88,Léa,Boyer,femme,,30-05,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-89,François,Courdil,homme,,30-06,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
 1,Maxime,Boyer,homme,,31-01,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
 2,Christine,Gennaro-Saint,femme,,31-02,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
 3,Laurence,Arribagé,femme,,31-03,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
@@ -33,20 +8,21 @@
 7,Michel,Ajoulat,homme,,31-07,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
 8,Cécile,Dufraisse,femme,,31-09,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
 9,Stéphanie,Respaud-Hezard,femme,,31-10,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
-90,Fabienne,Dore,femme,,32-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-91,Michel,Gabas,homme,,32-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+10,Ludovic,Castanié,homme,,60-02,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
+11,Christophe,Dietrich,homme,,60-03,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
+12,Anne-Sophie,Fontaine,femme,,60-06,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
+13,Kevin,Para,homme,,05-01,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
+14,Carole,Chauvet,femme,,05-02,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
+15,François,Lagarde,homme,,45-02,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
+16,Ariel,Levy,homme,,45-04,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
+17,Maxime,Buizard-Blondeau,homme,,45-05,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
+18,Chrystel,de Filippi,femme,,45-06,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
+19,Quitterie,de Villepin,femme,,75-02,,https://avecquitterie.fr
 20,Marie-Camille,Rey,femme,,42-01,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
 21,Laura,Cinieri,femme,,42-02,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
 22,Axel,Dugua,homme,,42-03,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
 23,Antoine,Vermorel,homme,,42-05,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
 24,Jean-Pierre,Taite,homme,,42-06,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
-15,François,Lagarde,homme,,45-02,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
-16,Ariel,Levy,homme,,45-04,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
-17,Maxime,Buizard-Blondeau,homme,,45-05,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
-18,Chrystel,de Filippi,femme,,45-06,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
-10,Ludovic,Castanié,homme,,60-02,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
-11,Christophe,Dietrich,homme,,60-03,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
-12,Anne-Sophie,Fontaine,femme,,60-06,LR,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/
 25,Sandrine,Lafargue,femme,,64-01,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
 26,Eric,Saubatte,homme,,64-02,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
 27,Fabienne,Costedoat-Diu,femme,,64-03,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
@@ -68,8 +44,15 @@
 43,Jérôme,Moroge,homme,,69-12,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
 44,Gilles,Gascon,homme,,69-13,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
 45,Réjane,Cloupet,femme,,69-14,LR,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/
+46,Alexandre,Nanchi,homme,,01-02,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
+47,Véronique,Baude,femme,,01-03,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
+48,Aurane,Reihanian,homme,,01-04,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
+49,Alice,Clergeau,femme,,16-01,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
+50,Jean-Hubert,Lelièvre,homme,,16-02,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
+51,David,Labiche,homme,,17-01,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
+52,Bertrand,Giraud,homme,,17-02,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
+53,Françoise,de Roffignac,femme,,17-03,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
 54,Vincent,Baladi,homme,,75-01,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-19,Quitterie,de Villepin,femme,,75-02,,https://avecquitterie.fr
 55,Alix,Bougeret,femme,,75-03,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
 56,Jean-Christophe,Martin,homme,,75-06,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
 57,Aurélien,Véron,homme,,75-07,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
@@ -82,9 +65,6 @@
 64,Marie,Toubiana,femme,,75-16,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
 65,Angélique,Michel,femme,,75-17,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
 66,Rudolph,Granier,homme,,75-18,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
-92,Jean-Claude,Bouchet,homme,checked,84-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-93,Roger,Rossin,homme,,84-04,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
-94,Julien,Aubert,homme,checked,84-05,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
 67,Samira,Ketfi,femme,,91-01,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
 68,Bernard,Bouley,homme,,91-02,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
 69,Isabelle,Perdereau,femme,,91-03,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
@@ -93,6 +73,26 @@
 72,Robin,Reda,homme,checked,91-07,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
 73,Véronique,Carantois,femme,,91-09,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
 74,Nicolas,de Boishue,homme,,91-10,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/
+75,Stéphanie,Fraenkel,femme,,10-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+76,David,Dallois,homme,,18-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+77,Adrien,Baert,homme,,18-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+78,Alix,Penloup,femme,,18-03,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+79,Christophe,Alory,homme,,27-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+80,Francine,Maragliano,femme,,27-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+81,Thomas,Elexhauser,homme,,27-03,"Les Centristes,LR",https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+82,Marie-Dominique,Perchet,femme,,27-04,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+83,David,Daverton,homme,,27-05,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+84,Véronique,Gardeur-Bancel,femme,,30-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+85,Frédéric,Touzelier,homme,,30-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+86,Blandine,Arnaud,femme,,30-03,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+87,Max,Roustan,homme,,30-04,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+88,Léa,Boyer,femme,,30-05,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+89,François,Courdil,homme,,30-06,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+90,Fabienne,Dore,femme,,32-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+91,Michel,Gabas,homme,,32-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+92,Jean-Claude,Bouchet,homme,checked,84-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+93,Roger,Rossin,homme,,84-04,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+94,Julien,Aubert,homme,checked,84-05,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
 95,Abdelaziz,Bentaj,homme,,92-01,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
 96,Marie-Dominique,Aeschlimann,femme,,92-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
 97,Pierre,Chassat,homme,,92-05,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
@@ -104,3 +104,93 @@
 103,Marie,Colavita,femme,,92-11,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
 104,Jean-Didier,Berger,homme,,92-12,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
 105,Henri,de Beauregard,homme,,92-13,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/
+106,Paul,Mougenot,homme,,02-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+107,David,Bobin,homme,,02-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+108,Jade,Gilquin,femme,,02-05,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+109,François-Xavier,Dugourd,homme,,21-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+110,Valérie,Grandet,femme,,21-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+111,Hubert,Brigand,homme,,21-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+112,Elisabeth,Marty,femme,,24-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+113,Christophe,Rousseau,homme,,24-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+114,Myriam,Thomasson,femme,,24-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+115,Michel,Vienet,homme,,25-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+116,Chafia,Kaoulal,femme,,25-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+117,Christophe,Froppier,homme,,25-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+118,Mathieu,Bloch,homme,,25-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+119,Valérie,Lecerf-Livet,femme,,29-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+120,Marie-Claire,Hénaff,femme,,29-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+121,Gaëlle,Nicolas,femme,,29-06,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+122,Eric,Le Guen,homme,,29-07,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+123,Claire,Gourlaouen,femme,,29-08,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+124,Nicolas,Florian,homme,,33-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+125,Marion,Lafuente,femme,,33-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+126,Viviane,Chaine-Ribeiro,femme,,33-05,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+127,Thomas,Dovichi,homme,,33-06,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+128,Benoît,Rautureau,homme,,33-07,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+129,Yves,Foulon,homme,,33-08,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+130,René,Cardoit,homme,,33-09,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+131,Jacques,Breillat,homme,,33-10,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+132,Bruna Carla,Vallivero-Belmondo,femme,,33-11,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+133,Christiane,Dulong,femme,,33-12,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+134,Michel,Garcia,homme,,34-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+135,Lewis,Marchand,homme,,34-05,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+136,Nathalie,Lefeuvre,femme,,34-08,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+137,Virginie,Rage-Andrieu,femme,,34-09,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+138,Marie-Christine,Harambat,femme,,40-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+139,Stéphanie,Houël,femme,,44-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+140,Foulques,Chombart de Lauwe,homme,,44-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+141,Sophie,Van Goethem,femme,,44-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+142,Sophie,Pavageau,femme,,44-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+143,Alain,Hunault,homme,,44-06,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+144,Bertrand,Plouvier,homme,,44-07,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+145,Andréa,Porcher,femme,,44-08,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+146,Charlotte,Luquiau,femme,,44-10,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+147,Martine,Calzavara,femme,,47-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+148,Jean-Louis,Costes,homme,,47-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+149,Roch,Brancour,homme,,49-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+150,Maxence,Henry,homme,,49-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+151,Régine,Catin,femme,,49-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+152,Marie-Louise,Kuntz,femme,,57-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+153,Thierry,Hory,homme,,57-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+154,Nathalie,Colin-Oesterlé,femme,,57-03,"LR,Les Centristes",https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+155,Fabienne,Labrette-Menager,femme,,72-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+156,François,Le Forestier,homme,,72-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+157,Béatrice,Latouche,femme,,72-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+158,Emmanuel,Franco,homme,,72-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+159,Marie-Hélène,Roux,femme,,76-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+160,Jonas,Haddad,homme,,76-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+161,Eddy,Lefaux,homme,,76-05,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+162,Robin,Devogelaere,homme,,76-06,"LR,Les Centristes",https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+163,Jacques,Forestier,homme,,76-07,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+164,Pascal,Houbron,homme,,76-10,"LR,Les Centristes",https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+165,Alexandra,Dublanche,femme,,78-05,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+166,Anne,Cabrit,femme,,78-10,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+167,Sylviane,Mauxion,femme,,86-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+168,Anthony,Lhermitte,homme,,86-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+169,Léonard,Zerbib,homme,,86-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+170,Anne-Laurence,Bourat,femme,,86-04,"LR,Les Centristes",https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+171,Gilles,Pirman,homme,,89-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+172,Sophia,Bahri,femme,,93-01,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+173,Sinaa,Thabet,femme,,93-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+174,Marie-Blanche,Pietri,femme,,93-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+175,Marie-Claude,Goureau,femme,,93-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+176,Ling,Lenzi,homme,,93-06,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+177,Julien,Guillot,homme,,93-07,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+178,Alex,Bonneau,homme,,93-08,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+179,Roberson,Pierre,homme,,93-09,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+180,Franck,Barth,homme,,93-12,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+181,Caroline,Berdou,femme,,95-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+182,Sarah,Nerozzi-Banfi,femme,,95-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+183,Patrick,Boullé,homme,,95-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+184,Gilles,Savry,homme,,95-05,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+185,Nicolas,Flament,homme,,95-06,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+186,Martine,Bidel,femme,,95-07,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+187,Anthony,Arciero,homme,,95-09,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+188,Patricia,José,femme,,95-10,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+189,Bertrand,Dupont,homme,,999-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+190,Artus,Galiay,homme,,999-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+191,Laurent,Goater,homme,,999-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+192,Régine,Mazloum-Martin,femme,,999-06,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+193,Aurélie,Fondecave,femme,,999-07,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+194,Aurélie,Pirillo,femme,,999-10,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
+195,Catya,Martin,femme,,999-11,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/
