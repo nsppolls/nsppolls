@@ -31139,6 +31139,120 @@
     ]
   },
   {
+    "id": "20211207_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2021-12-07",
+    "fin_enquete": "2021-12-13",
+    "commanditaire": "Le Monde, Cevipof, Fondation Jean Jaurès",
+    "lien": "https://www.lemonde.fr/election-presidentielle-2022/article/2021/12/18/presidentielle-2022-un-scrutin-plus-que-jamais-imprevisible_6106578_6059010.html",
+    "echantillon": 6332,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 6332,
+            "candidats": [
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 4.5,
+                "erreur_sup": 5.0106,
+                "erreur_inf": 3.9894
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 24,
+                "erreur_sup": 25.052,
+                "erreur_inf": 22.948
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.3448,
+                "erreur_inf": 1.6552
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 8.5,
+                "erreur_sup": 9.1869,
+                "erreur_inf": 7.8131
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 17,
+                "erreur_sup": 17.9252,
+                "erreur_inf": 16.0748
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1.5,
+                "erreur_sup": 1.7994,
+                "erreur_inf": 1.2006
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 2,
+                "erreur_sup": 2.3448,
+                "erreur_inf": 1.6552
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 14.5,
+                "erreur_sup": 15.3673,
+                "erreur_inf": 13.6327
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 8.5,
+                "erreur_sup": 9.1869,
+                "erreur_inf": 7.8131
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.6737,
+                "erreur_inf": 0.3263
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 1,
+                "erreur_sup": 1.2451,
+                "erreur_inf": 0.7549
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 14.5,
+                "erreur_sup": 15.3673,
+                "erreur_inf": 13.6327
+              },
+              {
+                "candidat": "Arnaud Montebourg",
+                "parti": [""],
+                "intentions": 1.5,
+                "erreur_sup": 1.7994,
+                "erreur_inf": 1.2006
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20210223_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2021-02-23",
