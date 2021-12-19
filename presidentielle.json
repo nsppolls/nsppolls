@@ -31018,6 +31018,120 @@
     ]
   },
   {
+    "id": "20211208_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2021-12-08",
+    "fin_enquete": "2021-12-09",
+    "commanditaire": "Mieux voter",
+    "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-mieux-voter-etude-sur-le-jugement-majoritaire-decembre-2021/viewdocument/2733.html?Itemid=0",
+    "echantillon": 962,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 798.46,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 16,
+                "erreur_sup": 18.5429,
+                "erreur_inf": 13.4571
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 12,
+                "erreur_sup": 14.254,
+                "erreur_inf": 9.746
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 2,
+                "erreur_sup": 2.9711,
+                "erreur_inf": 1.0289
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 25,
+                "erreur_sup": 28.0035,
+                "erreur_inf": 21.9965
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 5,
+                "erreur_sup": 6.5117,
+                "erreur_inf": 3.4883
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 2,
+                "erreur_sup": 2.9711,
+                "erreur_inf": 1.0289
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.9711,
+                "erreur_inf": 1.0289
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 8,
+                "erreur_sup": 9.8818,
+                "erreur_inf": 6.1182
+              },
+              {
+                "candidat": "Christiane Taubira",
+                "parti": [""],
+                "intentions": 2,
+                "erreur_sup": 2.9711,
+                "erreur_inf": 1.0289
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 17,
+                "erreur_sup": 19.6055,
+                "erreur_inf": 14.3945
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 8,
+                "erreur_sup": 9.8818,
+                "erreur_inf": 6.1182
+              },
+              {
+                "candidat": "Arnaud Montebourg",
+                "parti": [""],
+                "intentions": 1,
+                "erreur_sup": 1.6902,
+                "erreur_inf": 0.3098
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20211026_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2021-10-26",
