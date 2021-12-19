@@ -3724,6 +3724,21 @@ Anne Hidalgo,Parti socialiste,49.0,51.4273,46.5727,20210305_ifp,Ifop,Marianne,20
 Marine Le Pen,Rassemblement national,51.0,53.4273,48.5727,20210305_ifp,Ifop,Marianne,2021-03-05,2021-03-11,2554,Inscrits sur les listes électorales,Deuxième tour,Hidalgo - Le Pen,1629.452
 Xavier Bertrand,Les Républicains,57.0,59.3724,54.6276,20210305_ifp,Ifop,Marianne,2021-03-05,2021-03-11,2554,Inscrits sur les listes électorales,Deuxième tour,Bertrand - Le Pen,1672.87
 Marine Le Pen,Rassemblement national,43.0,45.3724,40.6276,20210305_ifp,Ifop,Marianne,2021-03-05,2021-03-11,2554,Inscrits sur les listes électorales,Deuxième tour,Bertrand - Le Pen,1672.87
+Jean-Luc Mélenchon,France insoumise,13.0,14.7346,11.2654,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Valérie Pécresse,Les Républicains,18.0,19.9816,16.0184,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Nicolas Dupont-Aignan,Debout la France,1.5,2.127,0.873,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Marine Le Pen,Rassemblement national,15.0,16.8417,13.1583,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Eric Zemmour,,15.0,16.8417,13.1583,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Jean Lassalle,,1.0,1.5132,0.4868,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Florian Philippot,Les Patriotes,1.0,1.5132,0.4868,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Yannick Jadot,EE-LV,5.0,6.1241,3.8759,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Nathalie Arthaud,Lutte ouvrière,0.5,0.8638,0.1362,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Arnaud Montebourg,,1.0,1.5132,0.4868,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Emmanuel Macron,LRM,22.0,24.1366,19.8634,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Fabien Roussel,Parti communiste,2.0,2.7221,1.2779,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Anne Hidalgo,Parti socialiste,3.0,3.8799,2.1201,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+Philippe Poutou,NPA,1.0,1.5132,0.4868,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
+François Asselineau,UPR,1.0,1.5132,0.4868,20211212_clu,Cluster17,,2021-12-12,2021-12-15,1520,Inscrits sur les listes électorales,Premier tour,,1444
 Michel Barnier,Les Républicains,9.0,10.2338,7.7662,20211105_odx,Odoxa,"L'Obs, Saegus",2021-11-05,2021-11-08,2756,Inscrits sur les listes électorales,Premier tour,Hypothèse Barnier,2067
 Jean-Luc Mélenchon,France insoumise,9.0,10.2338,7.7662,20211105_odx,Odoxa,"L'Obs, Saegus",2021-11-05,2021-11-08,2756,Inscrits sur les listes électorales,Premier tour,Hypothèse Barnier,2067
 Nathalie Arthaud,Lutte ouvrière,1.0,1.4289,0.5711,20211105_odx,Odoxa,"L'Obs, Saegus",2021-11-05,2021-11-08,2756,Inscrits sur les listes électorales,Premier tour,Hypothèse Barnier,2067
@@ -3869,19 +3884,19 @@ Anne Hidalgo,Parti socialiste,4.0,4.4708,3.5292,20211001_clu,Cluster17,,2021-10-
 Jean Lassalle,,1.0,1.239,0.761,20211001_clu,Cluster17,,2021-10-01,2021-10-18,9646,Inscrits sur les listes électorales,Premier tour,,6655.74
 Nicolas Dupont-Aignan,Debout la France,2.0,2.3363,1.6637,20211001_clu,Cluster17,,2021-10-01,2021-10-18,9646,Inscrits sur les listes électorales,Premier tour,,6655.74
 Yannick Jadot,EE-LV,7.0,7.613,6.387,20211001_clu,Cluster17,,2021-10-01,2021-10-18,9646,Inscrits sur les listes électorales,Premier tour,,6655.74
-Anne Hidalgo,Parti socialiste,4.5,5.0106,3.9894,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Emmanuel Macron,LRM,24.0,25.052,22.948,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Nicolas Dupont-Aignan,Debout la France,2.0,2.3448,1.6552,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Jean-Luc Mélenchon,France insoumise,8.5,9.1869,7.8131,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Valérie Pécresse,Les Républicains,17.0,17.9252,16.0748,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Philippe Poutou,NPA,1.5,1.7994,1.2006,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Fabien Roussel,Parti communiste,2.0,2.3448,1.6552,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Eric Zemmour,Reconquête,14.5,15.3673,13.6327,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Yannick Jadot,EE-LV,8.5,9.1869,7.8131,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Nathalie Arthaud,Lutte ouvrière,0.5,0.6737,0.3263,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Jean Lassalle,Résistons,1.0,1.2451,0.7549,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Marine Le Pen,Rassemblement national,14.5,15.3673,13.6327,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
-Arnaud Montebourg,,1.5,1.7994,1.2006,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6332,Certains d'aller voter,Premier tour,,6332
+Anne Hidalgo,Parti socialiste,4.5,5.0106,3.9894,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Emmanuel Macron,LRM,24.0,25.052,22.948,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Nicolas Dupont-Aignan,Debout la France,2.0,2.3448,1.6552,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Jean-Luc Mélenchon,France insoumise,8.5,9.1869,7.8131,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Valérie Pécresse,Les Républicains,17.0,17.9252,16.0748,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Philippe Poutou,NPA,1.5,1.7994,1.2006,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Fabien Roussel,Parti communiste,2.0,2.3448,1.6552,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Eric Zemmour,Reconquête,14.5,15.3673,13.6327,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Yannick Jadot,EE-LV,8.5,9.1869,7.8131,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Nathalie Arthaud,Lutte ouvrière,0.5,0.6737,0.3263,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Jean Lassalle,Résistons,1.0,1.2451,0.7549,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Marine Le Pen,Rassemblement national,14.5,15.3673,13.6327,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Arnaud Montebourg,,1.5,1.7994,1.2006,20211207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
 Emmanuel Macron,LRM,31.0,34.9943,27.0057,20210223_ifp,Ifop,Club de la presse,2021-02-23,2021-02-24,902,Inscrits sur les listes électorales,Premier tour,,515.042
 Anne Hidalgo,Parti socialiste,8.0,10.343,5.657,20210223_ifp,Ifop,Club de la presse,2021-02-23,2021-02-24,902,Inscrits sur les listes électorales,Premier tour,,515.042
 Xavier Bertrand,Les Républicains,21.0,24.5177,17.4823,20210223_ifp,Ifop,Club de la presse,2021-02-23,2021-02-24,902,Inscrits sur les listes électorales,Premier tour,,515.042
