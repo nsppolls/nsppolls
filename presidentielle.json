@@ -28613,111 +28613,105 @@
         "hypotheses": [
           {
             "hypothese": null,
-            "sous_echantillon": 1048,
+            "sous_echantillon": 985.12,
             "candidats": [
               {
                 "candidat": "Jean Lassalle",
                 "parti": [""],
                 "intentions": 1,
-                "erreur_sup": 1.6024,
-                "erreur_inf": 0.3976
+                "erreur_sup": 1.6213,
+                "erreur_inf": 0.3787
               },
-              {
-                "candidat": "Nicolas Dupont-Aignan",
-                "parti": ["Debout la France"],
-                "intentions": 2,
-                "erreur_sup": 2.8476,
-                "erreur_inf": 1.1524
-              },
-              {
-                "candidat": "Anne Hidalgo",
-                "parti": ["Parti socialiste"],
-                "intentions": 4,
-                "erreur_sup": 5.1864,
-                "erreur_inf": 2.8136
-              },
-              {
-                "candidat": "Christiane Taubira",
-                "parti": [""],
-                "intentions": 3,
-                "erreur_sup": 4.0328,
-                "erreur_inf": 1.9672
-              },
-              {
-                "candidat": "Yannick Jadot",
-                "parti": ["EE-LV"],
-                "intentions": 6,
-                "erreur_sup": 7.4379,
-                "erreur_inf": 4.5621
-              },
-              {
-                "candidat": "Fabien Roussel",
-                "parti": ["Parti communiste"],
-                "intentions": 2,
-                "erreur_sup": 2.8476,
-                "erreur_inf": 1.1524
-              },
-              {
-                "candidat": "Emmanuel Macron",
-                "parti": ["LRM"],
-                "intentions": 26,
-                "erreur_sup": 28.6557,
-                "erreur_inf": 23.3443
-              },
-              {
-                "candidat": "Eric Zemmour",
-                "parti": ["Reconquête"],
-                "intentions": 12,
-                "erreur_sup": 13.9675,
-                "erreur_inf": 10.0325
-              },
-              {
-                "candidat": "Marine Le Pen",
-                "parti": ["Rassemblement national"],
-                "intentions": 16,
-                "erreur_sup": 18.2196,
-                "erreur_inf": 13.7804
-              },
-              {
-                "candidat": "Valérie Pécresse",
-                "parti": ["Les Républicains"],
-                "intentions": 18,
-                "erreur_sup": 20.326,
-                "erreur_inf": 15.674
-              },
-              {
-                "candidat": "Jean-Luc Mélenchon",
-                "parti": ["France insoumise"],
-                "intentions": 8,
-                "erreur_sup": 9.6425,
-                "erreur_inf": 6.3575
-              },
-              {
-                "candidat": "Arnaud Montebourg",
-                "parti": [""],
-                "intentions": 1,
-                "erreur_sup": 1.6024,
-                "erreur_inf": 0.3976
-              },
-              {
-                "candidat": "Philippe Poutou",
-                "parti": ["NPA"],
-                "intentions": 1,
-                "erreur_sup": 1.6024,
-                "erreur_inf": 0.3976
-              }
-            ]
-          },
-          {
-            "hypothese": null,
-            "sous_echantillon": 985.12,
-            "candidats": [
               {
                 "candidat": "Nathalie Arthaud",
                 "parti": ["Lutte ouvrière"],
                 "intentions": 0,
                 "erreur_sup": 0,
                 "erreur_inf": 0
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.8743,
+                "erreur_inf": 1.1257
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 4,
+                "erreur_sup": 5.2237,
+                "erreur_inf": 2.7763
+              },
+              {
+                "candidat": "Christiane Taubira",
+                "parti": [""],
+                "intentions": 3,
+                "erreur_sup": 4.0653,
+                "erreur_inf": 1.9347
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 6,
+                "erreur_sup": 7.483,
+                "erreur_inf": 4.517
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 2,
+                "erreur_sup": 2.8743,
+                "erreur_inf": 1.1257
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 26,
+                "erreur_sup": 28.7391,
+                "erreur_inf": 23.2609
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 12,
+                "erreur_sup": 14.0293,
+                "erreur_inf": 9.9707
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 16,
+                "erreur_sup": 18.2893,
+                "erreur_inf": 13.7107
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 18,
+                "erreur_sup": 20.3991,
+                "erreur_inf": 15.6009
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 8,
+                "erreur_sup": 9.6941,
+                "erreur_inf": 6.3059
+              },
+              {
+                "candidat": "Arnaud Montebourg",
+                "parti": [""],
+                "intentions": 1,
+                "erreur_sup": 1.6213,
+                "erreur_inf": 0.3787
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.6213,
+                "erreur_inf": 0.3787
               }
             ]
           }
