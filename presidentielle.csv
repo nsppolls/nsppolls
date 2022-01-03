@@ -500,6 +500,22 @@ Emmanuel Macron,LRM,48.0,51.5818,44.4182,20210629_ifp,Ifop,"LCI, Le Figaro",2021
 Xavier Bertrand,Les Républicains,52.0,55.5818,48.4182,20210629_ifp,Ifop,"LCI, Le Figaro",2021-06-29,2021-07-02,1337,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron - Bertrand,747.383
 Marine Le Pen,Rassemblement national,39.0,42.1613,35.8387,20210629_ifp,Ifop,"LCI, Le Figaro",2021-06-29,2021-07-02,1337,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Bertrand - Le Pen,914.508
 Xavier Bertrand,Les Républicains,61.0,64.1613,57.8387,20210629_ifp,Ifop,"LCI, Le Figaro",2021-06-29,2021-07-02,1337,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Bertrand - Le Pen,914.508
+Fabien Roussel,Parti communiste,1.5,2.1324,0.8676,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Valérie Pécresse,Les Républicains,16.0,17.9074,14.0926,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Philippe Poutou,NPA,1.5,2.1324,0.8676,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Marine Le Pen,Rassemblement national,13.0,14.7498,11.2502,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Arnaud Montebourg,,1.5,2.1324,0.8676,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Nicolas Dupont-Aignan,Debout la France,2.0,2.7284,1.2716,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Anne Hidalgo,Parti socialiste,2.0,2.7284,1.2716,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Emmanuel Macron,LRM,20.0,22.0812,17.9188,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Christiane Taubira,,7.0,8.3275,5.6725,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Jean-Luc Mélenchon,France insoumise,12.0,13.6908,10.3092,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Florian Philippot,Les Patriotes,1.0,1.5177,0.4823,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Yannick Jadot,EE-LV,5.0,6.134,3.866,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Nathalie Arthaud,Lutte ouvrière,0.5,0.867,0.133,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Jean Lassalle,,1.0,1.5177,0.4823,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+Eric Zemmour,,14.0,15.8054,12.1946,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
+François Asselineau,UPR,1.0,1.5177,0.4823,20211219_clu,Cluster17,,2021-12-19,2021-12-22,1466,Inscrits sur les listes électorales,Premier tour,,1419.088
 Yannick Jadot,EE-LV,8.0,9.7995,6.2005,20211007_bva,BVA,"Orange, RTL",2021-10-07,2021-10-11,1052,Certains d'aller voter,Premier tour,Hypothèse Pécresse / Zemmour,873.16
 Valérie Pécresse,Les Républicains,10.0,11.9899,8.0101,20211007_bva,BVA,"Orange, RTL",2021-10-07,2021-10-11,1052,Certains d'aller voter,Premier tour,Hypothèse Pécresse / Zemmour,873.16
 Marine Le Pen,Rassemblement national,17.0,19.4916,14.5084,20211007_bva,BVA,"Orange, RTL",2021-10-07,2021-10-11,1052,Certains d'aller voter,Premier tour,Hypothèse Pécresse / Zemmour,873.16
@@ -3602,23 +3618,23 @@ autre,« ext. gauche\xa0»,1.5,2.3509,0.6491,20210625_ips,Ipsos,"France Télés,
 Marine Le Pen,Rassemblement national,26.0,29.0706,22.9294,20210625_ips,Ipsos,"France Télés, Radio France, LCP",2021-06-25,2021-06-26,871,Certains d'aller voter,Premier tour,Hypothèse Pécresse,783.9
 Anne Hidalgo,Parti socialiste,9.0,11.0034,6.9966,20210625_ips,Ipsos,"France Télés, Radio France, LCP",2021-06-25,2021-06-26,871,Certains d'aller voter,Premier tour,Hypothèse Pécresse,783.9
 Emmanuel Macron,LRM,26.0,29.0706,22.9294,20210625_ips,Ipsos,"France Télés, Radio France, LCP",2021-06-25,2021-06-26,871,Certains d'aller voter,Premier tour,Hypothèse Pécresse,783.9
-Valérie Pécresse,Les Républicains,46.0,48.5478,43.4522,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Deuxième tour,Hypothèse Macron / Pécresse,1470
-Emmanuel Macron,LRM,54.0,56.5478,51.4522,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Deuxième tour,Hypothèse Macron / Pécresse,1470
-Emmanuel Macron,LRM,57.0,59.5309,54.4691,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Deuxième tour,Hypothèse Macron / Le Pen,1470
-Marine Le Pen,Rassemblement national,43.0,45.5309,40.4691,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Deuxième tour,Hypothèse Macron / Le Pen,1470
-Eric Zemmour,,12.0,13.8125,10.1875,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Arnaud Montebourg,,2.0,2.7809,1.2191,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Nicolas Dupont-Aignan,Debout la France,1.0,1.555,0.445,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Nathalie Arthaud,Lutte ouvrière,1.0,1.555,0.445,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Anne Hidalgo,Parti socialiste,4.0,5.093,2.907,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Emmanuel Macron,LRM,24.0,26.3822,21.6178,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Marine Le Pen,Rassemblement national,16.0,18.0448,13.9552,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Jean Lassalle,,2.0,2.7809,1.2191,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Jean-Luc Mélenchon,France insoumise,9.0,10.5962,7.4038,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Philippe Poutou,NPA,1.0,1.555,0.445,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Valérie Pécresse,Les Républicains,17.0,19.0952,14.9048,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Yannick Jadot,EE-LV,8.0,9.5132,6.4868,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
-Fabien Roussel,Parti communiste,3.0,3.9515,2.0485,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes,Premier tour,,1234.8
+Valérie Pécresse,Les Républicains,46.0,48.5478,43.4522,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,1470
+Emmanuel Macron,LRM,54.0,56.5478,51.4522,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,1470
+Emmanuel Macron,LRM,57.0,59.5309,54.4691,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1470
+Marine Le Pen,Rassemblement national,43.0,45.5309,40.4691,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1470
+Eric Zemmour,,12.0,13.8125,10.1875,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Arnaud Montebourg,,2.0,2.7809,1.2191,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Nicolas Dupont-Aignan,Debout la France,1.0,1.555,0.445,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Nathalie Arthaud,Lutte ouvrière,1.0,1.555,0.445,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Anne Hidalgo,Parti socialiste,4.0,5.093,2.907,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Emmanuel Macron,LRM,24.0,26.3822,21.6178,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Marine Le Pen,Rassemblement national,16.0,18.0448,13.9552,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Jean Lassalle,,2.0,2.7809,1.2191,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Jean-Luc Mélenchon,France insoumise,9.0,10.5962,7.4038,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Philippe Poutou,NPA,1.0,1.555,0.445,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Valérie Pécresse,Les Républicains,17.0,19.0952,14.9048,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Yannick Jadot,EE-LV,8.0,9.5132,6.4868,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
+Fabien Roussel,Parti communiste,3.0,3.9515,2.0485,20211213_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Premier tour,,1234.8
 Fabien Roussel,Parti communiste,1.0,1.6534,0.3466,20210924_hi,Harris Interactive,Challenges,2021-09-24,2021-09-27,1048,Inscrits sur les listes électorales,Premier tour,Hypothèse Bertrand,890.8
 Arnaud Montebourg,,2.0,2.9194,1.0806,20210924_hi,Harris Interactive,Challenges,2021-09-24,2021-09-27,1048,Inscrits sur les listes électorales,Premier tour,Hypothèse Bertrand,890.8
 Xavier Bertrand,Les Républicains,14.0,16.2787,11.7213,20210924_hi,Harris Interactive,Challenges,2021-09-24,2021-09-27,1048,Inscrits sur les listes électorales,Premier tour,Hypothèse Bertrand,890.8
