@@ -1,4 +1,21 @@
 candidat,parti,intentions,erreur_sup,erreur_inf,id,nom_institut,commanditaire,debut_enquete,fin_enquete,echantillon,population,tour,hypothese,sous_echantillon
+Marine Le Pen,Rassemblement national,16.0,18.0358,13.9642,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Anne Hidalgo,Parti socialiste,4.0,5.0882,2.9118,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Jean-Luc Mélenchon,France insoumise,9.0,10.5892,7.4108,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Nicolas Dupont-Aignan,Debout la France,2.0,2.7774,1.2226,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Arnaud Montebourg,,1.0,1.5525,0.4475,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Yannick Jadot,EE-LV,7.0,8.4168,5.5832,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Fabien Roussel,Parti communiste,3.0,3.9473,2.0527,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Eric Zemmour,Reconquête,13.0,14.8675,11.1325,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Emmanuel Macron,LRM,25.0,27.4045,22.5955,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Valérie Pécresse,Les Républicains,17.0,19.0859,14.9141,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Philippe Poutou,NPA,1.0,1.5525,0.4475,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Nathalie Arthaud,Lutte ouvrière,1.0,1.5525,0.4475,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Jean Lassalle,,1.0,1.5525,0.4475,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Premier tour,,1245.83
+Valérie Pécresse,Les Républicains,47.0,50.2597,43.7403,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,900.6
+Emmanuel Macron,LRM,53.0,56.2597,49.7403,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,900.6
+Emmanuel Macron,LRM,57.0,59.9936,54.0064,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1050.7
+Marine Le Pen,Rassemblement national,43.0,45.9936,40.0064,20220102_0105_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-05,1501,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1050.7
 Anne Hidalgo,Parti socialiste,7.0,8.7272,5.2728,20211018_1020_ow,Opinion Way,"Les Echos, Radio Classique, CNews",2021-10-18,2021-10-20,1035,Inscrits sur les listes électorales,Premier tour,Hypothèse Pécresse / Zemmour,838.35
 Nicolas Dupont-Aignan,Debout la France,3.0,4.1548,1.8452,20211018_1020_ow,Opinion Way,"Les Echos, Radio Classique, CNews",2021-10-18,2021-10-20,1035,Inscrits sur les listes électorales,Premier tour,Hypothèse Pécresse / Zemmour,838.35
 Marine Le Pen,Rassemblement national,19.0,21.6556,16.3444,20211018_1020_ow,Opinion Way,"Les Echos, Radio Classique, CNews",2021-10-18,2021-10-20,1035,Inscrits sur les listes électorales,Premier tour,Hypothèse Pécresse / Zemmour,838.35
@@ -3515,23 +3532,23 @@ Marine Le Pen,Rassemblement national,26.0,29.0008,22.9992,20210416_0419_hi,Harri
 Jean-Frédéric Poisson,PCD,0.0,0.0,0.0,20210416_0419_hi,Harris Interactive,Challenges,2021-04-16,2021-04-19,1001,Inscrits sur les listes électorales,Premier tour,Hypothèse X. Bertrand,820.82
 Marine Le Pen,Rassemblement national,46.0,49.7442,42.2558,20210416_0419_hi,Harris Interactive,Challenges,2021-04-16,2021-04-19,1001,Inscrits sur les listes électorales,Deuxième tour,,680.68
 Emmanuel Macron,LRM,54.0,57.7442,50.2558,20210416_0419_hi,Harris Interactive,Challenges,2021-04-16,2021-04-19,1001,Inscrits sur les listes électorales,Deuxième tour,,680.68
-Arnaud Montebourg,,1.0,1.6539,0.3461,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Yannick Jadot,EE-LV,7.0,8.6767,5.3233,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Jean Lassalle,,1.0,1.6539,0.3461,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Nicolas Dupont-Aignan,Debout la France,2.0,2.92,1.08,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Valérie Pécresse,Les Républicains,16.0,18.4092,13.5908,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Eric Zemmour,Reconquête,13.0,15.21,10.79,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Marine Le Pen,Rassemblement national,16.0,18.4092,13.5908,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Philippe Poutou,NPA,1.0,1.6539,0.3461,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Fabien Roussel,Parti communiste,3.0,4.121,1.879,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Nathalie Arthaud,Lutte ouvrière,1.0,1.6539,0.3461,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Anne Hidalgo,Parti socialiste,4.0,5.2878,2.7122,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Jean-Luc Mélenchon,France insoumise,9.0,10.8807,7.1193,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Emmanuel Macron,LRM,26.0,28.8825,23.1175,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
-Marine Le Pen,Rassemblement national,42.0,45.553,38.447,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,741.3
-Emmanuel Macron,LRM,58.0,61.553,54.447,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,741.3
-Valérie Pécresse,Les Républicains,46.0,49.8434,42.1566,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,645.99
-Emmanuel Macron,LRM,54.0,57.8434,50.1566,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,645.99
+Arnaud Montebourg,,1.0,1.6539,0.3461,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Yannick Jadot,EE-LV,7.0,8.6767,5.3233,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Jean Lassalle,,1.0,1.6539,0.3461,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Nicolas Dupont-Aignan,Debout la France,2.0,2.92,1.08,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Valérie Pécresse,Les Républicains,16.0,18.4092,13.5908,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Eric Zemmour,Reconquête,13.0,15.21,10.79,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Marine Le Pen,Rassemblement national,16.0,18.4092,13.5908,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Philippe Poutou,NPA,1.0,1.6539,0.3461,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Fabien Roussel,Parti communiste,3.0,4.121,1.879,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Nathalie Arthaud,Lutte ouvrière,1.0,1.6539,0.3461,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Anne Hidalgo,Parti socialiste,4.0,5.2878,2.7122,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Jean-Luc Mélenchon,France insoumise,9.0,10.8807,7.1193,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Emmanuel Macron,LRM,26.0,28.8825,23.1175,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Premier tour,,889.56
+Marine Le Pen,Rassemblement national,42.0,45.553,38.447,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,741.3
+Emmanuel Macron,LRM,58.0,61.553,54.447,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,741.3
+Valérie Pécresse,Les Républicains,46.0,49.8434,42.1566,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,645.99
+Emmanuel Macron,LRM,54.0,57.8434,50.1566,20220102_0103_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-03,1059,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,645.99
 Nathalie Arthaud,Lutte ouvrière,1.0,1.4671,0.5329,20211112_1115_hi,Harris Interactive,Challenges,2021-11-12,2021-11-15,2027,Inscrits sur les listes électorales,Premier tour,Hypothèse Pécresse,1743.22
 Marine Le Pen,Rassemblement national,16.0,17.721,14.279,20211112_1115_hi,Harris Interactive,Challenges,2021-11-12,2021-11-15,2027,Inscrits sur les listes électorales,Premier tour,Hypothèse Pécresse,1743.22
 François Asselineau,UPR,0.0,0.0,0.0,20211112_1115_hi,Harris Interactive,Challenges,2021-11-12,2021-11-15,2027,Inscrits sur les listes électorales,Premier tour,Hypothèse Pécresse,1743.22
@@ -3735,23 +3752,23 @@ autre,« ext. gauche\xa0»,1.5,2.3509,0.6491,20210625_0626_ips,Ipsos,"France Té
 Marine Le Pen,Rassemblement national,26.0,29.0706,22.9294,20210625_0626_ips,Ipsos,"France Télés, Radio France, LCP",2021-06-25,2021-06-26,871,Certains d'aller voter,Premier tour,Hypothèse Pécresse,783.9
 Anne Hidalgo,Parti socialiste,9.0,11.0034,6.9966,20210625_0626_ips,Ipsos,"France Télés, Radio France, LCP",2021-06-25,2021-06-26,871,Certains d'aller voter,Premier tour,Hypothèse Pécresse,783.9
 Emmanuel Macron,LRM,26.0,29.0706,22.9294,20210625_0626_ips,Ipsos,"France Télés, Radio France, LCP",2021-06-25,2021-06-26,871,Certains d'aller voter,Premier tour,Hypothèse Pécresse,783.9
-Yannick Jadot,EE-LV,7.0,8.3862,5.6138,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Nicolas Dupont-Aignan,Debout la France,2.0,2.7606,1.2394,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Jean-Luc Mélenchon,France insoumise,9.0,10.5548,7.4452,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Emmanuel Macron,LRM,25.0,27.3526,22.6474,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Arnaud Montebourg,,1.0,1.5406,0.4594,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Jean Lassalle,,1.0,1.5406,0.4594,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Philippe Poutou,NPA,1.0,1.5406,0.4594,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Eric Zemmour,Reconquête,13.0,14.8272,11.1728,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Anne Hidalgo,Parti socialiste,4.0,5.0647,2.9353,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Marine Le Pen,Rassemblement national,16.0,17.9918,14.0082,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Valérie Pécresse,Les Républicains,17.0,19.0408,14.9592,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Fabien Roussel,Parti communiste,3.0,3.9268,2.0732,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Nathalie Arthaud,Lutte ouvrière,1.0,1.5406,0.4594,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
-Emmanuel Macron,LRM,53.0,56.1893,49.8107,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,940.8
-Valérie Pécresse,Les Républicains,47.0,50.1893,43.8107,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,940.8
-Emmanuel Macron,LRM,57.0,59.9289,54.0711,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1097.6
-Marine Le Pen,Rassemblement national,43.0,45.9289,40.0711,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1097.6
+Yannick Jadot,EE-LV,7.0,8.3862,5.6138,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Nicolas Dupont-Aignan,Debout la France,2.0,2.7606,1.2394,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Jean-Luc Mélenchon,France insoumise,9.0,10.5548,7.4452,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Emmanuel Macron,LRM,25.0,27.3526,22.6474,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Arnaud Montebourg,,1.0,1.5406,0.4594,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Jean Lassalle,,1.0,1.5406,0.4594,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Philippe Poutou,NPA,1.0,1.5406,0.4594,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Eric Zemmour,Reconquête,13.0,14.8272,11.1728,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Anne Hidalgo,Parti socialiste,4.0,5.0647,2.9353,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Marine Le Pen,Rassemblement national,16.0,17.9918,14.0082,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Valérie Pécresse,Les Républicains,17.0,19.0408,14.9592,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Fabien Roussel,Parti communiste,3.0,3.9268,2.0732,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Nathalie Arthaud,Lutte ouvrière,1.0,1.5406,0.4594,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Premier tour,,1301.44
+Emmanuel Macron,LRM,53.0,56.1893,49.8107,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,940.8
+Valérie Pécresse,Les Républicains,47.0,50.1893,43.8107,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,940.8
+Emmanuel Macron,LRM,57.0,59.9289,54.0711,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1097.6
+Marine Le Pen,Rassemblement national,43.0,45.9289,40.0711,20220102_0104_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-02,2022-01-04,1568,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1097.6
 Valérie Pécresse,Les Républicains,46.0,48.5478,43.4522,20211213_1215_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,1470
 Emmanuel Macron,LRM,54.0,56.5478,51.4522,20211213_1215_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,1470
 Emmanuel Macron,LRM,57.0,59.5309,54.4691,20211213_1215_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-12-13,2021-12-15,1470,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1470
@@ -4026,6 +4043,23 @@ Yannick Jadot,EE-LV,8.0,10.1441,5.8559,20200618_0619_ifp,Ifop,"CNews, Sud Radio"
 Nathalie Arthaud,Lutte ouvrière,1.0,1.7864,0.2136,20200618_0619_ifp,Ifop,"CNews, Sud Radio",2020-06-18,2020-06-19,992,Inscrits sur les listes électorales,Premier tour,Hypothèse Xavier Bertrand,615.04
 Emmanuel Macron,,55.0,58.8851,51.1149,20200618_0619_ifp,Ifop,"CNews, Sud Radio",2020-06-18,2020-06-19,992,Inscrits sur les listes électorales,Deuxième tour,,629.92
 Marine Le Pen,,45.0,48.8851,41.1149,20200618_0619_ifp,Ifop,"CNews, Sud Radio",2020-06-18,2020-06-19,992,Inscrits sur les listes électorales,Deuxième tour,,629.92
+Jean Lassalle,,1.0,1.5354,0.4646,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Emmanuel Macron,LRM,25.0,27.3299,22.6701,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Valérie Pécresse,Les Républicains,17.0,19.0212,14.9788,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Fabien Roussel,Parti communiste,3.0,3.9179,2.0821,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Marine Le Pen,Rassemblement national,17.0,19.0212,14.9788,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Arnaud Montebourg,,1.0,1.5354,0.4646,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Anne Hidalgo,Parti socialiste,4.0,5.0544,2.9456,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Yannick Jadot,EE-LV,7.0,8.3729,5.6271,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Philippe Poutou,NPA,1.0,1.5354,0.4646,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Nathalie Arthaud,Lutte ouvrière,1.0,1.5354,0.4646,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Nicolas Dupont-Aignan,Debout la France,2.0,2.7533,1.2467,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Eric Zemmour,Reconquête,12.0,13.7485,10.2515,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Jean-Luc Mélenchon,France insoumise,9.0,10.5399,7.4601,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Premier tour,,1326.85
+Emmanuel Macron,LRM,52.0,55.1476,48.8524,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,967.82
+Valérie Pécresse,Les Républicains,48.0,51.1476,44.8524,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,967.82
+Emmanuel Macron,LRM,57.0,59.9147,54.0853,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1108.31
+Marine Le Pen,Rassemblement national,43.0,45.9147,40.0853,20220104_0107_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-04,2022-01-07,1561,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1108.31
 Valérie Pécresse,Les Républicains,17.0,18.6891,15.3109,20211210_1213_hi,Harris Interactive,Challenges,2021-12-10,2021-12-13,2159,Inscrits sur les listes électorales,Premier tour,,1899.92
 Philippe Poutou,NPA,1.0,1.4474,0.5526,20211210_1213_hi,Harris Interactive,Challenges,2021-12-10,2021-12-13,2159,Inscrits sur les listes électorales,Premier tour,,1899.92
 Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20211210_1213_hi,Harris Interactive,Challenges,2021-12-10,2021-12-13,2159,Inscrits sur les listes électorales,Premier tour,,1899.92
@@ -4130,6 +4164,23 @@ Nathalie Arthaud,Lutte ouvrière,0.5,0.6737,0.3263,20211207_1213_ips,Ipsos,"Le M
 Jean Lassalle,Résistons,1.0,1.2451,0.7549,20211207_1213_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
 Marine Le Pen,Rassemblement national,14.5,15.3673,13.6327,20211207_1213_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
 Arnaud Montebourg,,1.5,1.7994,1.2006,20211207_1213_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,Premier tour,,6331.84
+Emmanuel Macron,LRM,25.0,27.3643,22.6357,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Anne Hidalgo,Parti socialiste,4.0,5.07,2.93,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Yannick Jadot,EE-LV,7.0,8.3931,5.6069,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Eric Zemmour,Reconquête,12.0,13.7743,10.2257,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Philippe Poutou,NPA,1.0,1.5433,0.4567,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Jean-Luc Mélenchon,France insoumise,9.0,10.5626,7.4374,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Arnaud Montebourg,,1.0,1.5433,0.4567,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Fabien Roussel,Parti communiste,3.0,3.9314,2.0686,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Marine Le Pen,Rassemblement national,17.0,19.051,14.949,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Nathalie Arthaud,Lutte ouvrière,1.0,1.5433,0.4567,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Valérie Pécresse,Les Républicains,17.0,19.051,14.949,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Jean Lassalle,,1.0,1.5433,0.4567,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Nicolas Dupont-Aignan,Debout la France,2.0,2.7644,1.2356,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Premier tour,,1288.56
+Emmanuel Macron,LRM,56.0,58.948,53.052,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1089.14
+Marine Le Pen,Rassemblement national,44.0,46.948,41.052,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1089.14
+Emmanuel Macron,LRM,52.0,55.1752,48.8248,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,951.08
+Valérie Pécresse,Les Républicains,48.0,51.1752,44.8248,20220103_0106_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-03,2022-01-06,1534,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,951.08
 Jean Lassalle,Résistons,1.5,2.2978,0.7022,20220105_0106_bva,BVA,RTL,2022-01-05,2022-01-06,1101,Certains d'aller voter,Premier tour,,891.81
 Anne Hidalgo,Parti socialiste,3.5,4.7062,2.2938,20220105_0106_bva,BVA,RTL,2022-01-05,2022-01-06,1101,Certains d'aller voter,Premier tour,,891.81
 Nicolas Dupont-Aignan,Debout la France,2.0,2.9189,1.0811,20220105_0106_bva,BVA,RTL,2022-01-05,2022-01-06,1101,Certains d'aller voter,Premier tour,,891.81
@@ -4144,6 +4195,23 @@ Nathalie Arthaud,Lutte ouvrière,0.5,0.9629,0.0371,20220105_0106_bva,BVA,RTL,202
 Valérie Pécresse,Les Républicains,16.0,18.4061,13.5939,20220105_0106_bva,BVA,RTL,2022-01-05,2022-01-06,1101,Certains d'aller voter,Premier tour,,891.81
 Marine Le Pen,Rassemblement national,17.0,19.4654,14.5346,20220105_0106_bva,BVA,RTL,2022-01-05,2022-01-06,1101,Certains d'aller voter,Premier tour,,891.81
 Fabien Roussel,Parti communiste,1.5,2.2978,0.7022,20220105_0106_bva,BVA,RTL,2022-01-05,2022-01-06,1101,Certains d'aller voter,Premier tour,,891.81
+Valérie Pécresse,Les Républicains,46.0,49.0597,42.9403,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,1019.28
+Emmanuel Macron,LRM,54.0,57.0597,50.9403,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Pécresse,1019.28
+Marine Le Pen,Rassemblement national,43.0,45.8604,40.1396,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1150.8
+Emmanuel Macron,LRM,57.0,59.8604,54.1396,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Deuxième tour,Hypothèse Macron / Le Pen,1150.8
+Valérie Pécresse,Les Républicains,16.0,17.9222,14.0778,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Marine Le Pen,Rassemblement national,17.0,18.9695,15.0305,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Fabien Roussel,Parti communiste,2.0,2.734,1.266,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Philippe Poutou,NPA,1.0,1.5217,0.4783,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Emmanuel Macron,LRM,25.0,27.2704,22.7296,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Eric Zemmour,Reconquête,12.0,13.7038,10.2962,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Nicolas Dupont-Aignan,Debout la France,2.0,2.734,1.266,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Arnaud Montebourg,,1.0,1.5217,0.4783,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Anne Hidalgo,Parti socialiste,4.0,5.0275,2.9725,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Yannick Jadot,EE-LV,8.0,9.4224,6.5776,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Nathalie Arthaud,Lutte ouvrière,1.0,1.5217,0.4783,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Jean Lassalle,,2.0,2.734,1.266,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
+Jean-Luc Mélenchon,France insoumise,9.0,10.5005,7.4995,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,Premier tour,,1397.4
 Emmanuel Macron,LRM,31.0,34.9943,27.0057,20210223_0224_ifp,Ifop,Club de la presse,2021-02-23,2021-02-24,902,Inscrits sur les listes électorales,Premier tour,,515.042
 Anne Hidalgo,Parti socialiste,8.0,10.343,5.657,20210223_0224_ifp,Ifop,Club de la presse,2021-02-23,2021-02-24,902,Inscrits sur les listes électorales,Premier tour,,515.042
 Xavier Bertrand,Les Républicains,21.0,24.5177,17.4823,20210223_0224_ifp,Ifop,Club de la presse,2021-02-23,2021-02-24,902,Inscrits sur les listes électorales,Premier tour,,515.042
