@@ -29359,13 +29359,7 @@
                 "intentions": 12.5,
                 "erreur_sup": 14.508,
                 "erreur_inf": 10.492
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Taubira candidate",
-            "sous_echantillon": 1042.107,
-            "candidats": [
+              },
               {
                 "candidat": "Jean-Luc Mélenchon",
                 "parti": ["France insoumise"],
