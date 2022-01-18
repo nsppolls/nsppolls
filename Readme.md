@@ -94,7 +94,7 @@ Un flux CSV est généré automatiquement à partir du fichier JSON, grâce à u
 
 ## Reprises
 
-Les chiffres relatifs à l'élection présidentielle sont repris par plusieurs médias, dont [Le Figaro](https://www.lefigaro.fr/fig-data/sondages-programmes-candidats-discours-dates-deplacements-scrutin-20210906/), [Contexte](contexte.com/article/pouvoirs/agregateur-de-sondages-de-la-presidentielle-2022_128913.html), [The Guardian](https://www.theguardian.com/world/ng-interactive/2021/oct/25/french-election-polls-who-is-leading-the-race-to-be-the-next-president-of-france), [Le Télégramme](https://www.letelegramme.fr/elections/sondages/sondages-election-presidentielle-2022.php). Ils sont également repris sur d'autres sites comme [Datapolitics](https://datapolitics.fr/agregateur-sondages-presidentielle2022/) ou [datatracking.io](https://datatracking.io). 
+Les chiffres relatifs à l'élection présidentielle sont repris par plusieurs médias, dont [Le Figaro](https://www.lefigaro.fr/fig-data/sondages-programmes-candidats-discours-dates-deplacements-scrutin-20210906/), [Contexte](contexte.com/article/pouvoirs/agregateur-de-sondages-de-la-presidentielle-2022_128913.html), [The Guardian](https://www.theguardian.com/world/ng-interactive/2021/oct/25/french-election-polls-who-is-leading-the-race-to-be-the-next-president-of-france), [Le Télégramme](https://www.letelegramme.fr/elections/sondages/sondages-election-presidentielle-2022.php). Ils sont également repris sur d'autres sites comme [Datapolitics](https://datapolitics.fr/agregateur-sondages-presidentielle2022/), [datatracking.io](https://datatracking.io) ou [depuis1958.fr](https://depuis1958.fr). 
 
 # Bonus
 
