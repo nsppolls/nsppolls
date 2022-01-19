@@ -10,7 +10,7 @@ nsp_polls = (pd
         json.loads(resp),
         record_path=['tours','hypotheses', 'candidats'],
         meta=[
-            'id', 'nom_institut', 'commanditaire', 'debut_enquete', 'fin_enquete', 'echantillon', 'population',
+            'id', 'nom_institut', 'commanditaire', 'debut_enquete', 'fin_enquete', 'echantillon', 'population', 'rolling',
             ['tours', 'tour'],
             ['tours', 'hypotheses', 'hypothese'],
             ['tours', 'hypotheses', 'sous_echantillon'],
