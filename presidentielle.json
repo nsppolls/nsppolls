@@ -23949,13 +23949,7 @@
                 "intentions": 25,
                 "erreur_sup": 27.2921,
                 "erreur_inf": 22.7079
-              }
-            ]
-          },
-          {
-            "hypothese": null,
-            "sous_echantillon": 541.968,
-            "candidats": [
+              },
               {
                 "candidat": "Arnaud Montebourg",
                 "parti": [""],
