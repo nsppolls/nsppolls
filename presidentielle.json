@@ -14143,6 +14143,135 @@
     ]
   },
   {
+    "id": "20220124_0126_bva",
+    "nom_institut": "BVA",
+    "debut_enquete": "2022-01-24",
+    "fin_enquete": "2022-01-26",
+    "rolling": false,
+    "commanditaire": "RTL, Orange",
+    "lien": "https://presidentielle2022.bva-group.com/wp-content/uploads/2022/01/BVA-RTL-Orange-Presidentielle-2022-Vague-5-IV-2-janvier-2022.pdf",
+    "echantillon": 1058,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 909.88,
+            "candidats": [
+              {
+                "candidat": "Christiane Taubira",
+                "parti": [""],
+                "intentions": 4,
+                "erreur_sup": 5.2733,
+                "erreur_inf": 2.7267
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 3,
+                "erreur_sup": 4.1084,
+                "erreur_inf": 1.8916
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 0.5,
+                "erreur_sup": 0.9583,
+                "erreur_inf": 0.0417
+              },
+              {
+                "candidat": "Hélène Thouy",
+                "parti": ["Parti animaliste"],
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 3,
+                "erreur_sup": 4.1084,
+                "erreur_inf": 1.8916
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.9097,
+                "erreur_inf": 1.0903
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 24,
+                "erreur_sup": 26.7751,
+                "erreur_inf": 21.2249
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": [""],
+                "intentions": 12.5,
+                "erreur_sup": 14.6489,
+                "erreur_inf": 10.3511
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 16,
+                "erreur_sup": 18.3821,
+                "erreur_inf": 13.6179
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 0.5,
+                "erreur_sup": 0.9583,
+                "erreur_inf": 0.0417
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 18,
+                "erreur_sup": 20.4964,
+                "erreur_inf": 15.5036
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 10,
+                "erreur_sup": 11.9493,
+                "erreur_inf": 8.0507
+              },
+              {
+                "candidat": "François Asselineau",
+                "parti": ["UPR"],
+                "intentions": 0.5,
+                "erreur_sup": 0.9583,
+                "erreur_inf": 0.0417
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 6,
+                "erreur_sup": 7.5431,
+                "erreur_inf": 4.4569
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20210702_0705_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-07-02",
