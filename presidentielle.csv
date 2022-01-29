@@ -486,10 +486,10 @@ Arnaud Montebourg,,2.0,2.931,1.069,20210917_0920_hi,Harris Interactive,Challenge
 Xavier Bertrand,Les Républicains,14.0,16.3075,11.6925,20210917_0920_hi,Harris Interactive,Challenges,2021-09-17,2021-09-20,1022,Inscrits sur les listes électorales,False,Premier tour,Hypothèse Jadot / Bertrand,868.7
 Marine Le Pen,Rassemblement national,45.0,48.7263,41.2737,20210917_0920_hi,Harris Interactive,Challenges,2021-09-17,2021-09-20,1022,Inscrits sur les listes électorales,False,Deuxième tour,,684.74
 Emmanuel Macron,LRM,55.0,58.7263,51.2737,20210917_0920_hi,Harris Interactive,Challenges,2021-09-17,2021-09-20,1022,Inscrits sur les listes électorales,False,Deuxième tour,,684.74
-Emmanuel Macron,LRM,57.0,60.0871,53.9129,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Le Pen,988
-Marine Le Pen,Rassemblement national,43.0,46.0871,39.9129,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Le Pen,988
-Emmanuel Macron,LRM,52.0,55.1153,48.8847,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Pécresse,988
-Valérie Pécresse,Les Républicains,48.0,51.1153,44.8847,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Pécresse,988
+Emmanuel Macron,LRM,57.0,60.6898,53.3102,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Le Pen,691.6
+Marine Le Pen,Rassemblement national,43.0,46.6898,39.3102,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Le Pen,691.6
+Emmanuel Macron,LRM,52.0,55.9887,48.0113,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Pécresse,602.68
+Valérie Pécresse,Les Républicains,48.0,51.9887,44.0113,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Pécresse,602.68
 Valérie Pécresse,Les Républicains,18.0,20.6139,15.3861,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Premier tour,,829.92
 Nicolas Dupont-Aignan,Debout la France,1.0,1.6769,0.3231,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Premier tour,,829.92
 Emmanuel Macron,LRM,24.0,26.9057,21.0943,20220126_0127_ow,Opinion Way,CNews,2022-01-26,2022-01-27,988,Inscrits sur les listes électorales,False,Premier tour,,829.92
@@ -716,41 +716,41 @@ Xavier Bertrand,Les Républicains,15.0,17.484,12.516,20210922_0923_ow,Opinion Wa
 Arnaud Montebourg,,3.0,4.1867,1.8133,20210922_0923_ow,Opinion Way,"CNews, Les Echos, Radio Classique",2021-09-22,2021-09-23,980,Inscrits sur les listes électorales,False,Premier tour,Hypothèse Bertrand / Zemmour,793.8
 Marine Le Pen,Rassemblement national,42.0,45.7752,38.2248,20210922_0923_ow,Opinion Way,"CNews, Les Echos, Radio Classique",2021-09-22,2021-09-23,980,Inscrits sur les listes électorales,False,Deuxième tour,,656.6
 Emmanuel Macron,LRM,58.0,61.7752,54.2248,20210922_0923_ow,Opinion Way,"CNews, Les Echos, Radio Classique",2021-09-22,2021-09-23,980,Inscrits sur les listes électorales,False,Deuxième tour,,656.6
-Christiane Taubira,,5.0,5.855,4.145,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Yannick Jadot,EE-LV,5.0,5.855,4.145,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Jean Lassalle,Résistons,1.0,1.3903,0.6097,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Jean-Luc Mélenchon,France insoumise,10.0,11.1769,8.8231,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Emmanuel Macron,LRM,24.0,25.6755,22.3245,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Marine Le Pen,Rassemblement national,17.0,18.4737,15.5263,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Eric Zemmour,Reconquête,14.0,15.3613,12.6387,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Valérie Pécresse,Les Républicains,15.0,16.4008,13.5992,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-François Asselineau,UPR,0.0,0.0,0.0,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Nicolas Dupont-Aignan,Debout la France,2.0,2.5492,1.4508,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Florian Philippot,Les Patriotes,1.0,1.3903,0.6097,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Anne Hidalgo,Parti socialiste,3.0,3.6692,2.3308,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Philippe Poutou,NPA,1.0,1.3903,0.6097,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Fabien Roussel,Parti communiste,2.0,2.5492,1.4508,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2496
-Jean-Luc Mélenchon,France insoumise,11.0,12.2275,9.7725,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Fabien Roussel,Parti communiste,2.0,2.5492,1.4508,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Nicolas Dupont-Aignan,Debout la France,2.0,2.5492,1.4508,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Eric Zemmour,Reconquête,14.0,15.3613,12.6387,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Valérie Pécresse,Les Républicains,15.0,16.4008,13.5992,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Marine Le Pen,Rassemblement national,17.0,18.4737,15.5263,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Florian Philippot,Les Patriotes,1.0,1.3903,0.6097,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Yannick Jadot,EE-LV,7.0,8.001,5.999,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Philippe Poutou,NPA,1.0,1.3903,0.6097,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Jean Lassalle,Résistons,1.0,1.3903,0.6097,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Anne Hidalgo,Parti socialiste,4.0,4.7688,3.2312,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-François Asselineau,UPR,0.0,0.0,0.0,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Emmanuel Macron,LRM,25.0,26.6988,23.3012,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2496
-Emmanuel Macron,LRM,54.0,55.9553,52.0447,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Le Pen,2496
-Marine Le Pen,Rassemblement national,46.0,47.9553,44.0447,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Le Pen,2496
-Eric Zemmour,Reconquête,37.0,38.8941,35.1059,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Zemmour,2496
-Emmanuel Macron,LRM,63.0,64.8941,61.1059,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Zemmour,2496
-Emmanuel Macron,LRM,54.0,55.9553,52.0447,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Pécresse,2496
-Valérie Pécresse,Les Républicains,46.0,47.9553,44.0447,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Pécresse,2496
+Christiane Taubira,,5.0,5.922,4.078,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Yannick Jadot,EE-LV,5.0,5.922,4.078,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Jean Lassalle,Résistons,1.0,1.4209,0.5791,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Jean-Luc Mélenchon,France insoumise,10.0,11.2691,8.7309,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Emmanuel Macron,LRM,24.0,25.8067,22.1933,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Marine Le Pen,Rassemblement national,17.0,18.5891,15.4109,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Eric Zemmour,Reconquête,14.0,15.4679,12.5321,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Valérie Pécresse,Les Républicains,15.0,16.5106,13.4894,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+François Asselineau,UPR,0.0,0.0,0.0,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Nicolas Dupont-Aignan,Debout la France,2.0,2.5923,1.4077,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Florian Philippot,Les Patriotes,1.0,1.4209,0.5791,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Anne Hidalgo,Parti socialiste,3.0,3.7217,2.2783,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Philippe Poutou,NPA,1.0,1.4209,0.5791,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Fabien Roussel,Parti communiste,2.0,2.5923,1.4077,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse avec Taubira,2146.56
+Jean-Luc Mélenchon,France insoumise,11.0,12.3237,9.6763,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Fabien Roussel,Parti communiste,2.0,2.5923,1.4077,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Nicolas Dupont-Aignan,Debout la France,2.0,2.5923,1.4077,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Eric Zemmour,Reconquête,14.0,15.4679,12.5321,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Valérie Pécresse,Les Républicains,15.0,16.5106,13.4894,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Marine Le Pen,Rassemblement national,17.0,18.5891,15.4109,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Florian Philippot,Les Patriotes,1.0,1.4209,0.5791,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Yannick Jadot,EE-LV,7.0,8.0794,5.9206,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Philippe Poutou,NPA,1.0,1.4209,0.5791,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Jean Lassalle,Résistons,1.0,1.4209,0.5791,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Anne Hidalgo,Parti socialiste,4.0,4.829,3.171,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+François Asselineau,UPR,0.0,0.0,0.0,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Emmanuel Macron,LRM,25.0,26.8318,23.1682,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Premier tour,Hypothèse sans Taubira,2146.56
+Emmanuel Macron,LRM,54.0,56.273,51.727,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Le Pen,1847.04
+Marine Le Pen,Rassemblement national,46.0,48.273,43.727,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Le Pen,1847.04
+Eric Zemmour,Reconquête,37.0,39.2969,34.7031,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Zemmour,1697.28
+Emmanuel Macron,LRM,63.0,65.2969,60.7031,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Zemmour,1697.28
+Emmanuel Macron,LRM,54.0,56.4634,51.5366,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Pécresse,1572.48
+Valérie Pécresse,Les Républicains,46.0,48.4634,43.5366,20220121_0124_hi,Harris Interactive,Challenges,2022-01-21,2022-01-24,2496,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Pécresse,1572.48
 Marine Le Pen,Rassemblement national,45.5,48.967,42.033,20220110_0111_elb,Elabe,"BFM TV, L'Express, SFR",2022-01-10,2022-01-11,1071,Certains d'aller voter,False,Deuxième tour,Hypothèse Macron / Le Pen,792.54
 Emmanuel Macron,LRM,54.5,57.967,51.033,20220110_0111_elb,Elabe,"BFM TV, L'Express, SFR",2022-01-10,2022-01-11,1071,Certains d'aller voter,False,Deuxième tour,Hypothèse Macron / Le Pen,792.54
 Valérie Pécresse,Les Républicains,50.0,53.686,46.314,20220110_0111_elb,Elabe,"BFM TV, L'Express, SFR",2022-01-10,2022-01-11,1071,Certains d'aller voter,False,Deuxième tour,Hypothèse Macron / Pécresse,706.86
@@ -1129,6 +1129,24 @@ Marine Le Pen,Rassemblement national,45.5,48.6768,42.3232,20220114_0118_ifp,Ifop
 Emmanuel Macron,LRM,54.5,57.6768,51.3232,20220114_0118_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-01-14,2022-01-18,1376,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Le Pen,943.936
 Valérie Pécresse,Les Républicains,47.0,50.4509,43.5491,20220114_0118_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-01-14,2022-01-18,1376,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Pécresse,803.584
 Emmanuel Macron,LRM,53.0,56.4509,49.5491,20220114_0118_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-01-14,2022-01-18,1376,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Pécresse,803.584
+Emmanuel Macron,LRM,56.5,59.7532,53.2468,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Le Pen,892.11
+Marine Le Pen,Rassemblement national,43.5,46.7532,40.2468,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Le Pen,892.11
+Valérie Pécresse,Les Républicains,45.5,49.0372,41.9628,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Pécresse,761.358
+Emmanuel Macron,LRM,54.5,58.0372,50.9628,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Pécresse,761.358
+Anne Hidalgo,Parti socialiste,3.0,4.0539,1.9461,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Philippe Poutou,NPA,0.5,0.9358,0.0642,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Valérie Pécresse,Les Républicains,16.0,18.2649,13.7351,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Nicolas Dupont-Aignan,Debout la France,1.5,2.2509,0.7491,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Hélène Thouy,Parti animaliste,0.5,0.9358,0.0642,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Marine Le Pen,Rassemblement national,18.5,20.8989,16.1011,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Emmanuel Macron,LRM,24.5,27.1571,21.8429,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Jean-Luc Mélenchon,France insoumise,9.0,10.768,7.232,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Christiane Taubira,,3.5,4.6354,2.3646,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Jean Lassalle,Résistons,1.0,1.6147,0.3853,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Fabien Roussel,Parti communiste,3.0,4.0539,1.9461,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Yannick Jadot,EE-LV,5.5,6.9085,4.0915,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Eric Zemmour,Reconquête,13.5,15.6112,11.3888,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
+Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20220124_0127_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-24,2022-01-27,1362,Inscrits sur les listes électorales,True,Premier tour,,1006.518
 Eric Ciotti,Les Républicains,6.0,7.6063,4.3937,20210910_0913_hi,Harris Interactive,Challenges,2021-09-10,2021-09-13,1063,Inscrits sur les listes électorales,False,Premier tour,Hypothèse Ciotti,839.77
 Jean-Luc Mélenchon,France insoumise,11.0,13.1163,8.8837,20210910_0913_hi,Harris Interactive,Challenges,2021-09-10,2021-09-13,1063,Inscrits sur les listes électorales,False,Premier tour,Hypothèse Ciotti,839.77
 Anne Hidalgo,Parti socialiste,7.0,8.7257,5.2743,20210910_0913_hi,Harris Interactive,Challenges,2021-09-10,2021-09-13,1063,Inscrits sur les listes électorales,False,Premier tour,Hypothèse Ciotti,839.77
@@ -5026,6 +5044,23 @@ Yannick Jadot,EE-LV,8.0,9.4224,6.5776,20220107_0110_ow,Opinion Way,"Les Echos, R
 Nathalie Arthaud,Lutte ouvrière,1.0,1.5217,0.4783,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,True,Premier tour,,1397.4
 Jean Lassalle,,2.0,2.734,1.266,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,True,Premier tour,,1397.4
 Jean-Luc Mélenchon,France insoumise,9.0,10.5005,7.4995,20220107_0110_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-07,2022-01-10,1644,Inscrits sur les listes électorales,True,Premier tour,,1397.4
+Nathalie Arthaud,Lutte ouvrière,0.5,0.9299,0.0701,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Philippe Poutou,NPA,0.5,0.9299,0.0701,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Valérie Pécresse,Les Républicains,16.0,18.2345,13.7655,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Yannick Jadot,EE-LV,5.5,6.8895,4.1105,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Nicolas Dupont-Aignan,Debout la France,2.0,2.8533,1.1467,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Fabien Roussel,Parti communiste,3.0,4.0397,1.9603,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Jean Lassalle,Résistons,1.0,1.6064,0.3936,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Anne Hidalgo,Parti socialiste,3.0,4.0397,1.9603,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Jean-Luc Mélenchon,France insoumise,9.0,10.7443,7.2557,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Hélène Thouy,Parti animaliste,0.0,0.0,0.0,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Emmanuel Macron,LRM,24.5,27.1214,21.8786,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Eric Zemmour,Reconquête,13.0,15.0498,10.9502,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Christiane Taubira,,3.5,4.6201,2.3799,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Premier tour,,1034.117
+Valérie Pécresse,Les Républicains,45.5,49.0174,41.9826,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Pécresse,769.986
+Emmanuel Macron,LRM,54.5,58.0174,50.9826,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Pécresse,769.986
+Emmanuel Macron,LRM,56.5,59.7213,53.2787,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Le Pen,909.86
+Marine Le Pen,Rassemblement national,43.5,46.7213,40.2787,20220122_0126_ifp,Ifop,"Paris Match, Sud Radio, LCI",2022-01-22,2022-01-26,1358,Inscrits sur les listes électorales,True,Deuxième tour,Hypothèse Macron / Le Pen,909.86
 Emmanuel Macron,LRM,31.0,34.9943,27.0057,20210223_0224_ifp,Ifop,Club de la presse,2021-02-23,2021-02-24,902,Inscrits sur les listes électorales,False,Premier tour,,515.042
 Anne Hidalgo,Parti socialiste,8.0,10.343,5.657,20210223_0224_ifp,Ifop,Club de la presse,2021-02-23,2021-02-24,902,Inscrits sur les listes électorales,False,Premier tour,,515.042
 Xavier Bertrand,Les Républicains,21.0,24.5177,17.4823,20210223_0224_ifp,Ifop,Club de la presse,2021-02-23,2021-02-24,902,Inscrits sur les listes électorales,False,Premier tour,,515.042
