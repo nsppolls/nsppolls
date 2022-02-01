@@ -11458,14 +11458,14 @@
             "candidats": [
               {
                 "candidat": "Emmanuel Macron",
-                "parti": [""],
+                "parti": ["LRM"],
                 "intentions": 53,
                 "erreur_sup": 55.5224,
                 "erreur_inf": 50.4776
               },
               {
                 "candidat": "Valérie Pécresse",
-                "parti": [""],
+                "parti": ["Les Républicains"],
                 "intentions": 47,
                 "erreur_sup": 49.5224,
                 "erreur_inf": 44.4776
