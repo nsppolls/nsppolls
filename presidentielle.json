@@ -22137,13 +22137,7 @@
                 "intentions": 0,
                 "erreur_sup": 0,
                 "erreur_inf": 0
-              }
-            ]
-          },
-          {
-            "hypothese": null,
-            "sous_echantillon": 1997.049,
-            "candidats": [
+              },
               {
                 "candidat": "Jean Lassalle",
                 "parti": [""],
