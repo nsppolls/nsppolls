@@ -6028,14 +6028,21 @@
         "hypotheses": [
           {
             "hypothese": "Hypothèse Macron / Zemmour",
-            "sous_echantillon": 2141,
+            "sous_echantillon": 1455.88,
             "candidats": [
               {
                 "candidat": "Eric Zemmour",
                 "parti": ["Reconquête"],
                 "intentions": 38,
-                "erreur_sup": 40.0561,
-                "erreur_inf": 35.9439
+                "erreur_sup": 40.4933,
+                "erreur_inf": 35.5067
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 62,
+                "erreur_sup": 64.4933,
+                "erreur_inf": 59.5067
               }
             ]
           },
@@ -6049,32 +6056,13 @@
                 "intentions": 54,
                 "erreur_sup": 56.6598,
                 "erreur_inf": 51.3402
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Macron / Zemmour",
-            "sous_echantillon": 1455.88,
-            "candidats": [
+              },
               {
-                "candidat": "Emmanuel Macron",
-                "parti": ["LRM"],
-                "intentions": 62,
-                "erreur_sup": 64.4933,
-                "erreur_inf": 59.5067
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Macron / Le Pen",
-            "sous_echantillon": 2141,
-            "candidats": [
-              {
-                "candidat": "Marine Le Pen",
-                "parti": ["Rassemblement national"],
-                "intentions": 45,
-                "erreur_sup": 47.1073,
-                "erreur_inf": 42.8927
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 46,
+                "erreur_sup": 48.6598,
+                "erreur_inf": 43.3402
               }
             ]
           },
@@ -6083,24 +6071,18 @@
             "sous_echantillon": 1584.34,
             "candidats": [
               {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 45,
+                "erreur_sup": 47.4497,
+                "erreur_inf": 42.5503
+              },
+              {
                 "candidat": "Emmanuel Macron",
                 "parti": ["LRM"],
                 "intentions": 55,
                 "erreur_sup": 57.4497,
                 "erreur_inf": 52.5503
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Macron / Pécresse",
-            "sous_echantillon": 2141,
-            "candidats": [
-              {
-                "candidat": "Valérie Pécresse",
-                "parti": ["Les Républicains"],
-                "intentions": 46,
-                "erreur_sup": 48.1112,
-                "erreur_inf": 43.8888
               }
             ]
           }
