@@ -43019,6 +43019,135 @@
     ]
   },
   {
+    "id": "20220201_0205_clu",
+    "nom_institut": "Cluster17",
+    "debut_enquete": "2022-02-01",
+    "fin_enquete": "2022-02-05",
+    "rolling": false,
+    "commanditaire": "Marianne",
+    "lien": "https://cluster17.com/wp-content/uploads/2022/02/notice_technique_S5.pdf",
+    "echantillon": 2367,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2203.9137,
+            "candidats": [
+              {
+                "candidat": "François Asselineau",
+                "parti": ["UPR"],
+                "intentions": 0.5,
+                "erreur_sup": 0.7945,
+                "erreur_inf": 0.2055
+              },
+              {
+                "candidat": "Christiane Taubira",
+                "parti": [""],
+                "intentions": 3,
+                "erreur_sup": 3.7122,
+                "erreur_inf": 2.2878
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": [""],
+                "intentions": 1.5,
+                "erreur_sup": 2.0075,
+                "erreur_inf": 0.9925
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 13.5,
+                "erreur_sup": 14.9267,
+                "erreur_inf": 12.0733
+              },
+              {
+                "candidat": "Florian Philippot",
+                "parti": ["Les Patriotes"],
+                "intentions": 1.5,
+                "erreur_sup": 2.0075,
+                "erreur_inf": 0.9925
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.4154,
+                "erreur_inf": 0.5846
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 13.5,
+                "erreur_sup": 14.9267,
+                "erreur_inf": 12.0733
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 23,
+                "erreur_sup": 24.757,
+                "erreur_inf": 21.243
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.7945,
+                "erreur_inf": 0.2055
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 13.5,
+                "erreur_sup": 14.9267,
+                "erreur_inf": 12.0733
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 5,
+                "erreur_sup": 5.9099,
+                "erreur_inf": 4.0901
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 3.5,
+                "erreur_sup": 4.2673,
+                "erreur_inf": 2.7327
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 1.5,
+                "erreur_sup": 2.0075,
+                "erreur_inf": 0.9925
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 13,
+                "erreur_sup": 14.4041,
+                "erreur_inf": 11.5959
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 1.5,
+                "erreur_sup": 2.0075,
+                "erreur_inf": 0.9925
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20211207_1209_odx",
     "nom_institut": "Odoxa",
     "debut_enquete": "2021-12-07",
