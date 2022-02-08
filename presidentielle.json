@@ -45497,16 +45497,16 @@
               {
                 "candidat": "Emmanuel Macron",
                 "parti": ["LRM"],
-                "intentions": null,
-                "erreur_sup": 0,
-                "erreur_inf": 0
+                "intentions": 55,
+                "erreur_sup": 58.2218,
+                "erreur_inf": 51.7782
               },
               {
                 "candidat": "Marine Le Pen",
                 "parti": ["Rassemblement national"],
-                "intentions": null,
-                "erreur_sup": 0,
-                "erreur_inf": 0
+                "intentions": 45,
+                "erreur_sup": 48.2218,
+                "erreur_inf": 41.7782
               }
             ]
           },
