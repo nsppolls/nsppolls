@@ -6,6 +6,10 @@
 
 ➡️ [Suivez-nous sur Twitter](http://twitter.com/nsppolls)
 
+_[fOfrez -mnous un café !](
+
+_[☕Offrez-nous un café ! ](https://utip.io/alphoenix)_
+
 Ce projet a pour but de compiler les sondages produits à l'occasion des élections régionales et présidentielle en France et de les remettre en contexte. 
 
 1. [À propos des sondages](#a-propos-des-sondages)
@@ -94,7 +98,7 @@ Un flux CSV est généré automatiquement à partir du fichier JSON, grâce à u
 
 ## Reprises
 
-Les chiffres relatifs à l'élection présidentielle sont repris par plusieurs médias, dont [Le Figaro](https://www.lefigaro.fr/fig-data/sondages-programmes-candidats-discours-dates-deplacements-scrutin-20210906/), [Contexte](https://www.contexte.com/pollotron/), [The Guardian](https://www.theguardian.com/world/ng-interactive/2021/oct/25/french-election-polls-who-is-leading-the-race-to-be-the-next-president-of-france),[The Economist](https://www.economist.com/interactives/france-2022), [Le Télégramme](https://www.letelegramme.fr/elections/sondages/sondages-election-presidentielle-2022.php). Ils sont également repris sur d'autres sites comme [Datapolitics](https://datapolitics.fr/agregateur-sondages-presidentielle2022/), [datatracking.io](https://datatracking.io) ou [depuis1958.fr](https://depuis1958.fr). 
+Les chiffres relatifs à l'élection présidentielle sont repris par plusieurs médias, dont [Le Figaro](https://www.lefigaro.fr/fig-data/sondages-programmes-candidats-discours-dates-deplacements-scrutin-20210906/), [Contexte](https://www.contexte.com/pollotron/), [The Guardian](https://www.theguardian.com/world/ng-interactive/2021/oct/25/french-election-polls-who-is-leading-the-race-to-be-the-next-president-of-france),[The Economist](https://www.economist.com/interactives/france-2022), [Le Télégramme](https://www.letelegramme.fr/elections/sondages/sondages-election-presidentielle-2022.php) ou [Le Monde](https://www.lemonde.fr/les-decodeurs/article/2022/02/08/election-presidentielle-2022-que-montrent-les-principaux-sondages_6112830_4355770.html). Ils sont également repris sur d'autres sites comme [Datapolitics](https://datapolitics.fr/agregateur-sondages-presidentielle2022/), <!--[datatracking.io](https://datatracking.io)--> ou [depuis1958.fr](https://depuis1958.fr). 
 
 # Bonus
 
