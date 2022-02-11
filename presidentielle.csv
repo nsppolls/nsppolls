@@ -850,6 +850,19 @@ Nicolas Dupont-Aignan,Debout la France,1.0,1.5272,0.4728,20220123_0126_ow,Opinio
 Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20220123_0126_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-23,2022-01-26,1629,Inscrits sur les listes électorales,True,Premier tour,,1368.36
 Valérie Pécresse,Les Républicains,17.0,18.9903,15.0097,20220123_0126_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-23,2022-01-26,1629,Inscrits sur les listes électorales,True,Premier tour,,1368.36
 Fabien Roussel,Parti communiste,3.0,3.9039,2.0961,20220123_0126_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-23,2022-01-26,1629,Inscrits sur les listes électorales,True,Premier tour,,1368.36
+Valérie Pécresse,Les Républicains,15.5,16.3062,14.6938,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Yannick Jadot,EE-LV,7.0,7.5684,6.4316,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Jean Lassalle,Résistons,1.0,1.2217,0.7783,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Nathalie Arthaud,Lutte ouvrière,0.5,0.6571,0.3429,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Nicolas Dupont-Aignan,Debout la France,1.5,1.7708,1.2292,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Philippe Poutou,NPA,1.0,1.2217,0.7783,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Jean-Luc Mélenchon,France insoumise,9.0,9.6375,8.3625,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Anne Hidalgo,Parti socialiste,2.5,2.8478,2.1522,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Eric Zemmour,Reconquête,14.5,15.2844,13.7156,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Marine Le Pen,Rassemblement national,15.0,15.7955,14.2045,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Christiane Taubira,,5.0,5.4855,4.5145,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Emmanuel Macron,LRM,24.0,24.9514,23.0486,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
+Fabien Roussel,Parti communiste,3.5,3.9094,3.0906,20220203_0207_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2022-02-03,2022-02-07,8148,Certains d'aller voter,False,Premier tour,,7740.6
 Jean Lassalle,,1.0,1.6149,0.3851,20210604_0607_hi,Harris Interactive,Challenges,2021-06-04,2021-06-07,1006,Inscrits sur les listes électorales,False,Premier tour,Hypothèse X. Bertrand,1006
 Yannick Jadot,EE-LV,6.0,7.4676,4.5324,20210604_0607_hi,Harris Interactive,Challenges,2021-06-04,2021-06-07,1006,Inscrits sur les listes électorales,False,Premier tour,Hypothèse X. Bertrand,1006
 Fabien Roussel,Parti communiste,1.0,1.6149,0.3851,20210604_0607_hi,Harris Interactive,Challenges,2021-06-04,2021-06-07,1006,Inscrits sur les listes électorales,False,Premier tour,Hypothèse X. Bertrand,1006
@@ -4014,6 +4027,27 @@ Valérie Pécresse,Les Républicains,46.0,48.6661,43.3339,20220114_0117_hi,Harri
 Emmanuel Macron,LRM,54.0,56.6661,51.3339,20220114_0117_hi,Harris Interactive,Challenges,2022-01-14,2022-01-17,2131,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Pécresse,1342.53
 Emmanuel Macron,LRM,63.0,65.4859,60.5141,20220114_0117_hi,Harris Interactive,Challenges,2022-01-14,2022-01-17,2131,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Zemmour,1449.08
 Eric Zemmour,Reconquête,37.0,39.4859,34.5141,20220114_0117_hi,Harris Interactive,Challenges,2022-01-14,2022-01-17,2131,Inscrits sur les listes électorales,False,Deuxième tour,Hypothèse Macron / Zemmour,1449.08
+Hélène Thouy,Parti animaliste,0.0,0.0,0.0,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Fabien Roussel,Parti communiste,4.0,5.2862,2.7138,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Valérie Pécresse,Les Républicains,14.5,16.8111,12.1889,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+François Asselineau,UPR,0.5,0.963,0.037,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Marine Le Pen,Rassemblement national,17.0,19.4656,14.5344,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Emmanuel Macron,LRM,25.0,27.8422,22.1578,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Philippe Poutou,NPA,1.5,2.2979,0.7021,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Christiane Taubira,,4.0,5.2862,2.7138,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Nathalie Arthaud,Lutte ouvrière,0.5,0.963,0.037,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Anne Hidalgo,Parti socialiste,2.0,2.9189,1.0811,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Jean Lassalle,Résistons,1.5,2.2979,0.7021,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Eric Zemmour,,14.0,16.2776,11.7224,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Jean-Luc Mélenchon,France insoumise,9.0,10.8785,7.1215,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Yannick Jadot,EE-LV,4.5,5.8607,3.1393,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Nicolas Dupont-Aignan,Debout la France,2.0,2.9189,1.0811,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Premier tour,,891.65
+Emmanuel Macron,LRM,62.0,65.4617,58.5383,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Deuxième tour,Hypothèse Macron / Zemmour,755.28
+Eric Zemmour,Reconquête,38.0,41.4617,34.5383,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Deuxième tour,Hypothèse Macron / Zemmour,755.28
+Emmanuel Macron,LRM,56.0,59.6699,52.3301,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Deuxième tour,Hypothèse Macron / Pécresse,702.83
+Valérie Pécresse,Les Républicains,44.0,47.6699,40.3301,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Deuxième tour,Hypothèse Macron / Pécresse,702.83
+Marine Le Pen,Rassemblement national,44.0,47.4233,40.5767,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Deuxième tour,Hypothèse Macron / Le Pen,807.73
+Emmanuel Macron,LRM,56.0,59.4233,52.5767,20220207_0209_bva,BVA,"RTL, Orange",2022-02-07,2022-02-09,1049,Certains d'aller voter,False,Deuxième tour,Hypothèse Macron / Le Pen,807.73
 Fabien Roussel,Parti communiste,1.0,1.7316,0.2684,20210302_0304_hi,Harris Interactive,"Commstrat, L'Opinion",2021-03-02,2021-03-04,846,Inscrits sur les listes électorales,False,Premier tour,Hypothèse Xavier Bertrand,710.64
 François Asselineau,UPR,1.0,1.7316,0.2684,20210302_0304_hi,Harris Interactive,"Commstrat, L'Opinion",2021-03-02,2021-03-04,846,Inscrits sur les listes électorales,False,Premier tour,Hypothèse Xavier Bertrand,710.64
 Nicolas Dupont-Aignan,Debout la France,6.0,7.7461,4.2539,20210302_0304_hi,Harris Interactive,"Commstrat, L'Opinion",2021-03-02,2021-03-04,846,Inscrits sur les listes électorales,False,Premier tour,Hypothèse Xavier Bertrand,710.64
