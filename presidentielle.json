@@ -3419,6 +3419,187 @@
     ]
   },
   {
+    "id": "20220301_0304_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-03-01",
+    "fin_enquete": "2022-03-04",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Les Echos, Radio Classique, Kea Partners",
+    "lien": null,
+    "echantillon": 1624,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1429.12,
+            "candidats": [
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 12,
+                "erreur_sup": 13.6848,
+                "erreur_inf": 10.3152
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 11,
+                "erreur_sup": 12.6222,
+                "erreur_inf": 9.3778
+              },
+              {
+                "candidat": "Christiane Taubira",
+                "parti": [""],
+                "intentions": 2,
+                "erreur_sup": 2.7259,
+                "erreur_inf": 1.2741
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 18,
+                "erreur_sup": 19.9919,
+                "erreur_inf": 16.0081
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.7259,
+                "erreur_inf": 1.2741
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 2,
+                "erreur_sup": 2.7259,
+                "erreur_inf": 1.2741
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 28,
+                "erreur_sup": 30.3279,
+                "erreur_inf": 25.6721
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.7259,
+                "erreur_inf": 1.2741
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 5,
+                "erreur_sup": 6.13,
+                "erreur_inf": 3.87
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 4,
+                "erreur_sup": 5.016,
+                "erreur_inf": 2.984
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 13,
+                "erreur_sup": 14.7436,
+                "erreur_inf": 11.2564
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.5159,
+                "erreur_inf": 0.4841
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": "Hypothèse Macron / Zemmour",
+            "sous_echantillon": 1088.08,
+            "candidats": [
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 35,
+                "erreur_sup": 37.8341,
+                "erreur_inf": 32.1659
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 65,
+                "erreur_sup": 67.8341,
+                "erreur_inf": 62.1659
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Le Pen",
+            "sous_echantillon": 1169.28,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 43,
+                "erreur_sup": 45.8377,
+                "erreur_inf": 40.1623
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 57,
+                "erreur_sup": 59.8377,
+                "erreur_inf": 54.1623
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Pécresse",
+            "sous_echantillon": 990.64,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 59,
+                "erreur_sup": 62.0628,
+                "erreur_inf": 55.9372
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 41,
+                "erreur_sup": 44.0628,
+                "erreur_inf": 37.9372
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220125_0128_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-25",
@@ -26269,6 +26450,201 @@
                 "intentions": 55,
                 "erreur_sup": 58.2866,
                 "erreur_inf": 51.7134
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220301_0302_bva",
+    "nom_institut": "BVA",
+    "debut_enquete": "2022-03-01",
+    "fin_enquete": "2022-03-02",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "RTL, Orange",
+    "lien": "https://presidentielle2022.bva-group.com/wp-content/uploads/2022/03/BVA-Orange-RTL-Presidentielle-2022-Vague8-IV-04.03.22.pdf",
+    "echantillon": 1072,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": "Hypothèse Macron / Pécresse",
+            "sous_echantillon": 718.24,
+            "candidats": [
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 39,
+                "erreur_sup": 42.5671,
+                "erreur_inf": 35.4329
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 61,
+                "erreur_sup": 64.5671,
+                "erreur_inf": 57.4329
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Le Pen",
+            "sous_echantillon": 846.88,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 40,
+                "erreur_sup": 43.2995,
+                "erreur_inf": 36.7005
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 60,
+                "erreur_sup": 63.2995,
+                "erreur_inf": 56.7005
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Zemmour",
+            "sous_echantillon": 804,
+            "candidats": [
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 35,
+                "erreur_sup": 38.297,
+                "erreur_inf": 31.703
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 65,
+                "erreur_sup": 68.297,
+                "erreur_inf": 61.703
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 921.92,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 29,
+                "erreur_sup": 31.9291,
+                "erreur_inf": 26.0709
+              },
+              {
+                "candidat": "Christiane Taubira",
+                "parti": [""],
+                "intentions": 1.5,
+                "erreur_sup": 2.2846,
+                "erreur_inf": 0.7154
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 13,
+                "erreur_sup": 15.1709,
+                "erreur_inf": 10.8291
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 0.5,
+                "erreur_sup": 0.9553,
+                "erreur_inf": 0.0447
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 2,
+                "erreur_sup": 2.9037,
+                "erreur_inf": 1.0963
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 16,
+                "erreur_sup": 18.3665,
+                "erreur_inf": 13.6335
+              },
+              {
+                "candidat": "François Asselineau",
+                "parti": ["UPR"],
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": [""],
+                "intentions": 13,
+                "erreur_sup": 15.1709,
+                "erreur_inf": 10.8291
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 11.5,
+                "erreur_sup": 13.5593,
+                "erreur_inf": 9.4407
+              },
+              {
+                "candidat": "Hélène Thouy",
+                "parti": ["Parti animaliste"],
+                "intentions": 0,
+                "erreur_sup": 0,
+                "erreur_inf": 0
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 3.5,
+                "erreur_sup": 4.6863,
+                "erreur_inf": 2.3137
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.9553,
+                "erreur_inf": 0.0447
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 5.5,
+                "erreur_sup": 6.9717,
+                "erreur_inf": 4.0283
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.9037,
+                "erreur_inf": 1.0963
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.9037,
+                "erreur_inf": 1.0963
               }
             ]
           }
@@ -49710,6 +50086,129 @@
                 "intentions": 46,
                 "erreur_sup": 48.8096,
                 "erreur_inf": 43.1904
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220227_0301_clu",
+    "nom_institut": "Cluster17",
+    "debut_enquete": "2022-02-27",
+    "fin_enquete": "2022-03-01",
+    "rolling": false,
+    "media": false,
+    "commanditaire": null,
+    "lien": "https://cluster17.com/wp-content/uploads/2022/03/20220302_Cluster17_Rolling-hebdomadaire_Notice-technique.pdf",
+    "echantillon": 2195,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2096.225,
+            "candidats": [
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 16,
+                "erreur_sup": 17.5694,
+                "erreur_inf": 14.4306
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": [""],
+                "intentions": 1,
+                "erreur_sup": 1.4259,
+                "erreur_inf": 0.5741
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 12.5,
+                "erreur_sup": 13.9158,
+                "erreur_inf": 11.0842
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 4,
+                "erreur_sup": 4.8389,
+                "erreur_inf": 3.1611
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 4.5,
+                "erreur_sup": 5.3875,
+                "erreur_inf": 3.6125
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 25.5,
+                "erreur_sup": 27.3659,
+                "erreur_inf": 23.6341
+              },
+              {
+                "candidat": "Christiane Taubira",
+                "parti": [""],
+                "intentions": 1.5,
+                "erreur_sup": 2.0204,
+                "erreur_inf": 0.9796
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 13.5,
+                "erreur_sup": 14.9629,
+                "erreur_inf": 12.0371
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 0.5,
+                "erreur_sup": 0.8019,
+                "erreur_inf": 0.1981
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.5993,
+                "erreur_inf": 1.4007
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.8019,
+                "erreur_inf": 0.1981
+              },
+              {
+                "candidat": "François Asselineau",
+                "parti": ["UPR"],
+                "intentions": 1,
+                "erreur_sup": 1.4259,
+                "erreur_inf": 0.5741
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 16,
+                "erreur_sup": 17.5694,
+                "erreur_inf": 14.4306
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 1.5,
+                "erreur_sup": 2.0204,
+                "erreur_inf": 0.9796
               }
             ]
           }
