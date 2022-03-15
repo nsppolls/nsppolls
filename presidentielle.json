@@ -1065,9 +1065,9 @@
               {
                 "candidat": "Anne Hidalgo",
                 "parti": ["Parti socialiste"],
-                "intentions": 6.5,
-                "erreur_sup": 8.1389,
-                "erreur_inf": 4.8611
+                "intentions": 2.5,
+                "erreur_sup": 3.5379,
+                "erreur_inf": 1.4621
               },
               {
                 "candidat": "Jean Lassalle",
@@ -1114,9 +1114,9 @@
               {
                 "candidat": "Yannick Jadot",
                 "parti": ["EE-LV"],
-                "intentions": 2.5,
-                "erreur_sup": 3.5379,
-                "erreur_inf": 1.4621
+                "intentions": 6.5,
+                "erreur_sup": 8.1389,
+                "erreur_inf": 4.8611
               },
               {
                 "candidat": "Nicolas Dupont-Aignan",
