@@ -1,6 +1,6 @@
 [
   {
-    "id": "20220102_0105_ow",
+    "id": "20220102_0105r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-02",
     "fin_enquete": "2022-01-05",
@@ -979,7 +979,7 @@
     ]
   },
   {
-    "id": "20220310_0314_ips",
+    "id": "20220310_0314r_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2022-03-10",
     "fin_enquete": "2022-03-14",
@@ -1683,6 +1683,140 @@
                 "intentions": 0,
                 "erreur_sup": 0,
                 "erreur_inf": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220310_0314_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-03-10",
+    "fin_enquete": "2022-03-14",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "Le Monde, Cevipof, Fondation Jean Jaurès",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-03/Ipsos%20-%20Enque%CC%82te%20Electorale%20-%20Vague%207%20-%2018%20mars%202022.pdf",
+    "echantillon": 9252,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 8789.4,
+            "candidats": [
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.6475,
+                "erreur_inf": 0.3525
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 2,
+                "erreur_sup": 2.2927,
+                "erreur_inf": 1.7073
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1.5,
+                "erreur_sup": 1.7541,
+                "erreur_inf": 1.2459
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 29,
+                "erreur_sup": 29.9486,
+                "erreur_inf": 28.0514
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 4,
+                "erreur_sup": 4.4097,
+                "erreur_inf": 3.5903
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 13,
+                "erreur_sup": 13.7031,
+                "erreur_inf": 12.2969
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2.5,
+                "erreur_sup": 2.8264,
+                "erreur_inf": 2.1736
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.2927,
+                "erreur_inf": 1.7073
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 7,
+                "erreur_sup": 7.5334,
+                "erreur_inf": 6.4666
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 10.5,
+                "erreur_sup": 11.1409,
+                "erreur_inf": 9.8591
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 16,
+                "erreur_sup": 16.7664,
+                "erreur_inf": 15.2336
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 12,
+                "erreur_sup": 12.6794,
+                "erreur_inf": 11.3206
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 7494.12,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 41,
+                "erreur_sup": 42.1136,
+                "erreur_inf": 39.8864
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 59,
+                "erreur_sup": 60.1136,
+                "erreur_inf": 57.8864
               }
             ]
           }
@@ -2581,7 +2715,7 @@
     ]
   },
   {
-    "id": "20220222_0225_ow",
+    "id": "20220222_0225r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-22",
     "fin_enquete": "2022-02-25",
@@ -2957,7 +3091,7 @@
     ]
   },
   {
-    "id": "20220210_0214_ifp",
+    "id": "20220210_0214r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-10",
     "fin_enquete": "2022-02-14",
@@ -3767,7 +3901,7 @@
     ]
   },
   {
-    "id": "20220301_0304_ow",
+    "id": "20220301_0304r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-01",
     "fin_enquete": "2022-03-04",
@@ -3948,7 +4082,7 @@
     ]
   },
   {
-    "id": "20220125_0128_ow",
+    "id": "20220125_0128r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-25",
     "fin_enquete": "2022-01-28",
@@ -5402,7 +5536,7 @@
     ]
   },
   {
-    "id": "20220308_0311_ifp",
+    "id": "20220308_0311r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-03-08",
     "fin_enquete": "2022-03-11",
@@ -5596,7 +5730,7 @@
     ]
   },
   {
-    "id": "20220211_0214_ow",
+    "id": "20220211_0214r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-11",
     "fin_enquete": "2022-02-14",
@@ -8456,7 +8590,7 @@
     ]
   },
   {
-    "id": "20220123_0126_ow",
+    "id": "20220123_0126r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-23",
     "fin_enquete": "2022-01-26",
@@ -8985,7 +9119,7 @@
     ]
   },
   {
-    "id": "20220310_0314_ifp",
+    "id": "20220310_0314r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-03-10",
     "fin_enquete": "2022-03-14",
@@ -11368,7 +11502,7 @@
     ]
   },
   {
-    "id": "20220114_0118_ifp",
+    "id": "20220114_0118r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-14",
     "fin_enquete": "2022-01-18",
@@ -11543,7 +11677,7 @@
     ]
   },
   {
-    "id": "20220124_0127_ifp",
+    "id": "20220124_0127r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-24",
     "fin_enquete": "2022-01-27",
@@ -12490,7 +12624,7 @@
     ]
   },
   {
-    "id": "20220221_0224_ow",
+    "id": "20220221_0224r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-21",
     "fin_enquete": "2022-02-24",
@@ -13149,7 +13283,7 @@
     ]
   },
   {
-    "id": "20220311_0315_ips",
+    "id": "20220311_0315r_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2022-03-11",
     "fin_enquete": "2022-03-15",
@@ -14156,7 +14290,7 @@
     ]
   },
   {
-    "id": "20220129_0201_ifp",
+    "id": "20220129_0201r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-29",
     "fin_enquete": "2022-02-01",
@@ -14324,7 +14458,7 @@
     ]
   },
   {
-    "id": "20220218_0222_ifp",
+    "id": "20220218_0222r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-18",
     "fin_enquete": "2022-02-22",
@@ -15861,7 +15995,7 @@
     ]
   },
   {
-    "id": "20220226_0302_ifp",
+    "id": "20220226_0302r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-26",
     "fin_enquete": "2022-03-02",
@@ -16049,7 +16183,7 @@
     ]
   },
   {
-    "id": "20220118_0120_ifp",
+    "id": "20220118_0120r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-18",
     "fin_enquete": "2022-01-20",
@@ -16224,7 +16358,7 @@
     ]
   },
   {
-    "id": "20220220_0223_ow",
+    "id": "20220220_0223r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-20",
     "fin_enquete": "2022-02-23",
@@ -16539,7 +16673,7 @@
     ]
   },
   {
-    "id": "20220218_0221_ow",
+    "id": "20220218_0221r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-18",
     "fin_enquete": "2022-02-21",
@@ -17337,7 +17471,7 @@
     ]
   },
   {
-    "id": "20220213_0216_ow",
+    "id": "20220213_0216r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-13",
     "fin_enquete": "2022-02-16",
@@ -19484,7 +19618,7 @@
     ]
   },
   {
-    "id": "20220128_0131_ifp",
+    "id": "20220128_0131r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-28",
     "fin_enquete": "2022-01-31",
@@ -23004,7 +23138,7 @@
     ]
   },
   {
-    "id": "20220108_0111_ow",
+    "id": "20220108_0111r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-08",
     "fin_enquete": "2022-01-11",
@@ -23757,7 +23891,7 @@
     ]
   },
   {
-    "id": "20220309_0312_ips",
+    "id": "20220309_0312r_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2022-03-09",
     "fin_enquete": "2022-03-12",
@@ -23911,7 +24045,7 @@
     ]
   },
   {
-    "id": "20220301_0304_ifp",
+    "id": "20220301_0304r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-03-01",
     "fin_enquete": "2022-03-04",
@@ -26339,7 +26473,7 @@
     ]
   },
   {
-    "id": "20220201_0204_ifp",
+    "id": "20220201_0204r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-01",
     "fin_enquete": "2022-02-04",
@@ -26630,7 +26764,7 @@
     ]
   },
   {
-    "id": "20220131_0203_ow",
+    "id": "20220131_0203r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-31",
     "fin_enquete": "2022-02-03",
@@ -26811,7 +26945,7 @@
     ]
   },
   {
-    "id": "20220201_0204_ow",
+    "id": "20220201_0204r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-01",
     "fin_enquete": "2022-02-04",
@@ -27542,7 +27676,7 @@
     ]
   },
   {
-    "id": "20220225_0301_ifp",
+    "id": "20220225_0301r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-25",
     "fin_enquete": "2022-03-01",
@@ -27730,7 +27864,7 @@
     ]
   },
   {
-    "id": "20220307_0310_ow",
+    "id": "20220307_0310r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-07",
     "fin_enquete": "2022-03-10",
@@ -27864,7 +27998,7 @@
     ]
   },
   {
-    "id": "20220314_0317_ow",
+    "id": "20220314_0317r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-14",
     "fin_enquete": "2022-03-17",
@@ -27998,7 +28132,7 @@
     ]
   },
   {
-    "id": "20220215_0218_ifp",
+    "id": "20220215_0218r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-15",
     "fin_enquete": "2022-02-18",
@@ -28380,7 +28514,7 @@
     ]
   },
   {
-    "id": "20220217_0221_ifp",
+    "id": "20220217_0221r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-17",
     "fin_enquete": "2022-02-21",
@@ -28568,7 +28702,7 @@
     ]
   },
   {
-    "id": "20220214_0217_ow",
+    "id": "20220214_0217r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-14",
     "fin_enquete": "2022-02-17",
@@ -28749,7 +28883,7 @@
     ]
   },
   {
-    "id": "20220131_0202_ifp",
+    "id": "20220131_0202r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-31",
     "fin_enquete": "2022-02-02",
@@ -29228,7 +29362,7 @@
     ]
   },
   {
-    "id": "20220204_0207_ow",
+    "id": "20220204_0207r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-04",
     "fin_enquete": "2022-02-07",
@@ -29539,7 +29673,7 @@
     ]
   },
   {
-    "id": "20220116_0119_ow",
+    "id": "20220116_0119r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-16",
     "fin_enquete": "2022-01-19",
@@ -30677,7 +30811,7 @@
     ]
   },
   {
-    "id": "20220308_0311_ow",
+    "id": "20220308_0311r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-08",
     "fin_enquete": "2022-03-11",
@@ -31325,7 +31459,7 @@
     ]
   },
   {
-    "id": "20220111_0114_ifp",
+    "id": "20220111_0114r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-11",
     "fin_enquete": "2022-01-14",
@@ -31604,7 +31738,7 @@
     ]
   },
   {
-    "id": "20220118_0121_ifp",
+    "id": "20220118_0121r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-18",
     "fin_enquete": "2022-01-21",
@@ -31772,7 +31906,7 @@
     ]
   },
   {
-    "id": "20220129_0201_ow",
+    "id": "20220129_0201r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-29",
     "fin_enquete": "2022-02-01",
@@ -31933,7 +32067,7 @@
     ]
   },
   {
-    "id": "20220312_0316_ifp",
+    "id": "20220312_0316r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-03-12",
     "fin_enquete": "2022-03-16",
@@ -32250,7 +32384,7 @@
     ]
   },
   {
-    "id": "20220107_0111_ifp",
+    "id": "20220107_0111r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-07",
     "fin_enquete": "2022-01-11",
@@ -32529,7 +32663,7 @@
     ]
   },
   {
-    "id": "20220113_0117_ifp",
+    "id": "20220113_0117r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-13",
     "fin_enquete": "2022-01-17",
@@ -33813,7 +33947,7 @@
     ]
   },
   {
-    "id": "20220219_0222_ow",
+    "id": "20220219_0222r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-19",
     "fin_enquete": "2022-02-22",
@@ -34189,7 +34323,7 @@
     ]
   },
   {
-    "id": "20220222_0225_ifp",
+    "id": "20220222_0225r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-22",
     "fin_enquete": "2022-02-25",
@@ -34377,7 +34511,7 @@
     ]
   },
   {
-    "id": "20220228_0303_ifp",
+    "id": "20220228_0303r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-28",
     "fin_enquete": "2022-03-03",
@@ -34565,7 +34699,7 @@
     ]
   },
   {
-    "id": "20220118_0121_ow",
+    "id": "20220118_0121r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-18",
     "fin_enquete": "2022-01-21",
@@ -37317,7 +37451,7 @@
     ]
   },
   {
-    "id": "20220108_0112_ifp",
+    "id": "20220108_0112r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-08",
     "fin_enquete": "2022-01-12",
@@ -37596,7 +37730,7 @@
     ]
   },
   {
-    "id": "20220205_0208_ow",
+    "id": "20220205_0208r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-05",
     "fin_enquete": "2022-02-08",
@@ -37777,7 +37911,7 @@
     ]
   },
   {
-    "id": "20220110_0113_ow",
+    "id": "20220110_0113r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-10",
     "fin_enquete": "2022-01-13",
@@ -37938,7 +38072,7 @@
     ]
   },
   {
-    "id": "20220311_0314_ow",
+    "id": "20220311_0314r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-11",
     "fin_enquete": "2022-03-14",
@@ -38072,7 +38206,7 @@
     ]
   },
   {
-    "id": "20220207_0210_ifp",
+    "id": "20220207_0210r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-07",
     "fin_enquete": "2022-02-10",
@@ -38507,7 +38641,7 @@
     ]
   },
   {
-    "id": "20220115_0117_ow",
+    "id": "20220115_0117r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-15",
     "fin_enquete": "2022-01-17",
@@ -39255,7 +39389,7 @@
     ]
   },
   {
-    "id": "20220120_0124_ifp",
+    "id": "20220120_0124r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-20",
     "fin_enquete": "2022-01-24",
@@ -43759,7 +43893,7 @@
     ]
   },
   {
-    "id": "20220304_0308_ifp",
+    "id": "20220304_0308r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-03-04",
     "fin_enquete": "2022-03-08",
@@ -43953,7 +44087,7 @@
     ]
   },
   {
-    "id": "20220226_0301_ow",
+    "id": "20220226_0301r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-26",
     "fin_enquete": "2022-03-01",
@@ -44315,7 +44449,7 @@
     ]
   },
   {
-    "id": "20220124_0127_ow",
+    "id": "20220124_0127r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-24",
     "fin_enquete": "2022-01-27",
@@ -44592,7 +44726,7 @@
     ]
   },
   {
-    "id": "20220305_0309_ifp",
+    "id": "20220305_0309r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-03-05",
     "fin_enquete": "2022-03-09",
@@ -46028,7 +46162,7 @@
     ]
   },
   {
-    "id": "20220130_0202_ow",
+    "id": "20220130_0202r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-30",
     "fin_enquete": "2022-02-02",
@@ -46817,7 +46951,7 @@
     ]
   },
   {
-    "id": "20220102_0103_ow",
+    "id": "20220102_0103r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-02",
     "fin_enquete": "2022-01-03",
@@ -47683,7 +47817,7 @@
     ]
   },
   {
-    "id": "20220106_0110_ifp",
+    "id": "20220106_0110r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-06",
     "fin_enquete": "2022-01-10",
@@ -49077,7 +49211,7 @@
     ]
   },
   {
-    "id": "20220304_0307_ow",
+    "id": "20220304_0307r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-04",
     "fin_enquete": "2022-03-07",
@@ -49211,7 +49345,7 @@
     ]
   },
   {
-    "id": "20220208_0211_ifp",
+    "id": "20220208_0211r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-08",
     "fin_enquete": "2022-02-11",
@@ -49399,7 +49533,7 @@
     ]
   },
   {
-    "id": "20220128_0131_ow",
+    "id": "20220128_0131r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-28",
     "fin_enquete": "2022-01-31",
@@ -49786,7 +49920,7 @@
     ]
   },
   {
-    "id": "20220307_0310_ifp",
+    "id": "20220307_0310r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-03-07",
     "fin_enquete": "2022-03-10",
@@ -50174,7 +50308,7 @@
     ]
   },
   {
-    "id": "20220102_0104_ow",
+    "id": "20220102_0104r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-02",
     "fin_enquete": "2022-01-04",
@@ -50605,7 +50739,7 @@
     ]
   },
   {
-    "id": "20220224_0228_ifp",
+    "id": "20220224_0228r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-24",
     "fin_enquete": "2022-02-28",
@@ -51477,7 +51611,7 @@
     ]
   },
   {
-    "id": "20220110_0113_ifp",
+    "id": "20220110_0113r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-10",
     "fin_enquete": "2022-01-13",
@@ -51756,7 +51890,7 @@
     ]
   },
   {
-    "id": "20220208_0211_ow",
+    "id": "20220208_0211r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-08",
     "fin_enquete": "2022-02-11",
@@ -52745,7 +52879,7 @@
     ]
   },
   {
-    "id": "20220122_0125_ow",
+    "id": "20220122_0125r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-22",
     "fin_enquete": "2022-01-25",
@@ -53391,7 +53525,7 @@
     ]
   },
   {
-    "id": "20220115_0119_ifp",
+    "id": "20220115_0119r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-15",
     "fin_enquete": "2022-01-19",
@@ -53700,7 +53834,7 @@
     ]
   },
   {
-    "id": "20220313_0316_ow",
+    "id": "20220313_0316r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-13",
     "fin_enquete": "2022-03-16",
@@ -53834,7 +53968,7 @@
     ]
   },
   {
-    "id": "20220212_0215_ow",
+    "id": "20220212_0215r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-12",
     "fin_enquete": "2022-02-15",
@@ -54196,7 +54330,7 @@
     ]
   },
   {
-    "id": "20220121_0124_ow",
+    "id": "20220121_0124r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-21",
     "fin_enquete": "2022-01-24",
@@ -54911,7 +55045,7 @@
     ]
   },
   {
-    "id": "20220225_0228_ow",
+    "id": "20220225_0228r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-25",
     "fin_enquete": "2022-02-28",
@@ -55349,7 +55483,7 @@
     ]
   },
   {
-    "id": "20220131_0203_ifp",
+    "id": "20220131_0203r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-31",
     "fin_enquete": "2022-02-03",
@@ -55517,7 +55651,7 @@
     ]
   },
   {
-    "id": "20220104_0107_ow",
+    "id": "20220104_0107r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-04",
     "fin_enquete": "2022-01-07",
@@ -55859,7 +55993,7 @@
     ]
   },
   {
-    "id": "20220111_0114_ow",
+    "id": "20220111_0114r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-11",
     "fin_enquete": "2022-01-14",
@@ -56020,7 +56154,7 @@
     ]
   },
   {
-    "id": "20220205_0209_ifp",
+    "id": "20220205_0209r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-05",
     "fin_enquete": "2022-02-09",
@@ -56188,7 +56322,7 @@
     ]
   },
   {
-    "id": "20220206_0209_ow",
+    "id": "20220206_0209r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-06",
     "fin_enquete": "2022-02-09",
@@ -56739,7 +56873,7 @@
     ]
   },
   {
-    "id": "20220203_0207_ifp",
+    "id": "20220203_0207r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-03",
     "fin_enquete": "2022-02-07",
@@ -56907,7 +57041,7 @@
     ]
   },
   {
-    "id": "20220115_0118_ow",
+    "id": "20220115_0118r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-15",
     "fin_enquete": "2022-01-18",
@@ -57075,7 +57209,7 @@
     ]
   },
   {
-    "id": "20220313_0316_ips",
+    "id": "20220313_0316r_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2022-03-13",
     "fin_enquete": "2022-03-16",
@@ -57342,7 +57476,7 @@
     ]
   },
   {
-    "id": "20220314_0317_ips",
+    "id": "20220314_0317r_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2022-03-14",
     "fin_enquete": "2022-03-17",
@@ -57666,7 +57800,7 @@
     ]
   },
   {
-    "id": "20220214_0217_ifp",
+    "id": "20220214_0217r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-14",
     "fin_enquete": "2022-02-17",
@@ -57854,7 +57988,7 @@
     ]
   },
   {
-    "id": "20220220_0224_ifp",
+    "id": "20220220_0224r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-20",
     "fin_enquete": "2022-02-24",
@@ -58706,7 +58840,7 @@
     ]
   },
   {
-    "id": "20220215_0218_ow",
+    "id": "20220215_0218r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-15",
     "fin_enquete": "2022-02-18",
@@ -58887,7 +59021,7 @@
     ]
   },
   {
-    "id": "20220125_0128_ifp",
+    "id": "20220125_0128r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-25",
     "fin_enquete": "2022-01-28",
@@ -59055,7 +59189,7 @@
     ]
   },
   {
-    "id": "20220117_0120_ow",
+    "id": "20220117_0120r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-17",
     "fin_enquete": "2022-01-20",
@@ -59229,7 +59363,7 @@
     ]
   },
   {
-    "id": "20220315_0318_ow",
+    "id": "20220315_0318r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-15",
     "fin_enquete": "2022-03-18",
@@ -59479,7 +59613,7 @@
     ]
   },
   {
-    "id": "20220227_0302_ow",
+    "id": "20220227_0302r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-27",
     "fin_enquete": "2022-03-02",
@@ -59660,7 +59794,7 @@
     ]
   },
   {
-    "id": "20220207_0210_ow",
+    "id": "20220207_0210r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-07",
     "fin_enquete": "2022-02-10",
@@ -59841,7 +59975,7 @@
     ]
   },
   {
-    "id": "20220305_0308_ow",
+    "id": "20220305_0308r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-05",
     "fin_enquete": "2022-03-08",
@@ -59975,7 +60109,7 @@
     ]
   },
   {
-    "id": "20220303_0307_ifp",
+    "id": "20220303_0307r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-03-03",
     "fin_enquete": "2022-03-07",
@@ -60500,7 +60634,7 @@
     ]
   },
   {
-    "id": "20220228_0303_ow",
+    "id": "20220228_0303r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-28",
     "fin_enquete": "2022-03-03",
@@ -60681,7 +60815,7 @@
     ]
   },
   {
-    "id": "20220103_0106_ow",
+    "id": "20220103_0106r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-03",
     "fin_enquete": "2022-01-06",
@@ -60842,7 +60976,7 @@
     ]
   },
   {
-    "id": "20220312_0315_ow",
+    "id": "20220312_0315r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-12",
     "fin_enquete": "2022-03-15",
@@ -60976,7 +61110,7 @@
     ]
   },
   {
-    "id": "20220219_0223_ifp",
+    "id": "20220219_0223r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-19",
     "fin_enquete": "2022-02-23",
@@ -61468,7 +61602,7 @@
     ]
   },
   {
-    "id": "20220211_0215_ifp",
+    "id": "20220211_0215r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-11",
     "fin_enquete": "2022-02-15",
@@ -61656,7 +61790,7 @@
     ]
   },
   {
-    "id": "20220109_0112_ow",
+    "id": "20220109_0112r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-09",
     "fin_enquete": "2022-01-12",
@@ -61817,7 +61951,7 @@
     ]
   },
   {
-    "id": "20220107_0110_ow",
+    "id": "20220107_0110r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-07",
     "fin_enquete": "2022-01-10",
@@ -61978,7 +62112,7 @@
     ]
   },
   {
-    "id": "20220122_0126_ifp",
+    "id": "20220122_0126r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-22",
     "fin_enquete": "2022-01-26",
@@ -62146,7 +62280,7 @@
     ]
   },
   {
-    "id": "20220306_0309_ow",
+    "id": "20220306_0309r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-06",
     "fin_enquete": "2022-03-09",
@@ -62461,7 +62595,7 @@
     ]
   },
   {
-    "id": "20220311_0315_ifp",
+    "id": "20220311_0315r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-03-11",
     "fin_enquete": "2022-03-15",
@@ -62655,7 +62789,7 @@
     ]
   },
   {
-    "id": "20220204_0208_ifp",
+    "id": "20220204_0208r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-04",
     "fin_enquete": "2022-02-08",
