@@ -54330,6 +54330,115 @@
     ]
   },
   {
+    "id": "20220314_0316_clu",
+    "nom_institut": "Cluster17",
+    "debut_enquete": "2022-03-14",
+    "fin_enquete": "2022-03-16",
+    "rolling": false,
+    "media": false,
+    "commanditaire": null,
+    "lien": "https://cluster17.com/wp-content/uploads/2022/03/20220317_Cluster17_Barometre_hebdomadaire_Notice_technique_Publique.pdf",
+    "echantillon": 1945,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1892.485,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 16,
+                "erreur_sup": 17.6517,
+                "erreur_inf": 14.3483
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2.5,
+                "erreur_sup": 3.2034,
+                "erreur_inf": 1.7966
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 14,
+                "erreur_sup": 15.5633,
+                "erreur_inf": 12.4367
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 5,
+                "erreur_sup": 5.9819,
+                "erreur_inf": 4.0181
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1.5,
+                "erreur_sup": 2.0477,
+                "erreur_inf": 0.9523
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 29.5,
+                "erreur_sup": 31.5547,
+                "erreur_inf": 27.4453
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 3.5,
+                "erreur_sup": 4.328,
+                "erreur_inf": 2.672
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 10.5,
+                "erreur_sup": 11.8812,
+                "erreur_inf": 9.1188
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.8178,
+                "erreur_inf": 0.1822
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.6308,
+                "erreur_inf": 1.3692
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 12,
+                "erreur_sup": 13.4641,
+                "erreur_inf": 10.5359
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 3,
+                "erreur_sup": 3.7686,
+                "erreur_inf": 2.2314
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220121_0124r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-21",
