@@ -6686,14 +6686,6 @@ Jean Lassalle,Résistons,3.0,3.6849,2.3151,20220318_0320_clu,Cluster17,,2022-03-
 Philippe Poutou,NPA,1.5,1.988,1.012,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Premier tour,,2382.961
 Yannick Jadot,EE-LV,5.5,6.4154,4.5846,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Premier tour,,2382.961
 Eric Zemmour,Reconquête,12.5,13.8279,11.1721,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Premier tour,,2382.961
-Marine Le Pen,Rassemblement national,43.0,44.9303,41.0697,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Deuxième tour,Hypothèse Macron / Le Pen,2527
-Emmanuel Macron,LRM,57.0,58.9303,55.0697,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Deuxième tour,Hypothèse Macron / Le Pen,2527
-Jean-Luc Mélenchon,France insoumise,37.0,38.8825,35.1175,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Deuxième tour,Hypothèse Macron / Mélenchon,2527
-Emmanuel Macron,LRM,63.0,64.8825,61.1175,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Deuxième tour,Hypothèse Macron / Mélenchon,2527
-Emmanuel Macron,LRM,67.0,68.8334,65.1666,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Deuxième tour,Hypothèse Macron / Pécresse,2527
-Valérie Pécresse,Les Républicains,33.0,34.8334,31.1666,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Deuxième tour,Hypothèse Macron / Pécresse,2527
-Eric Zemmour,Reconquête,34.0,35.847,32.153,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Deuxième tour,Hypothèse Macron / Zemmour,2527
-Emmanuel Macron,LRM,66.0,67.847,64.153,20220318_0320_clu,Cluster17,,2022-03-18,2022-03-20,2527,Inscrits sur les listes électorales,False,False,Deuxième tour,Hypothèse Macron / Zemmour,2527
 Eric Zemmour,Reconquête,11.0,13.0194,8.9806,20220314_0315_ow,Opinion Way,CNews,2022-03-14,2022-03-15,1048,Inscrits sur les listes électorales,False,True,Premier tour,,922.24
 Anne Hidalgo,Parti socialiste,2.0,2.9036,1.0964,20220314_0315_ow,Opinion Way,CNews,2022-03-14,2022-03-15,1048,Inscrits sur les listes électorales,False,True,Premier tour,,922.24
 Nathalie Arthaud,Lutte ouvrière,1.0,1.6422,0.3578,20220314_0315_ow,Opinion Way,CNews,2022-03-14,2022-03-15,1048,Inscrits sur les listes électorales,False,True,Premier tour,,922.24
@@ -6774,6 +6766,14 @@ Anne Hidalgo,Parti socialiste,2.5,3.1848,1.8152,20220318_0321_hi,Harris Interact
 Philippe Poutou,NPA,1.0,1.4364,0.5636,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Premier tour,,1997
 Marine Le Pen,Rassemblement national,19.5,21.2377,17.7623,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Premier tour,,1997
 Emmanuel Macron,LRM,29.5,31.5002,27.4998,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Premier tour,,1997
+Marine Le Pen,Rassemblement national,43.0,45.1714,40.8286,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Deuxième tour,Hypothèse Macron / Le Pen,1997
+Emmanuel Macron,LRM,57.0,59.1714,54.8286,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Deuxième tour,Hypothèse Macron / Le Pen,1997
+Jean-Luc Mélenchon,France insoumise,37.0,39.1176,34.8824,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Deuxième tour,Hypothèse Macron / Mélenchon,1997
+Emmanuel Macron,LRM,63.0,65.1176,60.8824,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Deuxième tour,Hypothèse Macron / Mélenchon,1997
+Emmanuel Macron,LRM,67.0,69.0623,64.9377,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Deuxième tour,Hypothèse Macron / Pécresse,1997
+Valérie Pécresse,Les Républicains,33.0,35.0623,30.9377,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Deuxième tour,Hypothèse Macron / Pécresse,1997
+Eric Zemmour,Reconquête,34.0,36.0777,31.9223,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Deuxième tour,Hypothèse Macron / Zemmour,1997
+Emmanuel Macron,LRM,66.0,68.0777,63.9223,20220318_0321_hi,Harris Interactive,Challenges,2022-03-18,2022-03-21,1997,Inscrits sur les listes électorales,False,True,Deuxième tour,Hypothèse Macron / Zemmour,1997
 Emmanuel Macron,LRM,24.0,26.2999,21.7001,20220111_0114r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-11,2022-01-14,1577,Inscrits sur les listes électorales,True,True,Premier tour,,1324.68
 Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20220111_0114r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-11,2022-01-14,1577,Inscrits sur les listes électorales,True,True,Premier tour,,1324.68
 Eric Zemmour,Reconquête,12.0,13.75,10.25,20220111_0114r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-01-11,2022-01-14,1577,Inscrits sur les listes électorales,True,True,Premier tour,,1324.68
