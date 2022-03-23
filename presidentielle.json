@@ -44170,16 +44170,16 @@
               {
                 "candidat": "Emmanuel Macron",
                 "parti": ["LRM"],
-                "intentions": 38,
-                "erreur_sup": 41.1759,
-                "erreur_inf": 34.8241
+                "intentions": 62,
+                "erreur_sup": 65.1759,
+                "erreur_inf": 58.8241
               },
               {
                 "candidat": "Jean-Luc Mélenchon",
                 "parti": ["France insoumise"],
-                "intentions": 62,
-                "erreur_sup": 65.1759,
-                "erreur_inf": 58.8241
+                "intentions": 38,
+                "erreur_sup": 41.1759,
+                "erreur_inf": 34.8241
               }
             ]
           },
