@@ -57391,91 +57391,6 @@
             ]
           }
         ]
-      },
-      {
-        "tour": "Deuxième tour",
-        "hypotheses": [
-          {
-            "hypothese": "Hypothèse Macron / Le Pen",
-            "sous_echantillon": 2527,
-            "candidats": [
-              {
-                "candidat": "Marine Le Pen",
-                "parti": ["Rassemblement national"],
-                "intentions": 43,
-                "erreur_sup": 44.9303,
-                "erreur_inf": 41.0697
-              },
-              {
-                "candidat": "Emmanuel Macron",
-                "parti": ["LRM"],
-                "intentions": 57,
-                "erreur_sup": 58.9303,
-                "erreur_inf": 55.0697
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Macron / Mélenchon",
-            "sous_echantillon": 2527,
-            "candidats": [
-              {
-                "candidat": "Jean-Luc Mélenchon",
-                "parti": ["France insoumise"],
-                "intentions": 37,
-                "erreur_sup": 38.8825,
-                "erreur_inf": 35.1175
-              },
-              {
-                "candidat": "Emmanuel Macron",
-                "parti": ["LRM"],
-                "intentions": 63,
-                "erreur_sup": 64.8825,
-                "erreur_inf": 61.1175
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Macron / Pécresse",
-            "sous_echantillon": 2527,
-            "candidats": [
-              {
-                "candidat": "Emmanuel Macron",
-                "parti": ["LRM"],
-                "intentions": 67,
-                "erreur_sup": 68.8334,
-                "erreur_inf": 65.1666
-              },
-              {
-                "candidat": "Valérie Pécresse",
-                "parti": ["Les Républicains"],
-                "intentions": 33,
-                "erreur_sup": 34.8334,
-                "erreur_inf": 31.1666
-              }
-            ]
-          },
-          {
-            "hypothese": "Hypothèse Macron / Zemmour",
-            "sous_echantillon": 2527,
-            "candidats": [
-              {
-                "candidat": "Eric Zemmour",
-                "parti": ["Reconquête"],
-                "intentions": 34,
-                "erreur_sup": 35.847,
-                "erreur_inf": 32.153
-              },
-              {
-                "candidat": "Emmanuel Macron",
-                "parti": ["LRM"],
-                "intentions": 66,
-                "erreur_sup": 67.847,
-                "erreur_inf": 64.153
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -58225,6 +58140,91 @@
                 "intentions": 29.5,
                 "erreur_sup": 31.5002,
                 "erreur_inf": 27.4998
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": "Hypothèse Macron / Le Pen",
+            "sous_echantillon": 1997,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 43,
+                "erreur_sup": 45.1714,
+                "erreur_inf": 40.8286
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 57,
+                "erreur_sup": 59.1714,
+                "erreur_inf": 54.8286
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Mélenchon",
+            "sous_echantillon": 1997,
+            "candidats": [
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 37,
+                "erreur_sup": 39.1176,
+                "erreur_inf": 34.8824
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 63,
+                "erreur_sup": 65.1176,
+                "erreur_inf": 60.8824
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Pécresse",
+            "sous_echantillon": 1997,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 67,
+                "erreur_sup": 69.0623,
+                "erreur_inf": 64.9377
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 33,
+                "erreur_sup": 35.0623,
+                "erreur_inf": 30.9377
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Zemmour",
+            "sous_echantillon": 1997,
+            "candidats": [
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 34,
+                "erreur_sup": 36.0777,
+                "erreur_inf": 31.9223
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 66,
+                "erreur_sup": 68.0777,
+                "erreur_inf": 63.9223
               }
             ]
           }
