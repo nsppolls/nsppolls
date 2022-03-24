@@ -23761,6 +23761,140 @@
     ]
   },
   {
+    "id": "20220321_0324r_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-03-21",
+    "fin_enquete": "2022-03-24",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Le Parisien, France Info",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-03/Ipsos-Barometre_2022-24-03.pdf",
+    "echantillon": 948,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 881.64,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 19,
+                "erreur_sup": 21.5896,
+                "erreur_inf": 16.4104
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.9241,
+                "erreur_inf": 1.0759
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.6568,
+                "erreur_inf": 0.3432
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.9241,
+                "erreur_inf": 1.0759
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 12.5,
+                "erreur_sup": 14.6831,
+                "erreur_inf": 10.3169
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 29.5,
+                "erreur_sup": 32.5103,
+                "erreur_inf": 26.4897
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 6.5,
+                "erreur_sup": 8.1273,
+                "erreur_inf": 4.8727
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 2.5,
+                "erreur_sup": 3.5306,
+                "erreur_inf": 1.4694
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 10,
+                "erreur_sup": 11.9803,
+                "erreur_inf": 8.0197
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.9656,
+                "erreur_inf": 0.0344
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 4,
+                "erreur_sup": 5.2935,
+                "erreur_inf": 2.7065
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 10.5,
+                "erreur_sup": 12.5236,
+                "erreur_inf": 8.4764
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 758.4,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 41,
+                "erreur_sup": 44.5005,
+                "erreur_inf": 37.4995
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 59,
+                "erreur_sup": 62.5005,
+                "erreur_inf": 55.4995
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20210611_0614_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2021-06-11",
