@@ -65491,6 +65491,140 @@
     ]
   },
   {
+    "id": "20220322_0325r_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-03-22",
+    "fin_enquete": "2022-03-25",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Les Echos, Radio Classique, Kea Partners",
+    "lien": null,
+    "echantillon": 1610,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1449,
+            "candidats": [
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 4,
+                "erreur_sup": 5.009,
+                "erreur_inf": 2.991
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 1,
+                "erreur_sup": 1.5123,
+                "erreur_inf": 0.4877
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 3,
+                "erreur_sup": 3.8784,
+                "erreur_inf": 2.1216
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 27,
+                "erreur_sup": 29.2859,
+                "erreur_inf": 24.7141
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.5123,
+                "erreur_inf": 0.4877
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 13,
+                "erreur_sup": 14.7316,
+                "erreur_inf": 11.2684
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 5,
+                "erreur_sup": 6.1222,
+                "erreur_inf": 3.8778
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 21,
+                "erreur_sup": 23.0972,
+                "erreur_inf": 18.9028
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.7209,
+                "erreur_inf": 1.2791
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 1,
+                "erreur_sup": 1.5123,
+                "erreur_inf": 0.4877
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 10,
+                "erreur_sup": 11.5447,
+                "erreur_inf": 8.4553
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 12,
+                "erreur_sup": 13.6732,
+                "erreur_inf": 10.3268
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1223.6,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 55,
+                "erreur_sup": 57.7876,
+                "erreur_inf": 52.2124
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 45,
+                "erreur_sup": 47.7876,
+                "erreur_inf": 42.2124
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220211_0215r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-11",
