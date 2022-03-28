@@ -7071,16 +7071,16 @@
               {
                 "candidat": "Jean-Luc Mélenchon",
                 "parti": ["France insoumise"],
-                "intentions": 59.5,
-                "erreur_sup": 62.6745,
-                "erreur_inf": 56.3255
+                "intentions": 40.5,
+                "erreur_sup": 43.6745,
+                "erreur_inf": 37.3255
               },
               {
                 "candidat": "Emmanuel Macron",
                 "parti": ["LRM"],
-                "intentions": 40.5,
-                "erreur_sup": 43.6745,
-                "erreur_inf": 37.3255
+                "intentions": 59.5,
+                "erreur_sup": 62.6745,
+                "erreur_inf": 56.3255
               }
             ]
           },
