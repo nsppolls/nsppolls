@@ -4878,6 +4878,18 @@ Arnaud Montebourg,,1.5,2.4221,0.5779,20210929_0930_ips,Ipsos,"France Info, Le Pa
 Emmanuel Macron,"LRM, Agir, Modem",27.0,30.368,23.632,20210929_0930_ips,Ipsos,"France Info, Le Parisien",2021-09-29,2021-09-30,750,Certains d'aller voter,False,True,Premier tour,Hypothèse Barnier,667.5
 Michel Barnier,"Les Républicains, UDI",13.0,15.5513,10.4487,20210929_0930_ips,Ipsos,"France Info, Le Parisien",2021-09-29,2021-09-30,750,Certains d'aller voter,False,True,Premier tour,Hypothèse Barnier,667.5
 Nathalie Arthaud,Lutte ouvrière,1.0,1.7548,0.2452,20210929_0930_ips,Ipsos,"France Info, Le Parisien",2021-09-29,2021-09-30,750,Certains d'aller voter,False,True,Premier tour,Hypothèse Barnier,667.5
+Anne Hidalgo,Parti socialiste,2.0,2.5519,1.4481,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Nicolas Dupont-Aignan,Debout la France,2.5,3.1154,1.8846,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Nathalie Arthaud,Lutte ouvrière,1.0,1.3922,0.6078,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Fabien Roussel,Parti communiste,3.0,3.6724,2.3276,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Yannick Jadot,EE-LV,5.5,6.3987,4.6013,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Jean Lassalle,Résistons,3.0,3.6724,2.3276,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Marine Le Pen,Rassemblement national,17.0,18.4807,15.5193,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Emmanuel Macron,LRM,27.0,28.75,25.25,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Jean-Luc Mélenchon,France insoumise,15.0,16.4075,13.5925,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Valérie Pécresse,Les Républicains,10.0,11.1826,8.8174,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Eric Zemmour,Reconquête,12.5,13.8037,11.1963,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
+Philippe Poutou,NPA,1.5,1.9791,1.0209,20220325_0327_clu,Cluster17,,2022-03-25,2022-03-27,2578,Inscrits sur les listes électorales,False,False,Premier tour,,2472.302
 Valérie Pécresse,Les Républicains,16.5,18.7091,14.2909,20220120_0124r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-01-20,2022-01-24,1349,Inscrits sur les listes électorales,True,True,Premier tour,,1084.596
 Anne Hidalgo,Parti socialiste,3.5,4.5938,2.4062,20220120_0124r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-01-20,2022-01-24,1349,Inscrits sur les listes électorales,True,True,Premier tour,,1084.596
 Marine Le Pen,Rassemblement national,18.0,20.2865,15.7135,20220120_0124r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-01-20,2022-01-24,1349,Inscrits sur les listes électorales,True,True,Premier tour,,1084.596
@@ -6691,6 +6703,22 @@ Nicolas Dupont-Aignan,Debout la France,2.0,2.7278,1.2722,20220313_0316r_ow,Opini
 Jean-Luc Mélenchon,France insoumise,12.0,13.6894,10.3106,20220313_0316r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-13,2022-03-16,1597,Inscrits sur les listes électorales,True,True,Premier tour,,1421.33
 Emmanuel Macron,LRM,29.0,31.359,26.641,20220313_0316r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-13,2022-03-16,1597,Inscrits sur les listes électorales,True,True,Premier tour,,1421.33
 Eric Zemmour,Reconquête,12.0,13.6894,10.3106,20220313_0316r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-13,2022-03-16,1597,Inscrits sur les listes électorales,True,True,Premier tour,,1421.33
+Yannick Jadot,EE-LV,6.0,7.524,4.476,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Valérie Pécresse,Les Républicains,9.0,10.8365,7.1635,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Anne Hidalgo,Parti socialiste,2.0,2.8984,1.1016,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Jean-Luc Mélenchon,France insoumise,15.0,17.2914,12.7086,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Nathalie Arthaud,Lutte ouvrière,0.5,0.9526,0.0474,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Eric Zemmour,Reconquête,12.0,14.0853,9.9147,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Emmanuel Macron,LRM,27.0,29.8489,24.1511,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Philippe Poutou,NPA,1.5,2.28,0.72,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Fabien Roussel,Parti communiste,3.5,4.6793,2.3207,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Jean Lassalle,Résistons,2.0,2.8984,1.1016,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Marine Le Pen,Rassemblement national,19.5,22.0425,16.9575,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Nicolas Dupont-Aignan,Debout la France,2.0,2.8984,1.1016,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Premier tour,,932.9
+Emmanuel Macron,LRM,60.0,63.562,56.438,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Deuxième tour,Hypothèse Macron / Mélenchon,726.68
+Jean-Luc Mélenchon,France insoumise,40.0,43.562,36.438,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Deuxième tour,Hypothèse Macron / Mélenchon,726.68
+Marine Le Pen,Rassemblement national,44.0,47.4286,40.5714,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Deuxième tour,Hypothèse Macron / Le Pen,805.24
+Emmanuel Macron,LRM,56.0,59.4286,52.5714,20220325_0329r_ips,Ipsos,"Le Parisien, France Info",2022-03-25,2022-03-29,982,Certains d'aller voter,True,True,Deuxième tour,Hypothèse Macron / Le Pen,805.24
 Marine Le Pen,Rassemblement national,15.5,17.9173,13.0827,20220315_0318r_ips,Ipsos,"Le Parisien, France Info",2022-03-15,2022-03-18,916,Inscrits sur les listes électorales,True,True,Premier tour,,861.04
 Philippe Poutou,NPA,1.5,2.3119,0.6881,20220315_0318r_ips,Ipsos,"Le Parisien, France Info",2022-03-15,2022-03-18,916,Inscrits sur les listes électorales,True,True,Premier tour,,861.04
 Valérie Pécresse,Les Républicains,11.0,13.0899,8.9101,20220315_0318r_ips,Ipsos,"Le Parisien, France Info",2022-03-15,2022-03-18,916,Inscrits sur les listes électorales,True,True,Premier tour,,861.04
