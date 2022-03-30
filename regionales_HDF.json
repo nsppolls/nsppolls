@@ -1076,9 +1076,9 @@
                   {
                     "tete_liste": "Sébastien Chenu",
                     "parti": "Rassemblement national",
-                    "intentions": 46,
-                    "erreur_sup": 50.2865,
-                    "erreur_inf": 41.7135
+                    "intentions": 35,
+                    "erreur_sup": 39.1022,
+                    "erreur_inf": 30.8978
                   },
                   {
                     "tete_liste": "Xavier Bertrand",
@@ -1086,9 +1086,9 @@
                       "Les Républicains",
                       "UDI"
                     ],
-                    "intentions": 35,
-                    "erreur_sup": 39.1022,
-                    "erreur_inf": 30.8978
+                    "intentions": 46,
+                    "erreur_sup": 50.2865,
+                    "erreur_inf": 41.7135
                   },
                   {
                     "tete_liste": "Karima Delli",

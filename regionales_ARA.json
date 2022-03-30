@@ -2052,9 +2052,9 @@
                       "Les Républicains",
                       "UDI"
                     ],
-                    "intentions": 38,
-                    "erreur_sup": 41.4413,
-                    "erreur_inf": 34.5587
+                    "intentions": 4,
+                    "erreur_sup": 5.3893,
+                    "erreur_inf": 2.6107
                   },
                   {
                     "tete_liste": "Bruno Bonnell",

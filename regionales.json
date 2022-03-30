@@ -5094,9 +5094,9 @@
                       "Les Républicains",
                       "Les Centristes"
                     ],
-                    "intentions": 27,
-                    "erreur_sup": 30.9223,
-                    "erreur_inf": 23.0777
+                    "intentions": 31,
+                    "erreur_sup": 35.0861,
+                    "erreur_inf": 26.9139
                   },
                   {
                     "tete_liste": "Laurent Bonnaterre",
@@ -5121,9 +5121,9 @@
                   {
                     "tete_liste": "Nicolas Bay",
                     "parti": "Rassemblement national",
-                    "intentions": 31,
-                    "erreur_sup": 35.0861,
-                    "erreur_inf": 26.9139
+                    "intentions": 27,
+                    "erreur_sup": 30.9223,
+                    "erreur_inf": 23.0777
                   }
                 ]
               },
@@ -5137,9 +5137,9 @@
                       "Les Républicains",
                       "Les Centristes"
                     ],
-                    "intentions": 27,
-                    "erreur_sup": 30.9223,
-                    "erreur_inf": 23.0777
+                    "intentions": 31,
+                    "erreur_sup": 35.0861,
+                    "erreur_inf": 26.9139
                   },
                   {
                     "tete_liste": "Laurent Bonnaterre",
@@ -5151,9 +5151,9 @@
                   {
                     "tete_liste": "Nicolas Bay",
                     "parti": "Rassemblement national",
-                    "intentions": 31,
-                    "erreur_sup": 35.0861,
-                    "erreur_inf": 26.9139
+                    "intentions": 27,
+                    "erreur_sup": 30.9223,
+                    "erreur_inf": 23.0777
                   },
                   {
                     "tete_liste": "Mélanie Boulanger",
@@ -7371,9 +7371,9 @@
                       "Les Républicains",
                       "UDI"
                     ],
-                    "intentions": 38,
-                    "erreur_sup": 41.4413,
-                    "erreur_inf": 34.5587
+                    "intentions": 4,
+                    "erreur_sup": 5.3893,
+                    "erreur_inf": 2.6107
                   },
                   {
                     "tete_liste": "Bruno Bonnell",
@@ -11073,9 +11073,9 @@
                   {
                     "tete_liste": "Sébastien Chenu",
                     "parti": "Rassemblement national",
-                    "intentions": 46,
-                    "erreur_sup": 50.2865,
-                    "erreur_inf": 41.7135
+                    "intentions": 35,
+                    "erreur_sup": 39.1022,
+                    "erreur_inf": 30.8978
                   },
                   {
                     "tete_liste": "Xavier Bertrand",
@@ -11083,9 +11083,9 @@
                       "Les Républicains",
                       "UDI"
                     ],
-                    "intentions": 35,
-                    "erreur_sup": 39.1022,
-                    "erreur_inf": 30.8978
+                    "intentions": 46,
+                    "erreur_sup": 50.2865,
+                    "erreur_inf": 41.7135
                   },
                   {
                     "tete_liste": "Karima Delli",

@@ -1034,9 +1034,9 @@
                       "Les Républicains",
                       "Les Centristes"
                     ],
-                    "intentions": 27,
-                    "erreur_sup": 30.9223,
-                    "erreur_inf": 23.0777
+                    "intentions": 31,
+                    "erreur_sup": 35.0861,
+                    "erreur_inf": 26.9139
                   },
                   {
                     "tete_liste": "Laurent Bonnaterre",
@@ -1061,9 +1061,9 @@
                   {
                     "tete_liste": "Nicolas Bay",
                     "parti": "Rassemblement national",
-                    "intentions": 31,
-                    "erreur_sup": 35.0861,
-                    "erreur_inf": 26.9139
+                    "intentions": 27,
+                    "erreur_sup": 30.9223,
+                    "erreur_inf": 23.0777
                   }
                 ]
               },
@@ -1077,9 +1077,9 @@
                       "Les Républicains",
                       "Les Centristes"
                     ],
-                    "intentions": 27,
-                    "erreur_sup": 30.9223,
-                    "erreur_inf": 23.0777
+                    "intentions": 31,
+                    "erreur_sup": 35.0861,
+                    "erreur_inf": 26.9139
                   },
                   {
                     "tete_liste": "Laurent Bonnaterre",
@@ -1091,9 +1091,9 @@
                   {
                     "tete_liste": "Nicolas Bay",
                     "parti": "Rassemblement national",
-                    "intentions": 31,
-                    "erreur_sup": 35.0861,
-                    "erreur_inf": 26.9139
+                    "intentions": 27,
+                    "erreur_sup": 30.9223,
+                    "erreur_inf": 23.0777
                   },
                   {
                     "tete_liste": "Mélanie Boulanger",
