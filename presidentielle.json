@@ -65941,6 +65941,160 @@
     ]
   },
   {
+    "id": "20220330_0331_bva",
+    "nom_institut": "BVA",
+    "debut_enquete": "2022-03-30",
+    "fin_enquete": "2022-03-31",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "RTL, Orange",
+    "lien": "https://presidentielle2022.bva-group.com/wp-content/uploads/2022/04/BVA-Orange-RTL-Presidentielle-2022-Vague-12-IV-01.04.22.pdf",
+    "echantillon": 1154,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 992.44,
+            "candidats": [
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 3.5,
+                "erreur_sup": 4.6434,
+                "erreur_inf": 2.3566
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 15.5,
+                "erreur_sup": 17.7516,
+                "erreur_inf": 13.2484
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.619,
+                "erreur_inf": 0.381
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2.5,
+                "erreur_sup": 3.4714,
+                "erreur_inf": 1.5286
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 9.5,
+                "erreur_sup": 11.3243,
+                "erreur_inf": 7.6757
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 9.5,
+                "erreur_sup": 11.3243,
+                "erreur_inf": 7.6757
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 1,
+                "erreur_sup": 1.619,
+                "erreur_inf": 0.381
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 5,
+                "erreur_sup": 6.356,
+                "erreur_inf": 3.644
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.871,
+                "erreur_inf": 1.129
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 21,
+                "erreur_sup": 23.5341,
+                "erreur_inf": 18.4659
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 27,
+                "erreur_sup": 29.7621,
+                "erreur_inf": 24.2379
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 2.5,
+                "erreur_sup": 3.4714,
+                "erreur_inf": 1.5286
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": "Hypothèse Macron / Le Pen",
+            "sous_echantillon": 946.28,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 45.5,
+                "erreur_sup": 48.6729,
+                "erreur_inf": 42.3271
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 54.5,
+                "erreur_sup": 57.6729,
+                "erreur_inf": 51.3271
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Mélenchon",
+            "sous_echantillon": 853.96,
+            "candidats": [
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 38,
+                "erreur_sup": 41.2556,
+                "erreur_inf": 34.7444
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 62,
+                "erreur_sup": 65.2556,
+                "erreur_inf": 58.7444
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220227_0302r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-27",
