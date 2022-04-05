@@ -7371,9 +7371,9 @@
                       "Les Républicains",
                       "UDI"
                     ],
-                    "intentions": 4,
-                    "erreur_sup": 5.3893,
-                    "erreur_inf": 2.6107
+                    "intentions": 38,
+                    "erreur_sup": 41.4413,
+                    "erreur_inf": 34.5587
                   },
                   {
                     "tete_liste": "Bruno Bonnell",
@@ -16166,9 +16166,9 @@
                   {
                     "tete_liste": "Julien Odoul",
                     "parti": "Rassemblement national",
-                    "intentions": 8,
-                    "erreur_sup": 10.9072,
-                    "erreur_inf": 5.0928
+                    "intentions": 28,
+                    "erreur_sup": 32.8115,
+                    "erreur_inf": 23.1885
                   },
                   {
                     "tete_liste": "Denis Thuriot",
