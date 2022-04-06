@@ -63538,16 +63538,16 @@
               {
                 "candidat": "Yannick Jadot",
                 "parti": ["EE-LV"],
-                "intentions": 2,
-                "erreur_sup": 2.3005,
-                "erreur_inf": 1.6995
+                "intentions": 6,
+                "erreur_sup": 6.5097,
+                "erreur_inf": 5.4903
               },
               {
                 "candidat": "Anne Hidalgo",
                 "parti": ["Parti socialiste"],
-                "intentions": 6,
-                "erreur_sup": 6.5097,
-                "erreur_inf": 5.4903
+                "intentions": 2,
+                "erreur_sup": 2.3005,
+                "erreur_inf": 1.6995
               },
               {
                 "candidat": "Nathalie Arthaud",
