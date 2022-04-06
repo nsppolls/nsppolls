@@ -63559,9 +63559,9 @@
               {
                 "candidat": "Jean-Luc Mélenchon",
                 "parti": ["France insoumise"],
-                "intentions": 3.5,
-                "erreur_sup": 3.8944,
-                "erreur_inf": 3.1056
+                "intentions": 16,
+                "erreur_sup": 16.7868,
+                "erreur_inf": 15.2132
               },
               {
                 "candidat": "Emmanuel Macron",
@@ -63594,9 +63594,9 @@
               {
                 "candidat": "Fabien Roussel",
                 "parti": ["Parti communiste"],
-                "intentions": 16,
-                "erreur_sup": 16.7868,
-                "erreur_inf": 15.2132
+                "intentions": 3.5,
+                "erreur_sup": 3.8944,
+                "erreur_inf": 3.1056
               }
             ]
           }
