@@ -20457,6 +20457,140 @@
     ]
   },
   {
+    "id": "20220405_0407r_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-04-05",
+    "fin_enquete": "2022-04-07",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Le Parisien, France Info",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-07-04.pdf",
+    "echantillon": 1044,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 981.36,
+            "candidats": [
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2,
+                "erreur_sup": 2.8759,
+                "erreur_inf": 1.1241
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.6225,
+                "erreur_inf": 0.3775
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.9413,
+                "erreur_inf": 0.0587
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 26.5,
+                "erreur_sup": 29.2613,
+                "erreur_inf": 23.7387
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 8.5,
+                "erreur_sup": 10.2449,
+                "erreur_inf": 6.7551
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 3.5,
+                "erreur_sup": 4.6498,
+                "erreur_inf": 2.3502
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.8759,
+                "erreur_inf": 1.1241
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 16.5,
+                "erreur_sup": 18.8223,
+                "erreur_inf": 14.1777
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 5.5,
+                "erreur_sup": 6.9264,
+                "erreur_inf": 4.0736
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 2.5,
+                "erreur_sup": 3.4768,
+                "erreur_inf": 1.5232
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 23,
+                "erreur_sup": 25.633,
+                "erreur_inf": 20.367
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 8.5,
+                "erreur_sup": 10.2449,
+                "erreur_inf": 6.7551
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 845.64,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 47,
+                "erreur_sup": 50.364,
+                "erreur_inf": 43.636
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 53,
+                "erreur_sup": 56.364,
+                "erreur_inf": 49.636
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220328_0331r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-28",
