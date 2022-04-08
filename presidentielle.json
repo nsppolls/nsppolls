@@ -20464,7 +20464,7 @@
     "rolling": true,
     "media": true,
     "commanditaire": "Le Parisien, France Info",
-    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-07-04.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9554-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-23-7-avril.pdf",
     "echantillon": 1044,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -61486,7 +61486,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "L'Obs, Mascaret",
-    "lien": "http://www.odoxa.fr/wp-content/uploads/2022/04/Intentions-de-vote-Odoxa-LObs-Mascaret-Vague-7.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9558-odoxa-l-obs-le-mascaret-7-avril.pdf",
     "echantillon": 1897,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -64755,6 +64755,200 @@
     ]
   },
   {
+    "id": "20220404_0407r_ifp",
+    "nom_institut": "Ifop",
+    "debut_enquete": "2022-04-04",
+    "fin_enquete": "2022-04-07",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Paris Match, LCI, Sud Radio",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9556-rdp-ifop-pm-lci-sud-radio-7-avril.pdf",
+    "echantillon": 2802,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": "Hypothèse Macron / Le Pen",
+            "sous_echantillon": 2081.886,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 52,
+                "erreur_sup": 54.1461,
+                "erreur_inf": 49.8539
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 48,
+                "erreur_sup": 50.1461,
+                "erreur_inf": 45.8539
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Mélenchon",
+            "sous_echantillon": 1910.964,
+            "candidats": [
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 42,
+                "erreur_sup": 44.2129,
+                "erreur_inf": 39.7871
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 58,
+                "erreur_sup": 60.2129,
+                "erreur_inf": 55.7871
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Pécresse",
+            "sous_echantillon": 1630.764,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 64,
+                "erreur_sup": 66.3297,
+                "erreur_inf": 61.6703
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 36,
+                "erreur_sup": 38.3297,
+                "erreur_inf": 33.6703
+              }
+            ]
+          },
+          {
+            "hypothese": "Hypothèse Macron / Zemmour",
+            "sous_echantillon": 1852.122,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 66.5,
+                "erreur_sup": 68.6496,
+                "erreur_inf": 64.3504
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["France insoumise"],
+                "intentions": 33.5,
+                "erreur_sup": 35.6496,
+                "erreur_inf": 31.3504
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2292.036,
+            "candidats": [
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.5732,
+                "erreur_inf": 1.4268
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 4.5,
+                "erreur_sup": 5.3487,
+                "erreur_inf": 3.6513
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 2.5,
+                "erreur_sup": 3.1392,
+                "erreur_inf": 1.8608
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 26.5,
+                "erreur_sup": 28.3068,
+                "erreur_inf": 24.6932
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 8.5,
+                "erreur_sup": 9.6417,
+                "erreur_inf": 7.3583
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 24,
+                "erreur_sup": 25.7485,
+                "erreur_inf": 22.2515
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 9,
+                "erreur_sup": 10.1716,
+                "erreur_inf": 7.8284
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 2.5,
+                "erreur_sup": 3.1392,
+                "erreur_inf": 1.8608
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 17.5,
+                "erreur_sup": 19.0556,
+                "erreur_inf": 15.9444
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 1.5,
+                "erreur_sup": 1.9976,
+                "erreur_inf": 1.0024
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.4073,
+                "erreur_inf": 0.5927
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.7888,
+                "erreur_inf": 0.2112
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220111_0114r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-11",
@@ -67224,7 +67418,7 @@
     "rolling": true,
     "media": true,
     "commanditaire": "Les Echos, Radio Classique, Kea Partners",
-    "lien": null,
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9555-opinionway-kea-partners-les-echos-radio-classique-notice-a-la-commission-7-avril.pdf",
     "echantillon": 2043,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -70058,7 +70252,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "RTL, Orange",
-    "lien": "https://presidentielle2022.bva-group.com/wp-content/uploads/2022/04/BVA-Orange-RTL-Presidentielle-2022-Vague-13-IV-08.04.22.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9559-bva-orange-rtl-presidentielle-2022-vague-13-le-8-avril.pdf",
     "echantillon": 1188,
     "population": "Certains d'aller voter",
     "tours": [
