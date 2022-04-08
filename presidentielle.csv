@@ -8016,6 +8016,22 @@ Nathalie Arthaud,Lutte ouvrière,0.5,0.9512,0.0488,20220329_0401r_ips,Ipsos,"Le 
 Anne Hidalgo,Parti socialiste,2.0,2.8955,1.1045,20220329_0401r_ips,Ipsos,"Le Parisien, France Info",2022-03-29,2022-04-01,978,Certains d'aller voter,True,True,Premier tour,,938.88
 Marine Le Pen,Rassemblement national,20.0,22.5587,17.4413,20220329_0401r_ips,Ipsos,"Le Parisien, France Info",2022-03-29,2022-04-01,978,Certains d'aller voter,True,True,Premier tour,,938.88
 Fabien Roussel,Parti communiste,3.0,4.0912,1.9088,20220329_0401r_ips,Ipsos,"Le Parisien, France Info",2022-03-29,2022-04-01,978,Certains d'aller voter,True,True,Premier tour,,938.88
+Eric Zemmour,Reconquête,9.5,11.3085,7.6915,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Anne Hidalgo,Parti socialiste,2.5,3.463,1.537,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Nicolas Dupont-Aignan,Debout la France,2.0,2.8635,1.1365,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Valérie Pécresse,Les Républicains,8.5,10.2201,6.7799,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Jean-Luc Mélenchon,France insoumise,17.5,19.8436,15.1564,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Yannick Jadot,EE-LV,4.5,5.7786,3.2214,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Philippe Poutou,NPA,1.0,1.6137,0.3863,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Fabien Roussel,Parti communiste,2.5,3.463,1.537,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Nathalie Arthaud,Lutte ouvrière,0.5,0.935,0.065,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Marine Le Pen,Rassemblement national,23.0,25.5957,20.4043,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Jean Lassalle,Résistons,2.5,3.463,1.537,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Emmanuel Macron,LRM,26.0,28.7055,23.2945,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Premier tour,,1009.8
+Emmanuel Macron,LRM,53.0,56.1535,49.8465,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Deuxième tour,Hypothèse Macron / Le Pen,962.28
+Marine Le Pen,Rassemblement national,47.0,50.1535,43.8465,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Deuxième tour,Hypothèse Macron / Le Pen,962.28
+Emmanuel Macron,LRM,58.0,61.3309,54.6691,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Deuxième tour,Hypothèse Macron / Mélenchon,843.48
+Jean-Luc Mélenchon,France insoumise,42.0,45.3309,38.6691,20220406_0407_bva,BVA,"RTL, Orange",2022-04-06,2022-04-07,1188,Certains d'aller voter,False,True,Deuxième tour,Hypothèse Macron / Mélenchon,843.48
 Valérie Pécresse,Les Républicains,47.0,50.0853,43.9147,20220207_0210r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-02-07,2022-02-10,1648,Inscrits sur les listes électorales,True,True,Deuxième tour,Hypothèse Macron / Pécresse,1005.28
 Emmanuel Macron,LRM,53.0,56.0853,49.9147,20220207_0210r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-02-07,2022-02-10,1648,Inscrits sur les listes électorales,True,True,Deuxième tour,Hypothèse Macron / Pécresse,1005.28
 Marine Le Pen,Rassemblement national,45.0,47.8506,42.1494,20220207_0210r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-02-07,2022-02-10,1648,Inscrits sur les listes électorales,True,True,Deuxième tour,Hypothèse Macron / Le Pen,1170.08
