@@ -62740,6 +62740,115 @@
     ]
   },
   {
+    "id": "20220408_0408_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-04-08",
+    "fin_enquete": "2022-04-08",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "Le Monde",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Rapport%20Ipsos_LEMONDE%20_Intention%20de%20vote%20présidentielle%201er%20tour%202022.pdf",
+    "echantillon": 7547,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 7320.59,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 9,
+                "erreur_sup": 9.6556,
+                "erreur_inf": 8.3444
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 8.5,
+                "erreur_sup": 9.1389,
+                "erreur_inf": 7.8611
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 22.5,
+                "erreur_sup": 23.4566,
+                "erreur_inf": 21.5434
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 17.5,
+                "erreur_sup": 18.3704,
+                "erreur_inf": 16.6296
+              },
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 3,
+                "erreur_sup": 3.3908,
+                "erreur_inf": 2.6092
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.3207,
+                "erreur_inf": 1.6793
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 2,
+                "erreur_sup": 2.3207,
+                "erreur_inf": 1.6793
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.6616,
+                "erreur_inf": 0.3384
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 5,
+                "erreur_sup": 5.4993,
+                "erreur_inf": 4.5007
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.2279,
+                "erreur_inf": 0.7721
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 26.5,
+                "erreur_sup": 27.511,
+                "erreur_inf": 25.489
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 2.5,
+                "erreur_sup": 2.8576,
+                "erreur_inf": 2.1424
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220314_0316_clu",
     "nom_institut": "Cluster17",
     "debut_enquete": "2022-03-14",
