@@ -70789,6 +70789,45 @@
     ]
   },
   {
+    "id": "20220410_0410_ifp",
+    "nom_institut": "Ifop",
+    "debut_enquete": "2022-04-10",
+    "fin_enquete": "2022-04-10",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "TF1, LCI",
+    "lien": "https://www.ifop.com/wp-content/uploads/2022/04/118997-Rapport-SDV-PRE22-T1-21h05.pdf",
+    "echantillon": 968,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 968,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 49,
+                "erreur_sup": 52.1492,
+                "erreur_inf": 45.8508
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 51,
+                "erreur_sup": 54.1492,
+                "erreur_inf": 47.8508
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220330_0331_bva",
     "nom_institut": "BVA",
     "debut_enquete": "2022-03-30",
@@ -76697,6 +76736,154 @@
                 "intentions": 35,
                 "erreur_sup": 38.3129,
                 "erreur_inf": 31.6871
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220406_0408_clu",
+    "nom_institut": "Cluster17",
+    "debut_enquete": "2022-04-06",
+    "fin_enquete": "2022-04-08",
+    "rolling": false,
+    "media": false,
+    "commanditaire": null,
+    "lien": "https://cluster17.com/wp-content/uploads/2022/04/20220408_Cluster17_Rolling_hebdomadaire_Notice_technique_Publique.pdf",
+    "echantillon": 3218,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 3098.934,
+            "candidats": [
+              {
+                "candidat": "Fabien Roussel",
+                "parti": ["Parti communiste"],
+                "intentions": 2.5,
+                "erreur_sup": 3.0497,
+                "erreur_inf": 1.9503
+              },
+              {
+                "candidat": "Anne Hidalgo",
+                "parti": ["Parti socialiste"],
+                "intentions": 2,
+                "erreur_sup": 2.4929,
+                "erreur_inf": 1.5071
+              },
+              {
+                "candidat": "Jean-Luc Mélenchon",
+                "parti": ["France insoumise"],
+                "intentions": 18,
+                "erreur_sup": 19.3527,
+                "erreur_inf": 16.6473
+              },
+              {
+                "candidat": "Yannick Jadot",
+                "parti": ["EE-LV"],
+                "intentions": 4,
+                "erreur_sup": 4.6899,
+                "erreur_inf": 3.3101
+              },
+              {
+                "candidat": "Eric Zemmour",
+                "parti": ["Reconquête"],
+                "intentions": 9.5,
+                "erreur_sup": 10.5324,
+                "erreur_inf": 8.4676
+              },
+              {
+                "candidat": "Valérie Pécresse",
+                "parti": ["Les Républicains"],
+                "intentions": 9.5,
+                "erreur_sup": 10.5324,
+                "erreur_inf": 8.4676
+              },
+              {
+                "candidat": "Nicolas Dupont-Aignan",
+                "parti": ["Debout la France"],
+                "intentions": 3,
+                "erreur_sup": 3.6006,
+                "erreur_inf": 2.3994
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 26,
+                "erreur_sup": 27.5444,
+                "erreur_inf": 24.4556
+              },
+              {
+                "candidat": "Jean Lassalle",
+                "parti": ["Résistons"],
+                "intentions": 3,
+                "erreur_sup": 3.6006,
+                "erreur_inf": 2.3994
+              },
+              {
+                "candidat": "Nathalie Arthaud",
+                "parti": ["Lutte ouvrière"],
+                "intentions": 0.5,
+                "erreur_sup": 0.7483,
+                "erreur_inf": 0.2517
+              },
+              {
+                "candidat": "Philippe Poutou",
+                "parti": ["NPA"],
+                "intentions": 1,
+                "erreur_sup": 1.3503,
+                "erreur_inf": 0.6497
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 21,
+                "erreur_sup": 22.4341,
+                "erreur_inf": 19.5659
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220410_0410_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-04-10",
+    "fin_enquete": "2022-04-10",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "CNews, Europe 1",
+    "lien": "https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-et-europe-1-sondage-soir-du-vote-10-avril-2022/viewdocument/2842.html?Itemid=0",
+    "echantillon": 1739,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1373.81,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 46,
+                "erreur_sup": 48.6355,
+                "erreur_inf": 43.3645
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 54,
+                "erreur_sup": 56.6355,
+                "erreur_inf": 51.3645
               }
             ]
           }
