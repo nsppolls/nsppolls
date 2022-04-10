@@ -8093,6 +8093,8 @@ Nathalie Arthaud,Lutte ouvrière,0.5,0.6737,0.3263,20211207_1213_ips,Ipsos,"Le M
 Jean Lassalle,Résistons,1.0,1.2451,0.7549,20211207_1213_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,False,True,Premier tour,,6331.84
 Marine Le Pen,Rassemblement national,14.5,15.3673,13.6327,20211207_1213_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,False,True,Premier tour,,6331.84
 Arnaud Montebourg,,1.5,1.7994,1.2006,20211207_1213_ips,Ipsos,"Le Monde, Cevipof, Fondation Jean Jaurès",2021-12-07,2021-12-13,6736,Certains d'aller voter,False,True,Premier tour,,6331.84
+Marine Le Pen,Rassemblement national,49.0,52.1492,45.8508,20220410_0410_ifp,Ifop,"TF1, LCI",2022-04-10,2022-04-10,968,Inscrits sur les listes électorales,False,True,Deuxième tour,,968
+Emmanuel Macron,LRM,51.0,54.1492,47.8508,20220410_0410_ifp,Ifop,"TF1, LCI",2022-04-10,2022-04-10,968,Inscrits sur les listes électorales,False,True,Deuxième tour,,968
 Fabien Roussel,Parti communiste,3.5,4.6434,2.3566,20220330_0331_bva,BVA,"RTL, Orange",2022-03-30,2022-03-31,1154,Certains d'aller voter,False,True,Premier tour,,992.44
 Jean-Luc Mélenchon,France insoumise,15.5,17.7516,13.2484,20220330_0331_bva,BVA,"RTL, Orange",2022-03-30,2022-03-31,1154,Certains d'aller voter,False,True,Premier tour,,992.44
 Philippe Poutou,NPA,1.0,1.619,0.381,20220330_0331_bva,BVA,"RTL, Orange",2022-03-30,2022-03-31,1154,Certains d'aller voter,False,True,Premier tour,,992.44
@@ -8714,3 +8716,17 @@ Eric Zemmour,Reconquête,34.0,37.2237,30.7763,20220315_0316_bva,BVA,"RTL, Orange
 Emmanuel Macron,LRM,66.0,69.2237,62.7763,20220315_0316_bva,BVA,"RTL, Orange",2022-03-15,2022-03-16,1106,Certains d'aller voter,False,True,Deuxième tour,Hypothèse Macron / Zemmour,829.5
 Emmanuel Macron,LRM,65.0,68.3129,61.6871,20220315_0316_bva,BVA,"RTL, Orange",2022-03-15,2022-03-16,1106,Certains d'aller voter,False,True,Deuxième tour,Hypothèse Macron / Mélenchon,796.32
 Jean-Luc Mélenchon,France insoumise,35.0,38.3129,31.6871,20220315_0316_bva,BVA,"RTL, Orange",2022-03-15,2022-03-16,1106,Certains d'aller voter,False,True,Deuxième tour,Hypothèse Macron / Mélenchon,796.32
+Fabien Roussel,Parti communiste,2.5,3.0497,1.9503,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Anne Hidalgo,Parti socialiste,2.0,2.4929,1.5071,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Jean-Luc Mélenchon,France insoumise,18.0,19.3527,16.6473,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Yannick Jadot,EE-LV,4.0,4.6899,3.3101,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Eric Zemmour,Reconquête,9.5,10.5324,8.4676,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Valérie Pécresse,Les Républicains,9.5,10.5324,8.4676,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Nicolas Dupont-Aignan,Debout la France,3.0,3.6006,2.3994,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Emmanuel Macron,LRM,26.0,27.5444,24.4556,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Jean Lassalle,Résistons,3.0,3.6006,2.3994,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Nathalie Arthaud,Lutte ouvrière,0.5,0.7483,0.2517,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Philippe Poutou,NPA,1.0,1.3503,0.6497,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Marine Le Pen,Rassemblement national,21.0,22.4341,19.5659,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
+Marine Le Pen,Rassemblement national,46.0,48.6355,43.3645,20220410_0410_ow,Opinion Way,"CNews, Europe 1",2022-04-10,2022-04-10,1739,Inscrits sur les listes électorales,False,True,Deuxième tour,,1373.81
+Emmanuel Macron,LRM,54.0,56.6355,51.3645,20220410_0410_ow,Opinion Way,"CNews, Europe 1",2022-04-10,2022-04-10,1739,Inscrits sur les listes électorales,False,True,Deuxième tour,,1373.81
