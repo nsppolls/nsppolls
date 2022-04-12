@@ -77240,5 +77240,44 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20220410_0411_hi",
+    "nom_institut": "Harris Interactive",
+    "debut_enquete": "2022-04-10",
+    "fin_enquete": "2022-04-11",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "Challenges",
+    "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2022/04/YD88193NDIQ-D399D.pdf",
+    "echantillon": 2172,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2172,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 53,
+                "erreur_sup": 55.099,
+                "erreur_inf": 50.901
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 47,
+                "erreur_sup": 49.099,
+                "erreur_inf": 44.901
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
