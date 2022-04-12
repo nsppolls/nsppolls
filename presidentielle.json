@@ -52044,6 +52044,45 @@
     ]
   },
   {
+    "id": "20220410_0412r_ifp",
+    "nom_institut": "Ifop",
+    "debut_enquete": "2022-04-10",
+    "fin_enquete": "2022-04-12",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Paris Match, LCI, Sud Radio",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9576-rdp-ifop-pm-12-avril.pdf",
+    "echantillon": 1877,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1454.675,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 52.5,
+                "erreur_sup": 55.0663,
+                "erreur_inf": 49.9337
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 47.5,
+                "erreur_sup": 50.0663,
+                "erreur_inf": 44.9337
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220130_0202r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-01-30",
@@ -69707,6 +69746,45 @@
     ]
   },
   {
+    "id": "20220410_0411r_ifp",
+    "nom_institut": "Ifop",
+    "debut_enquete": "2022-04-10",
+    "fin_enquete": "2022-04-11",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Paris Match, LCI, Sud Radio",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9572-rdp-ifop-paris-match-lci-sud-radio.pdf",
+    "echantillon": 945,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 721.98,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 47.5,
+                "erreur_sup": 51.1427,
+                "erreur_inf": 43.8573
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 52.5,
+                "erreur_sup": 56.1427,
+                "erreur_inf": 48.8573
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20211208_1209_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2021-12-08",
@@ -76563,7 +76641,7 @@
     "rolling": true,
     "media": true,
     "commanditaire": "Les Echos, Radio Classique, Kea Partners",
-    "lien": null,
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9573-opinionway-kea-partners-les-echos-radio-classique-11-avril.pdf",
     "echantillon": 2174,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -77093,7 +77171,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "L'Obs, Mascaret",
-    "lien": "http://www.odoxa.fr/wp-content/uploads/2022/04/Intentions-de-vote-Odoxa-LObs-Mascaret-Vague-8.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9570-odoxa-l-obs-lemascaret-11-avril.pdf",
     "echantillon": 1411,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -77171,7 +77249,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "BFM TV, L'Express, SFR",
-    "lien": "https://elabe.fr/wp-content/uploads/2022/04/20220411_elabe_bfmtv_sondage-soir-du-vote-1.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9571-elabe-bfm-tv-11-avril.pdf",
     "echantillon": 1446,
     "population": "Certains d'aller voter",
     "tours": [
@@ -77195,6 +77273,45 @@
                 "intentions": 52,
                 "erreur_sup": 54.8791,
                 "erreur_inf": 49.1209
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220410_0411_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-04-10",
+    "fin_enquete": "2022-04-11",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "CNews",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9577-opinionway-pour-cnews-notice-a-la-commission-vague-37.pdf",
+    "echantillon": 1059,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 836.61,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 54,
+                "erreur_sup": 57.3773,
+                "erreur_inf": 50.6227
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 46,
+                "erreur_sup": 49.3773,
+                "erreur_inf": 42.6227
               }
             ]
           }
@@ -77249,7 +77366,7 @@
     "rolling": true,
     "media": true,
     "commanditaire": "Les Echos, Radio Classique, Kea Partners",
-    "lien": null,
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9575-rpw-opinionway-kea-partners-les-echos-radio-classique-12-avril.pdf",
     "echantillon": 1600,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -77288,7 +77405,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "Challenges",
-    "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2022/04/YD88193NDIQ-D399D.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9574-harris-interactive-challenges-v42-le-11-avril.pdf",
     "echantillon": 2172,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -77297,21 +77414,21 @@
         "hypotheses": [
           {
             "hypothese": null,
-            "sous_echantillon": 2172,
+            "sous_echantillon": 1672.44,
             "candidats": [
               {
                 "candidat": "Emmanuel Macron",
                 "parti": ["LRM"],
                 "intentions": 53,
-                "erreur_sup": 55.099,
-                "erreur_inf": 50.901
+                "erreur_sup": 55.392,
+                "erreur_inf": 50.608
               },
               {
                 "candidat": "Marine Le Pen",
                 "parti": ["Rassemblement national"],
                 "intentions": 47,
-                "erreur_sup": 49.099,
-                "erreur_inf": 44.901
+                "erreur_sup": 49.392,
+                "erreur_inf": 44.608
               }
             ]
           }
