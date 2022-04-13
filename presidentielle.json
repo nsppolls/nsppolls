@@ -77164,6 +77164,45 @@
     ]
   },
   {
+    "id": "20220412_0413_elb",
+    "nom_institut": "Elabe",
+    "debut_enquete": "2022-04-12",
+    "fin_enquete": "2022-04-13",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "BFM TV, L'Express, SFR",
+    "lien": "https://elabe.fr/wp-content/uploads/2022/04/les-francais-et-le-second-tour-de-lelection-presidentielle-2022.pdf",
+    "echantillon": 1151,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 932.31,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 46.5,
+                "erreur_sup": 49.7017,
+                "erreur_inf": 43.2983
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 53.5,
+                "erreur_sup": 56.7017,
+                "erreur_inf": 50.2983
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220411_0413r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-04-11",
