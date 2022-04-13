@@ -77164,6 +77164,45 @@
     ]
   },
   {
+    "id": "20220411_0413r_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-04-11",
+    "fin_enquete": "2022-04-13",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Les Echos, Radio Classique, Kea Partners",
+    "lien": null,
+    "echantillon": 1623,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Premier tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1233.48,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 53,
+                "erreur_sup": 55.7853,
+                "erreur_inf": 50.2147
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 47,
+                "erreur_sup": 49.7853,
+                "erreur_inf": 44.2147
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220410_0410_odx",
     "nom_institut": "Odoxa",
     "debut_enquete": "2022-04-10",
