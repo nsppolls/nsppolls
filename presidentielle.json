@@ -77170,7 +77170,7 @@
     "fin_enquete": "2022-04-13",
     "rolling": true,
     "media": true,
-    "commanditaire": null,
+    "commanditaire": "Le Parisien, France Info",
     "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-13-04_0.pdf",
     "echantillon": 1024,
     "population": "Certains d'aller voter",
@@ -77195,6 +77195,45 @@
                 "intentions": 45,
                 "erreur_sup": 48.2483,
                 "erreur_inf": 41.7517
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220411_0414r_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-04-11",
+    "fin_enquete": "2022-04-14",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Les Echos, Radio Classique, Kea Partners",
+    "lien": null,
+    "echantillon": 1611,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1224.36,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 53,
+                "erreur_sup": 55.7957,
+                "erreur_inf": 50.2043
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 47,
+                "erreur_sup": 49.7957,
+                "erreur_inf": 44.2043
               }
             ]
           }
