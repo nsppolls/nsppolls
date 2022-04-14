@@ -8754,8 +8754,10 @@ Jean Lassalle,Résistons,3.0,3.6006,2.3994,20220406_0408_clu,Cluster17,,2022-04-
 Nathalie Arthaud,Lutte ouvrière,0.5,0.7483,0.2517,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
 Philippe Poutou,NPA,1.0,1.3503,0.6497,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
 Marine Le Pen,Rassemblement national,21.0,22.4341,19.5659,20220406_0408_clu,Cluster17,,2022-04-06,2022-04-08,3218,Inscrits sur les listes électorales,False,False,Premier tour,,3098.934
-Emmanuel Macron,LRM,55.0,58.2483,51.7517,20220411_0413r_ips,Ipsos,,2022-04-11,2022-04-13,1024,Certains d'aller voter,True,True,Deuxième tour,,901.12
-Marine Le Pen,Rassemblement national,45.0,48.2483,41.7517,20220411_0413r_ips,Ipsos,,2022-04-11,2022-04-13,1024,Certains d'aller voter,True,True,Deuxième tour,,901.12
+Emmanuel Macron,LRM,55.0,58.2483,51.7517,20220411_0413r_ips,Ipsos,"Le Parisien, France Info",2022-04-11,2022-04-13,1024,Certains d'aller voter,True,True,Deuxième tour,,901.12
+Marine Le Pen,Rassemblement national,45.0,48.2483,41.7517,20220411_0413r_ips,Ipsos,"Le Parisien, France Info",2022-04-11,2022-04-13,1024,Certains d'aller voter,True,True,Deuxième tour,,901.12
+Emmanuel Macron,LRM,53.0,55.7957,50.2043,20220411_0414r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-04-11,2022-04-14,1611,Inscrits sur les listes électorales,True,True,Deuxième tour,,1224.36
+Marine Le Pen,Rassemblement national,47.0,49.7957,44.2043,20220411_0414r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-04-11,2022-04-14,1611,Inscrits sur les listes électorales,True,True,Deuxième tour,,1224.36
 Marine Le Pen,Rassemblement national,46.5,49.7017,43.2983,20220412_0413_elb,Elabe,"BFM TV, L'Express, SFR",2022-04-12,2022-04-13,1151,Certains d'aller voter,False,True,Deuxième tour,,932.31
 Emmanuel Macron,LRM,53.5,56.7017,50.2983,20220412_0413_elb,Elabe,"BFM TV, L'Express, SFR",2022-04-12,2022-04-13,1151,Certains d'aller voter,False,True,Deuxième tour,,932.31
 Emmanuel Macron,LRM,53.0,55.7853,50.2147,20220411_0413r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-04-11,2022-04-13,1623,Inscrits sur les listes électorales,True,True,Deuxième tour,,1233.48
