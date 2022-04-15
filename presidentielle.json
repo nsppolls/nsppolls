@@ -75441,6 +75441,45 @@
     ]
   },
   {
+    "id": "20220412_0414r_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-04-12",
+    "fin_enquete": "2022-04-14",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Le Parisien, France Info",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-14-04.pdf",
+    "echantillon": 1015,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 883.05,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 55,
+                "erreur_sup": 58.2813,
+                "erreur_inf": 51.7187
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 45,
+                "erreur_sup": 48.2813,
+                "erreur_inf": 41.7187
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220122_0126r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-01-22",
@@ -77203,6 +77242,45 @@
     ]
   },
   {
+    "id": "20220414_0415_odx",
+    "nom_institut": "Odoxa",
+    "debut_enquete": "2022-04-14",
+    "fin_enquete": "2022-04-15",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "L'Obs, Mascaret",
+    "lien": "http://www.odoxa.fr/wp-content/uploads/2022/04/Intentions-de-vote-Odoxa-LObs-Mascaret-Vague-9-1.pdf",
+    "echantillon": 940,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 733.2,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 47,
+                "erreur_sup": 50.6127,
+                "erreur_inf": 43.3873
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 53,
+                "erreur_sup": 56.6127,
+                "erreur_inf": 49.3873
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220411_0414r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-04-11",
@@ -77312,6 +77390,45 @@
                 "intentions": 47,
                 "erreur_sup": 49.7853,
                 "erreur_inf": 44.2147
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220413_0414_bva",
+    "nom_institut": "BVA",
+    "debut_enquete": "2022-04-13",
+    "fin_enquete": "2022-04-14",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "Orange, RTL",
+    "lien": "https://presidentielle2022.bva-group.com/wp-content/uploads/2022/04/BVA-Orange-RTL-Presidentielle-2022-Vague-14-IV-15.04.22.pdf",
+    "echantillon": 1162,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 987.7,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 54,
+                "erreur_sup": 57.1083,
+                "erreur_inf": 50.8917
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 46,
+                "erreur_sup": 49.1083,
+                "erreur_inf": 42.8917
               }
             ]
           }
