@@ -75307,6 +75307,45 @@
     ]
   },
   {
+    "id": "20220413_0415r_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-04-13",
+    "fin_enquete": "2022-04-15",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Le Parisien, France Info",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-15-04.pdf",
+    "echantillon": 989,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 840.65,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 56,
+                "erreur_sup": 59.3556,
+                "erreur_inf": 52.6444
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 44,
+                "erreur_sup": 47.3556,
+                "erreur_inf": 40.6444
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220327_0330r_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2022-03-27",
