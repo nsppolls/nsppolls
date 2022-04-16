@@ -1335,6 +1335,8 @@ Eric Zemmour,,5.5,7.2857,3.7143,20210608_0609_ifp,Ifop,Le Point,2021-06-08,2021-
 Xavier Bertrand,Les Républicains,13.5,16.1766,10.8234,20210608_0609_ifp,Ifop,Le Point,2021-06-08,2021-06-09,901,Inscrits sur les listes électorales,False,True,Premier tour,,626.195
 Nathalie Arthaud,Lutte ouvrière,0.5,1.0525,-0.0525,20210608_0609_ifp,Ifop,Le Point,2021-06-08,2021-06-09,901,Inscrits sur les listes électorales,False,True,Premier tour,,626.195
 Philippe Poutou,NPA,1.0,1.7793,0.2207,20210608_0609_ifp,Ifop,Le Point,2021-06-08,2021-06-09,901,Inscrits sur les listes électorales,False,True,Premier tour,,626.195
+Emmanuel Macron,LRM,53.0,54.91,51.09,20220413_0414_clu,Cluster17,,2022-04-13,2022-04-14,3329,Inscrits sur les listes électorales,False,False,,,2623.252
+Marine Le Pen,Rassemblement national,47.0,48.91,45.09,20220413_0414_clu,Cluster17,,2022-04-13,2022-04-14,3329,Inscrits sur les listes électorales,False,False,,,2623.252
 Arnaud Montebourg,,3.0,3.9743,2.0257,20211115_1117_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-11-15,2021-11-17,1454,Inscrits sur les listes électorales,False,True,Premier tour,Hypothèse Bertrand / Zemmour,1177.74
 Nathalie Arthaud,Lutte ouvrière,1.0,1.5683,0.4317,20211115_1117_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-11-15,2021-11-17,1454,Inscrits sur les listes électorales,False,True,Premier tour,Hypothèse Bertrand / Zemmour,1177.74
 Anne Hidalgo,Parti socialiste,5.0,6.2447,3.7553,20211115_1117_ow,Opinion Way,"Les Echos, CNews, Radio Classique",2021-11-15,2021-11-17,1454,Inscrits sur les listes électorales,False,True,Premier tour,Hypothèse Bertrand / Zemmour,1177.74
@@ -3573,6 +3575,8 @@ Nathalie Arthaud,Lutte ouvrière,1.0,1.5166,0.4834,20220307_0310r_ow,Opinion Way
 Nicolas Dupont-Aignan,Debout la France,2.0,2.7269,1.2731,20220307_0310r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-07,2022-03-10,1638,Inscrits sur les listes électorales,True,True,Premier tour,,1425.06
 Fabien Roussel,Parti communiste,4.0,5.0174,2.9826,20220307_0310r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-07,2022-03-10,1638,Inscrits sur les listes électorales,True,True,Premier tour,,1425.06
 Yannick Jadot,EE-LV,5.0,6.1316,3.8684,20220307_0310r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-07,2022-03-10,1638,Inscrits sur les listes électorales,True,True,Premier tour,,1425.06
+Marine Le Pen,Rassemblement national,44.5,47.7843,41.2157,20220414_0416r_ips,Ipsos,"Le Parisien, France Info",2022-04-14,2022-04-16,1011,Certains d'aller voter,True,True,Deuxième tour,,879.57
+Emmanuel Macron,LRM,55.5,58.7843,52.2157,20220414_0416r_ips,Ipsos,"Le Parisien, France Info",2022-04-14,2022-04-16,1011,Certains d'aller voter,True,True,Deuxième tour,,879.57
 Jean Lassalle,Résistons,3.0,3.9105,2.0895,20220314_0317r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-14,2022-03-17,1550,Inscrits sur les listes électorales,True,True,Premier tour,,1348.5
 Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20220314_0317r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-14,2022-03-17,1550,Inscrits sur les listes électorales,True,True,Premier tour,,1348.5
 Yannick Jadot,EE-LV,6.0,7.2676,4.7324,20220314_0317r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-14,2022-03-17,1550,Inscrits sur les listes électorales,True,True,Premier tour,,1348.5
@@ -3734,6 +3738,8 @@ Anne Hidalgo,Parti socialiste,2.0,2.7296,1.2704,20220319_0322r_ow,Opinion Way,"L
 Fabien Roussel,Parti communiste,3.0,3.889,2.111,20220319_0322r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-19,2022-03-22,1626,Inscrits sur les listes électorales,True,True,Premier tour,,1414.62
 Emmanuel Macron,LRM,56.0,58.8048,53.1952,20220319_0322r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-19,2022-03-22,1626,Inscrits sur les listes électorales,True,True,Deuxième tour,,1203.24
 Marine Le Pen,Rassemblement national,44.0,46.8048,41.1952,20220319_0322r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-19,2022-03-22,1626,Inscrits sur les listes électorales,True,True,Deuxième tour,,1203.24
+Marine Le Pen,Rassemblement national,46.5,48.6499,44.3501,20220412_0415r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-04-12,2022-04-15,2817,Inscrits sur les listes électorales,True,True,Deuxième tour,,2067.678
+Emmanuel Macron,LRM,53.5,55.6499,51.3501,20220412_0415r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-04-12,2022-04-15,2817,Inscrits sur les listes électorales,True,True,Deuxième tour,,2067.678
 Yannick Jadot,EE-LV,5.0,5.9821,4.0179,20220401_0404_hi,Harris Interactive,Challenges,2022-04-01,2022-04-04,2200,Inscrits sur les listes électorales,False,True,Premier tour,,1892
 Nicolas Dupont-Aignan,Debout la France,1.5,2.0477,0.9523,20220401_0404_hi,Harris Interactive,Challenges,2022-04-01,2022-04-04,2200,Inscrits sur les listes électorales,False,True,Premier tour,,1892
 Fabien Roussel,Parti communiste,2.5,3.2035,1.7965,20220401_0404_hi,Harris Interactive,Challenges,2022-04-01,2022-04-04,2200,Inscrits sur les listes électorales,False,True,Premier tour,,1892
@@ -7979,6 +7985,8 @@ Marine Le Pen,Rassemblement national,47.0,50.3168,43.6832,20220406_0408r_ips,Ips
 Emmanuel Macron,LRM,53.0,56.3168,49.6832,20220406_0408r_ips,Ipsos,"Le Parisien, France Info",2022-04-06,2022-04-08,1048,Certains d'aller voter,True,True,Deuxième tour,,869.84
 Marine Le Pen,Rassemblement national,47.5,51.1427,43.8573,20220410_0411r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-04-10,2022-04-11,945,Inscrits sur les listes électorales,True,True,Deuxième tour,,721.98
 Emmanuel Macron,LRM,52.5,56.1427,48.8573,20220410_0411r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-04-10,2022-04-11,945,Inscrits sur les listes électorales,True,True,Deuxième tour,,721.98
+Emmanuel Macron,LRM,53.5,55.6286,51.3714,20220411_0414r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-04-11,2022-04-14,2816,Inscrits sur les listes électorales,True,True,Deuxième tour,,2109.184
+Marine Le Pen,Rassemblement national,46.5,48.6286,44.3714,20220411_0414r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-04-11,2022-04-14,2816,Inscrits sur les listes électorales,True,True,Deuxième tour,,2109.184
 Marine Le Pen,Rassemblement national,16.0,18.5429,13.4571,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,962,Inscrits sur les listes électorales,False,False,Premier tour,,798.46
 Eric Zemmour,Reconquête,12.0,14.254,9.746,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,962,Inscrits sur les listes électorales,False,False,Premier tour,,798.46
 Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,962,Inscrits sur les listes électorales,False,False,Premier tour,,798.46
@@ -8614,6 +8622,8 @@ Marine Le Pen,Rassemblement national,41.0,43.7684,38.2316,20220306_0309r_ow,Opin
 Emmanuel Macron,LRM,59.0,61.7684,56.2316,20220306_0309r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-03-06,2022-03-09,1661,Inscrits sur les listes électorales,True,True,Deuxième tour,Hypothèse Macron / Le Pen,1212.53
 Emmanuel Macron,LRM,54.0,56.7813,51.2187,20220412_0415r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-04-12,2022-04-15,1602,Inscrits sur les listes électorales,True,True,Deuxième tour,,1233.54
 Marine Le Pen,Rassemblement national,46.0,48.7813,43.2187,20220412_0415r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-04-12,2022-04-15,1602,Inscrits sur les listes électorales,True,True,Deuxième tour,,1233.54
+Emmanuel Macron,LRM,53.0,56.3751,49.6249,20220411_0412_ow,Opinion Way,CNews,2022-04-11,2022-04-12,1091,Inscrits sur les listes électorales,False,True,Deuxième tour,,840.07
+Marine Le Pen,Rassemblement national,47.0,50.3751,43.6249,20220411_0412_ow,Opinion Way,CNews,2022-04-11,2022-04-12,1091,Inscrits sur les listes électorales,False,True,Deuxième tour,,840.07
 Jean Lassalle,Résistons,1.0,1.6407,0.3593,20220301_0302_ow,Opinion Way,CNews,2022-03-01,2022-03-02,1065,Inscrits sur les listes électorales,False,True,Premier tour,,926.55
 Emmanuel Macron,LRM,27.0,29.8587,24.1413,20220301_0302_ow,Opinion Way,CNews,2022-03-01,2022-03-02,1065,Inscrits sur les listes électorales,False,True,Premier tour,,926.55
 Eric Zemmour,Reconquête,12.0,14.0924,9.9076,20220301_0302_ow,Opinion Way,CNews,2022-03-01,2022-03-02,1065,Inscrits sur les listes électorales,False,True,Premier tour,,926.55
@@ -8673,6 +8683,10 @@ Jean-Luc Mélenchon,France insoumise,13.5,15.5342,11.4658,20220315_0318r_ifp,Ifo
 Nathalie Arthaud,Lutte ouvrière,0.0,0.0,0.0,20220315_0318r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-03-15,2022-03-18,1397,Inscrits sur les listes électorales,True,True,Premier tour,,1084.072
 Anne Hidalgo,Parti socialiste,2.0,2.8334,1.1666,20220315_0318r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-03-15,2022-03-18,1397,Inscrits sur les listes électorales,True,True,Premier tour,,1084.072
 Eric Zemmour,Reconquête,13.0,15.002,10.998,20220315_0318r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-03-15,2022-03-18,1397,Inscrits sur les listes électorales,True,True,Premier tour,,1084.072
+Marine Le Pen,Rassemblement national,47.0,50.3891,43.6109,20220412_0413_ow,Opinion Way,CNews,2022-04-12,2022-04-13,1082,Inscrits sur les listes électorales,False,True,Deuxième tour,,833.14
+Emmanuel Macron,LRM,53.0,56.3891,49.6109,20220412_0413_ow,Opinion Way,CNews,2022-04-12,2022-04-13,1082,Inscrits sur les listes électorales,False,True,Deuxième tour,,833.14
+Emmanuel Macron,LRM,52.0,54.1852,49.8148,20220412_0414_atl,Atlasintel,,2022-04-12,2022-04-14,2431,Français de plus de 18 ans,False,False,Deuxième tour,,2008.006
+Marine Le Pen,Rassemblement national,48.0,50.1852,45.8148,20220412_0414_atl,Atlasintel,,2022-04-12,2022-04-14,2431,Français de plus de 18 ans,False,False,Deuxième tour,,2008.006
 Jean Lassalle,Résistons,3.0,4.1033,1.8967,20220317_0321r_ips,Ipsos,"Le Parisien, France Info",2022-03-17,2022-03-21,977,Certains d'aller voter,True,True,Premier tour,,918.38
 Jean-Luc Mélenchon,France insoumise,13.0,15.1751,10.8249,20220317_0321r_ips,Ipsos,"Le Parisien, France Info",2022-03-17,2022-03-21,977,Certains d'aller voter,True,True,Premier tour,,918.38
 Fabien Roussel,Parti communiste,3.5,4.6886,2.3114,20220317_0321r_ips,Ipsos,"Le Parisien, France Info",2022-03-17,2022-03-21,977,Certains d'aller voter,True,True,Premier tour,,918.38
@@ -8770,6 +8784,8 @@ Marine Le Pen,Rassemblement national,46.5,49.7017,43.2983,20220412_0413_elb,Elab
 Emmanuel Macron,LRM,53.5,56.7017,50.2983,20220412_0413_elb,Elabe,"BFM TV, L'Express, SFR",2022-04-12,2022-04-13,1151,Certains d'aller voter,False,True,Deuxième tour,,932.31
 Emmanuel Macron,LRM,53.0,55.7853,50.2147,20220411_0413r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-04-11,2022-04-13,1623,Inscrits sur les listes électorales,True,True,Deuxième tour,,1233.48
 Marine Le Pen,Rassemblement national,47.0,49.7853,44.2147,20220411_0413r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-04-11,2022-04-13,1623,Inscrits sur les listes électorales,True,True,Deuxième tour,,1233.48
+Marine Le Pen,Rassemblement national,47.0,49.102,44.898,20220410_0413r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-04-10,2022-04-13,2831,Inscrits sur les listes électorales,True,True,Deuxième tour,,2165.715
+Emmanuel Macron,LRM,53.0,55.102,50.898,20220410_0413r_ifp,Ifop,"Paris Match, LCI, Sud Radio",2022-04-10,2022-04-13,2831,Inscrits sur les listes électorales,True,True,Deuxième tour,,2165.715
 Emmanuel Macron,LRM,54.0,57.1083,50.8917,20220413_0414_bva,BVA,"Orange, RTL",2022-04-13,2022-04-14,1162,Certains d'aller voter,False,True,Deuxième tour,,987.7
 Marine Le Pen,Rassemblement national,46.0,49.1083,42.8917,20220413_0414_bva,BVA,"Orange, RTL",2022-04-13,2022-04-14,1162,Certains d'aller voter,False,True,Deuxième tour,,987.7
 Marine Le Pen,Rassemblement national,45.5,48.5144,42.4856,20220410_0410_odx,Odoxa,"L'Obs, Mascaret",2022-04-10,2022-04-10,1411,Inscrits sur les listes électorales,False,True,Deuxième tour,,1048.373
@@ -8784,5 +8800,7 @@ Marine Le Pen,Rassemblement national,46.0,48.6355,43.3645,20220410_0410_ow,Opini
 Emmanuel Macron,LRM,54.0,56.6355,51.3645,20220410_0410_ow,Opinion Way,"CNews, Europe 1",2022-04-10,2022-04-10,1739,Inscrits sur les listes électorales,False,True,Deuxième tour,,1373.81
 Marine Le Pen,Rassemblement national,46.0,48.7476,43.2524,20220410_0412r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-04-10,2022-04-12,1600,Inscrits sur les listes électorales,True,True,Deuxième tour,,1264
 Emmanuel Macron,LRM,54.0,56.7476,51.2524,20220410_0412r_ow,Opinion Way,"Les Echos, Radio Classique, Kea Partners",2022-04-10,2022-04-12,1600,Inscrits sur les listes électorales,True,True,Deuxième tour,,1264
+Emmanuel Macron,LRM,53.0,56.4838,49.5162,20220413_0414_ow,Opinion Way,CNews,2022-04-13,2022-04-14,1024,Inscrits sur les listes électorales,False,True,Deuxième tour,,788.48
+Marine Le Pen,Rassemblement national,47.0,50.4838,43.5162,20220413_0414_ow,Opinion Way,CNews,2022-04-13,2022-04-14,1024,Inscrits sur les listes électorales,False,True,Deuxième tour,,788.48
 Emmanuel Macron,LRM,53.0,55.392,50.608,20220410_0411_hi,Harris Interactive,Challenges,2022-04-10,2022-04-11,2172,Inscrits sur les listes électorales,False,True,Deuxième tour,,1672.44
 Marine Le Pen,Rassemblement national,47.0,49.392,44.608,20220410_0411_hi,Harris Interactive,Challenges,2022-04-10,2022-04-11,2172,Inscrits sur les listes électorales,False,True,Deuxième tour,,1672.44
