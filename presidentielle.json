@@ -78022,6 +78022,45 @@
     ]
   },
   {
+    "id": "20220415_0418_hi",
+    "nom_institut": "Harris Interactive",
+    "debut_enquete": "2022-04-15",
+    "fin_enquete": "2022-04-18",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "Challenges",
+    "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2022/04/Rapport-Harris-Interactive-Toluna-V43-Intentions-de-vote-Presidentielle-2022-Challenges.pdf",
+    "echantillon": 2028,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2028,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 54,
+                "erreur_sup": 56.1692,
+                "erreur_inf": 51.8308
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 46,
+                "erreur_sup": 48.1692,
+                "erreur_inf": 43.8308
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220410_0413r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-04-10",
