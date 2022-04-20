@@ -78139,6 +78139,45 @@
     ]
   },
   {
+    "id": "20220415_0418_kat",
+    "nom_institut": "Kantar Public",
+    "debut_enquete": "2022-04-15",
+    "fin_enquete": "2022-04-18",
+    "rolling": false,
+    "media": false,
+    "commanditaire": "Epoka",
+    "lien": "https://kantarpublic.com/download/inspiration/104/2022-04-19-le-rapport-de-force-electoral.pdf",
+    "echantillon": 1400,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1400,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 45,
+                "erreur_sup": 47.606,
+                "erreur_inf": 42.394
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 55,
+                "erreur_sup": 57.606,
+                "erreur_inf": 52.394
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220410_0410_elb",
     "nom_institut": "Elabe",
     "debut_enquete": "2022-04-10",
