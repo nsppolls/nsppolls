@@ -56479,6 +56479,45 @@
     ]
   },
   {
+    "id": "20220415_0418_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-04-15",
+    "fin_enquete": "2022-04-18",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "Le Monde, Cevipof, Fondation Jean Jaurès",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos%20-%20Enquête%20Electorale%20-%20Vague%2010%20-%2020%20avril%202022.pdf",
+    "echantillon": 8693,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 7562.91,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 56,
+                "erreur_sup": 57.1187,
+                "erreur_inf": 54.8813
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 44,
+                "erreur_sup": 45.1187,
+                "erreur_inf": 42.8813
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220304_0307_hi",
     "nom_institut": "Harris Interactive",
     "debut_enquete": "2022-03-04",
