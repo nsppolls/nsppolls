@@ -17381,6 +17381,45 @@
     ]
   },
   {
+    "id": "20220418_0420r_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-04-18",
+    "fin_enquete": "2022-04-20",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Le Parisien, France Info",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-20-04.pdf",
+    "echantillon": 1032,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 897.84,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 43.5,
+                "erreur_sup": 46.7428,
+                "erreur_inf": 40.2572
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 56.5,
+                "erreur_sup": 59.7428,
+                "erreur_inf": 53.2572
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220220_0223r_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-02-20",
@@ -77795,7 +77834,7 @@
     "rolling": false,
     "media": false,
     "commanditaire": null,
-    "lien": null,
+    "lien": "https://cluster17.com/wp-content/uploads/2022/04/20220418_Cluster17_Notice-technique_Publique.pdf",
     "echantillon": 2793,
     "population": "Inscrits sur les listes électorales",
     "tours": [
