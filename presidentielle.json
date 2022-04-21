@@ -77129,6 +77129,45 @@
     ]
   },
   {
+    "id": "20220421_0421r_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-04-21",
+    "fin_enquete": "2022-04-21",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Le Parisien, France Info",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-21-04.pdf",
+    "echantillon": 1020,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 877.2,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 42.5,
+                "erreur_sup": 45.7714,
+                "erreur_inf": 39.2286
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 57.5,
+                "erreur_sup": 60.7714,
+                "erreur_inf": 54.2286
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220204_0208r_ifp",
     "nom_institut": "Ifop",
     "debut_enquete": "2022-02-04",
@@ -78599,6 +78638,45 @@
                 "intentions": 54,
                 "erreur_sup": 56.6355,
                 "erreur_inf": 51.3645
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220421_0421_odx",
+    "nom_institut": "Odoxa",
+    "debut_enquete": "2022-04-21",
+    "fin_enquete": "2022-04-21",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "L'Obs, Mascaret",
+    "lien": "http://www.odoxa.fr/wp-content/uploads/2022/04/Intentions-de-vote-Odoxa-LObs-Mascaret-Vague-10.pdf",
+    "echantillon": 1901,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1520.8,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 53,
+                "erreur_sup": 55.5085,
+                "erreur_inf": 50.4915
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 47,
+                "erreur_sup": 49.5085,
+                "erreur_inf": 44.4915
               }
             ]
           }
