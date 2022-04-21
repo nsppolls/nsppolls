@@ -78139,6 +78139,45 @@
     ]
   },
   {
+    "id": "20220420_0421r_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-04-20",
+    "fin_enquete": "2022-04-21",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Les Echos, Radio Classique, Kea Partners",
+    "lien": null,
+    "echantillon": 1334,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1053.86,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 44,
+                "erreur_sup": 46.997,
+                "erreur_inf": 41.003
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 56,
+                "erreur_sup": 58.997,
+                "erreur_inf": 53.003
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220413_0414_bva",
     "nom_institut": "BVA",
     "debut_enquete": "2022-04-13",
