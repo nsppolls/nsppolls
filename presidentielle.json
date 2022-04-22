@@ -67728,6 +67728,45 @@
     ]
   },
   {
+    "id": "20220421_0422_hi",
+    "nom_institut": "Harris Interactive",
+    "debut_enquete": "2022-04-21",
+    "fin_enquete": "2022-04-22",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "Challenges",
+    "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2022/04/ZCRNHVE-24.pdf",
+    "echantillon": 2068,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2068,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 55,
+                "erreur_sup": 57.1442,
+                "erreur_inf": 52.8558
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 45,
+                "erreur_sup": 47.1442,
+                "erreur_inf": 42.8558
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220221_0222_elb",
     "nom_institut": "Elabe",
     "debut_enquete": "2022-02-21",
@@ -69020,6 +69059,45 @@
                 "intentions": 53,
                 "erreur_sup": 55.4664,
                 "erreur_inf": 50.5336
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220421_0422_clu",
+    "nom_institut": "Cluster17",
+    "debut_enquete": "2022-04-21",
+    "fin_enquete": "2022-04-22",
+    "rolling": false,
+    "media": false,
+    "commanditaire": null,
+    "lien": "https://twitter.com/Cluster_17/status/1517565425319649280",
+    "echantillon": 3099,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2485.398,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 56,
+                "erreur_sup": 57.9515,
+                "erreur_inf": 54.0485
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 44,
+                "erreur_sup": 45.9515,
+                "erreur_inf": 42.0485
               }
             ]
           }
@@ -77168,11 +77246,11 @@
     ]
   },
   {
-    "id": "20220421_0421r_ips",
+    "id": "20220421_0421_ips",
     "nom_institut": "Ipsos",
     "debut_enquete": "2022-04-21",
     "fin_enquete": "2022-04-21",
-    "rolling": true,
+    "rolling": false,
     "media": true,
     "commanditaire": "Le Parisien, France Info",
     "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-21-04.pdf",
@@ -78638,6 +78716,45 @@
                 "intentions": 45,
                 "erreur_sup": 48.0193,
                 "erreur_inf": 41.9807
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220422_0422_ips",
+    "nom_institut": "Ipsos",
+    "debut_enquete": "2022-04-22",
+    "fin_enquete": "2022-04-22",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "Le Parisien, France Info",
+    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-22-04.pdf",
+    "echantillon": 1055,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 928.4,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 43,
+                "erreur_sup": 46.1846,
+                "erreur_inf": 39.8154
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 57,
+                "erreur_sup": 60.1846,
+                "erreur_inf": 53.8154
               }
             ]
           }
