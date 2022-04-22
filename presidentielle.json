@@ -64178,14 +64178,14 @@
             "candidats": [
               {
                 "candidat": "Emmanuel Macron",
-                "parti": [""],
+                "parti": ["LRM"],
                 "intentions": 55,
                 "erreur_sup": 58.8851,
                 "erreur_inf": 51.1149
               },
               {
                 "candidat": "Marine Le Pen",
-                "parti": [""],
+                "parti": ["Rassemblement national"],
                 "intentions": 45,
                 "erreur_sup": 48.8851,
                 "erreur_inf": 41.1149
@@ -78131,6 +78131,45 @@
                 "intentions": 47,
                 "erreur_sup": 49.7957,
                 "erreur_inf": 44.2043
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220421_0421_bva",
+    "nom_institut": "BVA",
+    "debut_enquete": "2022-04-21",
+    "fin_enquete": "2022-04-21",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "RTL, Orange",
+    "lien": "https://presidentielle2022.bva-group.com/wp-content/uploads/2022/04/BVA-Orange-RTL-Presidentielle-2022-Vague-15-IV-22.04.22.pdf",
+    "echantillon": 1222,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1038.7,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 44.5,
+                "erreur_sup": 47.5223,
+                "erreur_inf": 41.4777
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 55.5,
+                "erreur_sup": 58.5223,
+                "erreur_inf": 52.4777
               }
             ]
           }
