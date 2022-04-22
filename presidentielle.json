@@ -71490,6 +71490,45 @@
     ]
   },
   {
+    "id": "20220420_0422r_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-04-20",
+    "fin_enquete": "2022-04-22",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Les Echos, Radio Classique, Kea Partners",
+    "lien": null,
+    "echantillon": 2329,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 1816.62,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 43,
+                "erreur_sup": 45.2766,
+                "erreur_inf": 40.7234
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 57,
+                "erreur_sup": 59.2766,
+                "erreur_inf": 54.7234
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220330_0331_bva",
     "nom_institut": "BVA",
     "debut_enquete": "2022-03-30",
@@ -77575,6 +77614,45 @@
                 "intentions": 2,
                 "erreur_sup": 3.2091,
                 "erreur_inf": 0.7909
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220421_0422_elb",
+    "nom_institut": "Elabe",
+    "debut_enquete": "2022-04-21",
+    "fin_enquete": "2022-04-22",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "SFR, BFM TV, L’Express",
+    "lien": "https://elabe.fr/wp-content/uploads/2022/04/les-francais-et-le-2nd-tour-de-lelection-presidentielle-2022.pdf",
+    "echantillon": 1213,
+    "population": "Certains d'aller voter",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 982.53,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 44.5,
+                "erreur_sup": 47.6075,
+                "erreur_inf": 41.3925
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 55.5,
+                "erreur_sup": 58.6075,
+                "erreur_inf": 52.3925
               }
             ]
           }
