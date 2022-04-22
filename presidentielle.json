@@ -69074,7 +69074,7 @@
     "rolling": false,
     "media": false,
     "commanditaire": null,
-    "lien": "https://twitter.com/Cluster_17/status/1517565425319649280",
+    "lien": "https://cluster17.com/wp-content/uploads/2022/04/20220422_Cluster17_Notice-Technique-1.pdf",
     "echantillon": 3099,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -78248,6 +78248,45 @@
                 "intentions": 53,
                 "erreur_sup": 56.6127,
                 "erreur_inf": 49.3873
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220419_0420_clu",
+    "nom_institut": "Cluster17",
+    "debut_enquete": "2022-04-19",
+    "fin_enquete": "2022-04-20",
+    "rolling": false,
+    "media": false,
+    "commanditaire": null,
+    "lien": "https://cluster17.com/wp-content/uploads/2022/04/20220422_Cluster17_Notice-Technique-1.pdf",
+    "echantillon": 2726,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2180.8,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 55,
+                "erreur_sup": 57.088,
+                "erreur_inf": 52.912
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 45,
+                "erreur_sup": 47.088,
+                "erreur_inf": 42.912
               }
             ]
           }
