@@ -67735,7 +67735,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "Challenges",
-    "lien": "http://harris-interactive.fr/wp-content/uploads/sites/6/2022/04/ZCRNHVE-24.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9631-harris-interactive-challenges-v44-le-22-avril.pdf",
     "echantillon": 2068,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -67744,21 +67744,21 @@
         "hypotheses": [
           {
             "hypothese": null,
-            "sous_echantillon": 2068,
+            "sous_echantillon": 1633.72,
             "candidats": [
               {
                 "candidat": "Emmanuel Macron",
                 "parti": ["LRM"],
                 "intentions": 55,
-                "erreur_sup": 57.1442,
-                "erreur_inf": 52.8558
+                "erreur_sup": 57.4124,
+                "erreur_inf": 52.5876
               },
               {
                 "candidat": "Marine Le Pen",
                 "parti": ["Rassemblement national"],
                 "intentions": 45,
-                "erreur_sup": 47.1442,
-                "erreur_inf": 42.8558
+                "erreur_sup": 47.4124,
+                "erreur_inf": 42.5876
               }
             ]
           }
@@ -71575,7 +71575,7 @@
     "rolling": true,
     "media": true,
     "commanditaire": "Les Echos, Radio Classique, Kea Partners",
-    "lien": null,
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9635-opinionway-kea-partners-les-echos-radio-classique-22-avril.pdf",
     "echantillon": 2329,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -76033,7 +76033,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "Le Monde",
-    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Rapport%20Ipsos_LeMonde%20_Intention%20de%20vote%20présidentielle%202nd%20tour%202022.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9634-ipsos-le-monde-22-avril.pdf",
     "echantillon": 8578,
     "population": "Certains d'aller voter",
     "tours": [
@@ -77292,7 +77292,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "Le Parisien, France Info",
-    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-21-04.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9622-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-32-21-avril.pdf",
     "echantillon": 1020,
     "population": "Certains d'aller voter",
     "tours": [
@@ -77746,7 +77746,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "SFR, BFM TV, L’Express",
-    "lien": "https://elabe.fr/wp-content/uploads/2022/04/les-francais-et-le-2nd-tour-de-lelection-presidentielle-2022.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9629-elabe-bfm-tv-22-04.pdf",
     "echantillon": 1213,
     "population": "Certains d'aller voter",
     "tours": [
@@ -78380,7 +78380,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "RTL, Orange",
-    "lien": "https://presidentielle2022.bva-group.com/wp-content/uploads/2022/04/BVA-Orange-RTL-Presidentielle-2022-Vague-15-IV-22.04.22.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9624-bva-orange-rtl-vague-15-le-22-avril-notice.pdf",
     "echantillon": 1222,
     "population": "Certains d'aller voter",
     "tours": [
@@ -78614,7 +78614,7 @@
     "rolling": true,
     "media": true,
     "commanditaire": "Les Echos, Radio Classique, Kea Partners",
-    "lien": null,
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9625-opinionway-kea-partners-les-echos-radio-classique-21-avril.pdf",
     "echantillon": 1334,
     "population": "Inscrits sur les listes électorales",
     "tours": [
@@ -78809,7 +78809,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "Le Parisien, France Info",
-    "lien": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos-Barometre_2022-22-04.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9632-ipsos-le-parisien-aujourd-hui-en-france-france-info-barometre-2022-vague-33-22-avril.pdf",
     "echantillon": 1055,
     "population": "Certains d'aller voter",
     "tours": [
@@ -78965,7 +78965,7 @@
     "rolling": false,
     "media": true,
     "commanditaire": "L'Obs, Mascaret",
-    "lien": "http://www.odoxa.fr/wp-content/uploads/2022/04/Intentions-de-vote-Odoxa-LObs-Mascaret-Vague-10.pdf",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9621-odoxa-l-obs-le-mascaret-vague-10-21-avril.pdf",
     "echantillon": 1901,
     "population": "Inscrits sur les listes électorales",
     "tours": [
