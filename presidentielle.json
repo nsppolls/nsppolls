@@ -52679,6 +52679,45 @@
     ]
   },
   {
+    "id": "20220418_0421r_ifp",
+    "nom_institut": "Ifop",
+    "debut_enquete": "2022-04-18",
+    "fin_enquete": "2022-04-21",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Paris Match, LCI, Sud Radio",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9618-ifop-pm-le-21-avril.pdf",
+    "echantillon": 2839,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2103.699,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 44.5,
+                "erreur_sup": 46.6237,
+                "erreur_inf": 42.3763
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 55.5,
+                "erreur_sup": 57.6237,
+                "erreur_inf": 53.3763
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220227_0228_elb",
     "nom_institut": "Elabe",
     "debut_enquete": "2022-02-27",
@@ -73358,6 +73397,45 @@
     ]
   },
   {
+    "id": "20220419_0420_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-04-19",
+    "fin_enquete": "2022-04-20",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "CNews",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9623-opinionway-cnews-vague-43-21-avril.pdf",
+    "echantillon": 1027,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 811.33,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 57,
+                "erreur_sup": 60.4067,
+                "erreur_inf": 53.5933
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 43,
+                "erreur_sup": 46.4067,
+                "erreur_inf": 39.5933
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220329_0330_ow",
     "nom_institut": "Opinion Way",
     "debut_enquete": "2022-03-29",
@@ -77778,6 +77856,45 @@
     ]
   },
   {
+    "id": "20220420_0421_ow",
+    "nom_institut": "Opinion Way",
+    "debut_enquete": "2022-04-20",
+    "fin_enquete": "2022-04-21",
+    "rolling": false,
+    "media": true,
+    "commanditaire": "CNews",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9633-opinionway-pour-cnews-vague-44-le-22-avril.pdf",
+    "echantillon": 1004,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 803.2,
+            "candidats": [
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 43,
+                "erreur_sup": 46.4239,
+                "erreur_inf": 39.5761
+              },
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 57,
+                "erreur_sup": 60.4239,
+                "erreur_inf": 53.5761
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "20220315_0316_bva",
     "nom_institut": "BVA",
     "debut_enquete": "2022-03-15",
@@ -78053,6 +78170,45 @@
                 "intentions": 21,
                 "erreur_sup": 22.4341,
                 "erreur_inf": 19.5659
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20220419_0422r_ifp",
+    "nom_institut": "Ifop",
+    "debut_enquete": "2022-04-19",
+    "fin_enquete": "2022-04-22",
+    "rolling": true,
+    "media": true,
+    "commanditaire": "Paris Match, LCI, Sud Radio",
+    "lien": "http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9628-rdp-ifop-pm-le-22-avril.pdf",
+    "echantillon": 2834,
+    "population": "Inscrits sur les listes électorales",
+    "tours": [
+      {
+        "tour": "Deuxième tour",
+        "hypotheses": [
+          {
+            "hypothese": null,
+            "sous_echantillon": 2128.334,
+            "candidats": [
+              {
+                "candidat": "Emmanuel Macron",
+                "parti": ["LRM"],
+                "intentions": 55,
+                "erreur_sup": 57.1136,
+                "erreur_inf": 52.8864
+              },
+              {
+                "candidat": "Marine Le Pen",
+                "parti": ["Rassemblement national"],
+                "intentions": 45,
+                "erreur_sup": 47.1136,
+                "erreur_inf": 42.8864
               }
             ]
           }
