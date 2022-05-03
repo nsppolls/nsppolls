@@ -1,9 +1,4 @@
 ﻿id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
-840,Thomas,Lepeltier,homme,,0Ci-03,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
-973,Valentin,Thevenot,homme,,0Ci-04,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
-737,Jérôme,Dumarty,homme,,0Ci-06,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
-951,Jérôme,Segal,homme,,0Ci-07,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
-979,Rachel,Touitou,femme,,0Ci-08,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 46,Alexandre,Nanchi,homme,,001-02,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/,
 352,Lumir,Lapray,femme,,001-02,EE-LV,https://www.eelv.fr/ma-1ere-valid-scenar-candidatures-leg-22-cf20220320/,
 794,Thomas,Iglésis,homme,,001-02,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
@@ -845,12 +840,17 @@
 189,Bertrand,Dupont,homme,,999-02,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 190,Artus,Galiay,homme,,999-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 587,Charlotte,Minvielle,femme,,999-03,EE-LV,https://www.eelv.fr/ma-1ere-valid-scenar-candidatures-leg-22-cf20220320/,
+840,Thomas,Lepeltier,homme,,999-03,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 191,Laurent,Goater,homme,,999-04,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
+973,Valentin,Thevenot,homme,,999-04,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 589,Julie,Tamba,femme,,999-05,EE-LV,https://www.eelv.fr/ma-1ere-valid-scenar-candidatures-leg-22-cf20220320/,
 1030,Nicolas,Chamoux,homme,,999-05,Reconquête,https://twitter.com/ReconquetePTL/status/1520092252906926081,
 192,Régine,Mazloum-Martin,femme,,999-06,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
+737,Jérôme,Dumarty,homme,,999-06,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1027,Philippe,Tissot,homme,,999-06,Reconquête,https://twitter.com/Ph_TISSOT_Pol/status/1519939816506408961,https://twitter.com/Ph_TISSOT_Pol
 193,Aurélie,Fondecave,femme,,999-07,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
+951,Jérôme,Segal,homme,,999-07,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
+979,Rachel,Touitou,femme,,999-08,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1023,Serge,Siksik,homme,,999-08,Reconquête,https://twitter.com/sergesiksik,https://twitter.com/sergesiksik
 194,Aurélie,Pirillo,femme,,999-10,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 195,Catya,Martin,femme,,999-11,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
