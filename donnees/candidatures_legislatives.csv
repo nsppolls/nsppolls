@@ -348,7 +348,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
 80,Francine,Maragliano,femme,,027-02,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/,
 1646,Fabien,Gouttefarde,homme,checked,027-02,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 1857,Nathalie,Samson,femme,,027-02,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,https://twitter.com/UnionPop27cir2
-81,Thomas,Elexhauser,homme,,027-03,Les Centristes,LR,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/,
+81,Thomas,Elexhauser,homme,,027-03,"Les Centristes,LR",https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/,
 1004,Annaïck,Wayolle,femme,,027-03,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1647,Marie,Tamarelle-Verhaghe,femme,checked,027-03,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 1858,Jean-Christophe,Turpin,homme,,027-03,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,https://twitter.com/JcLeNormand27
@@ -605,7 +605,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
 1471,Dominique,Daillet,homme,,037-02,Reconquête,https://www.lanouvellerepublique.fr/indre-et-loire/indre-et-loire-reconquete-presente-ses-candidats-aux-elections-legislatives,
 1480,Christophe,Guestault,homme,,037-02,RN,https://www.lanouvellerepublique.fr/indre-et-loire/indre-et-loire-le-rassemblement-national-presente-ses-candidats-aux-legislatives,
 1908,Christelle,Gobert,femme,,037-02,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,
-297,Sophie,Métadier,femme,checked,037-03,LR,UDI,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
+297,Sophie,Métadier,femme,checked,037-03,"LR,UDI",https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 1283,Henri,Alfandari,homme,,037-03,LRM,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 1472,Sylvie,Patte,femme,,037-03,Reconquête,https://www.lanouvellerepublique.fr/indre-et-loire/indre-et-loire-reconquete-presente-ses-candidats-aux-elections-legislatives,
 1481,Irène,Protin,femme,,037-03,RN,https://www.lanouvellerepublique.fr/indre-et-loire/indre-et-loire-le-rassemblement-national-presente-ses-candidats-aux-legislatives,
@@ -675,7 +675,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
 1923,Reda,Belkadi,homme,,041-01,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,https://twitter.com/RedaBelkadi_
 1770,Emmanuelle,Chaplaut,femme,,041-02,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 1924,Jérémie,Demaline,homme,,041-02,PCF,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,https://twitter.com/JeremieDemaline
-304,Pascal,Brindeau,homme,checked,041-03,LR,UDI,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
+304,Pascal,Brindeau,homme,checked,041-03,"LR,UDI",https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 666,Amélie,Buellet,femme,,041-03,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1184,Noé,Petit,homme,,041-03,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,
 1537,Christophe,Marion,homme,,041-03,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -909,7 +909,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
 154,Lisa,Lahore,femme,,057-02,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,https://twitter.com/LisaLahore
 970,Quentin,Teixeira,homme,,057-02,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1552,Ludovic,Mendes,homme,checked,057-02,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-154,Nathalie,Colin-Oesterlé,femme,,057-03,Les Centristes,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
+154,Nathalie,Colin-Oesterlé,femme,,057-03,"Les Centristes,LR",https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 807,Roxane,Jurion,femme,,057-03,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 808,Charlotte,Leduc,femme,,057-03,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,
 1553,Richard,Lioger,homme,checked,057-03,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -1404,7 +1404,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
 1466,Frédéric,Mazier,homme,,076-05,Reconquête,https://www.ouest-france.fr/elections/legislatives/legislatives-reconquete-le-parti-d-eric-zemmour-presente-neuf-candidats-en-seine-maritime-fcd9fe90-cbad-11ec-af12-5edd1098f51b,
 1656,Jean,Delalandre,homme,,076-05,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 2047,Gérard,Leseul,homme,checked,076-05,PS,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,https://twitter.com/LeseulG
-162,Robin,Devogelaere,homme,,076-06,Les Centristes,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
+162,Robin,Devogelaere,homme,,076-06,"Les Centristes,LR",https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 960,Nathalie,Spriet,femme,,076-06,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1467,Claire,Coppin,femme,,076-06,Reconquête,https://www.ouest-france.fr/elections/legislatives/legislatives-reconquete-le-parti-d-eric-zemmour-presente-neuf-candidats-en-seine-maritime-fcd9fe90-cbad-11ec-af12-5edd1098f51b,
 1788,Lisa,Brouté,femme,,076-06,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -1422,7 +1422,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
 956,Carole,Servais,femme,,076-09,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1155,Victor,Balier,homme,,076-09,LR,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 2196,Stéphanie,Fouani,femme,,076-09,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,
-164,Pascal,Houbron,homme,,076-10,Les Centristes,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
+164,Pascal,Houbron,homme,,076-10,"Les Centristes,LR",https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 841,Marine,Lercier,femme,,076-10,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1218,Véronique,Beregovoy,femme,,076-10,EE-LV,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,
 1659,Xavier,Batut,homme,checked,076-10,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -1477,7 +1477,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
 1608,Jean-Noël,Barrot,homme,checked,078-02,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 725,Lionel,Deschamps,homme,,078-03,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1045,Jean-François,Cuignet,homme,,078-03,Reconquête,https://twitter.com/jfcuignet/status/1521549978723835905,https://twitter.com/jfcuignet
-1130,Bertrand,Coquard,homme,,078-03,LR,UDI,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
+1130,Bertrand,Coquard,homme,,078-03,"LR,UDI",https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 1609,Béatrice,Piron,femme,checked,078-03,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 2057,Louise,Brody,femme,,078-03,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,https://twitter.com/LouiseBrodyy
 923,Chloë,Richard-Desoubeaux,femme,,078-04,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
@@ -1622,7 +1622,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
 169,Léonard,Zerbib,homme,,086-03,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 1677,Pascal,Lecamp,homme,,086-03,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 2082,Jason,Valente,homme,,086-03,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,https://twitter.com/JasonValente86
-170,Anne-Laurence,Bourat,femme,,086-04,Les Centristes,LR,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
+170,Anne-Laurence,Bourat,femme,,086-04,"Les Centristes,LR",https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 907,Sylvie,Pimot,femme,,086-04,Parti animaliste,https://parti-animaliste.fr/legislatives2022,
 1448,Marion,Lathus,femme,,086-04,RN,https://www.lanouvellerepublique.fr/vienne/commune/saint-clair/legislatives-le-rassemblement-national-ambitieux-dans-le-nord-vienne,
 1678,Nicolas,Turquois,homme,,086-04,LRM,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -1657,7 +1657,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,lien,twitter
 2220,Manon,Dene,femme,,089-03,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,
 1257,Thiébaud,Grudler,homme,,090-01,LRM,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 2221,Gérald,Loridat,homme,,090-01,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,
-324,Michel,Zumkeller,homme,checked,090-02,LR,UDI,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
+324,Michel,Zumkeller,homme,checked,090-02,"LR,UDI",https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 1258,Baptiste,Petitjean,homme,,090-02,LRM,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 2222,Florian,Chauche,homme,,090-02,LFI,https://docs.google.com/spreadsheets/d/1CXYTgCuN_Mz64TIwSzaT9E31Gm_2-1auufzD3URSA50/edit#gid=515295405,
 67,Samira,Ketfi,femme,,091-01,LR,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/,
