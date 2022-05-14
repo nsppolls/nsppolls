@@ -1,7 +1,8 @@
-﻿id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
+id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
 8237,Xavier,Breton,homme,checked,001-01,"LR,UDI",,https://www.leprogres.fr/elections/2022/04/30/legislatives-reconquete-aura-cinq-candidats-dans-l-ain,
 7627,Brigitte,Giannotti,femme,,001-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5643,Vincent,Guillermin,homme,,001-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
+8355,Sébastien,Gueraud,homme,,001-01,PS,,,https://twitter.com/SebGueraud
 5648,Romain,Daubie,homme,,001-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7628,Olivier,Eyraud,homme,,001-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5646,Thomas,Iglésis,homme,,001-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
@@ -24,7 +25,7 @@
 5660,Olivier,Fenioux,homme,,002-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 5656,Paul,Mougenot,homme,,002-01,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 7588,Fatima,El Ouasdi,femme,,002-02,LRM,,,
-5662,Marie-Line,Langlois,femme,,002-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5662,Marie-Line,Langlois,femme,,002-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/MarieLineLANGL2
 5661,Lola,Puissant,femme,,002-02,RN,,https://www.aisnenouvelle.fr/id303642/article/2022-05-05/voici-les-cinq-candidats-du-rassemblement-national-dans-laisne,
 5664,Jean-Louis,Bricout,homme,checked,002-03,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,https://twitter.com/jlbricout
 5663,Paul-Henry,Hansen-Catta,homme,,002-03,RN,,https://www.aisnenouvelle.fr/id303642/article/2022-05-05/voici-les-cinq-candidats-du-rassemblement-national-dans-laisne,
@@ -74,7 +75,7 @@
 7827,Éric,Sarlin,homme,,005-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7828,Louis,Albrand,homme,,005-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5693,Carole,Chauvet,femme,,005-02,LR,,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/,
-5696,Capucine,Gambier,femme,,005-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5696,Capucine,Mounal,femme,,005-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 5695,Joël,Giraud,homme,,005-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 5694,Yann,Passereau,homme,,005-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5700,Anne-Laure,Chaintron,femme,,006-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/ChaintronAnne
@@ -108,7 +109,7 @@
 5717,Laurence,Trastour-Isnart,femme,checked,006-06,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 7648,Tanguy,Cornec,homme,,006-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5722,Eric,Mele,homme,,006-07,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-5723,Arthur,Meyer Abatucci,homme,,006-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5723,Arthur,Meyer Abatucci,homme,,006-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/UnionPopAntibes 
 5720,Mégane,Pargaud,femme,,006-07,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5721,Eric,Pauget,homme,checked,006-07,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 5725,Jean-Valéry,Desens,homme,,006-08,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -125,7 +126,7 @@
 5729,Boris,Tzaprenko,homme,,007-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5730,Michel,Valla,homme,,007-01,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 5734,Olivier,Dussopt,homme,,007-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
-5735,Christophe,Goulouzelle,homme,,007-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/AlbertLvy1/
+5735,Christophe,Goulouzelle,homme,,007-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 7652,Cyrille,Grangier,homme,,007-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5733,Marc-Antoine,Quenette,homme,,007-02,LR,,https://republicains.fr/actualites/2021/12/17/decision-de-la-commission-nationale-dinvestiture-4/,
 8197,Fabrice,Brun,homme,checked,007-03,"LR,UDI",,https://www.ledauphine.com/elections/2022/04/29/fabrice-brun-repart-dans-la-3e-circonscription,https://twitter.com/FabriceBrun
@@ -178,7 +179,7 @@
 5765,Danièle,Hérin,femme,checked,011-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 5762,Laurent,Perez,homme,,011-01,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 5767,Cyril,Cambon,homme,,011-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-5766,Quentin,Estrade,homme,,011-02,"Les Centristes,LR",,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
+5766,Quentin,Estrade,homme,,011-02,Les Centristes,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 7663,Frédéric,Falcon,homme,,011-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5768,Alain,Perea,homme,,011-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 5769,Viviane,Thivent,femme,,011-02,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/vaivethi
@@ -226,11 +227,11 @@
 7605,Cathy,Racon-Bouzon,femme,,013-05,LRM,,,
 7682,Éléonore,Bez,femme,,013-06,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5804,Angélique,Collette,femme,,013-06,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-5807,Magali,Holagne,femme,,013-06,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,
+5807,Magali,Holagne,femme,,013-06,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,https://twitter.com/MagaliHolagne
 5803,Didier,Réault,homme,,013-06,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 7606,Lionel,Royer-Perreaut,homme,,013-06,LRM,,,
 7607,Saïd,Ahamada,homme,,013-07,LRM,,,
-5810,Sébastien,Delogu,homme,,013-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5810,Sébastien,Delogu,homme,,013-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/sebastiendelogu
 5808,Laetitia,Leonard,femme,,013-07,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7683,Mourad Arezki,Selloum,homme,,013-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5814,Eric,Deligny,homme,,013-08,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
@@ -242,7 +243,7 @@
 5815,Roland,Giberti,homme,,013-09,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 7609,Bertrand,Mas-Fraissinet,homme,,013-09,LRM,,,
 5817,Joëlle,Melin,femme,,013-09,RN,,https://www.francebleu.fr/infos/politique/bouches-du-rhone-16-candidats-rassemblement-national-aux-legislatives-1651782909,
-5818,Lucas,Trottman,homme,,013-09,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5818,Lucas,Trottman,homme,,013-09,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Lucas_Trottmann
 7610,Véronique,Bourcet,femme,,013-10,LRM,,,
 5820,Celine,Colantonio,femme,,013-10,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5821,José,Gonzalez,homme,,013-10,RN,,https://www.francebleu.fr/infos/politique/bouches-du-rhone-16-candidats-rassemblement-national-aux-legislatives-1651782909,
@@ -253,7 +254,7 @@
 7611,Mohamed,Laqhila,homme,,013-11,LRM,,,
 5825,Stéphane,Salord,homme,,013-11,Génération écologie,,https://gomet.net/europe-ecologie-les-verts-candidats-aux-legislatives/,https://twitter.com/stefsalord
 5826,Franck,Allisio,homme,,013-12,RN,,https://www.francebleu.fr/infos/politique/bouches-du-rhone-16-candidats-rassemblement-national-aux-legislatives-1651782909,
-5827,Isabelle,Chauvin,femme,,013-12,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5827,Isabelle,Chauvin,femme,,013-12,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/ChvIsabelle
 7612,Thierry,Boissin,homme,,013-13,LRM,,,
 5831,Pierre,Dharréville,homme,checked,013-13,PCF,,,https://twitter.com/pdharreville
 5828,Jean-Luc,Di Maria,homme,,013-13,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
@@ -261,18 +262,19 @@
 5829,Marie,Mainville,femme,,013-13,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5832,Michel,Boulan,homme,,013-14,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 5834,Emeline,Coch,femme,,013-14,RN,,https://www.francebleu.fr/infos/politique/bouches-du-rhone-16-candidats-rassemblement-national-aux-legislatives-1651782909,
-5835,Hélène,Le Cacheux,femme,,013-14,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5835,Hélène,Le Cacheux,femme,,013-14,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/LNLeCacheux
 5833,Valérie,Michon,femme,,013-14,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7613,Anne-Laurence,Pétel,femme,,013-14,LRM,,,
 7614,Marie-Laurence,Anzalone,femme,,013-15,LRM,,,
 5837,Romain,Baubry,homme,,013-15,RN,,https://www.francebleu.fr/infos/politique/bouches-du-rhone-16-candidats-rassemblement-national-aux-legislatives-1651782909,
-5838,Michèle,Jung,femme,,013-15,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5838,Michèle,Jung,femme,,013-15,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/MicheleJung13
 5836,Sandrine,Klein,femme,,013-15,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8205,Bernard,Reynès,homme,checked,013-15,"LR,UDI",,https://www.leregional.fr/elections-legislatives-bernard-reynes-candidat-a-sa-succession-sur-la-15e-circonscription/,
 5840,Christelle,Aillet,femme,,013-16,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 7615,Mariana,Caillaud,femme,,013-16,LRM,,,
 5839,Cédric,Cesari,homme,,013-16,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5841,Emmanuel,Taché de la Pagerie,homme,,013-16,RN,,https://www.francebleu.fr/infos/politique/bouches-du-rhone-16-candidats-rassemblement-national-aux-legislatives-1651782909,
+8356,Christophe,Caillault,homme,,013-16,PS,,,https://twitter.com/CCAILLAULT
 5845,Emma,Fourreau,femme,,014-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/emma_frr
 7693,Josseline,Gerszkourez,femme,,014-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5844,Fabrice,Le Vigoureux,homme,,014-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
@@ -292,7 +294,7 @@
 5857,Bertrand,Bouyx,homme,checked,014-05,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7697,Philippe,Chapron,homme,,014-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5855,Michaël,Friquet,homme,,014-05,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-5856,Valérie,Harel,femme,,014-05,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,
+5856,Valérie,Harel,femme,,014-05,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/Harel2022
 5858,Bruno,Battail,homme,,014-06,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5859,Élisabeth,Borne,femme,,014-06,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 5860,Noé,Gauchard,homme,,014-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/GauchardNoe
@@ -356,7 +358,7 @@
 5898,Karine,Tissier,femme,,018-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5901,Christophe,Jerretie,homme,checked,019-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7712,Jocelyne,Pouget,femme,,019-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
-5902,Valérie,Roussel,femme,,019-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+8357,Sandrine,Deveaud,femme,,019-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 5906,Nicolas,Brousse,homme,,019-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7714,Valéry,Elophe,homme,,019-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5905,Chloé,Herhzaft,femme,,019-02,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/cherzhaft
@@ -364,7 +366,7 @@
 5904,Céline,Sauviniat,femme,,019-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5907,François-Xavier,Dugourd,homme,,021-01,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 5908,Didier,Martin,homme,checked,021-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-5909,Antoine,Peillon,homme,,021-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5909,Antoine,Peillon,homme,,021-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/antoinepeillon
 8262,Julien,Thévenin,homme,,021-01,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/grand-est,
 5912,Benoît,Bordat,homme,,021-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7718,Mélanie,Fortier,femme,,021-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -380,7 +382,7 @@
 5917,Hubert,Brigand,homme,,021-04,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 5919,Yolaine,de Courson,femme,checked,021-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 5918,Michel,Guillet,homme,,021-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-5920,Stephane,Guinot,homme,,021-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5920,Stephane,Guinot,homme,,021-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/StephaneGuinot
 8265,Isabelle,Marchal,femme,,021-04,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/grand-est,
 7720,Jean Marc,Ponelle,homme,,021-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7721,René,Lioret,homme,,021-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -393,11 +395,12 @@
 5927,Hervé,Berville,homme,checked,022-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 5926,Raphaël,Drouillet,homme,,022-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7723,Antoine,Kieffer,homme,,022-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
+8358,Bruno,Ricard,homme,,022-02,PS,,,
 5930,Olivier,Allain,homme,,022-03,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7724,Odile,De Mellon,femme,,022-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 8225,Marc,Le Fur,homme,checked,022-03,"LR,UDI",,https://www.ouest-france.fr/elections/legislatives/legislatives-dans-les-cotes-d-armor-marc-le-fur-candidat-pour-un-nouveau-mandat-720b1556-c626-11ec-9d59-fb23aa78f5fe,
 5928,Florence,Nivet,femme,,022-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-5929,Émilie,Roch,femme,,022-03,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,
+8359,Antoine,Ravard,homme,,022-03,EE-LV,,https://twitter.com/AntoineRavard/status/1524503982646910977?s=20&t=t8_05rrjnlCRb8Mn6JF7QQ,https://twitter.com/AntoineRavard
 5932,Yannick,Kerlogot,homme,checked,022-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 5933,Murielle,Lepvraud,femme,,022-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 7725,Noël,Lude,homme,,022-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -428,7 +431,7 @@
 5948,Myriam,Thomasson,femme,,024-03,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 7734,Ludivine,Le Berre,femme,,024-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5953,Jérôme,Peyrat,homme,,024-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-7573,Sébastien,Peytavie,homme,,024-04,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,
+7573,Sébastien,Peytavie,homme,,024-04,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,https://twitter.com/speytavie
 5952,Laurence,Trapy-Joinel,femme,,024-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 5958,Laurent,Croizier,homme,,025-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 8267,Nicole,Friess,femme,,025-01,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/franche-comte,
@@ -440,7 +443,7 @@
 5962,Éric,Alauzet,homme,checked,025-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7736,Eric,Fusis,homme,,025-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5960,Chafia,Kaoulal,femme,,025-02,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
-5961,Stéphane,Ravacley,homme,,025-02,EE-LV,,https://www.leparisien.fr/elections/legislatives/legislatives-le-boulanger-stephane-ravacley-qui-avait-defendu-son-apprenti-guineen-investi-par-eelv-dans-le-doubs-06-05-2022-OONYZ36OY5DDNMKFORRHRBRJGE.php,
+5961,Stéphane,Ravacley,homme,,025-02,EE-LV,,https://www.leparisien.fr/elections/legislatives/legislatives-le-boulanger-stephane-ravacley-qui-avait-defendu-son-apprenti-guineen-investi-par-eelv-dans-le-doubs-06-05-2022-OONYZ36OY5DDNMKFORRHRBRJGE.php,https://twitter.com/RavacleyS
 8268,Brigitte,Vuitton,femme,,025-02,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/franche-comte,
 5965,Virginie,Dayet,femme,,025-03,PCF,,,
 7737,Nathalie,Fritsch,femme,,025-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -457,7 +460,7 @@
 8336,Philippe,Vourron,homme,,025-04,Reconquête,,https://c.estrepublicain.fr/elections/2022/05/03/legislatives-2022-le-parti-d-eric-zemmour-se-prepare,
 5969,Philippe,Alpy,homme,,025-05,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 8222,Annie,Genevard,femme,checked,025-05,"LR,UDI",,https://www.macommune.info/annie-genevard-en-route-vers-les-elections-legislatives/,
-5970,Martine,Ludi,femme,,025-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5970,Martine,Ludi,femme,,025-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/circo5doubs
 8273,Sonya,Morrisson,femme,,025-05,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/franche-comte,
 7739,Martine Mathilde,Soulier,femme,,025-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5974,Karim,Chkeri,homme,,026-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
@@ -476,7 +479,7 @@
 5984,Pierre,Jouvet,homme,,026-04,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,https://twitter.com/PJouvet
 5983,Véronique,Stin,femme,,026-04,RN,,https://www.francebleu.fr/infos/politique/drome-quatre-candidats-rassemblement-national-declares-pour-les-elections-legislatives-1650200473,
 5985,Christophe,Alory,homme,,027-01,LR,,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/,
-5988,Christophe,Ancelin,homme,,027-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+5988,Christophe,Ancelin,homme,,027-01,Génération écologie,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 7753,Christine,Briand,femme,,027-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 5987,Séverine,Gipson,femme,checked,027-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 5986,Catherine,Hélayel,femme,,027-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
@@ -550,7 +553,7 @@
 6040,Liliana,Tanguy,femme,checked,029-07,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6043,Erwan,Balanant,homme,checked,029-08,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6042,Claire,Gourlaouen,femme,,029-08,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
-6044,Youenn,Le Flao,homme,,029-08,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6044,Youenn,Le Flao,homme,,029-08,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Youennleflao
 7769,Christian,Perez,homme,,029-08,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6050,Yannick,Cogo,homme,,030-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6052,Françoise,Dumas,femme,checked,030-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -567,6 +570,7 @@
 6061,Anthony,Cellier,homme,checked,030-03,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6059,Catherine,Michon,femme,,030-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6060,Jean-Marie,Moulin,homme,,030-03,Reconquête,,https://www.midilibre.fr/2022/05/02/gard-reconquete-presente-ses-candidatures-aux-legislatives-pour-exercer-le-contre-pouvoir-10270854.php,
+8360,Sabine,Oromi,femme,,030-03,PCF,,https://twitter.com/OromiSabine/status/1524999710846914560?s=20&t=8kYx9yzhtHtY4POfSHd0wA,https://twitter.com/OromiSabine
 6063,Stéphanie,Bienkowski,femme,,030-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6066,Arnaud,Bord,homme,,030-04,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,https://twitter.com/arnaud_bord
 7773,Paul,Meurin,homme,,030-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -577,7 +581,7 @@
 6068,Frédérique,Bozec,femme,,030-05,Reconquête,,https://www.midilibre.fr/2022/05/02/gard-reconquete-presente-ses-candidatures-aux-legislatives-pour-exercer-le-contre-pouvoir-10270854.php,
 6069,Catherine,Daufès-Roux,femme,checked,030-05,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7774,Jean-Marie,Launay,homme,,030-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
-6070,Michel,Sala,homme,,030-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6070,Michel,Sala,homme,,030-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/AvecMichelSala
 6073,Philippe,Berta,homme,checked,030-06,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6074,Nicolas,Cadène,homme,,030-06,EE-LV,,https://twitter.com/ncadene/status/1524049333569658880?s=20&t=ETvp4VxQJlZ47yha4Cm-og,https://twitter.com/ncadene
 6071,François,Courdil,homme,,030-06,LR,,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/,
@@ -615,7 +619,7 @@
 6099,Fabien,Jouvé,homme,,031-06,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,https://twitter.com/FabienJouve
 6097,Servane,Pater,femme,,031-06,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6100,Michel,Ajoulat,homme,,031-07,LR,,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/,
-6103,Christophe,Bex,homme,,031-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/ChristopheBex
+6103,Christophe,Bex,homme,,031-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/NUPES_3107
 7808,Emmanuelle,Pinatel,femme,,031-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6102,Élisabeth,Toutut-Picard,femme,checked,031-07,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6101,Romain,Von Deyen,homme,,031-07,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
@@ -630,7 +634,7 @@
 6108,Cécile,Dufraisse,femme,,031-09,LR,,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/,
 6111,Sandrine,Mörch,femme,checked,031-09,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7811,Pascale,Ajac,femme,,031-10,RN,,https://rassemblementnational.fr/elections-legislatives/,
-7574,Alice,Assier,femme,,031-10,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,
+7574,Alice,Assier,femme,,031-10,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,https://twitter.com/AssierAlice
 6113,Sandrine,Conte Margail,femme,,031-10,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6114,Dominique,Faure,homme,,031-10,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6112,Stéphanie,Respaud-Hezard,femme,,031-10,LR,,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/,
@@ -643,7 +647,7 @@
 7777,Alice,Cendré,femme,,032-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6120,Michel,Gabas,homme,,032-02,LR,,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/,
 6121,Merima,Huseinbasic,femme,,032-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-7565,David,Taupiac,homme,,032-02,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,
+7565,David,Taupiac,homme,,032-02,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,https://twitter.com/davidtaupiac
 6126,Thomas,Cazenave,homme,,033-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6124,Pierre,de Gaétan Njikam,homme,,033-01,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 6123,Esther,Dufaure,femme,,033-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
@@ -687,11 +691,13 @@
 6157,Sophie,Mette,femme,checked,033-09,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7786,Damien,Obrador,homme,,033-09,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6156,Valérie,Viltet,femme,,033-09,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
+8361,Sacha,Andre,homme,,033-09,LFI,,https://twitter.com/sachaandre3309/status/1523694964487585794?s=20&t=SHPwZvQd1a9qtczsTiLGGg,https://twitter.com/sachaandre3309
 6162,Florent,Boudié,homme,checked,033-10,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
-6161,Pascal,Bourgois,homme,,033-10,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,
+6161,Pascal,Bourgois,homme,,033-10,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/PsclBourgois
 6159,Jacques,Breillat,homme,,033-10,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 7787,Sandrine,Chadourne,femme,,033-10,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6160,Amélie,Guilbert,femme,,033-10,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
+8362,Pascal,Bourgois,homme,,033-10,EE-LV,,https://twitter.com/PsclBourgois,https://twitter.com/PsclBourgois
 6164,Régine,Blatter,femme,,033-11,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6166,Mathieu,Caillaud,homme,,033-11,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Gironde11Union
 7788,Edwige,Diaz,femme,,033-11,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -718,7 +724,7 @@
 6182,Jean-François,Eliaou,homme,checked,034-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6180,Michel,Garcia,homme,,034-04,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 6181,Sébastien,Giai Gianetto,homme,,034-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-6183,Sébastien,Rome,homme,,034-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6183,Sébastien,Rome,homme,,034-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/SebRome
 6185,Marie,Bedu,femme,,034-05,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7848,Stéphanie,Galzy,femme,,034-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6186,Philippe,Huppé,homme,checked,034-05,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -750,7 +756,7 @@
 6206,Hind,Saoud,femme,,035-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7853,Stéphanie,Cadiou,femme,,035-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6208,Anaïs,Jéhanno,femme,,035-02,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
-7570,Tristan,Lahais,homme,,035-02,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,
+7570,Tristan,Lahais,homme,,035-02,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,https://twitter.com/tlahais
 6210,Laurence,Maillart-Méhaignerie,femme,checked,035-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6209,Victor,Marion,homme,,035-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6213,Céline,Bretel,femme,,035-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
@@ -758,7 +764,7 @@
 6212,Mélina,Parmentier,femme,,035-03,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 7854,Astrid,Prunier,femme,,035-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6215,Claudia,Rouaux,femme,checked,035-03,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,https://twitter.com/claudia_rouaux
-6218,Mathilde,Hignet,femme,,035-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6218,Mathilde,Hignet,femme,,035-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/MHignet
 7855,Gabriel,Orain,homme,,035-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6217,Anne,Patault,femme,,035-04,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6216,Sarah,Tetaud,femme,,035-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
@@ -796,7 +802,7 @@
 6239,Olivier,Lebreton,homme,,037-01,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 6240,Stéphanie,Moreau,femme,,037-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6246,Dominique,Daillet,homme,,037-02,Reconquête,,https://www.lanouvellerepublique.fr/indre-et-loire/indre-et-loire-reconquete-presente-ses-candidats-aux-elections-legislatives,
-6248,Christelle,Gobert,femme,,037-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6248,Christelle,Gobert,femme,,037-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/GobertNupes
 6247,Christophe,Guestault,homme,,037-02,RN,,https://www.lanouvellerepublique.fr/indre-et-loire/indre-et-loire-le-rassemblement-national-presente-ses-candidats-aux-legislatives,
 6245,Daniel,Labaronne,homme,checked,037-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6244,Sveltana,Nicolaeff,femme,,037-02,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
@@ -897,6 +903,7 @@
 6319,Pascal,Brindeau,homme,checked,041-03,"LR,UDI",,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 6320,Amélie,Buellet,femme,,041-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6322,Christophe,Marion,homme,,041-03,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
+8363,Noé,Petit,homme,,041-03,LFI,,,
 6327,Quentin,Bataillon,homme,,042-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6325,Laëtitia,Copin,femme,,042-01,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/LaetitiaCopin
 6324,Victoria,Decousus,femme,,042-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
@@ -962,7 +969,7 @@
 6379,Jordan,Esnault,homme,,044-06,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6376,François,Guyot,homme,,044-06,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 6377,Karine,Letellier,femme,,044-06,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-6378,Jean-Paul,Raux,homme,,044-06,EE-LV,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/repartition-ecolos-circo-par-circo-20a54cb002c4432db3186b054b9ef616.pdf,
+6378,Jean-Paul,Raux,homme,,044-06,EE-LV,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/repartition-ecolos-circo-par-circo-20a54cb002c4432db3186b054b9ef616.pdf,https://twitter.com/JeanClaudeRaux
 7905,Laurence,Le Page,femme,,044-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6381,Véronique,Mahe,femme,,044-07,PCF,,,https://twitter.com/maheveronique44
 6380,Bertrand,Plouvier,homme,,044-07,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
@@ -984,13 +991,14 @@
 6392,Stéphanie,Rist,femme,checked,045-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7910,Elodie,Babin,femme,,045-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6395,Anaïs,Boyer,femme,,045-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-7572,Emmanuel,Duplessy,homme,,045-02,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,
+7572,Emmanuel,Duplessy,homme,,045-02,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,https://twitter.com/EmmDuplessy
 6396,Caroline,Janvier,femme,checked,045-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6394,François,Lagarde,homme,,045-02,LR,,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/,
 6399,Karine,Barbier-Beauregard,femme,,045-03,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 8221,Claude,de Ganay,homme,checked,045-03,"LR,UDI",,https://www.larep.fr/gien-45500/actualites/a-nouveau-candidat-le-lr-claude-de-ganay-demande-a-l-udi-jean-luc-riglet-de-retirer-sa-candidature-dans-la-troisieme-circonscription_14127734/,
 7911,Mathilde,De Pirey,femme,,045-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6398,Philippe,Gourret-Guénin,homme,,045-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
+8364,Kevin,Merlot,homme,,045-03,LFI,,,https://twitter.com/kevin_merlot
 6403,Jean-Michel,Blanquer,homme,,045-04,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6402,Romain,d'Isoard de Chenerilles,homme,,045-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6401,Ariel,Levy,homme,,045-04,LR,,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/,
@@ -1061,18 +1069,20 @@
 6448,Pierre,Kaniki,homme,,049-06,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6452,Philippe,Bolo,homme,checked,049-07,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7927,Aurore,Lahondès,femme,,049-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
+8365,Guillaume,Jouanneau,homme,,049-07,PS,,https://twitter.com/JOUANNEAU_G/status/1525086617555423234?s=20&t=W1vaw4ho4OAMvn1EZ0VfvQ,https://twitter.com/JOUANNEAU_G
 8241,Philippe,Gosselin,homme,checked,050-01,"LR,UDI",,https://www.francebleu.fr/infos/politique/legislatives-le-depute-lr-sortant-philippe-gosselin-brigue-un-quatrieme-mandat-1652124202,
 6455,Guillaume,Hedouin,homme,,050-01,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/GuillaumeHache
 6454,Jérôme,Louiche,homme,,050-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6456,Laurent,Pien,homme,,050-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7928,Franck,Simon,homme,,050-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6457,Valérie,Gouzien,femme,,050-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-6459,Patrick,Grimbert,homme,,050-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/UP_Circo5002
+6459,Patrick,Grimbert,homme,,050-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/NUPES5002
 7929,Marie-Françoise,Kurdziel,femme,,050-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6458,Bertrand,Sorre,homme,,050-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7930,Carmen,Masson,femme,,050-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6460,Agnes,Ryst,femme,,050-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6461,Stéphane,Travert,homme,checked,050-03,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
+8366,Gaëlle,Verove,femme,,050-03,LFI,,,
 7931,Eric,Fouace,homme,,050-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6463,Laure,Jean,femme,,050-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6464,Sonia,Krimi,femme,checked,050-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -1100,7 +1110,7 @@
 6477,Anthony,Smith,homme,,051-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Anthocgttefp
 8281,Joëlle,Bastien,femme,,051-05,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/grand-est,
 6478,Camille,Brunel,femme,,051-05,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-6480,Karine,Le Luron,femme,,051-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/KLeLuron
+6480,Karine,Le Luron,femme,,051-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Circo5105NUPES
 6479,Isabelle,Pestre,femme,,051-05,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7936,Pierre-Romain,Thionnet,homme,,051-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6481,Bérangère,Abba,femme,,052-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -1168,6 +1178,7 @@
 7585,Sandrine,Kieffer,femme,,055-01,LRM,,,
 6514,Nathalie,Thiebaut-Lamy,femme,,055-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8290,Blaise,Tymen,homme,,055-01,Lutte Ouvrière,,https://c.estrepublicain.fr/elections/2022/05/12/les-investitures-de-lutte-ouvriere-(lo)-en-lorraine,
+8367,Olivier,Guckert,homme,,055-01,PS,,,https://twitter.com/GuckertOlivier
 6518,Patrick,Francois,homme,,055-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7956,Florence,Goulet,femme,,055-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6517,Johan,Laflotte,homme,,055-02,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/LaflotteJohan
@@ -1178,6 +1189,7 @@
 6520,Magali,Croci-Etienne,femme,,056-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7957,Lydia,Lambert,femme,,056-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6522,Anne,Le Hénanf,femme,,056-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
+8368,Luc,Foucault,homme,,056-01,PS,,,https://twitter.com/lucfoucault
 6525,Corinne,Brière,femme,,056-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6526,Florence,Kappeler,femme,,056-02,Reconquête,,https://www.letelegramme.fr/elections/legislatives/morbihan/le-parti-reconquete-sera-present-dans-les-six-circonscriptions-du-morbihan-29-04-2022-13006724.php,
 6528,Karol,Kirchner,femme,,056-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
@@ -1190,17 +1202,20 @@
 6530,Régis,Le Gall,homme,,056-03,Reconquête,,https://www.letelegramme.fr/elections/legislatives/morbihan/le-parti-reconquete-sera-present-dans-les-six-circonscriptions-du-morbihan-29-04-2022-13006724.php,
 6532,Nicole,Le Peih,femme,checked,056-03,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6531,Benoît,Quéro,homme,,056-03,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
+8369,Marie-Madeleine,Dore-Lucas,femme,,056-03,LFI,,https://twitter.com/mdorelucas/status/1524130490336391182?s=20&t=muKYgIAhh9VOSn50O0GUyQ,https://twitter.com/mdorelucas
 7960,Florent,De Kersauzon,homme,,056-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6536,Rozenn,Guégan,femme,,056-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
+8191,Paul,Molac,homme,checked,056-04,,,https://actu.fr/bretagne/ploermel_56165/legislatives-2022-paul-molac-repart-sans-etiquette-sur-la-4e-circonscription-du-morbihan_50715772.html,https://twitter.com/paul_molac
 6534,Béatrice,Marin,femme,,056-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8191,Paul,Molac,homme,checked,056-04,,,https://actu.fr/bretagne/ploermel_56165/legislatives-2022-paul-molac-repart-sans-etiquette-sur-la-4e-circonscription-du-morbihan_50715772.html,https://twitter.com/paul_molac
 6535,Sophie,Régnier,femme,,056-04,Reconquête,,https://www.letelegramme.fr/elections/legislatives/morbihan/le-parti-reconquete-sera-present-dans-les-six-circonscriptions-du-morbihan-29-04-2022-13006724.php,https://twitter.com/SophieRgnier1
+8191,Paul,Molac,homme,checked,056-04,,,https://twitter.com/paul_molac,
 6539,Damien,Girard,homme,,056-05,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/dagodag
 7961,David,Megel,homme,,056-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6540,Lysiane,Metayer-NoëL,femme,,056-05,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6537,Ghislaine,Paoli,femme,,056-05,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6538,Thibault,Perrin,homme,,056-05,Reconquête,,https://www.letelegramme.fr/elections/legislatives/morbihan/le-parti-reconquete-sera-present-dans-les-six-circonscriptions-du-morbihan-29-04-2022-13006724.php,
-6545,Jean-Michel,Baudry,homme,,056-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6545,Jean-Michel,Baudry,homme,,056-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/jmBaudry
 6543,Anne,Bernard,femme,,056-06,Reconquête,,https://www.letelegramme.fr/elections/legislatives/morbihan/le-parti-reconquete-sera-present-dans-les-six-circonscriptions-du-morbihan-29-04-2022-13006724.php,
 6544,Jean-Michel,Jacques,homme,checked,056-06,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6541,Guillaume,Kiefer,homme,,056-06,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
@@ -1221,13 +1236,14 @@
 7965,Françoise,Grolet,femme,,057-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 8294,Etienne,Hodora,homme,,057-03,Lutte Ouvrière,,https://c.estrepublicain.fr/elections/2022/05/12/les-investitures-de-lutte-ouvriere-(lo)-en-lorraine,
 6554,Roxane,Jurion,femme,,057-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-6555,Charlotte,Leduc,femme,,057-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6555,Charlotte,Leduc,femme,,057-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/CharlotteLeducV
 6556,Richard,Lioger,homme,checked,057-03,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 8295,Marc,Baud-Berthier,homme,,057-04,Lutte Ouvrière,,https://c.estrepublicain.fr/elections/2022/05/12/les-investitures-de-lutte-ouvriere-(lo)-en-lorraine,
 6557,Émilie,Crenner,femme,,057-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 8218,Fabien,Di Filippo,homme,checked,057-04,"LR,UDI",,https://www.francebleu.fr/infos/politique/legislatives-en-moselle-veut-donner-aux-gens-une-alternative-democratique-dit-le-lr-fabien-di-1651228955,
 8345,Chloé,Konarski,femme,,057-04,Reconquête,,https://twitter.com/ChloeKonarski/status/1520398353372266499,
 7966,Michel,Rambour,homme,,057-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
+8370,Hélène,Girardot,femme,,057-04,PCF,,,
 8296,Sébastien,Ollier,homme,,057-05,Lutte Ouvrière,,https://c.estrepublicain.fr/elections/2022/05/12/les-investitures-de-lutte-ouvriere-(lo)-en-lorraine,
 6559,Caroline,Racine,femme,,057-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 8344,Sabrina,Selini,femme,,057-05,Reconquête,,https://twitter.com/SabrinaSellini,
@@ -1241,18 +1257,18 @@
 8298,Diane,Bousset,femme,,057-07,Lutte Ouvrière,,https://c.estrepublicain.fr/elections/2022/05/12/les-investitures-de-lutte-ouvriere-(lo)-en-lorraine,
 8342,Clément,Galante,homme,,057-07,Reconquête,,https://c.republicain-lorrain.fr/politique/2022/05/11/clement-galante-candidat-reconquete,https://twitter.com/Galanteclement
 7969,Alexandre,Loubet,homme,,057-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
-6562,Luc,Muller,homme,,057-07,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,
+6562,Luc,Muller,homme,,057-07,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/2022muller
 6563,Hélène,Zannier,femme,checked,057-07,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6565,Brahim,Hammouche,homme,checked,057-08,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6564,Laurent,Jacobelli,homme,,057-08,RN,,https://www.20minutes.fr/elections/3284519-20220506-legislatives-2022-moselle-porte-parole-rassemblement-national-laurent-jacobelli-candidat-hayange,
 8299,Annick,Jolivet,femme,,057-08,Lutte Ouvrière,,https://c.estrepublicain.fr/elections/2022/05/12/les-investitures-de-lutte-ouvriere-(lo)-en-lorraine,
-6566,Céline,Léger,femme,,057-08,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6566,Céline,Léger,femme,,057-08,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Celine_Leger_FI
 8247,Raphaëlle,Rosa,femme,,057-08,LR,,https://www.republicain-lorrain.fr/elections/2022/05/10/raphaelle-rosa-la-carte-jeune-des-republicains,
 6567,Laurène,Bey,femme,,057-09,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8300,Guy,Maurhofer,homme,,057-09,Lutte Ouvrière,,https://c.estrepublicain.fr/elections/2022/05/12/les-investitures-de-lutte-ouvriere-(lo)-en-lorraine,
 6568,Isabelle,Rauch,femme,checked,057-09,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7971,Stéphane,Reichling,homme,,057-09,RN,,https://rassemblementnational.fr/elections-legislatives/,
-7567,Brigitte,Vaisse,femme,,057-09,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,
+7567,Brigitte,Vaisse,femme,,057-09,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,https://twitter.com/VaisseBrigitte
 6571,Léo,Coutellec,homme,,058-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/CoutellecLeo
 6570,Perrine,Goulet,femme,checked,058-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6569,François,Le Métayer,homme,,058-01,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
@@ -1391,6 +1407,7 @@
 6668,Anne-Sophie,Fontaine,femme,,060-06,LR,,https://republicains.fr/actualites/2021/10/21/decision-de-la-commission-nationale-dinvestiture-du-mercredi-20-octobre/,
 8000,Michel,Guiniot,homme,,060-06,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6669,Nicole,Iung,femme,,060-06,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
+8371,Florian,Dumoulin,homme,,060-06,PS,,,https://twitter.com/Flo_Dum_
 6672,Agnès,Boillet,femme,,060-07,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8216,Maxime,Minot,homme,checked,060-07,"LR,UDI",,https://www.courrier-picard.fr/id302771/article/2022-05-02/le-depute-sortant-maxime-minot-lance-sa-campagne-dans-la-7e-circonscription-de,
 6674,Loïc,Pen,homme,,060-07,PCF,,,https://twitter.com/loic_pen
@@ -1437,7 +1454,7 @@
 6704,Vanessa,Bourel,femme,,062-06,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6705,Brigitte,Bourguignon,femme,,062-06,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 8028,Christine,Deloison,femme,,062-06,RN,,https://rassemblementnational.fr/elections-legislatives/,
-6706,Pascal,Lebecq,homme,,062-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6706,Pascal,Lebecq,homme,,062-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/LebecqPascal
 6703,Faustine,Maliar,femme,,062-06,LR,,https://republicains.fr/actualites/2021/12/17/decision-de-la-commission-nationale-dinvestiture-4/,
 8029,Marc,De Fleurian,homme,,062-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
 8227,Pierre-Henri,Dumont,homme,checked,062-07,"LR,UDI",,https://www.lavoixdunord.fr/1176768/article/2022-05-09/legislatives-dans-le-calaisis-le-depute-pierre-henri-dumont-brise-le-suspens,
@@ -1494,6 +1511,7 @@
 6746,Jean-Paul,Mattei,homme,checked,064-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6744,Eric,Saubatte,homme,,064-02,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
 6745,Tiphanie,Senmartin Laurent,femme,,064-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
+8372,Cécile,Faure,femme,,064-02,GECO,,,
 6747,Fabienne,Costedoat-Diu,femme,,064-03,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
 8042,Nicolas,Cresson,homme,,064-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6748,Joëlle,Losson,femme,,064-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/JoelleLosson
@@ -1505,7 +1523,7 @@
 6753,Sylvie,Durruty,femme,,064-05,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
 6754,Florence,Lasserre,homme,checked,064-05,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 8044,Pascal,Lesellier,homme,,064-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
-6755,Sandra,Pereira-Ostanel,femme,,064-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6755,Sandra,Pereira-Ostanel,femme,,064-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/SPereira64600
 6756,Fabrice-Sébastien,Bach,homme,,064-06,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
 8045,Monique,Becker,femme,,064-06,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6757,Vincent,Bru,homme,checked,064-06,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
@@ -1521,17 +1539,17 @@
 6765,Benoît,Mournet,homme,,065-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 6764,Antoine,Rigollet,homme,,065-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8046,Sophie,Blanc,femme,,066-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
-6770,Francis,Daspe,homme,,066-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6770,Francis,Daspe,homme,,066-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/francisdaspe
 6767,Christine,Gavalda-Moulenat,femme,,066-01,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
 6769,Romain,Grau,homme,checked,066-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6768,Vanessa,Schmitt,femme,,066-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-6773,David,Berrué,homme,,066-02,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,
+6773,David,Berrué,homme,,066-02,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/DavidBerrue
 6772,Cyril,Blanc,homme,,066-02,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6771,David,Bret,homme,,066-02,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
 6774,Frédérique,Lis,femme,,066-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 8047,Anaïs,Sabatini,femme,,066-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6776,Pierre,Bataille,homme,,066-03,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-6777,Nathalie,Cullel,femme,,066-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6777,Nathalie,Cullel,femme,,066-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/NathalieCullell
 8048,Sandrine,Dogor,femme,,066-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6775,Laurence,Martin,femme,,066-03,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
 6779,Sébastien,Cazenove,homme,checked,066-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -1549,6 +1567,7 @@
 6785,Jean-Philippe,Maurer,homme,,067-02,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 8304,Alain,Richard,homme,,067-02,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/grand-est,
 6787,Sylvain,Waserman,homme,checked,067-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
+8373,Marianne,Berçot,femme,,067-02,LFI,,,https://twitter.com/marianne_bercot
 7670,Stéphanie,Dô,femme,,067-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 8305,Denis,Grandmougin,femme,,067-03,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/grand-est,
 6791,Sébastien,Mas,homme,,067-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/UPcirco6703
@@ -1559,7 +1578,7 @@
 8306,Medhi,Benhlal,homme,,067-04,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/grand-est,
 6794,Françoise,Buffet,femme,,067-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7671,Virginie,Joron Piedimonte,femme,,067-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
-6795,Imane,Lahmeur,femme,,067-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6795,Imane,Lahmeur,femme,,067-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/imanelahmr
 8307,Patrick,Dutter,homme,,067-05,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/grand-est,
 6796,Charles,Sitzenstuhl,homme,,067-05,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6797,Véronique,Toulza,femme,,067-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
@@ -1605,7 +1624,7 @@
 8315,Aimé,Sense,homme,,068-04,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/grand-est,
 7799,Marion,Simon,femme,,068-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6819,Olivier,Becht,homme,checked,068-05,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-7571,Nadia,El Hajjaji,femme,,068-05,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,
+7571,Nadia,El Hajjaji,femme,,068-05,Génération·s,,https://twitter.com/GenerationsMvt/status/1523650256302669825,https://twitter.com/nadiaelhajjaji
 8316,Salah,Keltoumi,homme,,068-05,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/grand-est,
 6817,Amalia,Nimeskern,femme,,068-05,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7800,Pierre,Pinto,homme,,068-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -1655,7 +1674,7 @@
 6853,Ambroise,Méjean,homme,,069-09,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6852,Alexandre,Portier,homme,,069-09,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 6855,Sophie,Cruz,femme,,069-10,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
-6858,Michèle,Edery,femme,,069-10,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,
+6858,Michèle,Edery,femme,,069-10,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague1_investitures_ps_nupes-896b6d8e81644c90819c172aea1049b5.pdf,https://twitter.com/micheleedery2
 6857,Thomas,Gassilloud,homme,checked,069-10,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6856,Sébastien,Ruiz,homme,,069-10,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8059,Michel,Dulac,homme,,069-11,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -1664,7 +1683,7 @@
 6859,Paul,Vidal,homme,,069-11,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
 6862,Abdel,Yousfi,homme,,069-11,PCF,,,https://twitter.com/NUPES_6911
 8060,Elodie,Annani,femme,,069-12,RN,,https://rassemblementnational.fr/elections-legislatives/,
-6865,Jean-François,Baudin,homme,,069-12,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,
+6865,Jean-François,Baudin,homme,,069-12,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/jfbib
 6864,Céline,Beuzit,femme,,069-12,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6866,Cyrille,Isaac-Sibille,homme,checked,069-12,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6863,Jérôme,Moroge,homme,,069-12,LR,,https://republicains.fr/actualites/2021/10/27/decision-de-la-commission-nationale-dinvestiture-du-mardi-26-octobre/,
@@ -1682,7 +1701,7 @@
 6875,Karine,Erard,femme,,070-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8318,Cédric,Fischer,homme,,070-01,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/franche-comte,
 8352,Philippe,Ghiles,homme,,070-01,Reconquête,,https://c.estrepublicain.fr/elections/2022/05/10/legislatives-2022-philippe-ghiles-candidat-sur-la-1re-circonscription,
-6877,Sandra,Girardot,femme,,070-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6877,Sandra,Girardot,femme,,070-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/girardot_sandra
 7816,Antoine,Villedieu,homme,,070-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 8319,Isabelle,Apro,femme,,070-02,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/franche-comte,
 6880,Patrice,Guérain,homme,,070-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
@@ -1699,7 +1718,7 @@
 8321,Pascal,Dussauge,homme,,071-02,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/bourgogne-franche-comte,
 6883,Laurence,Gauthier,femme,,071-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 8065,Sandrine,Baroin,femme,,071-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
-6886,Richard,Beninger,homme,,071-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6886,Richard,Beninger,homme,,071-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/richardbeninger
 6884,Charles,Landre,homme,,071-03,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 8322,Julie,Lucotte,femme,,071-03,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/bourgogne-franche-comte,
 6885,Rémy,Rebeyrotte,homme,checked,071-03,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -1765,7 +1784,7 @@
 7820,Anis,Bouvard,homme,,074-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7577,Valérie,Ferrarini,femme,,074-03,LRM,,,
 6928,Joseph,Jaccaz,homme,,074-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-6929,Fabienne,Tassa,femme,,074-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6929,Fabienne,Tassa,femme,,074-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/NUPES7436932,Zakaria,Benmeriouma,homme,,074-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 6932,Zakaria,Benmeriouma,homme,,074-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 6930,Vanessa,Dahmal,femme,,074-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8199,Virginie,Duby-Muller,femme,checked,074-04,"LR,UDI",,https://www.ledauphine.com/elections/2022/05/02/legislatives-virginie-duby-muller-candidate-sur-la-quatrieme-circonscription,https://twitter.com/DubyMuller
@@ -1773,7 +1792,7 @@
 6931,Antoine,Vieillard,homme,,074-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6934,Audrey,Capelli,femme,,074-05,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 6933,Sophie,Dion,femme,,074-05,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
-6936,Odile,Martin-Cocher,femme,,074-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+6936,Odile,Martin-Cocher,femme,,074-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/nupes_chablais
 7822,Jessica,Terreni,femme,,074-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6935,Anne-Cécile,Violland,femme,,074-05,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6939,Ahmed,Lounis,homme,,074-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
@@ -1926,7 +1945,7 @@
 7596,Marie-Agnès,Poussier-Winsback,femme,,076-09,LRM,,,
 7063,Carole,Servais,femme,,076-09,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7069,Xavier,Batut,homme,checked,076-10,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-7068,Véronique,Bérégovoy,femme,,076-10,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,
+7068,Véronique,Bérégovoy,femme,,076-10,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/VBeregovoy76
 7066,Pascal,Houbron,homme,,076-10,"Les Centristes,LR",,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 7067,Marine,Lercier,femme,,076-10,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8097,Anaïs,Thomas,femme,,076-10,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -1949,11 +1968,11 @@
 7083,Mathieu,Garnier,homme,,077-04,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/MattGarnierFI
 7081,Gabrielle,Huot,femme,,077-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7084,Nicolas,Caux,homme,,077-05,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
-7087,Cédric,Colin,homme,,077-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7087,Cédric,Colin,homme,,077-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Unionpop7705
 7085,Eléonore,Lajoye,femme,,077-05,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8081,François,Lenormand,homme,,077-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7086,Franck,Riester,homme,,077-05,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-7091,Valérie,Delage,femme,,077-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7091,Valérie,Delage,femme,,077-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Valedelage2022
 7089,Dragan,Klisaric,homme,,077-06,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7090,Fatna,Mekidiche,femme,,077-06,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7088,Hamida,Rezeg,femme,,077-06,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
@@ -1962,14 +1981,14 @@
 7093,Laetitia,Guillard,femme,,077-07,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7092,Patrick,Jahier,homme,,077-07,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 7094,Rodrigue,Kokouendo,homme,,077-07,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-7095,Ersilia,Soudais,femme,,077-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7095,Ersilia,Soudais,femme,,077-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/ErsiliaSoudais
 7099,Arnaud,Bonnet,homme,,077-08,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/bonnetAd_Eelv
 8084,Marie-Helene,Fabre,femme,,077-08,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7098,Hadrien,Ghomi,homme,,077-08,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7096,Delphine,Mairiaux,femme,,077-08,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 7097,Kevin,Meillet,homme,,077-08,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7100,Guy,Geoffroy,homme,,077-09,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
-7103,Pascal,Novais,homme,,077-09,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7103,Pascal,Novais,homme,,077-09,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/PascalNovais
 7102,Michèle,Peyron,femme,,077-09,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7101,Laurent,Simonpietri,homme,,077-09,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8085,Morgann,Vanacker,homme,,077-09,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -2006,10 +2025,10 @@
 7129,Yaël,Braun-Pivet,femme,checked,078-05,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7128,Jean-Luc,Dené,homme,,078-05,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7127,Alexandra,Dublanche,femme,,078-05,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
-7130,Sophie,Thévenet,femme,,078-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7130,Sophie,Thévenet,femme,,078-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/unionpop7805
 7132,Thibault,de Montbrial,homme,,078-06,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 7133,Natalia,Pouzyreff,femme,checked,078-06,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
-7134,Mélinda,Sauger,femme,,078-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7134,Mélinda,Sauger,femme,,078-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/MelindaSauger
 8168,Tania,Savin,femme,,078-06,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7131,Jean-Luc,Suzé,homme,,078-06,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7136,Laurent,Brosse,homme,,078-07,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
@@ -2041,7 +2060,7 @@
 7154,Karl,Olive,homme,,078-12,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7152,Mathieu,Paranthoën,homme,,078-12,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7728,Dorothée,Besseux,femme,,079-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
-7157,François,Charron,homme,,079-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7157,François,Charron,homme,,079-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/francoischarr0n
 7156,Bastien,Marchive,homme,,079-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7155,Dominique,Six,homme,,079-01,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 7160,Delphine,Batho,femme,checked,079-02,Génération écologie,,https://www.francebleu.fr/infos/elections/legislatives-delphine-batho-candidate-a-sa-reelection-dans-les-deux-sevres-1651151978,https://twitter.com/delphinebatho
@@ -2079,6 +2098,7 @@
 8103,Frédéric,Cabrolier,homme,,081-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7183,Rodolphe,Pirès,homme,,081-01,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 7185,Muriel,Roques-Etienne,femme,checked,081-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
+8375,Gérard,Poujade,homme,,081-01,PS,,https://twitter.com/PoujadeGerard,https://twitter.com/PoujadeGerard
 8104,Julien,Bacou,homme,,081-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7188,Karen,Erodi,femme,,081-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 7187,Marie-Christine,Verdier-Jouclas,femme,checked,081-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
@@ -2100,7 +2120,7 @@
 7200,Yannick,Chenevard,homme,,083-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7201,Eric,Habouzit,homme,,083-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/EricHabouzit
 8134,Amaury,Navarranne,homme,,083-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
-7203,Isaline,Cornil,femme,,083-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7203,Isaline,Cornil,femme,,083-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/ICornil
 8135,Laure,Lavalette,femme,,083-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7202,Ange,Musso,homme,,083-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7205,Isabelle,Montfor,femme,,083-03,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
@@ -2190,6 +2210,7 @@
 8155,Marion,Latus,femme,,086-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7267,Sylvie,Pimot,femme,,086-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7269,Nicolas,Turquois,homme,,086-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
+8376,Flavien,Cartier,homme,,086-04,PS,,https://twitter.com/FlavienCartier/status/1524078414323462146?s=20&t=XG-vOFoYw2sQc8xm0-doAQ,https://twitter.com/FlavienCartier
 7273,Sophie,Beaudoin-Hubière,femme,checked,087-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7824,Christiane,Gedoux,femme,,087-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7274,Damien,Maudet,homme,,087-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/damienmaudt
@@ -2204,7 +2225,7 @@
 7280,Geoffroy,Sardin,homme,,087-03,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7278,Gilles,Toulza,homme,,087-03,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 8325,Evelyne,Abbot,femme,,088-01,Lutte Ouvrière,,https://c.estrepublicain.fr/elections/2022/05/12/les-investitures-de-lutte-ouvriere-(lo)-en-lorraine,
-7281,Jules,Fetet,femme,,088-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7281,Jules,Fetet,femme,,088-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/FetetJules
 8156,Emmie,Moons,femme,,088-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 8326,Jeanne-Françoise,,femme,,088-02,Lutte Ouvrière,,https://c.estrepublicain.fr/elections/2022/05/12/les-investitures-de-lutte-ouvriere-(lo)-en-lorraine,
 8157,Gaëtan,Dussausaye,homme,,088-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -2237,18 +2258,18 @@
 7294,Philippe,Veyssiere,homme,,089-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
 7293,André,Villiers,homme,checked,089-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7297,Michèle,Crouzet,femme,checked,089-03,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
-7298,Manon,Dene,femme,,089-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7298,Manon,Dene,femme,,089-03,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/manondene13
 8162,Julien,Odoul,homme,,089-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 8331,Simmonne,Pallant,femme,,089-03,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/bourgogne-franche-comte,
 7295,Gilles,Pirman,homme,,089-03,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 7296,Agnès,Vignier,femme,,089-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8220,Ian,Boucard,homme,checked,090-01,"LR,UDI",,https://letrois.info/actualites/legislatives-ian-boucard-parie-sur-une-remontada-dans-la-1re-circonscription/,
 7299,Thiébaud,Grudler,homme,,090-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
-7300,Gérald,Loridat,homme,,090-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7300,Gérald,Loridat,homme,,090-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/GeraldLoridat
 8332,Christiane,Petitot,femme,,090-01,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/franche-comte,
 8108,Christophe,Soustelle,homme,,090-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 8109,Sophie,Carnicer,femme,,090-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
-7303,Florian,Chauche,homme,,090-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7303,Florian,Chauche,homme,,090-02,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Nupes90
 8351,Marc,Felemez,femme,,090-02,Reconquête,,https://mobile.twitter.com/FelemezMarc/status/1520067524993470464,
 7302,Baptiste,Petitjean,homme,,090-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 8333,Simon,Pheulpin,femme,,090-02,Lutte Ouvrière,,https://www.lutte-ouvriere.org/legislatives/franche-comte,
@@ -2270,7 +2291,7 @@
 7312,Isabelle,Perdereau,femme,,091-03,LR,,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/,
 7747,Alain,Boutaleb,homme,,091-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7317,Jean-Pierre,Coquelet,homme,,091-04,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-7319,Amadou,Deme,homme,,091-04,PCF,,,
+7319,Amadou,Deme,homme,,091-04,PCF,,,https://twitter.com/amadoudeme2022
 7316,Jérémy,Martin,homme,,091-04,LR,,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/,
 7318,Marie-Pierre,Rixain,homme,checked,091-04,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7748,Christophe,Debon,homme,,091-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -2338,7 +2359,7 @@
 7365,Xabi,Elizagoyen,homme,,092-07,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 7367,Sandro,Rato,homme,,092-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/RatoSandro
 7837,Christophe,Versini,homme,,092-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
-7371,Annie,Comoy,femme,,092-08,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7371,Annie,Comoy,femme,,092-08,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/Union_pop_9208
 8185,Olivier,Guillard-Bentejac,homme,,092-08,Reconquête,,https://www.leparisien.fr/hauts-de-seine-92/legislatives-dans-les-hauts-de-seine-qui-sont-les-candidats-rn-et-reconquete-29-04-2022-EV27RRGJK5HDROQ5CCGIG6RY6Q.php,
 7838,Sarena,Habib,femme,,092-08,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7369,Laurence,Labbé,femme,,092-08,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
@@ -2370,7 +2391,7 @@
 7389,David,Benoist,homme,,092-13,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7390,Maud,Bregeon,femme,,092-13,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7388,Henri,de Beauregard,homme,,092-13,LR,,https://republicains.fr/actualites/2021/11/24/decision-de-la-commission-nationale-dinvestiture-2/,
-8176,Brice,Gaillard,homme,,092-13,PS,,https://www.lejournaldugrandparis.fr/hauts-de-seine-un-territoire-de-droite-investi-par-la-rem-que-la-gauche-reve-de-reconquerir/,
+8176,Brice,Gaillard,homme,,092-13,PS,,https://www.lejournaldugrandparis.fr/hauts-de-seine-un-territoire-de-droite-investi-par-la-rem-que-la-gauche-reve-de-reconquerir/,https://twitter.com/BriceGaillard
 7843,Patrick,Yvars,homme,,092-13,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7392,Sophia,Bahri,femme,,093-01,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 7393,Eric,Coquerel,homme,checked,093-01,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/ericcoquerel
@@ -2396,7 +2417,7 @@
 7412,Bastien,Lachaud,homme,checked,093-06,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/LachaudB
 7411,Ling,Lenzi,homme,,093-06,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 7417,Marie-Laure,Brossier,femme,,093-07,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
-7415,Alexis,Corbiere,homme,checked,093-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/alexiscorbiere
+7415,Alexis,Corbière,homme,checked,093-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/alexiscorbiere
 7416,Catherine,Dehay,femme,,093-07,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 7414,Julien,Guillot,homme,,093-07,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 7418,Geoffrey,Carvalhinho,homme,,093-08,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
@@ -2415,7 +2436,7 @@
 7431,Hakima,Ouaret,femme,,093-11,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7432,Franck,Barth,homme,,093-12,LR,,https://republicains.fr/actualites/2021/12/09/decision-de-la-commission-nationale-dinvestiture-3/,
 7433,Malik,Houha,homme,,093-12,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
-7436,Jérôme,Legavre,homme,,093-12,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
+7436,Jérôme,Legavre,homme,,093-12,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/LegavreJerome
 7434,Pierre-Marie,Salle,homme,,093-12,Reconquête,,https://twitter.com/SallePm/status/1520147480595292162,https://twitter.com/SallePm
 7435,Stéphane,Testé,homme,checked,093-12,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7439,Frédéric,Descrozaille,homme,checked,094-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
@@ -2542,22 +2563,27 @@
 7520,Jean-Philippe,Dolor,homme,,973-02,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 7795,Annecie,Lartin,femme,,973-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7880,Gaëlle,Le Bon,femme,,974-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
+8377,Philippe,Naillet,homme,checked,974-01,LFI,,,
 7617,Audrey,Fontaine,femme,,974-02,LRM,,,
 7881,Michèle,Graja,femme,,974-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7521,Karine,Lebon,femme,checked,974-02,PCF,,,https://twitter.com/KarineLebon
 8228,Nathalie,Bassire,femme,checked,974-03,"LR,UDI",,"https://www.ipreunion.com/actualites-reunion/reportage/2022/04/30/le-tampon-legislatives-nathalie-bassire-candidate-dans-la-3eme-circonscription,151265.html",
 7882,Didier,Hoareau,homme,,974-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7618,Bachil,Valy,homme,,974-03,LRM,,,
+8378,Alexis,Chaussalet,homme,,974-03,LFI,,,
 7883,Annie-Claude,Boucher,femme,,974-04,RN,,https://rassemblementnational.fr/elections-legislatives/,
 8203,David,Lorion,homme,checked,974-04,"LR,UDI",,"https://www.ipreunion.com/actualites-reunion/reportage/2022/05/10/david-lorion-david-lorion,151732.html",
+8379,Emeline K,Bidy,femme,,974-04,LFI,,,
 7884,Marie-Luce,Brasier,femme,,974-05,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7522,Jean-Hugues,Ratenon,homme,checked,974-05,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/DeputeRatenon
 7619,Laurent,Virapouillé,homme,,974-05,LRM,,,
 7885,Valérie,Legros,femme,,974-06,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7621,Eric,Leung,homme,,974-06,LRM,,,
 8214,Nadia,Ramassamy,femme,checked,974-06,"LR,UDI",,https://www.zinfos974.com/Legislatives-Nadia-Ramassamy-candidate-sans-surprise-dans-la-6e_a179394.html,
+8380,Frédéric,Maillot,homme,,974-06,LFI,,https://twitter.com/frdric_maillot/status/1524699658022526977?s=20&t=EftBodkplCBiguGfT1u24g,https://twitter.com/frdric_maillot
 7620,Hélène,Coddeville,femme,,974-07,LRM,,,
 7886,Johnatan,Riviere,homme,,974-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
+8381,Perceval,Gaillard,homme,,974-07,LFI,,,
 7523,Issihaka,Abdillah,homme,,976-01,LR,,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 7623,Ramlati,Ali,femme,,976-01,LRM,,,
 7946,Saidali,Hamissi,femme,,976-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
@@ -2567,9 +2593,12 @@
 7944,Guy-Olivier,Cuenot,homme,,986-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7526,Nicole,Bouteau,femme,,987-01,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
 7525,Laurence,Piercy,femme,,987-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
+8382,Temata'i,Le Gayic,homme,,987-01,LFI,,,
 7948,Charles,Atger,homme,,987-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7527,Tepuaraurii,Teriitahi,femme,,987-02,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
+8383,Steve,Chailloux,homme,,987-02,LFI,,,
 7528,Tuterai,Tumahai,homme,,987-03,LRM,,https://nos-candidats.avecvous.fr/Dossier-presse-Vague-1.pdf,
+8384,Moetai,Brotherson,homme,checked,987-03,LFI,,,
 7945,Béatrice,Caze,femme,,988-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 7625,Philippe,Dunoyer,homme,,988-01,LRM,,,
 7947,Alain,Descombels,homme,,988-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
