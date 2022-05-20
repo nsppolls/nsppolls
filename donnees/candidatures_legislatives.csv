@@ -1,4 +1,4 @@
-﻿id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
+id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
 8237,Xavier,Breton,homme,checked,001-01,"LR,UDI",,https://www.leprogres.fr/elections/2022/04/30/legislatives-reconquete-aura-cinq-candidats-dans-l-ain,
 7627,Brigitte,Giannotti,femme,,001-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 9076,Sébastien,Guéraud,homme,,001-01,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague2_investitures_ps_nupes-5e320d6bcf644544b9b438ff8d1ff285.pdf,
@@ -150,6 +150,7 @@
 5718,Jean-Bernard,Mion,homme,,006-06,"LRM,Horizons",,https://horizonsleparti.fr/candidats/,
 5717,Laurence,Trastour-Isnart,femme,checked,006-06,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 7648,Tanguy,Cornec,homme,,006-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
+9379,Arnaud,Delcasse,homme,,006-07,FGR,,https://twitter.com/adelcasse/status/1522208620548550658,https://twitter.com/adelcasse
 8406,Stanislas,Marechal,homme,,006-07,Parti pirate,,https://partipirate.org/map,
 5722,Eric,Mele,homme,,006-07,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 5723,Arthur,Meyer Abatucci,homme,,006-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
