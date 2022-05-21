@@ -1,4 +1,4 @@
-id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
+﻿id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
 8237,Xavier,Breton,homme,checked,001-01,"LR,UDI",,https://www.leprogres.fr/elections/2022/04/30/legislatives-reconquete-aura-cinq-candidats-dans-l-ain,
 7627,Brigitte,Giannotti,femme,,001-01,RN,,https://rassemblementnational.fr/elections-legislatives/,
 9076,Sébastien,Guéraud,homme,,001-01,PS,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/vague2_investitures_ps_nupes-5e320d6bcf644544b9b438ff8d1ff285.pdf,
@@ -150,7 +150,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
 5718,Jean-Bernard,Mion,homme,,006-06,"LRM,Horizons",,https://horizonsleparti.fr/candidats/,
 5717,Laurence,Trastour-Isnart,femme,checked,006-06,LR,,https://republicains.fr/actualites/2022/05/05/decision-de-la-commission-nationale-dinvestiture-8/,
 7648,Tanguy,Cornec,homme,,006-07,RN,,https://rassemblementnational.fr/elections-legislatives/,
-9379,Arnaud,Delcasse,homme,,006-07,FGR,,https://twitter.com/adelcasse/status/1522208620548550658,https://twitter.com/adelcasse
+9380,Arnaud,Delcasse,homme,,006-07,FGR,,https://twitter.com/adelcasse/status/1522208620548550658,https://twitter.com/adelcasse
 8406,Stanislas,Marechal,homme,,006-07,Parti pirate,,https://partipirate.org/map,
 5722,Eric,Mele,homme,,006-07,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 5723,Arthur,Meyer Abatucci,homme,,006-07,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,
@@ -1167,10 +1167,12 @@ id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
 6315,Marc,Fesneau,homme,,041-01,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 8633,Alain,Lombard,homme,,041-01,LO,,https://www.lutte-ouvriere.org/legislatives,
 6314,Fabienne,Pomi,femme,,041-01,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
+9383,Pascal,Bioulac,homme,,041-02,LR,,https://www.lanouvellerepublique.fr/loir-et-cher/commune/lamotte-beuvron/loir-et-cher-apres-l-investiture-de-pascal-bioulac-zizanie-chez-les-republicains,
 6317,Emmanuelle,Chaplaut,femme,,041-02,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 7891,Roger,Chudeau,homme,,041-02,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6318,Jérémie,Demaline,homme,,041-02,PCF,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/tableau-circos-pcf-accord-nupes-7397ac805b5f4340a7ae16bd3c875949.pdf,https://twitter.com/JeremieDemaline
 8634,Caroline,Maidon,femme,,041-02,LO,,https://www.lutte-ouvriere.org/legislatives,
+9382,Guillaume,Peltier,homme,checked,041-02,Reconquête,,https://www.lanouvellerepublique.fr/loir-et-cher/commune/lamotte-beuvron/loir-et-cher-apres-l-investiture-de-pascal-bioulac-zizanie-chez-les-republicains,
 7892,Marine,Bardet,femme,,041-03,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6319,Pascal,Brindeau,homme,checked,041-03,"LR,UDI",,https://republicains.fr/actualites/2022/02/16/decision-de-la-commission-nationale-dinvestiture-7/,
 6320,Amélie,Buellet,femme,,041-03,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
@@ -2313,8 +2315,8 @@ id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
 6980,Béatrice,Cossart,femme,,075-09,Parti animaliste,,https://parti-animaliste.fr/legislatives2022,
 8013,Mireille,Delafond,femme,,075-09,RN,,https://rassemblementnational.fr/elections-legislatives/,
 6978,Jean-Baptiste,Olivier,homme,,075-09,LR,,https://republicains.fr/actualites/2021/11/19/decision-de-la-commission-nationale-dinvestiture/,
-6980,Sandrine,Rousseau,femme,,075-09,LMR,,https://www.lopinion.fr/economie/legislatives-sandrine-rousseau-contre-sandrine-rousseau-le-choc-des-contrastes,
 6981,Sandrine,Rousseau,femme,,075-09,EE-LV,,https://www.eelv.fr/files/2022/05/Scenario-Investiture.pdf,https://twitter.com/sandrousseau
+9379,Sandrine,Rousseau,femme,,075-09,LMR,,https://www.lopinion.fr/economie/legislatives-sandrine-rousseau-contre-sandrine-rousseau-le-choc-des-contrastes,
 6982,Buon,Tan,homme,checked,075-09,LRM,,https://www.contexte.com/medias/pdf/medias-documents/2022/5/investis_vague3-ddef82222c9a44b0b69d459d788e9dec.pdf,
 6986,Rodrigo,Arenas,homme,,075-10,LFI,,https://lafranceinsoumise.fr/2022/05/10/elections-legislatives-2022-la-france-insoumise-investit-ses-candidat-de-la-nouvelle-union-populaire-ecologique-et-sociale/,https://twitter.com/arenasrodrigo_
 8832,Olivia,Baille,femme,,075-10,LO,,https://www.lutte-ouvriere.org/legislatives,
@@ -3376,7 +3378,7 @@ id,prenom,nom,sexe,sortante,circonscription,parti,dissidence,lien,twitter
 9193,Nacim,Beneddouche,homme,,999-09,,,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045803149,
 9194,Thiaba,Bruni,femme,,999-09,,,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045803149,
 9195,Ahmed,Eddaraz,homme,,999-09,,,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045803149,
-9196,M’Jid,El Guerrab,homme,checked,999-09,LREM,checked,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045803149,
+9196,M’Jid,El Guerrab,homme,checked,999-09,LRM,checked,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045803149,
 9197,Jean-Claude,Fontanive,homme,,999-09,,,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045803149,
 9198,Samira,Herbal,femme,,999-09,,,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045803149,
 9199,Rachida,Kaaout,femme,,999-09,,,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045803149,
