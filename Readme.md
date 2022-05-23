@@ -1,5 +1,9 @@
 # NSPPolls
 
+➡️ [La liste des candidatures aux élections législatives](https://github.com/nsppolls/nsppolls/blob/master/donnees/candidatures_legislatives_completes.csv)
+
+➡️ [La liste « participative » et non-exhaustive des candidatures aux élections législatives](https://github.com/nsppolls/nsppolls/blob/master/donnees/candidatures_legislatives.csv)
+
 ➡️ [Le flux JSON des sondages pour l'élection présidentielle](https://raw.githubusercontent.com/nsppolls/nsppolls/master/presidentielle.json)
 
 ➡️ [Le fichier CSV des sondages pour l'élection présidentielle](https://raw.githubusercontent.com/nsppolls/nsppolls/master/presidentielle.csv)
