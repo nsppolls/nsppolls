@@ -1117,7 +1117,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 1116,027-01,10,GIPSON,Séverine,Mme,ENS,Ensemble ! (Majorité présidentielle)
 1117,027-01,11,ANCELIN,Christophe,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1118,027-02,1,LEVAVASSEUR,Katiana,Mme,RN,Rassemblement National
-1119,027-02,2,SAMSON,Nathalie,Mme,FI,La France Insoumise
+1119,027-02,2,SAMSON,Nathalie,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1120,027-02,3,PEYRAUD,Mélanie,Mme,DXG,Divers extrême gauche
 1121,027-02,4,FOUQUES,Martine,Mme,ECO,Ecologistes
 1122,027-02,5,GOUTTEFARDE,Fabien,M.,ENS,Ensemble ! (Majorité présidentielle)
@@ -1579,7 +1579,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 1578,033-03,2,BOUTOT,Yannick,M.,RDG,Parti radical de gauche
 1579,033-03,3,SAVINO,Flora,Mme,DIV,Divers
 1580,033-03,4,MARHADOUR,Éric,M.,DXG,Divers extrême gauche
-1581,033-03,5,PRUD'HOMME,Loïc,M.,FI,La France Insoumise
+1581,033-03,5,PRUD'HOMME,Loïc,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1582,033-03,6,MATHO,Morgan,Mme,DIV,Divers
 1583,033-03,7,ROBERT,Fabien,M.,ENS,Ensemble ! (Majorité présidentielle)
 1584,033-03,8,MARC,Laurent,M.,DIV,Divers
@@ -3216,7 +3216,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 3215,061-02,2,LOUWAGIE,Véronique,Mme,LR,Les Républicains
 3216,061-02,3,DE BOURBON PARME,Amaury,M.,REC,Reconquête !
 3217,061-02,4,MOUSSET,Denis,M.,DIV,Divers
-3218,061-02,5,BUSSIÈRE,Cécile,Mme,ECO,Ecologistes
+3218,061-02,5,BUSSIÈRE,Cécile,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3219,061-02,6,MARIE,Sandrine,Mme,DSV,Droite souverainiste
 3220,061-02,7,VELLY,Bernadette,Mme,DXG,Divers extrême gauche
 3221,061-02,8,ANSQUER,Patricia,Mme,ECO,Ecologistes
@@ -4221,7 +4221,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 4220,075-09,10,ROUSSEL,Carole Isabelle Gabrielle,Mme,RN,Rassemblement National
 4221,075-09,11,MIERMONT,Laurent,M.,DVG,Divers gauche
 4222,075-09,12,LABUS,Irène,Mme,DSV,Droite souverainiste
-4223,075-09,13,ROUSSEAU,Sandrine,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
+4223,075-09,13,ROUSSEAU,Sandrine,Mme,ECO,Ecologistes
 4224,075-10,1,LANG,Anne-Christine,Mme,ENS,Ensemble ! (Majorité présidentielle)
 4225,075-10,2,ARENAS,Rodrigo,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 4226,075-10,3,GOLDSTEIN,Michel Abdul Wahid,M.,DVC,Divers centre
@@ -4425,7 +4425,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 4424,076-09,10,BARON,Mickaël,M.,DVG,Divers gauche
 4425,076-09,11,SERVAIS,Carole,Mme,ECO,Ecologistes
 4426,076-09,12,KERBARH,Stéphanie,Mme,DVC,Divers centre
-4427,076-10,1,BÉRÉGOVOY,Véronique,Mme,ECO,Ecologistes
+4427,076-10,1,BÉRÉGOVOY,Véronique,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 4428,076-10,2,BAUDET,Véronique,Mme,DSV,Droite souverainiste
 4429,076-10,3,CRAMBES,Nicolas,M.,DXG,Divers extrême gauche
 4430,076-10,4,KÉRADEC-DUJARDIN,Pascale,Mme,DVD,Divers droite
@@ -5012,7 +5012,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 5011,085-05,7,DELATRE,Sandrine,Mme,REC,Reconquête !
 5012,085-05,8,LEGENTILHOMME,Jacqueline,M.,DSV,Droite souverainiste
 5013,085-05,9,MAGNIN,Isabelle,Mme,RN,Rassemblement National
-5014,085-05,10,THIBAUD,Yveline,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
+5014,085-05,10,THIBAUD,Yveline,Mme,LR,Les Républicains
 5015,086-01,1,GIRAUDET,Alexandre,M.,ECO,Ecologistes
 5016,086-01,2,BALLET-BLU,Françoise,Mme,ENS,Ensemble ! (Majorité présidentielle)
 5017,086-01,3,DE MASCUREAU,Marie-Aline,Mme,REC,Reconquête !
@@ -5412,7 +5412,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 5411,092-11,9,LÉVÊQUE,Florence,M.,REC,Reconquête !
 5412,092-11,10,BROUSSAUDIER,Dominique Chantal,Mme,ECO,Ecologistes
 5413,092-12,1,THOMAS,Marc,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
-5414,092-12,2,THOMAS,Cathy,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
+5414,092-12,2,THOMAS,Cathy,Mme,FI,La France Insoumise
 5415,092-12,3,BERNARD,Yann,M.,DXG,Divers extrême gauche
 5416,092-12,4,BLOT,Benoit,M.,LR,Les Républicains
 5417,092-12,5,NOBLET,Florent,M.,REC,Reconquête !
