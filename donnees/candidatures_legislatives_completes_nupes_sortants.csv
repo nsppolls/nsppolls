@@ -430,15 +430,15 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 012,Aveyron,012-02,9,Jean-Luc,VIDAL,homme,DSV,Droite souverainiste,false
 012,Aveyron,012-02,10,Myriam,CASSARINI,femme,ECO,Ecologistes,false
 012,Aveyron,012-02,11,Dominique,CLERGUE,homme,DVG,Divers gauche,false
-012,Aveyron,012-03,1,Bernard,COMBES,homme,DXG,Divers extrême gauche,
-012,Aveyron,012-03,2,Jean-François,ROUSSET,homme,ENS,Ensemble ! (Majorité présidentielle),
-012,Aveyron,012-03,3,Lysiane,TENDIL,femme,REC,Reconquête !,
-012,Aveyron,012-03,4,Michel,RHIN,homme,FI,La France Insoumise,
-012,Aveyron,012-03,5,Christophe,SAINT-PIERRE,homme,LR,Les Républicains,
-012,Aveyron,012-03,6,Jean Christophe,CAZORLA,homme,RN,Rassemblement National,
-012,Aveyron,012-03,7,Thierry,NOEL,homme,ECO,Ecologistes,
-012,Aveyron,012-03,8,Patrice,MIRAN,homme,ECO,Ecologistes,
-012,Aveyron,012-03,9,Jean-Marie,DAURES,homme,DVD,Divers droite,
+012,Aveyron,012-03,1,Bernard,COMBES,homme,DXG,Divers extrême gauche,false
+012,Aveyron,012-03,2,Jean-François,ROUSSET,homme,ENS,Ensemble ! (Majorité présidentielle),false
+012,Aveyron,012-03,3,Lysiane,TENDIL,femme,REC,Reconquête !,false
+012,Aveyron,012-03,4,Michel,RHIN,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+012,Aveyron,012-03,5,Christophe,SAINT-PIERRE,homme,LR,Les Républicains,false
+012,Aveyron,012-03,6,Jean Christophe,CAZORLA,homme,RN,Rassemblement National,false
+012,Aveyron,012-03,7,Thierry,NOEL,homme,ECO,Ecologistes,false
+012,Aveyron,012-03,8,Patrice,MIRAN,homme,ECO,Ecologistes,false
+012,Aveyron,012-03,9,Jean-Marie,DAURES,homme,DVD,Divers droite,false
 013,Bouches-du-Rhône,013-01,1,Sophie,GRECH,femme,REC,Reconquête !,false
 013,Bouches-du-Rhône,013-01,2,Xavier,BONNARD,homme,ECO,Ecologistes,false
 013,Bouches-du-Rhône,013-01,3,Ferielle,CHENNOUF,femme,ECO,Ecologistes,false
@@ -1437,20 +1437,20 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 031,Haute-Garonne,031-03,10,Camille,DULON,femme,REC,Reconquête !,false
 031,Haute-Garonne,031-03,11,Patrice,MUR,homme,RDG,Parti radical de gauche,false
 031,Haute-Garonne,031-03,12,André Michel,LIGNIER,homme,DVG,Divers gauche,false
-031,Haute-Garonne,031-04,1,Ewa,SADOWSKI,femme,RN,Rassemblement National,
-031,Haute-Garonne,031-04,2,Patrick,MARCIREAU,homme,DXG,Divers extrême gauche,
-031,Haute-Garonne,031-04,3,Arthur,COTTREL,homme,REC,Reconquête !,
-031,Haute-Garonne,031-04,4,Raimon,SABATER,homme,ECO,Ecologistes,
-031,Haute-Garonne,031-04,5,Sandrine,LAFARGE,femme,DVG,Divers gauche,
-031,Haute-Garonne,031-04,6,Jacme,DELMAS,homme,REG,Régionaliste,
-031,Haute-Garonne,031-04,7,Khady-Alberte,SY,femme,DVG,Divers gauche,
-031,Haute-Garonne,031-04,8,François,PIQUEMAL,homme,FI,La France Insoumise,
-031,Haute-Garonne,031-04,9,Cécile,BRANDELY,femme,DXG,Divers extrême gauche,
-031,Haute-Garonne,031-04,10,Bertrand,SERP,homme,LR,Les Républicains,
-031,Haute-Garonne,031-04,11,Anaïs,JALOUNEIX,femme,DVG,Divers gauche,
-031,Haute-Garonne,031-04,12,Jean-Pierre,CARSALADE,homme,DVC,Divers centre,
-031,Haute-Garonne,031-04,13,Marie-Claire,CONSTANS,femme,ENS,Ensemble ! (Majorité présidentielle),
-031,Haute-Garonne,031-04,14,Fatiha,AGAG-BOUDJAHLAT,femme,DVG,Divers gauche,
+031,Haute-Garonne,031-04,1,Ewa,SADOWSKI,femme,RN,Rassemblement National,false
+031,Haute-Garonne,031-04,2,Patrick,MARCIREAU,homme,DXG,Divers extrême gauche,false
+031,Haute-Garonne,031-04,3,Arthur,COTTREL,homme,REC,Reconquête !,false
+031,Haute-Garonne,031-04,4,Raimon,SABATER,homme,ECO,Ecologistes,false
+031,Haute-Garonne,031-04,5,Sandrine,LAFARGE,femme,DVG,Divers gauche,false
+031,Haute-Garonne,031-04,6,Jacme,DELMAS,homme,REG,Régionaliste,false
+031,Haute-Garonne,031-04,7,Khady-Alberte,SY,femme,DVG,Divers gauche,false
+031,Haute-Garonne,031-04,8,François,PIQUEMAL,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+031,Haute-Garonne,031-04,9,Cécile,BRANDELY,femme,DXG,Divers extrême gauche,false
+031,Haute-Garonne,031-04,10,Bertrand,SERP,homme,LR,Les Républicains,false
+031,Haute-Garonne,031-04,11,Anaïs,JALOUNEIX,femme,DVG,Divers gauche,false
+031,Haute-Garonne,031-04,12,Jean-Pierre,CARSALADE,homme,DVC,Divers centre,false
+031,Haute-Garonne,031-04,13,Marie-Claire,CONSTANS,femme,ENS,Ensemble ! (Majorité présidentielle),false
+031,Haute-Garonne,031-04,14,Fatiha,AGAG-BOUDJAHLAT,femme,DVG,Divers gauche,false
 031,Haute-Garonne,031-05,1,Pascal,VIRGOS,homme,DSV,Droite souverainiste,false
 031,Haute-Garonne,031-05,2,Bruno,HONTANS,homme,REC,Reconquête !,false
 031,Haute-Garonne,031-05,3,Jean-Christophe,CHERONNET,homme,LR,Les Républicains,false
@@ -1806,20 +1806,20 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 034,Hérault,034-09,8,Matilda,LOTTA,femme,ECO,Ecologistes,false
 034,Hérault,034-09,9,Valérie,GARNIER,femme,ECO,Ecologistes,false
 034,Hérault,034-09,10,Nadia,BELAOUNI,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
-035,Ille-et-Vilaine,035-01,1,Martin,GAUMONT,homme,DIV,Divers,
-035,Ille-et-Vilaine,035-01,2,Laurent,SIEGWARD,homme,REC,Reconquête !,
-035,Ille-et-Vilaine,035-01,3,Khalid,BAJJOUJ,homme,DIV,Divers,
-035,Ille-et-Vilaine,035-01,4,Yannick,LE MOING,homme,ECO,Ecologistes,
-035,Ille-et-Vilaine,035-01,5,Sébastien,GIRARD,homme,REG,Régionaliste,
-035,Ille-et-Vilaine,035-01,6,Hind,SAOUD,femme,ENS,Ensemble ! (Majorité présidentielle),
-035,Ille-et-Vilaine,035-01,7,Gwenola,BOURIEL,femme,ECO,Ecologistes,
-035,Ille-et-Vilaine,035-01,8,Jean-Bruno,BARGUIL,homme,DVC,Divers centre,
-035,Ille-et-Vilaine,035-01,9,Gautier,ROULEAU,homme,DSV,Droite souverainiste,
-035,Ille-et-Vilaine,035-01,10,Nadine,DESPREZ,femme,RN,Rassemblement National,
-035,Ille-et-Vilaine,035-01,11,Laurent,PRIET,homme,DXG,Divers extrême gauche,
-035,Ille-et-Vilaine,035-01,12,Valérie,HAMON,femme,DXG,Divers extrême gauche,
-035,Ille-et-Vilaine,035-01,13,Jean-François,MONNIER,homme,REG,Régionaliste,
-035,Ille-et-Vilaine,035-01,14,Frédéric,MATHIEU,homme,FI,La France Insoumise,
+035,Ille-et-Vilaine,035-01,1,Martin,GAUMONT,homme,DIV,Divers,false
+035,Ille-et-Vilaine,035-01,2,Laurent,SIEGWARD,homme,REC,Reconquête !,false
+035,Ille-et-Vilaine,035-01,3,Khalid,BAJJOUJ,homme,DIV,Divers,false
+035,Ille-et-Vilaine,035-01,4,Yannick,LE MOING,homme,ECO,Ecologistes,false
+035,Ille-et-Vilaine,035-01,5,Sébastien,GIRARD,homme,REG,Régionaliste,false
+035,Ille-et-Vilaine,035-01,6,Hind,SAOUD,femme,ENS,Ensemble ! (Majorité présidentielle),false
+035,Ille-et-Vilaine,035-01,7,Gwenola,BOURIEL,femme,ECO,Ecologistes,false
+035,Ille-et-Vilaine,035-01,8,Jean-Bruno,BARGUIL,homme,DVC,Divers centre,false
+035,Ille-et-Vilaine,035-01,9,Gautier,ROULEAU,homme,DSV,Droite souverainiste,false
+035,Ille-et-Vilaine,035-01,10,Nadine,DESPREZ,femme,RN,Rassemblement National,false
+035,Ille-et-Vilaine,035-01,11,Laurent,PRIET,homme,DXG,Divers extrême gauche,false
+035,Ille-et-Vilaine,035-01,12,Valérie,HAMON,femme,DXG,Divers extrême gauche,false
+035,Ille-et-Vilaine,035-01,13,Jean-François,MONNIER,homme,REG,Régionaliste,false
+035,Ille-et-Vilaine,035-01,14,Frédéric,MATHIEU,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 035,Ille-et-Vilaine,035-02,1,Mathilde,LAHOGUE,femme,REG,Régionaliste,false
 035,Ille-et-Vilaine,035-02,2,Laurence,MAILLART-MÉHAIGNERIE,femme,ENS,Ensemble ! (Majorité présidentielle),true
 035,Ille-et-Vilaine,035-02,3,Victor,MARION,homme,ECO,Ecologistes,false
@@ -2121,15 +2121,15 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 040,Landes,040-03,7,Isabelle,DU BREUIL HELION DE LA GUÉRONNIÈRE,femme,REC,Reconquête !,false
 040,Landes,040-03,8,Marion,BERGINIAT,femme,LR,Les Républicains,false
 040,Landes,040-03,9,Christelle,LASSORT,femme,DVC,Divers centre,false
-041,Loir-et-Cher,041-01,1,Michel,CHASSIER,homme,RN,Rassemblement National,
-041,Loir-et-Cher,041-01,2,Fabienne,POMI,femme,ECO,Ecologistes,
-041,Loir-et-Cher,041-01,3,Hervé,MESNAGER,homme,RDG,Parti radical de gauche,
-041,Loir-et-Cher,041-01,4,Alain,LOMBARD,homme,DXG,Divers extrême gauche,
-041,Loir-et-Cher,041-01,5,Malik,BENAKCHA,homme,LR,Les Républicains,
-041,Loir-et-Cher,041-01,6,Reda,BELKADI,homme,FI,La France Insoumise,
-041,Loir-et-Cher,041-01,7,Frank,MARTIN,homme,REC,Reconquête !,
-041,Loir-et-Cher,041-01,8,Marc,FESNEAU,homme,ENS,Ensemble ! (Majorité présidentielle),
-041,Loir-et-Cher,041-01,9,Gildas,VIEIRA,homme,DIV,Divers,
+041,Loir-et-Cher,041-01,1,Michel,CHASSIER,homme,RN,Rassemblement National,false
+041,Loir-et-Cher,041-01,2,Fabienne,POMI,femme,ECO,Ecologistes,false
+041,Loir-et-Cher,041-01,3,Hervé,MESNAGER,homme,RDG,Parti radical de gauche,false
+041,Loir-et-Cher,041-01,4,Alain,LOMBARD,homme,DXG,Divers extrême gauche,false
+041,Loir-et-Cher,041-01,5,Malik,BENAKCHA,homme,LR,Les Républicains,false
+041,Loir-et-Cher,041-01,6,Reda,BELKADI,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+041,Loir-et-Cher,041-01,7,Frank,MARTIN,homme,REC,Reconquête !,false
+041,Loir-et-Cher,041-01,8,Marc,FESNEAU,homme,ENS,Ensemble ! (Majorité présidentielle),false
+041,Loir-et-Cher,041-01,9,Gildas,VIEIRA,homme,DIV,Divers,false
 041,Loir-et-Cher,041-02,1,Guillaume,PELTIER,homme,REC,Reconquête !,true
 041,Loir-et-Cher,041-02,2,Marie-Thérèse,DRUESNE,femme,DVC,Divers centre,false
 041,Loir-et-Cher,041-02,3,Pascal,BIOULAC,homme,LR,Les Républicains,false
@@ -3784,21 +3784,21 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 069,Rhône,069-05,7,Hélène,RIVIÈRE,femme,DXG,Divers extrême gauche,false
 069,Rhône,069-05,8,Mohamed,SLIMANI,homme,DIV,Divers,false
 069,Rhône,069-05,9,Julie,KABIL,femme,ECO,Ecologistes,false
-069,Rhône,069-06,1,Katia,BUISSON,femme,RDG,Parti radical de gauche,
-069,Rhône,069-06,2,Jean-Eric,SENDE,homme,DVC,Divers centre,
-069,Rhône,069-06,3,Paul,RYCKAERT,homme,DIV,Divers,
-069,Rhône,069-06,4,Laura,WINKELMULLER,femme,REG,Régionaliste,
-069,Rhône,069-06,5,Clément,CHARLIEU,homme,UDI,Union des Démocrates et des Indépendants,
-069,Rhône,069-06,6,Grégoire,PRIVOLT,homme,DXG,Divers extrême gauche,
-069,Rhône,069-06,7,Nadia,BOUHAMI,femme,DXG,Divers extrême gauche,
-069,Rhône,069-06,8,Maude,BOUTAYEB,femme,DIV,Divers,
-069,Rhône,069-06,9,Ingrid,ROCHE,femme,ECO,Ecologistes,
-069,Rhône,069-06,10,Michèle,MOREL,femme,RN,Rassemblement National,
-069,Rhône,069-06,11,Pierre,PORTA,homme,REC,Reconquête !,
-069,Rhône,069-06,12,Zaïr,MEZIANI,homme,ECO,Ecologistes,
-069,Rhône,069-06,13,Emmanuelle,HAZIZA,femme,ENS,Ensemble ! (Majorité présidentielle),
-069,Rhône,069-06,14,Gabriel,AMARD,homme,FI,La France Insoumise,
-069,Rhône,069-06,15,Philippe,VIEIRA,homme,DIV,Divers,
+069,Rhône,069-06,1,Katia,BUISSON,femme,RDG,Parti radical de gauche,false
+069,Rhône,069-06,2,Jean-Eric,SENDE,homme,DVC,Divers centre,false
+069,Rhône,069-06,3,Paul,RYCKAERT,homme,DIV,Divers,false
+069,Rhône,069-06,4,Laura,WINKELMULLER,femme,REG,Régionaliste,false
+069,Rhône,069-06,5,Clément,CHARLIEU,homme,UDI,Union des Démocrates et des Indépendants,false
+069,Rhône,069-06,6,Grégoire,PRIVOLT,homme,DXG,Divers extrême gauche,false
+069,Rhône,069-06,7,Nadia,BOUHAMI,femme,DXG,Divers extrême gauche,false
+069,Rhône,069-06,8,Maude,BOUTAYEB,femme,DIV,Divers,false
+069,Rhône,069-06,9,Ingrid,ROCHE,femme,ECO,Ecologistes,false
+069,Rhône,069-06,10,Michèle,MOREL,femme,RN,Rassemblement National,false
+069,Rhône,069-06,11,Pierre,PORTA,homme,REC,Reconquête !,false
+069,Rhône,069-06,12,Zaïr,MEZIANI,homme,ECO,Ecologistes,false
+069,Rhône,069-06,13,Emmanuelle,HAZIZA,femme,ENS,Ensemble ! (Majorité présidentielle),false
+069,Rhône,069-06,14,Gabriel,AMARD,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+069,Rhône,069-06,15,Philippe,VIEIRA,homme,DIV,Divers,false
 069,Rhône,069-07,1,Monia,BOUGUERRA,femme,DIV,Divers,false
 069,Rhône,069-07,2,Geneviève,LUCCHESI,femme,REC,Reconquête !,false
 069,Rhône,069-07,3,Anissa,KHEDHER,femme,ENS,Ensemble ! (Majorité présidentielle),true
@@ -4160,17 +4160,17 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 075,Paris,075-04,11,Pierre,LÉVENARD,homme,DXG,Divers extrême gauche,false
 075,Paris,075-04,12,Kevin,GUILLAS-CAVAN,homme,DVG,Divers gauche,false
 075,Paris,075-04,13,Brigitte,KUSTER,femme,LR,Les Républicains,true
-075,Paris,075-05,1,Assia,MEDDAH,femme,RDG,Parti radical de gauche,
-075,Paris,075-05,2,Arnaud,ABEL,homme,DVC,Divers centre,
-075,Paris,075-05,3,Annaëlle,GILLE,femme,UDI,Union des Démocrates et des Indépendants,
-075,Paris,075-05,4,Marguerite,VOGT,femme,RN,Rassemblement National,
-075,Paris,075-05,5,Pierre,MAURIN,homme,DVD,Divers droite,
-075,Paris,075-05,6,Yann,GAUTIER,homme,REC,Reconquête !,
-075,Paris,075-05,7,Elise,FAJGELES,femme,ENS,Ensemble ! (Majorité présidentielle),
-075,Paris,075-05,8,Monique,DABAT,femme,DXG,Divers extrême gauche,
-075,Paris,075-05,9,Jean,BALLON,homme,ECO,Ecologistes,
-075,Paris,075-05,10,Julien,BAYOU,homme,ECO,Ecologistes,
-075,Paris,075-05,11,Marie-Jeanne,JOUVEAU,femme,DIV,Divers,
+075,Paris,075-05,1,Assia,MEDDAH,femme,RDG,Parti radical de gauche,false
+075,Paris,075-05,2,Arnaud,ABEL,homme,DVC,Divers centre,false
+075,Paris,075-05,3,Annaëlle,GILLE,femme,UDI,Union des Démocrates et des Indépendants,false
+075,Paris,075-05,4,Marguerite,VOGT,femme,RN,Rassemblement National,false
+075,Paris,075-05,5,Pierre,MAURIN,homme,DVD,Divers droite,false
+075,Paris,075-05,6,Yann,GAUTIER,homme,REC,Reconquête !,false
+075,Paris,075-05,7,Elise,FAJGELES,femme,ENS,Ensemble ! (Majorité présidentielle),false
+075,Paris,075-05,8,Monique,DABAT,femme,DXG,Divers extrême gauche,false
+075,Paris,075-05,9,Jean,BALLON,homme,ECO,Ecologistes,false
+075,Paris,075-05,10,Julien,BAYOU,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+075,Paris,075-05,11,Marie-Jeanne,JOUVEAU,femme,DIV,Divers,false
 075,Paris,075-06,1,Marie Rosette,HUYNH THI BOZZI,femme,RN,Rassemblement National,false
 075,Paris,075-06,2,Laurence,BONZANI,femme,ECO,Ecologistes,false
 075,Paris,075-06,3,Julien,BARGETON,homme,ENS,Ensemble ! (Majorité présidentielle),false
@@ -4216,7 +4216,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 075,Paris,075-09,5,Pierre,BEYSSAC,homme,DIV,Divers,false
 075,Paris,075-09,6,David,MEYER,homme,REC,Reconquête !,false
 075,Paris,075-09,7,Éric,GLOESS,homme,DXG,Divers extrême gauche,false
-075,Paris,075-09,8,Sandrine,ROUSSEAU,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+075,Paris,075-09,8,Sandrine,ROUSSEAU,femme,DVD,Divers droite,false
 075,Paris,075-09,9,Buon,TAN,homme,ENS,Ensemble ! (Majorité présidentielle),true
 075,Paris,075-09,10,Carole Isabelle Gabrielle,ROUSSEL,femme,RN,Rassemblement National,false
 075,Paris,075-09,11,Laurent,MIERMONT,homme,DVG,Divers gauche,false
@@ -4284,19 +4284,19 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 075,Paris,075-14,8,Benjamin,HADDAD,homme,ENS,Ensemble ! (Majorité présidentielle),false
 075,Paris,075-14,9,Wendy,ACHOUR,femme,DVG,Divers gauche,false
 075,Paris,075-14,10,Julie,MAURY,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
-075,Paris,075-15,1,Apolline,TYBURCZY,femme,ECO,Ecologistes,
-075,Paris,075-15,2,Philippe,HOUPLAIN,homme,REC,Reconquête !,
-075,Paris,075-15,3,Albertine,SYLVESTRE,femme,DIV,Divers,
-075,Paris,075-15,4,Marie-Josée,BOULAIRE,femme,RN,Rassemblement National,
-075,Paris,075-15,5,Danielle,SIMONNET,femme,FI,La France Insoumise,
-075,Paris,075-15,6,François-Marie,DIDIER,homme,LR,Les Républicains,
-075,Paris,075-15,7,Mohamad,GASSAMA,homme,ENS,Ensemble ! (Majorité présidentielle),
-075,Paris,075-15,8,Lamia,EL AARAJE,femme,SOC,Parti socialiste,
-075,Paris,075-15,9,Pauline,ZEKA LEMA,femme,DXG,Divers extrême gauche,
-075,Paris,075-15,10,Sandrine,ADOBATI,femme,DIV,Divers,
-075,Paris,075-15,11,Philippe,ARAGON,homme,DVC,Divers centre,
-075,Paris,075-15,12,Thierry Jean Pierre,NOBIN,homme,DXG,Divers extrême gauche,
-075,Paris,075-15,13,Arnaud,CHARVILLAT,homme,DXG,Divers extrême gauche,
+075,Paris,075-15,1,Apolline,TYBURCZY,femme,ECO,Ecologistes,false
+075,Paris,075-15,2,Philippe,HOUPLAIN,homme,REC,Reconquête !,false
+075,Paris,075-15,3,Albertine,SYLVESTRE,femme,DIV,Divers,false
+075,Paris,075-15,4,Marie-Josée,BOULAIRE,femme,RN,Rassemblement National,false
+075,Paris,075-15,5,Danielle,SIMONNET,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+075,Paris,075-15,6,François-Marie,DIDIER,homme,LR,Les Républicains,false
+075,Paris,075-15,7,Mohamad,GASSAMA,homme,ENS,Ensemble ! (Majorité présidentielle),false
+075,Paris,075-15,8,Lamia,EL AARAJE,femme,SOC,Parti socialiste,false
+075,Paris,075-15,9,Pauline,ZEKA LEMA,femme,DXG,Divers extrême gauche,false
+075,Paris,075-15,10,Sandrine,ADOBATI,femme,DIV,Divers,false
+075,Paris,075-15,11,Philippe,ARAGON,homme,DVC,Divers centre,false
+075,Paris,075-15,12,Thierry Jean Pierre,NOBIN,homme,DXG,Divers extrême gauche,false
+075,Paris,075-15,13,Arnaud,CHARVILLAT,homme,DXG,Divers extrême gauche,false
 075,Paris,075-16,1,Sarah,LEGRAIN,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 075,Paris,075-16,2,Nordine,EL-MARBATI,homme,DXG,Divers extrême gauche,false
 075,Paris,075-16,3,Yanis,BACHA,homme,ENS,Ensemble ! (Majorité présidentielle),false
@@ -4493,15 +4493,15 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 077,Seine-et-Marne,077-05,10,Cédric,COLIN,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 077,Seine-et-Marne,077-05,11,Marie-Pierre,CHEVALLIER,femme,ECO,Ecologistes,false
 077,Seine-et-Marne,077-05,12,Redouane,DAHMANE,homme,DIV,Divers,false
-077,Seine-et-Marne,077-06,1,Claire,MURCIA,femme,REC,Reconquête !,
-077,Seine-et-Marne,077-06,2,Fatna,MEKIDICHE,femme,ENS,Ensemble ! (Majorité présidentielle),
-077,Seine-et-Marne,077-06,3,Valentin,SALAMONE,homme,DSV,Droite souverainiste,
-077,Seine-et-Marne,077-06,4,Nathalie,MOINE,femme,DVG,Divers gauche,
-077,Seine-et-Marne,077-06,5,Béatrice,ROULLAUD,femme,RN,Rassemblement National,
-077,Seine-et-Marne,077-06,6,Annie,RIEUPET,femme,DXG,Divers extrême gauche,
-077,Seine-et-Marne,077-06,7,Valérie,DELAGE,femme,FI,La France Insoumise,
-077,Seine-et-Marne,077-06,8,Hamida,REZEG,femme,LR,Les Républicains,
-077,Seine-et-Marne,077-06,9,Dragan,KLISARIC,homme,ECO,Ecologistes,
+077,Seine-et-Marne,077-06,1,Claire,MURCIA,femme,REC,Reconquête !,false
+077,Seine-et-Marne,077-06,2,Fatna,MEKIDICHE,femme,ENS,Ensemble ! (Majorité présidentielle),false
+077,Seine-et-Marne,077-06,3,Valentin,SALAMONE,homme,DSV,Droite souverainiste,false
+077,Seine-et-Marne,077-06,4,Nathalie,MOINE,femme,DVG,Divers gauche,false
+077,Seine-et-Marne,077-06,5,Béatrice,ROULLAUD,femme,RN,Rassemblement National,false
+077,Seine-et-Marne,077-06,6,Annie,RIEUPET,femme,DXG,Divers extrême gauche,false
+077,Seine-et-Marne,077-06,7,Valérie,DELAGE,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+077,Seine-et-Marne,077-06,8,Hamida,REZEG,femme,LR,Les Républicains,false
+077,Seine-et-Marne,077-06,9,Dragan,KLISARIC,homme,ECO,Ecologistes,false
 077,Seine-et-Marne,077-07,1,Laetitia,GUILLARD,femme,ECO,Ecologistes,false
 077,Seine-et-Marne,077-07,2,Patrick,JAHIER,homme,LR,Les Républicains,false
 077,Seine-et-Marne,077-07,3,Rodrigue,KOKOUENDO,homme,ENS,Ensemble ! (Majorité présidentielle),true
@@ -6063,19 +6063,19 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 972,Martinique,972-02,9,Barbara,JEAN-ELIE,femme,DVG,Divers gauche,false
 972,Martinique,972-02,10,Gaétan,DUFEAL,homme,DXG,Divers extrême gauche,false
 972,Martinique,972-02,11,Cynthia,BELLAME,femme,REC,Reconquête !,false
-972,Martinique,972-03,1,Gabriel,JEAN-MARIE,homme,DXG,Divers extrême gauche,
-972,Martinique,972-03,2,Nathalie,JOS,femme,REG,Régionaliste,
-972,Martinique,972-03,3,Isabelle,MOLE,femme,UDI,Union des Démocrates et des Indépendants,
-972,Martinique,972-03,4,Cédric,CRAMPON,homme,RN,Rassemblement National,
-972,Martinique,972-03,5,Daniel,ROBIN,homme,DVG,Divers gauche,
-972,Martinique,972-03,6,Francis,CAROLE,homme,REG,Régionaliste,
-972,Martinique,972-03,7,Marie-Jeanne Françoise,JEANVILLE,femme,REC,Reconquête !,
-972,Martinique,972-03,8,Audrey Arielle,GIRAUD,femme,ENS,Ensemble ! (Majorité présidentielle),
-972,Martinique,972-03,9,Jean-Michel,JEAN-BAPTISTE,homme,DVG,Divers gauche,
-972,Martinique,972-03,10,Thierry,RENARD,homme,FI,La France Insoumise,
-972,Martinique,972-03,11,Joël,BARDET,homme,REG,Régionaliste,
-972,Martinique,972-03,12,Johnny,HAJJAR,homme,DVG,Divers gauche,
-972,Martinique,972-03,13,Noël,NEMOUTHE,homme,REG,Régionaliste,
+972,Martinique,972-03,1,Gabriel,JEAN-MARIE,homme,DXG,Divers extrême gauche,false
+972,Martinique,972-03,2,Nathalie,JOS,femme,REG,Régionaliste,false
+972,Martinique,972-03,3,Isabelle,MOLE,femme,UDI,Union des Démocrates et des Indépendants,false
+972,Martinique,972-03,4,Cédric,CRAMPON,homme,RN,Rassemblement National,false
+972,Martinique,972-03,5,Daniel,ROBIN,homme,DVG,Divers gauche,false
+972,Martinique,972-03,6,Francis,CAROLE,homme,REG,Régionaliste,false
+972,Martinique,972-03,7,Marie-Jeanne Françoise,JEANVILLE,femme,REC,Reconquête !,false
+972,Martinique,972-03,8,Audrey Arielle,GIRAUD,femme,ENS,Ensemble ! (Majorité présidentielle),false
+972,Martinique,972-03,9,Jean-Michel,JEAN-BAPTISTE,homme,DVG,Divers gauche,false
+972,Martinique,972-03,10,Thierry,RENARD,homme,FI,La France Insoumise,false
+972,Martinique,972-03,11,Joël,BARDET,homme,REG,Régionaliste,false
+972,Martinique,972-03,12,Johnny,HAJJAR,homme,DVG,Divers gauche,false
+972,Martinique,972-03,13,Noël,NEMOUTHE,homme,REG,Régionaliste,false
 972,Martinique,972-04,1,David,DINAL,homme,DVG,Divers gauche,false
 972,Martinique,972-04,2,Richard Darius,MIRANDE,homme,DVG,Divers gauche,false
 972,Martinique,972-04,3,Karine,THERESE,femme,ECO,Ecologistes,false
@@ -6090,24 +6090,24 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 972,Martinique,972-04,12,Mélanie,SULIO,femme,DXG,Divers extrême gauche,false
 972,Martinique,972-04,13,Jean-Marc,LUSBEC,homme,LR,Les Républicains,false
 972,Martinique,972-04,14,Alfred,MARIE-JEANNE,homme,REG,Régionaliste,false
-973,Guyane,973-01,1,Jessika,DELAR-RENÉ,femme,DVG,Divers gauche,
-973,Guyane,973-01,2,Thibault,LECHAT-VEGA,homme,DVG,Divers gauche,
-973,Guyane,973-01,3,Yvane,GOUA,femme,REG,Régionaliste,
-973,Guyane,973-01,4,Yari,CONTOUT,homme,DVG,Divers gauche,
-973,Guyane,973-01,5,Line,LETARD,femme,REG,Régionaliste,
-973,Guyane,973-01,6,Emmanuel,FELISSAINT,homme,DVG,Divers gauche,
-973,Guyane,973-01,7,Rolande,CHALCO-LEFAY,femme,DVG,Divers gauche,
-973,Guyane,973-01,8,Joëlle,PREVOT-MADERE,femme,DVD,Divers droite,
-973,Guyane,973-01,9,Rudy,STEPHENSON,homme,DVG,Divers gauche,
-973,Guyane,973-01,10,Jérôme,HARBOURG,homme,RN,Rassemblement National,
-973,Guyane,973-01,11,Christophe,MADÈRE,homme,DVG,Divers gauche,
-973,Guyane,973-01,12,Jean-Victor,CASTOR,homme,REG,Régionaliste,
-973,Guyane,973-01,13,Mylène,MATHIEU,femme,DVG,Divers gauche,
-973,Guyane,973-01,14,Myrtha,CATTIER,femme,DVG,Divers gauche,
-973,Guyane,973-01,15,Alix,MADELEINE,homme,DVC,Divers centre,
-973,Guyane,973-01,16,Aurore,SAGNE,femme,DVG,Divers gauche,
-973,Guyane,973-01,17,Philippe,BOUBA,homme,FI,La France Insoumise,
-973,Guyane,973-01,18,Boris,CHONG-SIT,homme,DVD,Divers droite,
+973,Guyane,973-01,1,Jessika,DELAR-RENÉ,femme,DVG,Divers gauche,false
+973,Guyane,973-01,2,Thibault,LECHAT-VEGA,homme,DVG,Divers gauche,false
+973,Guyane,973-01,3,Yvane,GOUA,femme,REG,Régionaliste,false
+973,Guyane,973-01,4,Yari,CONTOUT,homme,DVG,Divers gauche,false
+973,Guyane,973-01,5,Line,LETARD,femme,REG,Régionaliste,false
+973,Guyane,973-01,6,Emmanuel,FELISSAINT,homme,DVG,Divers gauche,false
+973,Guyane,973-01,7,Rolande,CHALCO-LEFAY,femme,DVG,Divers gauche,false
+973,Guyane,973-01,8,Joëlle,PREVOT-MADERE,femme,DVD,Divers droite,false
+973,Guyane,973-01,9,Rudy,STEPHENSON,homme,DVG,Divers gauche,false
+973,Guyane,973-01,10,Jérôme,HARBOURG,homme,RN,Rassemblement National,false
+973,Guyane,973-01,11,Christophe,MADÈRE,homme,DVG,Divers gauche,false
+973,Guyane,973-01,12,Jean-Victor,CASTOR,homme,REG,Régionaliste,false
+973,Guyane,973-01,13,Mylène,MATHIEU,femme,DVG,Divers gauche,false
+973,Guyane,973-01,14,Myrtha,CATTIER,femme,DVG,Divers gauche,false
+973,Guyane,973-01,15,Alix,MADELEINE,homme,DVC,Divers centre,false
+973,Guyane,973-01,16,Aurore,SAGNE,femme,DVG,Divers gauche,false
+973,Guyane,973-01,17,Philippe,BOUBA,homme,FI,La France Insoumise,false
+973,Guyane,973-01,18,Boris,CHONG-SIT,homme,DVD,Divers droite,false
 973,Guyane,973-02,1,Wender,KARAM,homme,SOC,Parti socialiste,false
 973,Guyane,973-02,2,Gillermo,JOJE,homme,DVG,Divers gauche,false
 973,Guyane,973-02,3,Virgine,THOMAS,femme,RN,Rassemblement National,false
