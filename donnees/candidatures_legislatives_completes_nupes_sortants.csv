@@ -866,7 +866,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 02A,Corse-du-Sud,02A-02,2,Yves,DAÏEN,homme,DXG,Divers extrême gauche,false
 02A,Corse-du-Sud,02A-02,3,Olivier,BATTISTINI,homme,REC,Reconquête !,false
 02A,Corse-du-Sud,02A-02,4,Paul-André,COLOMBANI,homme,REG,Régionaliste,true
-02A,Corse-du-Sud,02A-02,5,Ghislaine,SALMAT,femme,SOC,Parti socialiste,false
+02A,Corse-du-Sud,02A-02,5,Ghislaine,SALMAT,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 02A,Corse-du-Sud,02A-02,6,Pierre-Ange,MUSELLI-COLONNA,homme,COM,Parti communiste français,false
 02A,Corse-du-Sud,02A-02,7,François,FILONI,homme,RN,Rassemblement National,false
 02A,Corse-du-Sud,02A-02,8,Vincent Louis,ETTORI,homme,DSV,Droite souverainiste,false
@@ -882,14 +882,14 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 02B,Haute-Corse,02B-01,7,Olivier,JOSUÉ,homme,DXG,Divers extrême gauche,false
 02B,Haute-Corse,02B-01,8,Michel,STAELENS,homme,ECO,Ecologistes,false
 02B,Haute-Corse,02B-01,9,Alexis,FERNANDEZ,homme,RN,Rassemblement National,false
-02B,Haute-Corse,02B-01,10,Michel,STEFANI,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+02B,Haute-Corse,02B-01,10,Michel,STEFANI,homme,COM,Parti communiste français,false
 02B,Haute-Corse,02B-01,11,Christine,CETTOUR-LEONI,femme,DSV,Droite souverainiste,false
 02B,Haute-Corse,02B-01,12,Petru Antone,TOMASI,homme,REG,Régionaliste,false
 02B,Haute-Corse,02B-02,1,Jean-Félix,ACQUAVIVA,homme,REG,Régionaliste,true
 02B,Haute-Corse,02B-02,2,François-Xavier,CECCOLI,homme,DVD,Divers droite,false
 02B,Haute-Corse,02B-02,3,Marie Dominique,SALDUCCI,femme,DSV,Droite souverainiste,false
 02B,Haute-Corse,02B-02,4,Amélie,RAFFAELLI - FRANCESCHI,femme,COM,Parti communiste français,false
-02B,Haute-Corse,02B-02,5,.,BARONNE ML MARIANI,femme,DIV,Divers,false
+02B,Haute-Corse,02B-02,5,,BARONNE ML MARIANI,femme,DIV,Divers,false
 02B,Haute-Corse,02B-02,6,Lionel,MORTINI,homme,REG,Régionaliste,false
 02B,Haute-Corse,02B-02,7,Viviane,RONGIONE,femme,DXG,Divers extrême gauche,false
 02B,Haute-Corse,02B-02,8,Jean,CARDI,homme,RN,Rassemblement National,false
@@ -1548,7 +1548,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 032,Gers,032-02,11,Merima,HUSEINBASIC,femme,ECO,Ecologistes,false
 032,Gers,032-02,12,Françoise,DUBOS,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 032,Gers,032-02,13,Samira,TOUATI,femme,DVG,Divers gauche,false
-032,Gers,032-02,14,David,TAUPIAC,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+032,Gers,032-02,14,David,TAUPIAC,homme,RDG,Parti radical de gauche,false
 033,Gironde,033-01,1,Esther,DUFAURE,femme,ECO,Ecologistes,false
 033,Gironde,033-01,2,Xavier,LOUSTAUNAU,homme,DVD,Divers droite,false
 033,Gironde,033-01,3,Isabelle,LARROQUET,femme,DXG,Divers extrême gauche,false
@@ -4839,7 +4839,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 083,Var,083-03,6,Isabelle,MONFORT,femme,ENS,Ensemble ! (Majorité présidentielle),false
 083,Var,083-03,7,Olivier,CALABRO,homme,DVD,Divers droite,false
 083,Var,083-03,8,Pierre,DEIDON,homme,DXG,Divers extrême gauche,false
-083,Var,083-03,9,Julia,PEIRONET BREMOND,femme,SOC,Parti socialiste,false
+083,Var,083-03,9,Julia,PEIRONET BREMOND,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 083,Var,083-03,10,Michel,GRÉGOIRE,homme,ECO,Ecologistes,false
 083,Var,083-03,11,Magalie,STORTZ,femme,ECO,Ecologistes,false
 083,Var,083-03,12,Valérie,RIALLAND,femme,LR,Les Républicains,false
@@ -5410,7 +5410,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 092,Hauts-de-Seine,092-11,8,Franck,ROLLOT,homme,DXG,Divers extrême gauche,false
 092,Hauts-de-Seine,092-11,9,Florence,LÉVÊQUE,homme,REC,Reconquête !,false
 092,Hauts-de-Seine,092-11,10,Dominique Chantal,BROUSSAUDIER,femme,ECO,Ecologistes,false
-092,Hauts-de-Seine,092-12,1,Marc,THOMAS,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
+092,Hauts-de-Seine,092-12,1,Marc,THOMAS,homme,RN,Rassemblement National,false
 092,Hauts-de-Seine,092-12,2,Cathy,THOMAS,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 092,Hauts-de-Seine,092-12,3,Yann,BERNARD,homme,DXG,Divers extrême gauche,false
 092,Hauts-de-Seine,092-12,4,Benoit,BLOT,homme,LR,Les Républicains,false
