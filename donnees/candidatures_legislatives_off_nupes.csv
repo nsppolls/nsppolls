@@ -1,3 +1,4 @@
+id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 1,001-01,1,GUILLERMIN,Vincent,M.,ENS,Ensemble ! (Majorité présidentielle)
 2,001-01,2,LAHY,Éric,M.,DXG,Divers extrême gauche
 3,001-01,3,BRETON,Xavier,M.,LR,Les Républicains
@@ -85,7 +86,7 @@
 85,002-05,4,DESSIGNY,Jocelyn,M.,RN,Rassemblement National
 86,002-05,5,TRIBOULET,Florence,Mme,REC,Reconquête !
 87,002-05,6,VACCA,Françoise,Mme,ECO,Ecologistes
-88,002-05,7,FRERE,Stéphane,M.,FI,La France Insoumise
+88,002-05,7,FRERE,Stéphane,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 89,002-05,8,BOLLÉE,Joffrey,M.,DSV,Droite souverainiste
 90,002-05,9,GILQUIN,Jade,Mme,LR,Les Républicains
 91,003-01,1,SENNEPIN,Marion,Mme,ECO,Ecologistes
@@ -109,7 +110,7 @@
 109,003-02,10,THOMAS,Luc,M.,REG,Régionaliste
 110,003-02,11,VANCEUNEBROCK,Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle)
 111,003-02,12,POZZOLI,Bernard,M.,DVG,Divers gauche
-112,003-02,13,HERITIER,Louise,Mme,FI,La France Insoumise
+112,003-02,13,HERITIER,Louise,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 113,003-03,1,RAMEAU,Jean-Francois,M.,DXG,Divers extrême gauche
 114,003-03,2,DUCHÉ,Paul,M.,ECO,Ecologistes
 115,003-03,3,RAY,Nicolas,M.,LR,Les Républicains
@@ -208,7 +209,7 @@
 208,006-04,4,BEYL,Christine,Mme,ECO,Ecologistes
 209,006-04,5,DUCREUX,Pascal,M.,ECO,Ecologistes
 210,006-04,6,CARBONEL,Fabrice,M.,DSV,Droite souverainiste
-211,006-04,7,BOURNOT-POULET,Sophie,Mme,COM,Parti communiste français
+211,006-04,7,BOURNOT-POULET,Sophie,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 212,006-04,8,ROUX,Roger,M.,LR,Les Républicains
 213,006-04,9,MASSON,Alexandra,Mme,RN,Rassemblement National
 214,006-04,10,RIEU,Damien,M.,REC,Reconquête !
@@ -382,7 +383,7 @@
 382,011-01,6,BARTHÈS,Christophe,M.,RN,Rassemblement National
 383,011-01,7,GADRAT,Nicole,Mme,DXG,Divers extrême gauche
 384,011-01,8,PEREZ,Laurent,M.,LR,Les Républicains
-385,011-01,9,COURRIÈRE CALMON,Sophie,Mme,SOC,Parti socialiste
+385,011-01,9,COURRIÈRE CALMON,Sophie,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 386,011-01,10,HÉRIN,Danièle,Mme,ENS,Ensemble ! (Majorité présidentielle)
 387,011-02,1,ROCHER,Edouard,M.,RDG,Parti radical de gauche
 388,011-02,2,FALCON,Frédéric,M.,RN,Rassemblement National
@@ -844,7 +845,7 @@
 844,019-02,6,ELOPHE,Valéry,M.,RN,Rassemblement National
 845,019-02,7,LE BILLAN,Charles-Henri,M.,DVG,Divers gauche
 846,019-02,8,AYRAULT,Marie,Mme,DIV,Divers
-847,019-02,9,HERZHAFT,Chloé,Mme,DVG,Divers gauche
+847,019-02,9,HERZHAFT,Chloé,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 848,019-02,10,COJAN,Patrick,M.,ECO,Ecologistes
 849,019-02,11,SICARD,Sylvie,Mme,DXG,Divers extrême gauche
 850,019-02,12,SAUVINIAT,Céline,Mme,ECO,Ecologistes
@@ -1039,7 +1040,7 @@
 1039,025-02,8,VUITTON,Brigitte,Mme,DXG,Divers extrême gauche
 1040,025-02,9,FUSIS,Eric,M.,RN,Rassemblement National
 1041,025-03,1,FROPPIER,Christophe,M.,LR,Les Républicains
-1042,025-03,2,DAYET,Virgnie,Mme,COM,Parti communiste français
+1042,025-03,2,DAYET,Virgnie,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1043,025-03,3,PACQUOT,Nicolas,M.,ENS,Ensemble ! (Majorité présidentielle)
 1044,025-03,4,NEDEY,Valère,M.,DVD,Divers droite
 1045,025-03,5,TAPONNOT,Romane,Mme,REC,Reconquête !
@@ -1178,7 +1179,7 @@
 1178,028-02,11,CASTRO,Sylvie,Mme,ECO,Ecologistes
 1179,028-02,12,NIKOLIC,Aleksandar,M.,RN,Rassemblement National
 1180,028-03,1,LAQUA,Éric,M.,REC,Reconquête !
-1181,028-03,2,ORFILA,Valéria,Mme,FI,La France Insoumise
+1181,028-03,2,ORFILA,Valéria,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1182,028-03,3,MARTIAL,Rémi,M.,LR,Les Républicains
 1183,028-03,4,GERACI,Carole,Mme,DIV,Divers
 1184,028-03,5,LAMIRAULT,Luc,M.,ENS,Ensemble ! (Majorité présidentielle)
@@ -1391,7 +1392,7 @@
 1391,030-06,1,GUILLOT,Sophie,Mme,DVC,Divers centre
 1392,030-06,2,MAURIN,Jean-Claude,M.,DVG,Divers gauche
 1393,030-06,3,GARDET,Laurence,Mme,RN,Rassemblement National
-1394,030-06,4,CADÈNE,Nicolas,M.,ECO,Ecologistes
+1394,030-06,4,CADÈNE,Nicolas,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1395,030-06,5,TERBECHE,Aïcha,Mme,DXG,Divers extrême gauche
 1396,030-06,6,STIVAL,Nicolas,M.,DSV,Droite souverainiste
 1397,030-06,7,GUILLEMIN,Stéphane,M.,REC,Reconquête !
@@ -1464,7 +1465,7 @@
 1464,031-05,12,GOMBERT,Laurence,Mme,DVG,Divers gauche
 1465,031-06,1,HELMAN,Christelle,Mme,DVG,Divers gauche
 1466,031-06,2,PUEL,Michele,Mme,DXG,Divers extrême gauche
-1467,031-06,3,JOUVE,Fabien,M.,SOC,Parti socialiste
+1467,031-06,3,JOUVE,Fabien,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1468,031-06,4,TARANTO,Thierry,M.,DVD,Divers droite
 1469,031-06,5,PIUSSAN,Dominique,Mme,REC,Reconquête !
 1470,031-06,6,MARTIN,Tristan,M.,DVG,Divers gauche
@@ -1561,7 +1562,7 @@
 1561,033-01,11,BLANCHARD,Laurent,M.,ECO,Ecologistes
 1562,033-01,12,NJIKAM,Pierre De Gaetan,M.,LR,Les Républicains
 1563,033-01,13,QUANDALLE,Fanny,Mme,DXG,Divers extrême gauche
-1564,033-01,14,CESTARI,Catherine,Mme,ECO,Ecologistes
+1564,033-01,14,CESTARI,Catherine,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1565,033-01,15,ROCHE,Jean-Pierre,M.,DIV,Divers
 1566,033-02,1,DUPONT,Guy,M.,DXG,Divers extrême gauche
 1567,033-02,2,BELMONDO,Bruna,Mme,DVD,Divers droite
@@ -1611,7 +1612,7 @@
 1611,033-06,1,PERCHET,Guillaume,M.,DXG,Divers extrême gauche
 1612,033-06,2,PARIS,Jérôme,M.,REC,Reconquête !
 1613,033-06,3,BONHOMME,Franck,M.,DVD,Divers droite
-1614,033-06,4,FERGEAU-RENAUX,Vanessa,Mme,SOC,Parti socialiste
+1614,033-06,4,FERGEAU-RENAUX,Vanessa,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1615,033-06,5,MORISSET,Marc,M.,DVG,Divers gauche
 1616,033-06,6,MVONDO,Esther,Mme,ECO,Ecologistes
 1617,033-06,7,FLORIT,Jonathan,M.,DSV,Droite souverainiste
@@ -1905,7 +1906,7 @@
 1905,035-08,14,LOOTEN,Marianne,Mme,RN,Rassemblement National
 1906,036-01,1,FELDER,Sandrine,Mme,REC,Reconquête !
 1907,036-01,2,GÉLINAUD,Véronique,Mme,DXG,Divers extrême gauche
-1908,036-01,3,GONZALEZ,Éloïse,Mme,FI,La France Insoumise
+1908,036-01,3,GONZALEZ,Éloïse,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1909,036-01,4,GIBAULT,Claudine,Mme,DVD,Divers droite
 1910,036-01,5,JOLIVET,François,M.,ENS,Ensemble ! (Majorité présidentielle)
 1911,036-01,6,FRUCHON,Alix,Mme,LR,Les Républicains
@@ -1964,7 +1965,7 @@
 1964,037-05,5,COUSIN HAMELAL,Émilien,M.,ECO,Ecologistes
 1965,037-05,6,THILLAYE,Sabine,Mme,ENS,Ensemble ! (Majorité présidentielle)
 1966,037-05,7,MARTINEZ,Patrick,M.,DVD,Divers droite
-1967,037-05,8,DESMARES LANGLADE,Françoise Jeanne Renée,Mme,COM,Parti communiste français
+1967,037-05,8,DESMARES LANGLADE,Françoise Jeanne Renée,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1968,037-05,9,LOUISIN,Ambre,Mme,RN,Rassemblement National
 1969,038-01,1,ADAM,Rémi,M.,DXG,Divers extrême gauche
 1970,038-01,2,VÉRAN,Olivier,M.,ENS,Ensemble ! (Majorité présidentielle)
@@ -1988,7 +1989,7 @@
 1988,038-02,11,SARRAT,Fabienne,Mme,LR,Les Républicains
 1989,038-02,12,OLIVIER,David,M.,ECO,Ecologistes
 1990,038-03,1,BRUN,Catherine,Mme,DXG,Divers extrême gauche
-1991,038-03,2,MARTIN,Élisa,Mme,FI,La France Insoumise
+1991,038-03,2,MARTIN,Élisa,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 1992,038-03,3,KRIEF,Sandra,Mme,ECO,Ecologistes
 1993,038-03,4,CHAPPET,Clément,M.,LR,Les Républicains
 1994,038-03,5,TIVOLLE,Lucie,Mme,REC,Reconquête !
@@ -2009,7 +2010,7 @@
 2009,038-05,1,KOLMAKOVA,Anna,Mme,DSV,Droite souverainiste
 2010,038-05,2,FERES,Quentin,M.,REC,Reconquête !
 2011,038-05,3,ROSSET,Frédéric,M.,ECO,Ecologistes
-2012,038-05,4,IORDANOFF,Jérémie,M.,ECO,Ecologistes
+2012,038-05,4,IORDANOFF,Jérémie,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2013,038-05,5,LEAL,Fabienne-Claire,Mme,ECO,Ecologistes
 2014,038-05,6,LECROQ,Françoise,Mme,DXG,Divers extrême gauche
 2015,038-05,7,SANTANA,Jérôme,M.,RN,Rassemblement National
@@ -2074,7 +2075,7 @@
 2074,039-02,1,DALLOZ,Marie-Christine,Mme,LR,Les Républicains
 2075,039-02,2,LINDA,Jérôme,M.,DVD,Divers droite
 2076,039-02,3,GALLOIS JOBEZ,Delphine,Mme,ENS,Ensemble ! (Majorité présidentielle)
-2077,039-02,4,TERNANT,Evelyne,Mme,COM,Parti communiste français
+2077,039-02,4,TERNANT,Evelyne,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2078,039-02,5,DESSEIGNE,Nathalie,Mme,DSV,Droite souverainiste
 2079,039-02,6,MARCHET,Christian,M.,DXG,Divers extrême gauche
 2080,039-02,7,MARINO,Louis,M.,DVD,Divers droite
@@ -2221,7 +2222,7 @@
 2221,043-01,5,FOURETS,Suzanne,Mme,RN,Rassemblement National
 2222,043-01,6,DRACOS,Electre,Mme,DXG,Divers extrême gauche
 2223,043-01,7,LEGER-PORTAL,Virginie,Mme,ECO,Ecologistes
-2224,043-01,8,GACON,Celline,Mme,ECO,Ecologistes
+2224,043-01,8,GACON,Celline,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2225,043-02,1,COCHET,Philippe,M.,ECO,Ecologistes
 2226,043-02,2,PEREZ,Thierry,M.,RN,Rassemblement National
 2227,043-02,3,LAFONT,Clément,M.,REG,Régionaliste
@@ -2313,7 +2314,7 @@
 2313,044-07,9,BOUTRY,Olivier,M.,DIV,Divers
 2314,044-07,10,BOURDEAU,Gaël,M.,DSV,Droite souverainiste
 2315,044-07,11,JOSSO,Sandrine,Mme,ENS,Ensemble ! (Majorité présidentielle)
-2316,044-07,12,MAHÉ,Veronique,Mme,COM,Parti communiste français
+2316,044-07,12,MAHÉ,Veronique,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2317,044-08,1,BOSSARD,Cécilia,Mme,REG,Régionaliste
 2318,044-08,2,CARRO,Hervé,M.,REG,Régionaliste
 2319,044-08,3,PORCHER,Andréa,Mme,LR,Les Républicains
@@ -2366,7 +2367,7 @@
 2366,045-02,5,BERTRAN,Sarah,Mme,DIV,Divers
 2367,045-02,6,MEGDOUD,Farida,Mme,DXG,Divers extrême gauche
 2368,045-02,7,HOUSSARD,Alexandre,M.,LR,Les Républicains
-2369,045-02,8,DUPLESSY,Emmanuel,M.,ECO,Ecologistes
+2369,045-02,8,DUPLESSY,Emmanuel,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2370,045-02,9,JANVIER,Caroline,Mme,ENS,Ensemble ! (Majorité présidentielle)
 2371,045-02,10,ACHBOUNE,Abdelrachid,M.,DIV,Divers
 2372,045-03,1,GOURRET-GUÉNIN,Philippe,M.,ECO,Ecologistes
@@ -2534,7 +2535,7 @@
 2534,049-07,7,L'HUILLIER,Céline,Mme,DXG,Divers extrême gauche
 2535,049-07,8,MAZIÈRES,Barbara,Mme,REC,Reconquête !
 2536,050-01,1,LOUICHE,Jérôme,M.,ECO,Ecologistes
-2537,050-01,2,HÉDOUIN,Guillaume,M.,ECO,Ecologistes
+2537,050-01,2,HÉDOUIN,Guillaume,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2538,050-01,3,PASQUIER,François,M.,DSV,Droite souverainiste
 2539,050-01,4,JAN DE LAGILLARDAIE,Victor,M.,REC,Reconquête !
 2540,050-01,5,PIEN,Laurent,M.,ENS,Ensemble ! (Majorité présidentielle)
@@ -2595,7 +2596,7 @@
 2595,051-03,4,JABBOUR,Johanna,Mme,DSV,Droite souverainiste
 2596,051-03,5,CORMERAIS,Charlotte,Mme,DXG,Divers extrême gauche
 2597,051-03,6,DEBARLE,Bertrand,M.,DIV,Divers
-2598,051-03,7,BERTHELEMY,Chantal,Mme,COM,Parti communiste français
+2598,051-03,7,BERTHELEMY,Chantal,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2599,051-03,8,D'ORGEVILLE,Sonia,Mme,ECO,Ecologistes
 2600,051-03,9,GIRARDIN,Eric,M.,ENS,Ensemble ! (Majorité présidentielle)
 2601,051-04,1,GOSSEAU,Laurent,M.,DXG,Divers extrême gauche
@@ -2773,7 +2774,7 @@
 2773,056-02,12,PAHUN,Jimmy,M.,ENS,Ensemble ! (Majorité présidentielle)
 2774,056-02,13,LEMOULINIER,Sophie,Mme,LR,Les Républicains
 2775,056-03,1,COUDÉ,Charlène,Mme,ECO,Ecologistes
-2776,056-03,2,DORE-LUCAS,Marie Madeleine,Mme,FI,La France Insoumise
+2776,056-03,2,DORE-LUCAS,Marie Madeleine,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2777,056-03,3,LEPERT,Julie,Mme,DXG,Divers extrême gauche
 2778,056-03,4,QUÉRO,Benoît,M.,LR,Les Républicains
 2779,056-03,5,LOPEZ,Yoann,M.,DIV,Divers
@@ -2784,7 +2785,7 @@
 2784,056-03,10,GOHIN,Alice,Mme,RN,Rassemblement National
 2785,056-03,11,EPAILLARD,Lionel Guy Marie,M.,ECO,Ecologistes
 2786,056-03,12,LE PEIH,Nicole,Mme,ENS,Ensemble ! (Majorité présidentielle)
-2787,056-04,1,LE FLECHER,Lhea,Mme,COM,Parti communiste français
+2787,056-04,1,LE FLECHER,Lhea,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2788,056-04,2,MAMAR,Khaled,M.,ECO,Ecologistes
 2789,056-04,3,DECUYPERE,Isabelle,Mme,DSV,Droite souverainiste
 2790,056-04,4,MOLAC,Paul,M.,REG,Régionaliste
@@ -2901,7 +2902,7 @@
 2901,057-08,7,ROSA,Raphaëlle,Mme,LR,Les Républicains
 2902,057-08,8,DAVID,Claire,Mme,DSV,Droite souverainiste
 2903,057-08,9,ANDRÉ,Sébastien,M.,REC,Reconquête !
-2904,057-09,1,VAÏSSE,Brigitte,Mme,SOC,Parti socialiste
+2904,057-09,1,VAÏSSE,Brigitte,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2905,057-09,2,REICHLING,Stéphane,M.,RN,Rassemblement National
 2906,057-09,3,ENGEL,Fred,M.,DIV,Divers
 2907,057-09,4,WALLIAN,Aurélie,Mme,REC,Reconquête !
@@ -2918,11 +2919,11 @@
 2918,058-01,3,IMPENGE,Orny,M.,DVG,Divers gauche
 2919,058-01,4,VIGNERON,Pauline,Mme,RN,Rassemblement National
 2920,058-01,5,VERDEZ,Bryton,M.,REC,Reconquête !
-2921,058-01,6,COUTELLEC,Leo,M.,FI,La France Insoumise
+2921,058-01,6,COUTELLEC,Leo,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2922,058-01,7,GALLOIS,Charles-Henri,M.,DSV,Droite souverainiste
 2923,058-01,8,LE METAYER,François,M.,LR,Les Républicains
 2924,058-01,9,GOULET,Perrine,Mme,ENS,Ensemble ! (Majorité présidentielle)
-2925,058-02,1,GUILLEMAIN,Marie Anne,Mme,FI,La France Insoumise
+2925,058-02,1,GUILLEMAIN,Marie Anne,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 2926,058-02,2,DUPUIS,Dominique,M.,DXG,Divers extrême gauche
 2927,058-02,3,LEPETIT,Pascal,M.,DSV,Droite souverainiste
 2928,058-02,4,MEGY,Heloïse,Mme,ECO,Ecologistes
@@ -3144,7 +3145,7 @@
 3144,060-02,2,CERVANTES,Guillaume,M.,DVG,Divers gauche
 3145,060-02,3,FOUGERE,Benjamin,M.,REC,Reconquête !
 3146,060-02,4,LEPERRE-VERRIER,Odile,Mme,RDG,Parti radical de gauche
-3147,060-02,5,PREVOT,Annick,Mme,FI,La France Insoumise
+3147,060-02,5,PREVOT,Annick,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3148,060-02,6,BALLARD,Philippe,M.,RN,Rassemblement National
 3149,060-02,7,HERBANNE,Chanez,Mme,ENS,Ensemble ! (Majorité présidentielle)
 3150,060-02,8,THILL,Agnès,Mme,UDI,Union des Démocrates et des Indépendants
@@ -3237,7 +3238,7 @@
 3237,062-01,4,ITEY,Liliane,Mme,DVD,Divers droite
 3238,062-01,5,FLAHAUT,Michel,M.,DVG,Divers gauche
 3239,062-01,6,BERNARD,Marie,Mme,LR,Les Républicains
-3240,062-01,7,CAGNACHE,Eric,M.,FI,La France Insoumise
+3240,062-01,7,CAGNACHE,Eric,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3241,062-01,8,BLAIRY,Emmanuel,M.,RN,Rassemblement National
 3242,062-01,9,FOURNIER,Geoffrey,M.,REC,Reconquête !
 3243,062-02,1,LAPOUILLE,Emmanuelle,Mme,LR,Les Républicains
@@ -3369,7 +3370,7 @@
 3369,063-01,9,DE FRANCESCO,Aurélie,Mme,ECO,Ecologistes
 3370,063-01,10,GALPIER,Sébastien,M.,LR,Les Républicains
 3371,063-01,11,THOMAS,Valérie,Mme,ENS,Ensemble ! (Majorité présidentielle)
-3372,063-02,1,PIRÈS BEAUNE,Christine,Mme,SOC,Parti socialiste
+3372,063-02,1,PIRÈS BEAUNE,Christine,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3373,063-02,2,MONNET,Karina,Mme,ENS,Ensemble ! (Majorité présidentielle)
 3374,063-02,3,LACOMBE,Marie-Paule,Mme,DVD,Divers droite
 3375,063-02,4,DUPRÉ,Isabelle,Mme,RN,Rassemblement National
@@ -3436,7 +3437,7 @@
 3436,064-03,4,CHARLOT,Christelle, Huguette, Sarah,Mme,ECO,Ecologistes
 3437,064-03,5,PEYRE,Edith,Mme,ECO,Ecologistes
 3438,064-03,6,ALBANEL,Romane,Mme,REC,Reconquête !
-3439,064-03,7,BABY,Jean-François,M.,FI,La France Insoumise
+3439,064-03,7,BABY,Jean-François,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3440,064-03,8,MISSIER,Antoine,M.,DXG,Divers extrême gauche
 3441,064-03,9,BORDENAVE,Karine,Mme,REG,Régionaliste
 3442,064-03,10,DELTEIL,Eric,M.,DXG,Divers extrême gauche
@@ -3448,7 +3449,7 @@
 3448,064-04,4,BOUCHARD,Valérie,Mme,ECO,Ecologistes
 3449,064-04,5,TROUNDAY,Annick,Mme,ENS,Ensemble ! (Majorité présidentielle)
 3450,064-04,6,DARNET,Paul,M.,ECO,Ecologistes
-3451,064-04,7,ECHANIZ,Inaki,M.,SOC,Parti socialiste
+3451,064-04,7,ECHANIZ,Inaki,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3452,064-04,8,LOPEZ,Sylviane,Mme,RN,Rassemblement National
 3453,064-04,9,RIBEIRO,Carlos,M.,DXG,Divers extrême gauche
 3454,064-05,1,BARDANOUVE,Philippe,M.,DXG,Divers extrême gauche
@@ -3511,7 +3512,7 @@
 3511,066-01,13,ADVENARD,Pascale,Mme,DXG,Divers extrême gauche
 3512,066-02,1,SABATINI,Anaïs,Mme,RN,Rassemblement National
 3513,066-02,2,RASPAUD,Alexandra,Mme,REC,Reconquête !
-3514,066-02,3,BERRUÉ,David,M.,ECO,Ecologistes
+3514,066-02,3,BERRUÉ,David,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3515,066-02,4,BRET,David,M.,LR,Les Républicains
 3516,066-02,5,BLANC,Cyril,M.,ECO,Ecologistes
 3517,066-02,6,GABARDA,David,M.,DSV,Droite souverainiste
@@ -3739,7 +3740,7 @@
 3739,069-01,10,BUGNI,Jim,M.,DXG,Divers extrême gauche
 3740,069-02,1,SIMON,Pierre,M.,REC,Reconquête !
 3741,069-02,2,PRIETO,Philippe,M.,SOC,Parti socialiste
-3742,069-02,3,JULIEN-LAFERRIERE,Hubert,M.,ECO,Ecologistes
+3742,069-02,3,JULIEN-LAFERRIERE,Hubert,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3743,069-02,4,VELICITAT,Claire,Mme,ECO,Ecologistes
 3744,069-02,5,BÖHNKE,Laurent,M.,ECO,Ecologistes
 3745,069-02,6,DRIOLI,Adrien,M.,DVG,Divers gauche
@@ -3916,7 +3917,7 @@
 3916,071-02,2,DAMIEN,Olivier,M.,RN,Rassemblement National
 3917,071-02,3,ALBERT,Laurence,Mme,REC,Reconquête !
 3918,071-02,4,VARÉLA,Chantal,Mme,DSV,Droite souverainiste
-3919,071-02,5,VINAUGER,Céline,Mme,COM,Parti communiste français
+3919,071-02,5,VINAUGER,Céline,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3920,071-02,6,SICARD,Maud,Mme,DIV,Divers
 3921,071-02,7,GAUTHIER,Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle)
 3922,071-02,8,DUSSAUGE,Pascal,M.,DXG,Divers extrême gauche
@@ -3981,7 +3982,7 @@
 3981,072-04,3,FRANCO,Emmanuel,M.,LR,Les Républicains
 3982,072-04,4,BARBET,Didier,M.,DIV,Divers
 3983,072-04,5,TOLMONT,Sylvie,Mme,SOC,Parti socialiste
-3984,072-04,6,LEBOUCHER,Elise,Mme,FI,La France Insoumise
+3984,072-04,6,LEBOUCHER,Elise,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 3985,072-04,7,NOUCHY,Thierry,M.,DXG,Divers extrême gauche
 3986,072-04,8,BOULAY,Stéphane,M.,DSV,Droite souverainiste
 3987,072-04,9,DE MALHERBE,Raymond,M.,RN,Rassemblement National
@@ -4268,7 +4269,7 @@
 4268,075-13,6,MALLET,Maïalen,Mme,DVG,Divers gauche
 4269,075-13,7,EVANGELISTA,Ornella,Mme,REC,Reconquête !
 4270,075-13,8,TRAINAR,Nadia,Mme,DVC,Divers centre
-4271,075-13,9,NIAKATÉ,Aminata,Mme,ECO,Ecologistes
+4271,075-13,9,NIAKATÉ,Aminata,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 4272,075-13,10,BOLVIN,Isabelle,Mme,RN,Rassemblement National
 4273,075-13,11,MOREL,Daniele,Mme,DVG,Divers gauche
 4274,075-13,12,AMIEL,David,M.,ENS,Ensemble ! (Majorité présidentielle)
@@ -4736,7 +4737,7 @@
 4736,080-03,10,PONSARD,Anabelle,Mme,DSV,Droite souverainiste
 4737,080-03,11,MAQUET,Emmanuel,M.,LR,Les Républicains
 4738,080-04,1,DELGOVE,Rachèle,Mme,DSV,Droite souverainiste
-4739,080-04,2,HÉREN,Elodie,Mme,ECO,Ecologistes
+4739,080-04,2,HÉREN,Elodie,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 4740,080-04,3,LECLABART,Jean-Claude,M.,ENS,Ensemble ! (Majorité présidentielle)
 4741,080-04,4,JACQUES,Vincent,M.,LR,Les Républicains
 4742,080-04,5,TANGUY,Jean-Philippe,M.,RN,Rassemblement National
@@ -5006,12 +5007,12 @@
 5006,085-05,2,HENRIET,Pierre,M.,ENS,Ensemble ! (Majorité présidentielle)
 5007,085-05,3,RUAULT,Béatrice,Mme,DXG,Divers extrême gauche
 5008,085-05,4,DEBOUT,Benjamin,M.,ECO,Ecologistes
-5009,085-05,5,THIBAUD-LALERE,Thimothée,Mme,FI,La France Insoumise
+5009,085-05,5,THIBAUD-LALERE,Thimothée,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5010,085-05,6,PERROY,Pierre,M.,DVD,Divers droite
 5011,085-05,7,DELATRE,Sandrine,Mme,REC,Reconquête !
 5012,085-05,8,LEGENTILHOMME,Jacqueline,M.,DSV,Droite souverainiste
 5013,085-05,9,MAGNIN,Isabelle,Mme,RN,Rassemblement National
-5014,085-05,10,THIBAUD,Yveline,Mme,LR,Les Républicains
+5014,085-05,10,THIBAUD,Yveline,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5015,086-01,1,GIRAUDET,Alexandre,M.,ECO,Ecologistes
 5016,086-01,2,BALLET-BLU,Françoise,Mme,ENS,Ensemble ! (Majorité présidentielle)
 5017,086-01,3,DE MASCUREAU,Marie-Aline,Mme,REC,Reconquête !
@@ -5108,7 +5109,7 @@
 5108,088-03,1,FRANÇOIS,Pierre,M.,RN,Rassemblement National
 5109,088-03,2,ERB,Anne-Caroline,Mme,REC,Reconquête !
 5110,088-03,3,VILLEMIN,Stéphanie,Mme,ENS,Ensemble ! (Majorité présidentielle)
-5111,088-03,4,PIERRAT,Béatrice,Mme,ECO,Ecologistes
+5111,088-03,4,PIERRAT,Béatrice,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5112,088-03,5,NAEGELEN,Christophe,M.,DVD,Divers droite
 5113,088-03,6,ZIRGEL,Félix,M.,REG,Régionaliste
 5114,088-03,7,BAILLY,Stéphanie,Mme,DXG,Divers extrême gauche
@@ -5265,7 +5266,7 @@
 5265,091-09,6,HIDRI,Faten,Mme,UDI,Union des Démocrates et des Indépendants
 5266,091-09,7,MERRIEN,Paul-Henri,M.,REC,Reconquête !
 5267,091-09,8,GRISAUD,Benoit,M.,DXG,Divers extrême gauche
-5268,091-09,9,BELETRECHE,Nadhera,Mme,ECO,Ecologistes
+5268,091-09,9,BELETRECHE,Nadhera,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5269,091-10,1,BELLON,Sandrine,Mme,DIV,Divers
 5270,091-10,2,DE BOISHUE,Nicolas,M.,LR,Les Républicains
 5271,091-10,3,AZZOUNI,Sabrine,Mme,REG,Régionaliste
@@ -5369,7 +5370,7 @@
 5369,092-07,12,ATTAF,Mokhtar,M.,DIV,Divers
 5370,092-07,13,MANDEREAU,Christophe,M.,ECO,Ecologistes
 5371,092-08,1,SCHNEIDER,Frédéric,M.,DIV,Divers
-5372,092-08,2,LARROQUE-COMOY,Annie,Mme,FI,La France Insoumise
+5372,092-08,2,LARROQUE-COMOY,Annie,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5373,092-08,3,LABBÉ,Laurence,Mme,ECO,Ecologistes
 5374,092-08,4,TARANNE,Chantal,Mme,REC,Reconquête !
 5375,092-08,5,PITTONI,Olivier Mario Michel,M.,DSV,Droite souverainiste
@@ -5410,7 +5411,7 @@
 5410,092-11,8,ROLLOT,Franck,M.,DXG,Divers extrême gauche
 5411,092-11,9,LÉVÊQUE,Florence,M.,REC,Reconquête !
 5412,092-11,10,BROUSSAUDIER,Dominique Chantal,Mme,ECO,Ecologistes
-5413,092-12,1,THOMAS,Marc,M.,RN,Rassemblement National
+5413,092-12,1,THOMAS,Marc,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5414,092-12,2,THOMAS,Cathy,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5415,092-12,3,BERNARD,Yann,M.,DXG,Divers extrême gauche
 5416,092-12,4,BLOT,Benoit,M.,LR,Les Républicains
@@ -5447,7 +5448,7 @@
 5447,093-01,12,EDE,Olga,Mme,DVC,Divers centre
 5448,093-01,13,BUSCH,Anne-Solenne,Mme,REC,Reconquête !
 5449,093-01,14,BRAND,Marie,Mme,RN,Rassemblement National
-5450,093-01,15,COQUEREL,Eric,M.,FI,La France Insoumise
+5450,093-01,15,COQUEREL,Eric,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5451,093-02,1,THABET,Sinaa,Mme,LR,Les Républicains
 5452,093-02,2,SOUKOUNA,Bakary,M.,DVG,Divers gauche
 5453,093-02,3,CHIKHI,Brahim,M.,DVC,Divers centre
@@ -5525,7 +5526,7 @@
 5525,093-08,2,JOLIVET,Sébastien,M.,RN,Rassemblement National
 5526,093-08,3,GUIRAUDOU,Hugo,M.,DVG,Divers gauche
 5527,093-08,4,FOURNIER,Corinne,Mme,ECO,Ecologistes
-5528,093-08,5,KELOUA HACHI,Fatiha,Mme,SOC,Parti socialiste
+5528,093-08,5,KELOUA HACHI,Fatiha,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5529,093-08,6,VALENTE,Sylvio,M.,REC,Reconquête !
 5530,093-08,7,CARVALHINHO,Geoffrey,M.,LR,Les Républicains
 5531,093-08,8,ZEIGER,Franck,M.,DSV,Droite souverainiste
@@ -5637,7 +5638,7 @@
 5637,094-05,8,BAZIN,Paul,M.,LR,Les Républicains
 5638,094-05,9,MAHAUD,Alain,M.,COM,Parti communiste français
 5639,094-05,10,LEFEVRE,Mathieu,M.,ENS,Ensemble ! (Majorité présidentielle)
-5640,094-05,11,LEGER,Julien,M.,COM,Parti communiste français
+5640,094-05,11,LEGER,Julien,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5641,094-05,12,HUGUENIN-RICHARD,Isabelle,Mme,RN,Rassemblement National
 5642,094-06,1,MASSOT,François,M.,REG,Régionaliste
 5643,094-06,2,GOUFFIER-CHA,Guillaume,M.,ENS,Ensemble ! (Majorité présidentielle)
@@ -5697,7 +5698,7 @@
 5697,094-10,8,LICHTENAUER,Christine,Mme,DXG,Divers extrême gauche
 5698,094-11,1,AIT OUALI,Zahra,Mme,REG,Régionaliste
 5699,094-11,2,MILAMON,Sarah,Mme,REC,Reconquête !
-5700,094-11,3,TAILLÉ-POLIAN,Sophie,Mme,ECO,Ecologistes
+5700,094-11,3,TAILLÉ-POLIAN,Sophie,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5701,094-11,4,BOUNEGTA,Mahrouf,M.,LR,Les Républicains
 5702,094-11,5,MWANA-KUSU,Namunayao Kahambwe Ziada,Mme,DIV,Divers
 5703,094-11,6,GUANAES NETTO,Pedro,M.,DSV,Droite souverainiste
@@ -5813,7 +5814,7 @@
 5813,095-10,2,JOSÉ,Patricia,Mme,LR,Les Républicains
 5814,095-10,3,RIGOUSTE,Sabine,Mme,DSV,Droite souverainiste
 5815,095-10,4,BELLOC,Augustin,M.,DVG,Divers gauche
-5816,095-10,5,TACHÉ,Aurélien,M.,ECO,Ecologistes
+5816,095-10,5,TACHÉ,Aurélien,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5817,095-10,6,ARRAR,Najet,Mme,DIV,Divers
 5818,095-10,7,ZIABAT,Karim,M.,DVG,Divers gauche
 5819,095-10,8,FLAUX,Christophe,M.,DXG,Divers extrême gauche
@@ -5844,7 +5845,7 @@
 5844,099-02,4,DUPONT,Bertrand,M.,LR,Les Républicains
 5845,099-02,5,VANIER,Pierre,M.,DIV,Divers
 5846,099-02,6,MARIANNE PEPIN,Thérèse,Mme,RDG,Parti radical de gauche
-5847,099-02,7,RODRIGUEZ,Christian,M.,FI,La France Insoumise
+5847,099-02,7,RODRIGUEZ,Christian,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5848,099-02,8,CAROIT,Eléonore,Mme,ENS,Ensemble ! (Majorité présidentielle)
 5849,099-02,9,LAURENCE,Tim,M.,ECO,Ecologistes
 5850,099-02,10,BIURRUN,Martin,M.,DVC,Divers centre
@@ -5931,7 +5932,7 @@
 5931,099-08,13,RIVOLET,Isabelle,Mme,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5932,099-09,1,OULKHOUIR,Mohamed,M.,DVD,Divers droite
 5933,099-09,2,MORENO,Elisabeth,Mme,ENS,Ensemble ! (Majorité présidentielle)
-5934,099-09,3,BEN CHEÏKH,Karim,M.,ECO,Ecologistes
+5934,099-09,3,BEN CHEÏKH,Karim,M.,NUPES,Nouvelle Union Populaire Écologique et Sociale
 5935,099-09,4,BRUNI,Thiaba,Mme,DVG,Divers gauche
 5936,099-09,5,ZOUON,Camille,M.,DIV,Divers
 5937,099-09,6,SAGNA SOW,Fatou,Mme,DVC,Divers centre
