@@ -6,7 +6,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 001,Ain,001-01,5,Michael,MENDES,homme,DSV,Droite souverainiste,false
 001,Ain,001-01,6,Julien,BELLON,homme,REC,Reconquête !,false
 001,Ain,001-01,7,Eliane,ARMENJON,femme,ECO,Ecologistes,false
-001,Ain,001-01,8,Sébastien,GUÉRAUD,homme,SOC,Parti socialiste,false
+001,Ain,001-01,8,Sébastien,GUÉRAUD,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 001,Ain,001-02,1,Lumir,LAPRAY,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 001,Ain,001-02,2,Romain,DAUBIÉ,homme,ENS,Ensemble ! (Majorité présidentielle),false
 001,Ain,001-02,3,Vincent,GOUTAGNY,homme,DXG,Divers extrême gauche,false
@@ -274,7 +274,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 007,Ardèche,007-01,1,Severine,GINEYS,femme,ENS,Ensemble ! (Majorité présidentielle),false
 007,Ardèche,007-01,2,Marie Élisabeth,FLACH,femme,REC,Reconquête !,false
 007,Ardèche,007-01,3,Erick,LE LOHER,homme,DSV,Droite souverainiste,false
-007,Ardèche,007-01,4,Hervé,SAULIGNAC,homme,SOC,Parti socialiste,true
+007,Ardèche,007-01,4,Hervé,SAULIGNAC,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,true
 007,Ardèche,007-01,5,Boris,TZAPRENKO,homme,ECO,Ecologistes,false
 007,Ardèche,007-01,6,Muriel,VANDER DONCKT,femme,DXG,Divers extrême gauche,false
 007,Ardèche,007-01,7,Michel,VALLA,homme,DVD,Divers droite,false
@@ -633,7 +633,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 013,Bouches-du-Rhône,013-16,1,Emmanuel,TACHE DE LA PAGERIE,homme,RN,Rassemblement National,false
 013,Bouches-du-Rhône,013-16,2,Cédric,CESARI,homme,ECO,Ecologistes,false
 013,Bouches-du-Rhône,013-16,3,Jean-Guillaume,REMISE,homme,REC,Reconquête !,false
-013,Bouches-du-Rhône,013-16,4,Christophe,CAILLAULT,homme,SOC,Parti socialiste,false
+013,Bouches-du-Rhône,013-16,4,Christophe,CAILLAULT,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 013,Bouches-du-Rhône,013-16,5,Guy,DUBOST,homme,DXG,Divers extrême gauche,false
 013,Bouches-du-Rhône,013-16,6,Mariana,CAILLAUD,femme,ENS,Ensemble ! (Majorité présidentielle),false
 013,Bouches-du-Rhône,013-16,7,Jean-Baptiste,MELONI,homme,DIV,Divers,false
@@ -737,7 +737,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 016,Charente,016-03,1,Patrick,CURGALI,homme,DXG,Divers extrême gauche,false
 016,Charente,016-03,2,Sylvie,MOCOEUR,femme,ENS,Ensemble ! (Majorité présidentielle),false
 016,Charente,016-03,3,Jérôme,LAMBERT,homme,DVG,Divers gauche,true
-016,Charente,016-03,4,Marie-Pierre,NOËL,femme,SOC,Parti socialiste,false
+016,Charente,016-03,4,Marie-Pierre,NOËL,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 016,Charente,016-03,5,Nathalie,ALLONCLE,femme,DSV,Droite souverainiste,false
 016,Charente,016-03,6,Pierre Henri,GUIGNARD,homme,LR,Les Républicains,false
 016,Charente,016-03,7,Laurent,FOUILLET,homme,DIV,Divers,false
@@ -804,7 +804,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 017,Charente-Maritime,017-05,9,Christophe,PLASSARD,homme,ENS,Ensemble ! (Majorité présidentielle),false
 017,Charente-Maritime,017-05,10,Séverine,WERBROUCK,femme,RN,Rassemblement National,false
 018,Cher,018-01,1,Julie,APRICENA,femme,RN,Rassemblement National,false
-018,Cher,018-01,2,Alex,CHARPENTIER,homme,DVG,Divers gauche,false
+018,Cher,018-01,2,Alex,CHARPENTIER,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 018,Cher,018-01,3,David,DALLOIS,homme,LR,Les Républicains,false
 018,Cher,018-01,4,Sylvie,CERVEAU,femme,DXG,Divers extrême gauche,false
 018,Cher,018-01,5,Karine,BÉRINGER,femme,DSV,Droite souverainiste,false
@@ -882,7 +882,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 02B,Haute-Corse,02B-01,7,Olivier,JOSUÉ,homme,DXG,Divers extrême gauche,false
 02B,Haute-Corse,02B-01,8,Michel,STAELENS,homme,ECO,Ecologistes,false
 02B,Haute-Corse,02B-01,9,Alexis,FERNANDEZ,homme,RN,Rassemblement National,false
-02B,Haute-Corse,02B-01,10,Michel,STEFANI,homme,COM,Parti communiste français,false
+02B,Haute-Corse,02B-01,10,Michel,STEFANI,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 02B,Haute-Corse,02B-01,11,Christine,CETTOUR-LEONI,femme,DSV,Droite souverainiste,false
 02B,Haute-Corse,02B-01,12,Petru Antone,TOMASI,homme,REG,Régionaliste,false
 02B,Haute-Corse,02B-02,1,Jean-Félix,ACQUAVIVA,homme,REG,Régionaliste,true
@@ -976,7 +976,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 022,Côtes-d'Armor,022-03,3,Marie-Thérèse,LEFEUVRE,femme,DSV,Droite souverainiste,false
 022,Côtes-d'Armor,022-03,4,Florence,NIVET,femme,ECO,Ecologistes,false
 022,Côtes-d'Armor,022-03,5,Marie-Pierre,LECAT,femme,REC,Reconquête !,false
-022,Côtes-d'Armor,022-03,6,Antoine,RAVARD,homme,SOC,Parti socialiste,false
+022,Côtes-d'Armor,022-03,6,Antoine,RAVARD,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 022,Côtes-d'Armor,022-03,7,Marc,LE FUR,homme,LR,Les Républicains,true
 022,Côtes-d'Armor,022-03,8,Bryan,TYLI,homme,REG,Régionaliste,false
 022,Côtes-d'Armor,022-03,9,Jean-Pierre,LAMOUR,homme,DXG,Divers extrême gauche,false
@@ -1489,7 +1489,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 031,Haute-Garonne,031-07,10,Sophie,ETCHEVERRY,femme,DIV,Divers,false
 031,Haute-Garonne,031-07,11,Angelique,EYMOND,femme,DVD,Divers droite,false
 031,Haute-Garonne,031-07,12,Christophe,BANCHERIT,homme,LR,Les Républicains,false
-031,Haute-Garonne,031-08,1,Joël,AVIRAGNET,homme,SOC,Parti socialiste,true
+031,Haute-Garonne,031-08,1,Joël,AVIRAGNET,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,true
 031,Haute-Garonne,031-08,2,Annabelle,FAUVERNIER,femme,DVG,Divers gauche,false
 031,Haute-Garonne,031-08,3,Martine,GUIRAUD,femme,DXG,Divers extrême gauche,false
 031,Haute-Garonne,031-08,4,Céline,LAURENTIES-BARRERE,femme,ENS,Ensemble ! (Majorité présidentielle),false
@@ -1548,7 +1548,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 032,Gers,032-02,11,Merima,HUSEINBASIC,femme,ECO,Ecologistes,false
 032,Gers,032-02,12,Françoise,DUBOS,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 032,Gers,032-02,13,Samira,TOUATI,femme,DVG,Divers gauche,false
-032,Gers,032-02,14,David,TAUPIAC,homme,RDG,Parti radical de gauche,false
+032,Gers,032-02,14,David,TAUPIAC,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 033,Gironde,033-01,1,Esther,DUFAURE,femme,ECO,Ecologistes,false
 033,Gironde,033-01,2,Xavier,LOUSTAUNAU,homme,DVD,Divers droite,false
 033,Gironde,033-01,3,Isabelle,LARROQUET,femme,DXG,Divers extrême gauche,false
@@ -2529,7 +2529,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 049,Maine-et-Loire,049-07,1,Régis,CRESPIN,homme,DSV,Droite souverainiste,false
 049,Maine-et-Loire,049-07,2,Abderrazak,GUERBAA,homme,ECO,Ecologistes,false
 049,Maine-et-Loire,049-07,3,Philippe,BOLO,homme,ENS,Ensemble ! (Majorité présidentielle),true
-049,Maine-et-Loire,049-07,4,Guillaume,JOUANNEAU,homme,SOC,Parti socialiste,false
+049,Maine-et-Loire,049-07,4,Guillaume,JOUANNEAU,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 049,Maine-et-Loire,049-07,5,Aurore,LAHONDÈS,femme,RN,Rassemblement National,false
 049,Maine-et-Loire,049-07,6,Stéphane,TROTTIER,homme,DVD,Divers droite,false
 049,Maine-et-Loire,049-07,7,Céline,L'HUILLIER,femme,DXG,Divers extrême gauche,false
@@ -2726,7 +2726,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 054,Meurthe-et-Moselle,054-06,10,Jonathan,RICHIER,homme,LR,Les Républicains,false
 055,Meuse,055-01,1,Bertrand,PANCHER,homme,DVD,Divers droite,true
 055,Meuse,055-01,2,Sandrine,RAFFNER KIEFER,femme,ENS,Ensemble ! (Majorité présidentielle),false
-055,Meuse,055-01,3,Olivier,GUCKERT,homme,SOC,Parti socialiste,false
+055,Meuse,055-01,3,Olivier,GUCKERT,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 055,Meuse,055-01,4,Bruno,CAILLE,homme,REG,Régionaliste,false
 055,Meuse,055-01,5,Melika,BENSAID,femme,REG,Régionaliste,false
 055,Meuse,055-01,6,Sylvie,MARIAGE,femme,DSV,Droite souverainiste,false
@@ -2752,7 +2752,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 056,Morbihan,056-01,4,Lydia Veronique Caroline,LE BARZ,femme,RN,Rassemblement National,false
 056,Morbihan,056-01,5,Marc,PESCHANSKI,homme,DXG,Divers extrême gauche,false
 056,Morbihan,056-01,6,Franck,CHEVREL,homme,REC,Reconquête !,false
-056,Morbihan,056-01,7,Luc,FOUCAULT,homme,SOC,Parti socialiste,false
+056,Morbihan,056-01,7,Luc,FOUCAULT,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 056,Morbihan,056-01,8,Paul,ROBEL,homme,DXG,Divers extrême gauche,false
 056,Morbihan,056-01,9,Yann,LE BARAILLEC,homme,DVG,Divers gauche,false
 056,Morbihan,056-01,10,Jean-Jacques,PAGE,homme,REG,Régionaliste,false
@@ -2954,7 +2954,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 059,Nord,059-02,10,Ugo,BERNALICIS,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,true
 059,Nord,059-03,1,Sophie,VILLETTE,femme,SOC,Parti socialiste,false
 059,Nord,059-03,2,Marc,DEHONDT,homme,ECO,Ecologistes,false
-059,Nord,059-03,3,Benjamin,SAINT-HUILE,homme,DVG,Divers gauche,false
+059,Nord,059-03,3,Benjamin,SAINT-HUILE,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 059,Nord,059-03,4,Jessica,WATTIEZ,femme,REC,Reconquête !,false
 059,Nord,059-03,5,Marie-Claude,RONDEAUX,femme,DXG,Divers extrême gauche,false
 059,Nord,059-03,6,Nicolas,LEBLANC,homme,LR,Les Républicains,false
@@ -3192,7 +3192,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 060,Oise,060-06,6,Michel,GUINIOT,homme,RN,Rassemblement National,false
 060,Oise,060-06,7,Jean-Marc,ISKIN,homme,DXG,Divers extrême gauche,false
 060,Oise,060-06,8,Carole,BUREAU-BONNARD,femme,ENS,Ensemble ! (Majorité présidentielle),true
-060,Oise,060-06,9,Florian,DUMOULIN,homme,SOC,Parti socialiste,false
+060,Oise,060-06,9,Florian,DUMOULIN,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 060,Oise,060-06,10,Marc-Antoine,MAB-BREKIESZ,homme,DVD,Divers droite,false
 060,Oise,060-07,1,Florence,ITALIANI,femme,REC,Reconquête !,false
 060,Oise,060-07,2,Agnès,BOILLET,femme,ECO,Ecologistes,false
@@ -4618,7 +4618,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 078,Yvelines,078-07,4,Christèle,DIDIERJEAN,femme,REC,Reconquête !,false
 078,Yvelines,078-07,5,Christiane,JOMBART,femme,REC,Reconquête !,false
 078,Yvelines,078-07,6,Emmanuelle,FORTIN,femme,RN,Rassemblement National,false
-078,Yvelines,078-07,7,Michèle,CHRISTOPHOUL,femme,SOC,Parti socialiste,false
+078,Yvelines,078-07,7,Michèle,CHRISTOPHOUL,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 078,Yvelines,078-07,8,Rithe,KATUSEVANAKO,femme,DSV,Droite souverainiste,false
 078,Yvelines,078-07,9,Laurent,BROSSE,homme,DVD,Divers droite,false
 078,Yvelines,078-07,10,Ali,KAYA,homme,DXG,Divers extrême gauche,false
@@ -5053,7 +5053,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 086,Vienne,086-04,5,Patrick,GUICHARD,homme,DSV,Droite souverainiste,false
 086,Vienne,086-04,6,Patrice,VILLERET,homme,DXG,Divers extrême gauche,false
 086,Vienne,086-04,7,Marion,LATUS,femme,RN,Rassemblement National,false
-086,Vienne,086-04,8,Flavien,CARTIER,homme,SOC,Parti socialiste,false
+086,Vienne,086-04,8,Flavien,CARTIER,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 086,Vienne,086-04,9,Alain,VERDIN,homme,REC,Reconquête !,false
 087,Haute-Vienne,087-01,1,Stéphanie,TAMBO,femme,DVD,Divers droite,false
 087,Haute-Vienne,087-01,2,Fabienne,MARQUET,femme,REC,Reconquête !,false
@@ -5411,7 +5411,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 092,Hauts-de-Seine,092-11,9,Florence,LÉVÊQUE,homme,REC,Reconquête !,false
 092,Hauts-de-Seine,092-11,10,Dominique Chantal,BROUSSAUDIER,femme,ECO,Ecologistes,false
 092,Hauts-de-Seine,092-12,1,Marc,THOMAS,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
-092,Hauts-de-Seine,092-12,2,Cathy,THOMAS,femme,FI,La France Insoumise,false
+092,Hauts-de-Seine,092-12,2,Cathy,THOMAS,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 092,Hauts-de-Seine,092-12,3,Yann,BERNARD,homme,DXG,Divers extrême gauche,false
 092,Hauts-de-Seine,092-12,4,Benoit,BLOT,homme,LR,Les Républicains,false
 092,Hauts-de-Seine,092-12,5,Florent,NOBLET,homme,REC,Reconquête !,false
@@ -5430,7 +5430,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 092,Hauts-de-Seine,092-13,6,Julien,GAUTRELET,homme,RDG,Parti radical de gauche,false
 092,Hauts-de-Seine,092-13,7,Philippe,LAURENT,homme,UDI,Union des Démocrates et des Indépendants,false
 092,Hauts-de-Seine,092-13,8,Patrick,YVARS,homme,RN,Rassemblement National,false
-092,Hauts-de-Seine,092-13,9,Brice,GAILLARD,homme,SOC,Parti socialiste,false
+092,Hauts-de-Seine,092-13,9,Brice,GAILLARD,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 092,Hauts-de-Seine,092-13,10,Alexis,TOYANE,homme,DIV,Divers,false
 092,Hauts-de-Seine,092-13,11,Thibault,SIMONIN,homme,REC,Reconquête !,false
 093,Seine-Saint-Denis,093-01,1,Madioula,AÏDARA DIABY,femme,DVG,Divers gauche,false
@@ -5985,7 +5985,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 971,Guadeloupe,971-01,8,Francillonne,JACOBY-KOALY,homme,DVG,Divers gauche,false
 971,Guadeloupe,971-01,9,Christian,CIVILISE,homme,ECO,Ecologistes,false
 971,Guadeloupe,971-01,10,Eric,JEAN-PHILIPPE,homme,DIV,Divers,false
-971,Guadeloupe,971-01,11,Nadège,MONTOUT,femme,FI,La France Insoumise,false
+971,Guadeloupe,971-01,11,Nadège,MONTOUT,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 971,Guadeloupe,971-01,12,Marie,SMITE,femme,UDI,Union des Démocrates et des Indépendants,false
 971,Guadeloupe,971-02,1,Dun,FERUS,homme,LR,Les Républicains,false
 971,Guadeloupe,971-02,2,Sonia,RETOUR,femme,UDI,Union des Démocrates et des Indépendants,false
@@ -5997,7 +5997,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 971,Guadeloupe,971-02,8,Michel,GIRDARY-RAMSSAMY,homme,RN,Rassemblement National,false
 971,Guadeloupe,971-02,9,Nancy,MATHIAS,femme,DVD,Divers droite,false
 971,Guadeloupe,971-02,10,Paola,PLANTIER,femme,REC,Reconquête !,false
-971,Guadeloupe,971-02,11,Christian,BAPTISTE,homme,DVG,Divers gauche,false
+971,Guadeloupe,971-02,11,Christian,BAPTISTE,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 971,Guadeloupe,971-02,12,Aline,CERIL,femme,DXG,Divers extrême gauche,false
 971,Guadeloupe,971-02,13,Gérald,BOUGRER,homme,DIV,Divers,false
 971,Guadeloupe,971-02,14,Steeve,ROUYAR-CIREDERF,homme,DIV,Divers,false
@@ -6015,7 +6015,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 971,Guadeloupe,971-03,11,Delphine,PIERQUIN,femme,LR,Les Républicains,false
 971,Guadeloupe,971-03,12,José,TORIBIO,homme,DVG,Divers gauche,false
 971,Guadeloupe,971-03,13,Grégory,CABRION,homme,DIV,Divers,false
-971,Guadeloupe,971-03,14,Sylvie,CHAMMOUGON ANNO,femme,SOC,Parti socialiste,false
+971,Guadeloupe,971-03,14,Sylvie,CHAMMOUGON ANNO,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 971,Guadeloupe,971-03,15,Fabrice,LUCE,homme,DVC,Divers centre,false
 971,Guadeloupe,971-03,16,Max,MATHIASIN,homme,DVC,Divers centre,true
 971,Guadeloupe,971-03,17,Prévert,MAYENGO,homme,REC,Reconquête !,false
@@ -6033,14 +6033,14 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 971,Guadeloupe,971-04,9,Alain,AVRIL,homme,ECO,Ecologistes,false
 971,Guadeloupe,971-04,10,Yanetti,PAISLEY,femme,FI,La France Insoumise,false
 971,Guadeloupe,971-04,11,Christine,HOUBLON,femme,ENS,Ensemble ! (Majorité présidentielle),false
-971,Guadeloupe,971-04,12,Elie,CALIFER,homme,SOC,Parti socialiste,false
+971,Guadeloupe,971-04,12,Elie,CALIFER,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 972,Martinique,972-01,1,Jonathan,TABAR,homme,DVD,Divers droite,false
 972,Martinique,972-01,2,Erick,VALERE,homme,DVG,Divers gauche,false
 972,Martinique,972-01,3,Fred,SAMOT,homme,DVG,Divers gauche,false
 972,Martinique,972-01,4,Joëlle,GODARD,femme,UDI,Union des Démocrates et des Indépendants,false
 972,Martinique,972-01,5,Philippe,JEAN-MARIE-ALPHONSINE,homme,DVG,Divers gauche,false
 972,Martinique,972-01,6,Philippe,EDMOND-MARIETTE,homme,REG,Régionaliste,false
-972,Martinique,972-01,7,Béatrice,BELLAY,femme,SOC,Parti socialiste,false
+972,Martinique,972-01,7,Béatrice,BELLAY,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 972,Martinique,972-01,8,Jean-Pierre,PUISARD,homme,REG,Régionaliste,false
 972,Martinique,972-01,9,Ludovic,ROMAIN,homme,DVG,Divers gauche,false
 972,Martinique,972-01,10,Edryan,RANGOLY,homme,REC,Reconquête !,false
@@ -6071,7 +6071,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 972,Martinique,972-03,7,Marie-Jeanne Françoise,JEANVILLE,femme,REC,Reconquête !,false
 972,Martinique,972-03,8,Audrey Arielle,GIRAUD,femme,ENS,Ensemble ! (Majorité présidentielle),false
 972,Martinique,972-03,9,Jean-Michel,JEAN-BAPTISTE,homme,DVG,Divers gauche,false
-972,Martinique,972-03,10,Thierry,RENARD,homme,FI,La France Insoumise,false
+972,Martinique,972-03,10,Thierry,RENARD,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 972,Martinique,972-03,11,Joël,BARDET,homme,REG,Régionaliste,false
 972,Martinique,972-03,12,Johnny,HAJJAR,homme,DVG,Divers gauche,false
 972,Martinique,972-03,13,Noël,NEMOUTHE,homme,REG,Régionaliste,false
@@ -6085,7 +6085,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 972,Martinique,972-04,8,Philippe,PETIT,homme,UDI,Union des Démocrates et des Indépendants,false
 972,Martinique,972-04,9,Nicolas,OCCOLIER,homme,RN,Rassemblement National,false
 972,Martinique,972-04,10,Célia,SAINTE-ROSE,femme,REC,Reconquête !,false
-972,Martinique,972-04,11,Jean-Philippe,NILOR,homme,REG,Régionaliste,true
+972,Martinique,972-04,11,Jean-Philippe,NILOR,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,true
 972,Martinique,972-04,12,Mélanie,SULIO,femme,DXG,Divers extrême gauche,false
 972,Martinique,972-04,13,Jean-Marc,LUSBEC,homme,LR,Les Républicains,false
 972,Martinique,972-04,14,Alfred,MARIE-JEANNE,homme,REG,Régionaliste,false
@@ -6093,7 +6093,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 973,Guyane,973-01,2,Thibault,LECHAT-VEGA,homme,DVG,Divers gauche,false
 973,Guyane,973-01,3,Yvane,GOUA,femme,REG,Régionaliste,false
 973,Guyane,973-01,4,Yari,CONTOUT,homme,DVG,Divers gauche,false
-973,Guyane,973-01,5,Line,LETARD,femme,REG,Régionaliste,false
+973,Guyane,973-01,5,Line,LETARD,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 973,Guyane,973-01,6,Emmanuel,FELISSAINT,homme,DVG,Divers gauche,false
 973,Guyane,973-01,7,Rolande,CHALCO-LEFAY,femme,DVG,Divers gauche,false
 973,Guyane,973-01,8,Joëlle,PREVOT-MADERE,femme,DVD,Divers droite,false
@@ -6110,7 +6110,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 973,Guyane,973-02,1,Wender,KARAM,homme,SOC,Parti socialiste,false
 973,Guyane,973-02,2,Gillermo,JOJE,homme,DVG,Divers gauche,false
 973,Guyane,973-02,3,Virgine,THOMAS,femme,RN,Rassemblement National,false
-973,Guyane,973-02,4,Davy,RIMANE,homme,DVG,Divers gauche,false
+973,Guyane,973-02,4,Davy,RIMANE,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 973,Guyane,973-02,5,Christophe Yanuwana,PIERRE,homme,REG,Régionaliste,false
 973,Guyane,973-02,6,Lénaïck,ADAM,homme,ENS,Ensemble ! (Majorité présidentielle),true
 973,Guyane,973-02,7,Manuel Victor,JEAN-BAPTISTE,homme,REG,Régionaliste,false
@@ -6128,7 +6128,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 974,La Réunion,974-01,10,Farid,MANGROLIA,homme,DVC,Divers centre,false
 974,La Réunion,974-01,11,Eric,MAGAMOOTOO,homme,DVC,Divers centre,false
 974,La Réunion,974-01,12,Jean Jacques,MOREL,homme,DVD,Divers droite,false
-974,La Réunion,974-01,13,Philippe,NAILLET,homme,SOC,Parti socialiste,true
+974,La Réunion,974-01,13,Philippe,NAILLET,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,true
 974,La Réunion,974-01,14,Ludovic,SAUTRON,homme,ECO,Ecologistes,false
 974,La Réunion,974-01,15,Hary,GRONDIN,homme,DVC,Divers centre,false
 974,La Réunion,974-01,16,Georges,MITHRA,homme,DVG,Divers gauche,false
@@ -6137,7 +6137,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 974,La Réunion,974-02,2,Virginie,PERON,femme,REG,Régionaliste,false
 974,La Réunion,974-02,3,Karine,INFANTE,femme,REG,Régionaliste,false
 974,La Réunion,974-02,4,Stéphane,CHEN-TZU-KUONG,homme,REC,Reconquête !,false
-974,La Réunion,974-02,5,Karine,LEBON,femme,DVG,Divers gauche,true
+974,La Réunion,974-02,5,Karine,LEBON,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,true
 974,La Réunion,974-02,6,Nicolas,LEGENTIL,homme,DXG,Divers extrême gauche,false
 974,La Réunion,974-02,7,Michelle,GRAJA,femme,RN,Rassemblement National,false
 974,La Réunion,974-02,8,Véronique,FERRIER,femme,DVD,Divers droite,false
@@ -6157,7 +6157,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 974,La Réunion,974-03,8,Antoine,FONTAINE,homme,DVG,Divers gauche,false
 974,La Réunion,974-03,9,Yves,THEBAULT,homme,DXG,Divers extrême gauche,false
 974,La Réunion,974-03,10,Didier,TÉCHER,homme,DVC,Divers centre,false
-974,La Réunion,974-03,11,Alexis,CHAUSSALET,homme,FI,La France Insoumise,false
+974,La Réunion,974-03,11,Alexis,CHAUSSALET,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 974,La Réunion,974-03,12,Patrice,THIEN-AH-KOON,homme,DVD,Divers droite,false
 974,La Réunion,974-03,13,Jean Jacques,VLODY,homme,SOC,Parti socialiste,false
 974,La Réunion,974-04,1,Ruth,DIJOUX,femme,ECO,Ecologistes,false
@@ -6177,12 +6177,12 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 974,La Réunion,974-05,4,David,GAUVIN,homme,COM,Parti communiste français,false
 974,La Réunion,974-05,5,Jean-Yves,PAYET,homme,DXG,Divers extrême gauche,false
 974,La Réunion,974-05,6,Martine,DIJOUX,femme,DSV,Droite souverainiste,false
-974,La Réunion,974-05,7,Jean-Hugues,RATENON,homme,FI,La France Insoumise,true
+974,La Réunion,974-05,7,Jean-Hugues,RATENON,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,true
 974,La Réunion,974-05,8,Stéphane,FOUASSIN,homme,UDI,Union des Démocrates et des Indépendants,false
 974,La Réunion,974-05,9,Marie-Luce,BRASIER-CLAIN,femme,RN,Rassemblement National,false
 974,La Réunion,974-06,1,Johny,ADEKALOM,homme,DVC,Divers centre,false
 974,La Réunion,974-06,2,Ophélie,CLAIN,femme,DSV,Droite souverainiste,false
-974,La Réunion,974-06,3,Monique,ORPHÉ,femme,SOC,Parti socialiste,false
+974,La Réunion,974-06,3,Monique,ORPHÉ,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 974,La Réunion,974-06,4,Valérie,LEGROS,femme,RN,Rassemblement National,false
 974,La Réunion,974-06,5,Philippe,DE CHAZOURNES,homme,DXG,Divers extrême gauche,false
 974,La Réunion,974-06,6,Eric,LEUNG,homme,ENS,Ensemble ! (Majorité présidentielle),false
@@ -6205,15 +6205,15 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 974,La Réunion,974-07,10,François,VALEAMA,homme,COM,Parti communiste français,false
 974,La Réunion,974-07,11,Isaline,TRONC,femme,DVG,Divers gauche,false
 974,La Réunion,974-07,12,Jérôme,BACHOU,homme,ENS,Ensemble ! (Majorité présidentielle),false
-974,La Réunion,974-07,13,Perceval,GAILLARD,homme,DVG,Divers gauche,false
+974,La Réunion,974-07,13,Perceval,GAILLARD,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 974,La Réunion,974-07,14,Jean Luc,PAYET,homme,DXG,Divers extrême gauche,false
 974,La Réunion,974-07,15,Johan,GUILLOU,homme,DVG,Divers gauche,false
 975,Saint-Pierre-et-Miquelon,975-01,1,Dominica,MICHEL,femme,DIV,Divers,false
 975,Saint-Pierre-et-Miquelon,975-01,2,Patrick,LEBAILLY,homme,DVG,Divers gauche,false
-975,Saint-Pierre-et-Miquelon,975-01,3,Olivier,GASTON,homme,FI,La France Insoumise,false
+975,Saint-Pierre-et-Miquelon,975-01,3,Olivier,GASTON,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 975,Saint-Pierre-et-Miquelon,975-01,4,Stéphane,LENORMAND,homme,DVD,Divers droite,false
 976,Mayotte,976-01,1,Mohamed,MOINDJIE,homme,DVC,Divers centre,false
-976,Mayotte,976-01,2,Yasmina,AOUNY,femme,DVG,Divers gauche,false
+976,Mayotte,976-01,2,Yasmina,AOUNY,femme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 976,Mayotte,976-01,3,Théophane,NARAYANIN,homme,DIV,Divers,false
 976,Mayotte,976-01,4,Elad,CHAKRINA,homme,DVD,Divers droite,false
 976,Mayotte,976-01,5,Ismaila,DJAZA,homme,DIV,Divers,false
@@ -6224,7 +6224,7 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 976,Mayotte,976-01,10,Estelle,YOUSSOUFFA,femme,DIV,Divers,false
 976,Mayotte,976-02,1,Soula,SAID-SOUFFOU,homme,DVC,Divers centre,false
 976,Mayotte,976-02,2,Toumbou,MAURICE,homme,DVD,Divers droite,false
-976,Mayotte,976-02,3,Ali,DJAROUDI,homme,DVG,Divers gauche,false
+976,Mayotte,976-02,3,Ali,DJAROUDI,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 976,Mayotte,976-02,4,Saidali,HAMISSI,homme,RN,Rassemblement National,false
 976,Mayotte,976-02,5,Issa,ISSA ABDOU,homme,DVC,Divers centre,false
 976,Mayotte,976-02,6,Mansour,KAMARDINE,homme,LR,Les Républicains,true
@@ -6260,13 +6260,13 @@ dep,nom_dep,code_circo,numero,prenom,nom,sexe,code_nuance,nuance,sortante
 987,Polynésie française,987-02,2,Jonathan,TARIHAA,homme,DVD,Divers droite,false
 987,Polynésie française,987-02,3,Charles,ATGER,homme,RN,Rassemblement National,false
 987,Polynésie française,987-02,4,Nicole,SANQUER,femme,DVD,Divers droite,true
-987,Polynésie française,987-02,5,Steve,CHAILLOUX,homme,REG,Régionaliste,false
+987,Polynésie française,987-02,5,Steve,CHAILLOUX,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,false
 987,Polynésie française,987-02,6,Sandra,MANUTAHI LEVY-AGAMI,femme,REG,Régionaliste,false
 987,Polynésie française,987-02,7,Tati,SALMON,homme,ECO,Ecologistes,false
 987,Polynésie française,987-02,8,Paméla,OTCENASEK,femme,REG,Régionaliste,false
 987,Polynésie française,987-02,9,Paul,BONTOUR,homme,DXG,Divers extrême gauche,false
 987,Polynésie française,987-02,10,Tepuaraurii,TERIITAHI,femme,ENS,Ensemble ! (Majorité présidentielle),false
-987,Polynésie française,987-03,1,Moetai,BROTHERSON,homme,REG,Régionaliste,true
+987,Polynésie française,987-03,1,Moetai,BROTHERSON,homme,NUPES,Nouvelle Union Populaire Écologique et Sociale,true
 987,Polynésie française,987-03,2,Gilles,TAUTU,homme,REG,Régionaliste,false
 987,Polynésie française,987-03,3,John,TEFAN,homme,REG,Régionaliste,false
 987,Polynésie française,987-03,4,Bernard Heifara,TERIITAHI,homme,REG,Régionaliste,false
