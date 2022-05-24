@@ -1588,7 +1588,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 1587,033-03,11,DAUREL,François,M.,DXG,Divers extrême gauche
 1588,033-03,12,VAY,Thierry,M.,ECO,Ecologistes
 1589,033-04,1,FILLANG,Jean Patrice,M.,DVD,Divers droite
-1590,033-04,2,MATHIEU,Marie-Mauricette, Simone,Mme,DSV,Droite souverainiste
+1590,033-04,2,MATHIEU,Marie-Mauricette Simone,Mme,DSV,Droite souverainiste
 1591,033-04,3,GAILLARD,Christine,Mme,DVD,Divers droite
 1592,033-04,4,DESTANDAU,Ambre,Mme,ECO,Ecologistes
 1593,033-04,5,DAVID,Alain,M.,SOC,Parti socialiste
@@ -1663,7 +1663,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 1662,033-10,2,BOUDIÉ,Florent,M.,ENS,Ensemble ! (Majorité présidentielle)
 1663,033-10,3,BOURGOIS,Pascal,M.,ECO,Ecologistes
 1664,033-10,4,FLEURY,Catherine,Mme,DSV,Droite souverainiste
-1665,033-10,5,PLANTON,Veronique, Raymond,Mme,RDG,Parti radical de gauche
+1665,033-10,5,PLANTON,Veronique Raymond,Mme,RDG,Parti radical de gauche
 1666,033-10,6,BERNARD,Muriel,Mme,DVG,Divers gauche
 1667,033-10,7,MALHERBE,Gonzague,M.,REC,Reconquête !
 1668,033-10,8,GUILBERT,Amélie,Mme,ECO,Ecologistes
@@ -3434,7 +3434,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 3433,064-03,1,HABIB,David,M.,DVG,Divers gauche
 3434,064-03,2,COSTEDOAT-DIU,Fabienne,Mme,LR,Les Républicains
 3435,064-03,3,LE ROUX,Françoise,Mme,DSV,Droite souverainiste
-3436,064-03,4,CHARLOT,Christelle, Huguette, Sarah,Mme,ECO,Ecologistes
+3436,064-03,4,CHARLOT,Christelle Huguette Sarah,Mme,ECO,Ecologistes
 3437,064-03,5,PEYRE,Edith,Mme,ECO,Ecologistes
 3438,064-03,6,ALBANEL,Romane,Mme,REC,Reconquête !
 3439,064-03,7,BABY,Jean-François,M.,FI,La France Insoumise
@@ -5981,7 +5981,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 5980,971-01,3,ANGOL,Henri,M.,DIV,Divers
 5981,971-01,4,NABAJOTH,Alix,M.,DVG,Divers gauche
 5982,971-01,5,FARO,Rudy,M.,DIV,Divers
-5983,971-01,6,FABULAS,Thierry, Lucien,M.,RN,Rassemblement National
+5983,971-01,6,FABULAS,Thierry Lucien,M.,RN,Rassemblement National
 5984,971-01,7,BIRAS,Dominique,M.,DVG,Divers gauche
 5985,971-01,8,JACOBY-KOALY,Francillonne,M.,DVG,Divers gauche
 5986,971-01,9,CIVILISE,Christian,M.,ECO,Ecologistes
@@ -6022,7 +6022,7 @@ id,circonscription,numPanneau,nom,prenom,civilite,codeNuance,libelleNuance
 6021,971-03,17,MAYENGO,Prévert,M.,REC,Reconquête !
 6022,971-03,18,ARGIS,René-Claude,M.,DIV,Divers
 6023,971-03,19,EDINVAL,Gilbert,M.,DIV,Divers
-6024,971-03,20,CONFIAC,Paul, Eric,M.,DVG,Divers gauche
+6024,971-03,20,CONFIAC,Paul Eric,M.,DVG,Divers gauche
 6025,971-04,1,PARAN,Martin Germain,M.,DXD,Divers extrême droite
 6026,971-04,2,CIVIS,Marguerite,Mme,DVG,Divers gauche
 6027,971-04,3,COUDRET,Jordan,M.,DXG,Divers extrême gauche
